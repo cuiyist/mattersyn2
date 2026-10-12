@@ -1,12 +1,12 @@
 # Storage cleanup, October 12, 2026
 
-Updated: 2026-10-12T19:37:10.120049+00:00. Cleanup is **in progress**.
+Updated: 2026-10-12T19:47:28.610493+00:00. Cleanup is **in progress**.
 
 The requested target is at least 600 GB removed from the local MatterSyn folder. The fresh scans observed about 845 GB outside the main paper-collection folders; these are logical file sizes and do not establish that all of it is removable.
 
-Completed target receipts currently confirm **148,430,470,703 logical bytes (148.43 GB)** and **2,732,146 files** removed since this request. Earlier cleanup events are excluded. A target still being processed is credited only after its result is saved.
+Completed target receipts currently confirm **150,928,046,353 logical bytes (150.93 GB)** and **2,801,647 files** removed since this request. Earlier cleanup events are excluded. A target still being processed is credited only after its result is saved.
 
-C: free space at this update: 105,734,541,312 bytes. Free-space changes also reflect concurrent website staging and other disk activity.
+C: free space at this update: 107,798,958,080 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
 
 | Scope | Finished targets | Removed files | Removed bytes | Receipt SHA256 |
 |---|---:|---:|---:|---|
@@ -15,7 +15,7 @@ C: free space at this update: 105,734,541,312 bytes. Free-space changes also ref
 | fresh-generated-manifest-cleanup | 59 | 703,036 | 36,881,658,012 | `ed75a1f17732924662af7ba51e40d88dff1d8aaf4c21344e186d867900945e42` |
 | fresh-public-static-cleanup | 4 | 68,012 | 4,501,779,457 | `f24de4389492e1eddb6510dec32ff38581953279854fa3d34358587bc88dbbcb` |
 | root-bulk-frozen-r1 | 18 | 297,289 | 17,224,803,393 | `2d03a0087c6245c4535fddf7c72082b4b0ab984a634edd89acf0176613a315f3` |
-| root-small-frozen-r1 | 39 | 267,347 | 13,976,934,854 | `81da6373a53091fe06df9759ef711591328650902eef782bd4b0610a89e69ae3` |
+| root-small-frozen-r1 | 49 | 336,848 | 16,474,510,504 | `2b4aef6a25f732b1f0ad82c6f4aad3cf72981a7d029257e179403f2cc9454654` |
 | disjoint-static34-executable | 34 | 378,928 | 12,321,856,608 | `6046596df83d1f40e6177d23d4f6dcb3c0ce948b6f632646bb913aff460336f3` |
 | native-http-held-executor-r1 | 1 | 0 | 0 | `7832797a6035a925a8e691344c20de2545ff32d79f2088b109e9cbb284cbb9ab` |
 | obsolete_checkout_8 | 1 | 8,646 | 621,432,042 | `755390d066748312a98d2f79ff060a021667b7c9c75c6da8e2de06be1d2e236e` |
