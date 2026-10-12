@@ -1,21 +1,21 @@
 # Storage cleanup, October 12, 2026
 
-Updated: 2026-10-12T20:31:11.298840+00:00. Cleanup is **in progress**.
+Updated: 2026-10-12T20:48:25.303994+00:00. Cleanup is **in progress**.
 
 The requested target is at least 600 GB removed from the local MatterSyn folder. The fresh scans observed about 845 GB outside the main paper-collection folders; these are logical file sizes and do not establish that all of it is removable.
 
-Completed target receipts currently confirm **166,305,185,791 logical bytes (166.31 GB)** and **3,169,302 files** removed since this request. Earlier cleanup events are excluded. A target still being processed is credited only after its result is saved.
+Completed target receipts currently confirm **168,751,255,398 logical bytes (168.75 GB)** and **3,252,272 files** removed since this request. Earlier cleanup events are excluded. A target still being processed is credited only after its result is saved.
 
-C: free space at this update: 126,199,992,320 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
+C: free space at this update: 130,404,671,488 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
 
 | Scope | Finished targets | Removed files | Removed bytes | Receipt SHA256 |
 |---|---:|---:|---:|---|
 | cleanup-method | 211 | 20,383 | 1,034,692,961 | `908e2f6f69d6766345b821ea0af6dc3dbf29ef98c835b9e524e94cca9b7acb57` |
 | fresh-generated-manifest-cleanup | 27 | 658,414 | 38,526,809,482 | `411f7c54a95ffa1e13badaf6c7500bc02039a82f9edb891100b99d359b83c7a1` |
-| fresh-generated-manifest-cleanup | 60 | 723,834 | 37,843,190,350 | `7bb8d200c63b59e23520e36249d697f89c683919c312691e55ba4335958c2775` |
+| fresh-generated-manifest-cleanup | 61 | 744,612 | 38,804,204,459 | `d19394eb374e418c6590f19ab971d7327eb4b22731bf48ce4c0f666352698d17` |
 | fresh-public-static-cleanup | 4 | 68,012 | 4,501,779,457 | `f24de4389492e1eddb6510dec32ff38581953279854fa3d34358587bc88dbbcb` |
 | root-bulk-frozen-r1 | 18 | 297,289 | 17,224,803,393 | `2d03a0087c6245c4535fddf7c72082b4b0ab984a634edd89acf0176613a315f3` |
-| root-small-frozen-r1 | 113 | 587,083 | 24,411,273,624 | `8265e7007c25328f076ccaf49c3bfdd75f835c3a3a95ebc6575d6a97c8c6a0c7` |
+| root-small-frozen-r1 | 131 | 632,549 | 24,729,351,970 | `eb5ab497e828f1a8b3b7a79fb1b436880e9e554b4991b36b33edf87a107726b2` |
 | disjoint-static34-executable | 34 | 378,928 | 12,321,856,608 | `6046596df83d1f40e6177d23d4f6dcb3c0ce948b6f632646bb913aff460336f3` |
 | remaining-generated-dist-executable-r2 | 125 | 0 | 0 | `a5861ca56f91778f8524cc80c3cf2e5f4bab005f9564c7cb792c88c86fdd4fd7` |
 | native-http-held-executor-r1 | 1 | 0 | 0 | `7832797a6035a925a8e691344c20de2545ff32d79f2088b109e9cbb284cbb9ab` |
@@ -51,25 +51,27 @@ C: free space at this update: 126,199,992,320 bytes. Free-space changes also ref
 | obsolete_checkout_38 | 1 | 8,982 | 648,436,345 | `6a8891e97b1b7a5c47726617c850c2830580f0d7dbb88753c9e6bc77baab8166` |
 | obsolete_checkout_39 | 1 | 8,980 | 648,491,091 | `58e77d0cb6467bd1aec8c1b301909c38e896a43122c196570e59b17dfe543606` |
 | obsolete_checkout_40 | 1 | 8,315 | 601,608,581 | `1c7da085220f493c565cfc693e553626e1d6b9df2fd17614b6f01c23a3ac182a` |
-| obsolete_checkout_41 | 1 | 7,198 | 524,427,956 | `768c6ef5ff0fe64e007205871a6d6b3235e6a40ca2204c2658a665da83fb8ed1` |
-| obsolete_checkout_42 | 1 | 8,302 | 601,010,781 | `f340544114a62150b47c133a28d609338a533da11e275976babaf3c0b979d286` |
-| obsolete_checkout_43 | 1 | 8,766 | 645,727,964 | `e61480e37da5ef7c424227f42e04e657b025cb187592a2b260a5064a117213f8` |
-| obsolete_checkout_44 | 1 | 8,647 | 485,962,612 | `3c175c166a597465c0a39f659e970b5c1243b8c542f3125a5813b18f6f973184` |
-| obsolete_checkout_45 | 1 | 5,188 | 470,264,812 | `b71153745a79987d8877cacba36617ac01b10abe1b8e485834abe5d3277f8dbd` |
-| obsolete_checkout_46 | 1 | 8,603 | 574,704,273 | `558d5ddc0eca3834617bdaa9dbee83fd250e125a5c5439d1ee204687d4c4644c` |
-| obsolete_checkout_47 | 1 | 8,312 | 560,281,719 | `e30f6ad04abe69dfd8f93f54d32ff574b0dbf79ab84967a566f1ce88ca865fdd` |
-| obsolete_checkout_48 | 1 | 8,396 | 563,687,330 | `26df43654705e6f9f1431731037cace439f2b65dc2b43ab3a006a5b78d85a412` |
-| obsolete_checkout_49 | 1 | 8,329 | 602,413,496 | `12d24d9f563abfdad2b3ee254ff9e30bb5a9eac1d8236afdc4208575beaf32bf` |
-| obsolete_checkout_50 | 1 | 8,535 | 559,821,373 | `94f7d61845538f913dfe610884441a07e9150082244781c293cff40e671165be` |
-| obsolete_checkout_51 | 1 | 8,196 | 592,262,522 | `f0f03ef611b233049a93547348a50863811e39e2452b32706910262e3016da08` |
-| obsolete_checkout_52 | 1 | 8,268 | 553,967,433 | `d35eed0792bc2ca42e74020e7c62c7bf59b4534b4a39d1390ee7b90eed9840f1` |
-| obsolete_checkout_53 | 1 | 8,733 | 633,800,109 | `f1cd3ac71bcf57675650c3ce970362967b99e6199ea541432c8ac1a6d37bd495` |
-| obsolete_checkout_54 | 1 | 8,511 | 558,778,140 | `8c80910b1d8a842c5417561a8b12c96d25f139661a1e2cd7e4f4f6d16c71f12c` |
-| obsolete_checkout_55 | 1 | 8,741 | 635,011,022 | `efb4d174e95243d33168adef7c35d6aeb09b666214324165a423b370670137c6` |
-| obsolete_checkout_56 | 1 | 8,403 | 607,114,370 | `b4c5488013d52da879c421b292f3a1a6952a642cb1d7d609ac77ed8c2dca5bd0` |
-| obsolete_checkout_57 | 1 | 8,983 | 648,455,600 | `ed0f162369205b9cf2a4891bc849ac817c35fe8c229a628e82e67a2a6ba0ac97` |
-| obsolete_checkout_58 | 1 | 8,398 | 565,130,579 | `9bde182727d4661cac579ee47bc8b45dfa4176315a0b9876fdfbe009a3510739` |
-| obsolete_checkout_59 | 1 | 8,362 | 604,175,097 | `53490a2cbb73b0329b1be5ead263a12d3c4a85e1f7ac630ad76a080b4b0e477a` |
+| obsolete_checkout_41 | 1 | 8,397 | 564,563,657 | `dbd03223164bd7d72f439bf57a44fbd8b4eda6f02cde594b66754f6e4d2a80f4` |
+| obsolete_checkout_42 | 1 | 7,198 | 524,427,956 | `768c6ef5ff0fe64e007205871a6d6b3235e6a40ca2204c2658a665da83fb8ed1` |
+| obsolete_checkout_43 | 1 | 8,302 | 601,010,781 | `f340544114a62150b47c133a28d609338a533da11e275976babaf3c0b979d286` |
+| obsolete_checkout_44 | 1 | 8,766 | 645,727,964 | `e61480e37da5ef7c424227f42e04e657b025cb187592a2b260a5064a117213f8` |
+| obsolete_checkout_45 | 1 | 8,647 | 485,962,612 | `3c175c166a597465c0a39f659e970b5c1243b8c542f3125a5813b18f6f973184` |
+| obsolete_checkout_46 | 1 | 5,188 | 470,264,812 | `b71153745a79987d8877cacba36617ac01b10abe1b8e485834abe5d3277f8dbd` |
+| obsolete_checkout_47 | 1 | 8,603 | 574,704,273 | `558d5ddc0eca3834617bdaa9dbee83fd250e125a5c5439d1ee204687d4c4644c` |
+| obsolete_checkout_48 | 1 | 8,312 | 560,281,719 | `e30f6ad04abe69dfd8f93f54d32ff574b0dbf79ab84967a566f1ce88ca865fdd` |
+| obsolete_checkout_49 | 1 | 8,396 | 563,687,330 | `26df43654705e6f9f1431731037cace439f2b65dc2b43ab3a006a5b78d85a412` |
+| obsolete_checkout_50 | 1 | 8,329 | 602,413,496 | `12d24d9f563abfdad2b3ee254ff9e30bb5a9eac1d8236afdc4208575beaf32bf` |
+| obsolete_checkout_51 | 1 | 8,535 | 559,821,373 | `94f7d61845538f913dfe610884441a07e9150082244781c293cff40e671165be` |
+| obsolete_checkout_52 | 1 | 8,196 | 592,262,522 | `f0f03ef611b233049a93547348a50863811e39e2452b32706910262e3016da08` |
+| obsolete_checkout_53 | 1 | 8,268 | 553,967,433 | `d35eed0792bc2ca42e74020e7c62c7bf59b4534b4a39d1390ee7b90eed9840f1` |
+| obsolete_checkout_54 | 1 | 8,733 | 633,800,109 | `f1cd3ac71bcf57675650c3ce970362967b99e6199ea541432c8ac1a6d37bd495` |
+| obsolete_checkout_55 | 1 | 8,511 | 558,778,140 | `8c80910b1d8a842c5417561a8b12c96d25f139661a1e2cd7e4f4f6d16c71f12c` |
+| obsolete_checkout_56 | 1 | 8,329 | 602,413,495 | `cb7a5675ad61790aec486e183fd7fbcdeababbf1204693b6ea141b71f71731af` |
+| obsolete_checkout_57 | 1 | 8,741 | 635,011,022 | `efb4d174e95243d33168adef7c35d6aeb09b666214324165a423b370670137c6` |
+| obsolete_checkout_58 | 1 | 8,403 | 607,114,370 | `b4c5488013d52da879c421b292f3a1a6952a642cb1d7d609ac77ed8c2dca5bd0` |
+| obsolete_checkout_59 | 1 | 8,983 | 648,455,600 | `ed0f162369205b9cf2a4891bc849ac817c35fe8c229a628e82e67a2a6ba0ac97` |
+| obsolete_checkout_60 | 1 | 8,398 | 565,130,579 | `9bde182727d4661cac579ee47bc8b45dfa4176315a0b9876fdfbe009a3510739` |
+| obsolete_checkout_61 | 1 | 8,362 | 604,175,097 | `53490a2cbb73b0329b1be5ead263a12d3c4a85e1f7ac630ad76a080b4b0e477a` |
 
 Necessary publication-safe material is retained in GitHub. Regenerable caches and verified redundant copies are deleted directly. Original papers, quoted text/pass/pair files, unique private evidence, the active local model and current working repositories remain local. Detailed paths, audits, patches, model payloads and source text are excluded from this public report.
 
