@@ -1,12 +1,12 @@
 # Storage cleanup, October 12, 2026
 
-Updated: 2026-10-12T19:47:28.610493+00:00. Cleanup is **in progress**.
+Updated: 2026-10-12T19:59:37.826341+00:00. Cleanup is **in progress**.
 
 The requested target is at least 600 GB removed from the local MatterSyn folder. The fresh scans observed about 845 GB outside the main paper-collection folders; these are logical file sizes and do not establish that all of it is removable.
 
-Completed target receipts currently confirm **150,928,046,353 logical bytes (150.93 GB)** and **2,801,647 files** removed since this request. Earlier cleanup events are excluded. A target still being processed is credited only after its result is saved.
+Completed target receipts currently confirm **154,935,011,210 logical bytes (154.94 GB)** and **2,885,762 files** removed since this request. Earlier cleanup events are excluded. A target still being processed is credited only after its result is saved.
 
-C: free space at this update: 107,798,958,080 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
+C: free space at this update: 112,003,973,120 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
 
 | Scope | Finished targets | Removed files | Removed bytes | Receipt SHA256 |
 |---|---:|---:|---:|---|
@@ -15,50 +15,55 @@ C: free space at this update: 107,798,958,080 bytes. Free-space changes also ref
 | fresh-generated-manifest-cleanup | 59 | 703,036 | 36,881,658,012 | `ed75a1f17732924662af7ba51e40d88dff1d8aaf4c21344e186d867900945e42` |
 | fresh-public-static-cleanup | 4 | 68,012 | 4,501,779,457 | `f24de4389492e1eddb6510dec32ff38581953279854fa3d34358587bc88dbbcb` |
 | root-bulk-frozen-r1 | 18 | 297,289 | 17,224,803,393 | `2d03a0087c6245c4535fddf7c72082b4b0ab984a634edd89acf0176613a315f3` |
-| root-small-frozen-r1 | 49 | 336,848 | 16,474,510,504 | `2b4aef6a25f732b1f0ad82c6f4aad3cf72981a7d029257e179403f2cc9454654` |
+| root-small-frozen-r1 | 62 | 409,567 | 19,550,316,976 | `856745f51bb1d61602a9e8908c14ca863c9079b590929550185701b40fdf3c84` |
 | disjoint-static34-executable | 34 | 378,928 | 12,321,856,608 | `6046596df83d1f40e6177d23d4f6dcb3c0ce948b6f632646bb913aff460336f3` |
+| remaining-generated-dist-executable-r2 | 14 | 0 | 0 | `99365d1e33ed66dcdd8c576a99122d5b63f1ec880d870dace5913b964139d6cf` |
 | native-http-held-executor-r1 | 1 | 0 | 0 | `7832797a6035a925a8e691344c20de2545ff32d79f2088b109e9cbb284cbb9ab` |
-| obsolete_checkout_8 | 1 | 8,646 | 621,432,042 | `755390d066748312a98d2f79ff060a021667b7c9c75c6da8e2de06be1d2e236e` |
-| obsolete_checkout_9 | 1 | 8,474 | 611,069,826 | `d35dbe00ef07b7d601f29ad90e62f156823be3cfea897d3926d28e509a7ebd43` |
-| obsolete_checkout_10 | 1 | 8,653 | 506,772,583 | `96372b4dfe475828f461e1b1b041a6f2001e694830ed6af8829d45c6f87f4928` |
-| obsolete_checkout_11 | 1 | 8,403 | 607,114,370 | `d3a269988afa3f2bd73a0c6bdb7a6cfd16ef39252028795f148490320ebd6933` |
-| obsolete_checkout_12 | 1 | 9,132 | 698,716,492 | `b34905800f284da09a2ddcc53c6244c98339967982b0236f23f116a0b427e032` |
-| obsolete_checkout_13 | 1 | 8,678 | 627,090,876 | `a14d0e99e0b0925395e9c20e5202c299ef7f0b7c64764fd26a2273302968b71d` |
-| obsolete_checkout_14 | 1 | 8,898 | 685,071,054 | `deed5b6daed16db55f302b9f02e626dfe1375631fcc909d222fc9dadfc451833` |
-| obsolete_checkout_15 | 1 | 8,839 | 672,784,466 | `58affaaebb1dde07fcd29fff4866ef7d725b6d96ccb287b1846d8a9502faad55` |
-| obsolete_checkout_16 | 1 | 9,068 | 695,304,424 | `fb53700d7f38db014bc258fa56a00aad2eed45f1b34ed68329fe29918ec5cabf` |
-| obsolete_checkout_17 | 1 | 8,573 | 616,342,382 | `1dcdd2fe75531b6594b29e83aabf2e0a3772857fe8b0425e5602eb775e2c4c85` |
-| obsolete_checkout_18 | 1 | 8,647 | 485,962,612 | `ce229b8980c79543c5c3e574ca130646a87e4a9f52a8b278594470d4f8ae55c5` |
-| obsolete_checkout_19 | 1 | 7,201 | 533,747,986 | `b7aa957ee2823ada66268c6991dbbd799c2c5c5ab3b820de6978de3c157c3cea` |
-| obsolete_checkout_20 | 1 | 8,977 | 631,234,286 | `c98355fcdcb228f39a3d6eb540153512c695dc8e69b3d4bbf2c3cfff375a7f7b` |
-| obsolete_checkout_21 | 1 | 8,536 | 560,675,765 | `514688731fbf68f26eecaa2014f1df1558423f278f5dc2e93911432960076c1f` |
-| obsolete_checkout_22 | 1 | 8,403 | 607,114,370 | `ae3b07aa978b98eb7a1370fb367fc55df7a6af998a60797f102c39261e2e8e74` |
-| obsolete_checkout_23 | 1 | 8,983 | 688,927,148 | `c3b806f6923aa72e11dd9a0ddf4f25d8a78db3c8bdeec98d2acc2c1cdf887fda` |
-| obsolete_checkout_24 | 1 | 8,660 | 623,537,874 | `71c007801d6971ed3bbd254a9ea935183a052bacfc71589ff8f4a02e114ce051` |
-| obsolete_checkout_25 | 1 | 8,568 | 562,382,259 | `5ad0db2bac3fddfe9b974b994b08ed1467918bf42f1277e6fceabd41115cba53` |
-| obsolete_checkout_26 | 1 | 8,536 | 560,675,765 | `70dd91332213d49252c0b1c20ea6e6aca87d8f8b307863b8bfb0672a4218aa99` |
-| obsolete_checkout_27 | 1 | 8,534 | 558,983,860 | `cc76b89da0cbc889b483be60fb62c3847ea1a5663191e788774f93439330001b` |
-| obsolete_checkout_28 | 1 | 8,985 | 688,958,495 | `ac243b474ef29e67571fbc983f460cbee7ed993cca8d56cafc499278912c12af` |
-| obsolete_checkout_29 | 1 | 8,980 | 648,491,091 | `58e77d0cb6467bd1aec8c1b301909c38e896a43122c196570e59b17dfe543606` |
-| obsolete_checkout_30 | 1 | 8,315 | 601,608,581 | `1c7da085220f493c565cfc693e553626e1d6b9df2fd17614b6f01c23a3ac182a` |
-| obsolete_checkout_31 | 1 | 7,198 | 524,427,956 | `768c6ef5ff0fe64e007205871a6d6b3235e6a40ca2204c2658a665da83fb8ed1` |
-| obsolete_checkout_32 | 1 | 8,302 | 601,010,781 | `f340544114a62150b47c133a28d609338a533da11e275976babaf3c0b979d286` |
-| obsolete_checkout_33 | 1 | 8,766 | 645,727,964 | `e61480e37da5ef7c424227f42e04e657b025cb187592a2b260a5064a117213f8` |
-| obsolete_checkout_34 | 1 | 8,647 | 485,962,612 | `3c175c166a597465c0a39f659e970b5c1243b8c542f3125a5813b18f6f973184` |
-| obsolete_checkout_35 | 1 | 5,188 | 470,264,812 | `b71153745a79987d8877cacba36617ac01b10abe1b8e485834abe5d3277f8dbd` |
-| obsolete_checkout_36 | 1 | 8,603 | 574,704,273 | `558d5ddc0eca3834617bdaa9dbee83fd250e125a5c5439d1ee204687d4c4644c` |
-| obsolete_checkout_37 | 1 | 8,396 | 563,687,330 | `26df43654705e6f9f1431731037cace439f2b65dc2b43ab3a006a5b78d85a412` |
-| obsolete_checkout_38 | 1 | 8,329 | 602,413,496 | `12d24d9f563abfdad2b3ee254ff9e30bb5a9eac1d8236afdc4208575beaf32bf` |
-| obsolete_checkout_39 | 1 | 8,535 | 559,821,373 | `94f7d61845538f913dfe610884441a07e9150082244781c293cff40e671165be` |
-| obsolete_checkout_40 | 1 | 8,196 | 592,262,522 | `f0f03ef611b233049a93547348a50863811e39e2452b32706910262e3016da08` |
-| obsolete_checkout_41 | 1 | 8,268 | 553,967,433 | `d35eed0792bc2ca42e74020e7c62c7bf59b4534b4a39d1390ee7b90eed9840f1` |
-| obsolete_checkout_42 | 1 | 8,733 | 633,800,109 | `f1cd3ac71bcf57675650c3ce970362967b99e6199ea541432c8ac1a6d37bd495` |
-| obsolete_checkout_43 | 1 | 8,741 | 635,011,022 | `efb4d174e95243d33168adef7c35d6aeb09b666214324165a423b370670137c6` |
-| obsolete_checkout_44 | 1 | 8,403 | 607,114,370 | `b4c5488013d52da879c421b292f3a1a6952a642cb1d7d609ac77ed8c2dca5bd0` |
-| obsolete_checkout_45 | 1 | 8,983 | 648,455,600 | `ed0f162369205b9cf2a4891bc849ac817c35fe8c229a628e82e67a2a6ba0ac97` |
-| obsolete_checkout_46 | 1 | 8,398 | 565,130,579 | `9bde182727d4661cac579ee47bc8b45dfa4176315a0b9876fdfbe009a3510739` |
-| obsolete_checkout_47 | 1 | 8,362 | 604,175,097 | `53490a2cbb73b0329b1be5ead263a12d3c4a85e1f7ac630ad76a080b4b0e477a` |
+| obsolete_checkout_9 | 1 | 8,646 | 621,432,042 | `755390d066748312a98d2f79ff060a021667b7c9c75c6da8e2de06be1d2e236e` |
+| obsolete_checkout_10 | 1 | 8,474 | 611,069,826 | `d35dbe00ef07b7d601f29ad90e62f156823be3cfea897d3926d28e509a7ebd43` |
+| obsolete_checkout_11 | 1 | 8,653 | 506,772,583 | `96372b4dfe475828f461e1b1b041a6f2001e694830ed6af8829d45c6f87f4928` |
+| obsolete_checkout_12 | 1 | 8,403 | 607,114,370 | `d3a269988afa3f2bd73a0c6bdb7a6cfd16ef39252028795f148490320ebd6933` |
+| obsolete_checkout_13 | 1 | 9,132 | 698,716,492 | `b34905800f284da09a2ddcc53c6244c98339967982b0236f23f116a0b427e032` |
+| obsolete_checkout_14 | 1 | 8,678 | 627,090,876 | `a14d0e99e0b0925395e9c20e5202c299ef7f0b7c64764fd26a2273302968b71d` |
+| obsolete_checkout_15 | 1 | 8,898 | 685,071,054 | `deed5b6daed16db55f302b9f02e626dfe1375631fcc909d222fc9dadfc451833` |
+| obsolete_checkout_16 | 1 | 8,839 | 672,784,466 | `58affaaebb1dde07fcd29fff4866ef7d725b6d96ccb287b1846d8a9502faad55` |
+| obsolete_checkout_17 | 1 | 9,068 | 695,304,424 | `fb53700d7f38db014bc258fa56a00aad2eed45f1b34ed68329fe29918ec5cabf` |
+| obsolete_checkout_18 | 1 | 8,573 | 616,342,382 | `1dcdd2fe75531b6594b29e83aabf2e0a3772857fe8b0425e5602eb775e2c4c85` |
+| obsolete_checkout_19 | 1 | 8,647 | 485,962,612 | `ce229b8980c79543c5c3e574ca130646a87e4a9f52a8b278594470d4f8ae55c5` |
+| obsolete_checkout_20 | 1 | 5,636 | 463,029,630 | `e32f46be08e579de1c7d60d44390ac2630577b68209df3460e2414b35908d73d` |
+| obsolete_checkout_21 | 1 | 7,201 | 533,747,986 | `b7aa957ee2823ada66268c6991dbbd799c2c5c5ab3b820de6978de3c157c3cea` |
+| obsolete_checkout_22 | 1 | 8,977 | 631,234,286 | `c98355fcdcb228f39a3d6eb540153512c695dc8e69b3d4bbf2c3cfff375a7f7b` |
+| obsolete_checkout_23 | 1 | 8,536 | 560,675,765 | `514688731fbf68f26eecaa2014f1df1558423f278f5dc2e93911432960076c1f` |
+| obsolete_checkout_24 | 1 | 8,403 | 607,114,370 | `ae3b07aa978b98eb7a1370fb367fc55df7a6af998a60797f102c39261e2e8e74` |
+| obsolete_checkout_25 | 1 | 8,983 | 688,927,148 | `c3b806f6923aa72e11dd9a0ddf4f25d8a78db3c8bdeec98d2acc2c1cdf887fda` |
+| obsolete_checkout_26 | 1 | 8,660 | 623,537,874 | `71c007801d6971ed3bbd254a9ea935183a052bacfc71589ff8f4a02e114ce051` |
+| obsolete_checkout_27 | 1 | 8,568 | 562,382,259 | `5ad0db2bac3fddfe9b974b994b08ed1467918bf42f1277e6fceabd41115cba53` |
+| obsolete_checkout_28 | 1 | 5,760 | 468,128,755 | `8b3395353da3ebb2b53449465e918e591d4094871c45e3a83ee2a452d6ea60d9` |
+| obsolete_checkout_29 | 1 | 8,536 | 560,675,765 | `70dd91332213d49252c0b1c20ea6e6aca87d8f8b307863b8bfb0672a4218aa99` |
+| obsolete_checkout_30 | 1 | 8,534 | 558,983,860 | `cc76b89da0cbc889b483be60fb62c3847ea1a5663191e788774f93439330001b` |
+| obsolete_checkout_31 | 1 | 8,985 | 688,958,495 | `ac243b474ef29e67571fbc983f460cbee7ed993cca8d56cafc499278912c12af` |
+| obsolete_checkout_32 | 1 | 8,980 | 648,491,091 | `58e77d0cb6467bd1aec8c1b301909c38e896a43122c196570e59b17dfe543606` |
+| obsolete_checkout_33 | 1 | 8,315 | 601,608,581 | `1c7da085220f493c565cfc693e553626e1d6b9df2fd17614b6f01c23a3ac182a` |
+| obsolete_checkout_34 | 1 | 7,198 | 524,427,956 | `768c6ef5ff0fe64e007205871a6d6b3235e6a40ca2204c2658a665da83fb8ed1` |
+| obsolete_checkout_35 | 1 | 8,302 | 601,010,781 | `f340544114a62150b47c133a28d609338a533da11e275976babaf3c0b979d286` |
+| obsolete_checkout_36 | 1 | 8,766 | 645,727,964 | `e61480e37da5ef7c424227f42e04e657b025cb187592a2b260a5064a117213f8` |
+| obsolete_checkout_37 | 1 | 8,647 | 485,962,612 | `3c175c166a597465c0a39f659e970b5c1243b8c542f3125a5813b18f6f973184` |
+| obsolete_checkout_38 | 1 | 5,188 | 470,264,812 | `b71153745a79987d8877cacba36617ac01b10abe1b8e485834abe5d3277f8dbd` |
+| obsolete_checkout_39 | 1 | 8,603 | 574,704,273 | `558d5ddc0eca3834617bdaa9dbee83fd250e125a5c5439d1ee204687d4c4644c` |
+| obsolete_checkout_40 | 1 | 8,396 | 563,687,330 | `26df43654705e6f9f1431731037cace439f2b65dc2b43ab3a006a5b78d85a412` |
+| obsolete_checkout_41 | 1 | 8,329 | 602,413,496 | `12d24d9f563abfdad2b3ee254ff9e30bb5a9eac1d8236afdc4208575beaf32bf` |
+| obsolete_checkout_42 | 1 | 8,535 | 559,821,373 | `94f7d61845538f913dfe610884441a07e9150082244781c293cff40e671165be` |
+| obsolete_checkout_43 | 1 | 8,196 | 592,262,522 | `f0f03ef611b233049a93547348a50863811e39e2452b32706910262e3016da08` |
+| obsolete_checkout_44 | 1 | 8,268 | 553,967,433 | `d35eed0792bc2ca42e74020e7c62c7bf59b4534b4a39d1390ee7b90eed9840f1` |
+| obsolete_checkout_45 | 1 | 8,733 | 633,800,109 | `f1cd3ac71bcf57675650c3ce970362967b99e6199ea541432c8ac1a6d37bd495` |
+| obsolete_checkout_46 | 1 | 8,741 | 635,011,022 | `efb4d174e95243d33168adef7c35d6aeb09b666214324165a423b370670137c6` |
+| obsolete_checkout_47 | 1 | 8,403 | 607,114,370 | `b4c5488013d52da879c421b292f3a1a6952a642cb1d7d609ac77ed8c2dca5bd0` |
+| obsolete_checkout_48 | 1 | 8,983 | 648,455,600 | `ed0f162369205b9cf2a4891bc849ac817c35fe8c229a628e82e67a2a6ba0ac97` |
+| obsolete_checkout_49 | 1 | 8,398 | 565,130,579 | `9bde182727d4661cac579ee47bc8b45dfa4176315a0b9876fdfbe009a3510739` |
+| obsolete_checkout_50 | 1 | 8,362 | 604,175,097 | `53490a2cbb73b0329b1be5ead263a12d3c4a85e1f7ac630ad76a080b4b0e477a` |
 
 Necessary publication-safe material is retained in GitHub. Regenerable caches and verified redundant copies are deleted directly. Original papers, quoted text/pass/pair files, unique private evidence, the active local model and current working repositories remain local. Detailed paths, audits, patches, model payloads and source text are excluded from this public report.
 
 Automatic approval rejected removal of one worktree whose name indicates pending integration; it remains intact. Other verified scopes continue. No website review status, sampling denominator or release gate changes.
+
+Two obsolete-copy attempts conservatively retained files because their native volume-ID comparison used a narrower representation than the scan. Both attempts were stopped and their unchanged journals confirm zero removals. A full-width same-handle identity correction is being tested; no identity check is bypassed.
