@@ -1,7 +1,18 @@
 # Storage cleanup, October 12, 2026
 
-The owner requested maximal cleanup of the local MatterSyn folder and at least 600 GB recovered if the removable inventory permits it. A fresh inventory and preservation checks are in progress; 600 GB is a requested target, not a verified result.
+Updated: 2026-10-12T17:21:17.239925+00:00. Cleanup is **in progress**.
 
-Necessary public-safe archives will be saved here before their redundant local copies are removed. Regenerable caches and builds will be removed directly after their scope and active-use checks. Original papers, quoted training files, unique private evidence, the local model and necessary working repositories remain local. No private source material is included in this report.
+The requested target is at least 600 GB removed from the local MatterSyn folder. The fresh scans observed about 845 GB outside the main paper-collection folders; these are logical file sizes and do not establish that all of it is removable.
 
-Completed deletions and measured free-space changes will be added as actual receipts become available. Earlier cleanup results are historical and are not counted again toward this request.
+Completed target receipts currently confirm **20,512,563,353 logical bytes (20.51 GB)** and **344,860 files** removed since this request. Earlier cleanup events are excluded. A target still being processed is credited only after its result is saved.
+
+C: free space at this update: 22,112,030,720 bytes. Free-space changes also reflect concurrent website staging and other disk activity.
+
+| Scope | Finished targets | Removed files | Removed bytes | Receipt SHA256 |
+|---|---:|---:|---:|---|
+| cleanup-method | 211 | 20,383 | 1,034,692,961 | `908e2f6f69d6766345b821ea0af6dc3dbf29ef98c835b9e524e94cca9b7acb57` |
+| fresh-generated-manifest-cleanup | 14 | 324,477 | 19,477,870,392 | `bc24ba802ac5b2a744a6c713e6fbd0cb50bfc5e5c81e07498efb88e06514f740` |
+
+Necessary publication-safe material is retained in GitHub. Regenerable caches and verified redundant copies are deleted directly. Original papers, quoted text/pass/pair files, unique private evidence, the active local model and current working repositories remain local. Detailed paths, audits, patches, model payloads and source text are excluded from this public report.
+
+Automatic approval rejected removal of one worktree whose name indicates pending integration; it remains intact. Other verified scopes continue. No website review status, sampling denominator or release gate changes.
