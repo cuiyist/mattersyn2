@@ -1,6 +1,6 @@
 # Storage cleanup, October 12, 2026
 
-Updated: 2026-10-13T12:32:45.140149+00:00. Cleanup is **in progress**.
+Updated: 2026-10-13T21:40:53.5165795Z. The admitted cleanup runs are complete; further candidates remain held, and the **600 GB removal target is unmet**.
 
 The requested target is at least 600 GB removed from the local MatterSyn folder. The fresh scans observed about 845 GB outside the main paper-collection folders; these are logical file sizes and do not establish that all of it is removable.
 
@@ -8,7 +8,7 @@ Completed target receipts and confirmed file-removal events establish **324,947,
 
 The 10 event prefixes were observed at 2026-10-13T06:50:56.014675+00:00; later removals are not inferred.
 
-C: free space at the start of this cleanup request: 11,985,891,328 bytes (observed 2026-10-12 16:12:58 UTC). C: free space at this update: 181,709,901,824 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
+C: free space at the start of this cleanup request: 11,985,891,328 bytes (observed 2026-10-12 16:12:58 UTC). Latest Root observation: **84,779,479,040 bytes free at 2026-10-13T21:40:53.5165795Z**. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
 
 For the owner-approved unused 4B model cleanup, C: free space was 146,323,890,176 bytes before and 150,663,954,432 bytes after. The verified model removal was 4,280,404,704 bytes; concurrent disk activity explains why the free-space delta differs.
 
@@ -206,3 +206,14 @@ C free space is **84,752,220,160 bytes at 2026-10-13T21:32:11.129161+00:00**, co
 The private folder register now lists **25 saved Python HTTP-preview owners**, including normal Batch 21 preview PID45548/port8886. Their exact folders are available to the owner locally so they can close the programs. No programme was stopped; no new all-PID presence or native-CWD assertion is made. The active Qwen3-32B model/CUDA server, other work, page-text/pass/quoted-pair/training/private-audit data and original papers remain untouched. Ollama 9B/27B installations were not found, and no Ollama removal is claimed.
 
 Batch 21 is now genuinely deployed and anonymously verified: **27 distinct source-extracted papers /39 records /105 captioned crops**. Source PR39 passed CI38461970557 and ordinarily merged; Site7e7cb11698385fe3791331c48530757419033190 passed Pages38469205232. Anonymous verification at21:24:50UTC checked439 files,27 paper routes and42 material bindings with zero failures. This cleanup update adds no audited-paper or training credit. Local Batch35 reading continues; the separate audited lane stays paused.
+
+
+## Latest cleanup status and preservation observations
+
+The admitted cleanup runs have completed. Further candidates remain held pending their exact reconstruction, identity and consumer proofs; no additional scope is admitted. Confirmed removal remains **324,947,723,133 logical bytes / 6,951,560 files**, including the earlier unused 4B model removal. Verified lossless metadata compression remains separately **11,771,016,610 bytes**, with original content retained locally. This report revision adds **zero deletion or compression credit**. The requested 600 GB removal target remains unmet by **275,052,276,867 bytes**; physical free space is a separate observation.
+
+Root observed **84,779,479,040 bytes free at 2026-10-13T21:40:53.5165795Z**. At that file-metadata observation, the protected Qwen3-32B Q4_K_M model remained present at **19,762,149,024 bytes**, and the previously removed Qwen3-4B file remained absent. Root's native server check at 21:42 UTC found the same `llama-server.exe` process PID32512, original creation time **2026-10-11T10:10:33.250034Z**, and unchanged owned CUDA runtime. No additional model removal is claimed; the requested Ollama 9B/27B installations were not located.
+
+The saved Root presence observation at **2026-10-13T21:44:13.9729742Z** found all **25 saved preview process IDs** present with the name `python.exe`. This is a process-presence observation, not a new served-folder, native-CWD or open-handle check. Folder authority remains the saved launch receipts and earlier bounded directory observations in the private owner register; all listed preview folders remain held. No model or preview programme was stopped or restarted by this cleanup update. The earlier history of two owned obsolete-cleanup attempts being stopped is retained unchanged. Original papers, PDFs, page-text, pass/pair, training and private audit files remain protected; no fresh payload audit or new scientific credit is asserted.
+
+Historical summary retained: the replaced opening status was “Updated: 2026-10-13T12:32:45.140149+00:00. Cleanup is in progress,” with **181,709,901,824 bytes free** at that update. That dated snapshot remains history and is not the latest free-space measurement. All other prior report history remains unchanged.
