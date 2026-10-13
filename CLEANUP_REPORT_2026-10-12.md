@@ -1,6 +1,6 @@
 # Storage cleanup, October 12, 2026
 
-Updated: 2026-10-13T07:00:22.996984+00:00. Cleanup is **in progress**.
+Updated: 2026-10-13T11:35:40.469320+00:00. Cleanup is **in progress**.
 
 The requested target is at least 600 GB removed from the local MatterSyn folder. The fresh scans observed about 845 GB outside the main paper-collection folders; these are logical file sizes and do not establish that all of it is removable.
 
@@ -8,7 +8,7 @@ Completed target receipts and confirmed file-removal events establish **321,822,
 
 The 10 event prefixes were observed at 2026-10-13T06:50:56.014675+00:00; later removals are not inferred.
 
-C: free space at the start of this cleanup request: 11,985,891,328 bytes (observed 2026-10-12 16:12:58 UTC). C: free space at this update: 203,159,941,120 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
+C: free space at the start of this cleanup request: 11,985,891,328 bytes (observed 2026-10-12 16:12:58 UTC). C: free space at this update: 174,839,943,168 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
 
 For the owner-approved unused 4B model cleanup, C: free space was 146,323,890,176 bytes before and 150,663,954,432 bytes after. The verified model removal was 4,280,404,704 bytes; concurrent disk activity explains why the free-space delta differs.
 
