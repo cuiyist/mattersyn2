@@ -1,14 +1,14 @@
 # Storage cleanup, October 12, 2026
 
-Updated: 2026-10-13T06:00:20.138728+00:00. Cleanup is **in progress**.
+Updated: 2026-10-13T07:00:22.996984+00:00. Cleanup is **in progress**.
 
 The requested target is at least 600 GB removed from the local MatterSyn folder. The fresh scans observed about 845 GB outside the main paper-collection folders; these are logical file sizes and do not establish that all of it is removable.
 
-Completed target receipts and confirmed file-removal events establish **320,305,984,163 logical bytes (320.31 GB)** and **6,748,651 files** removed since this request. Earlier cleanup events are excluded. An unfinished scope receives only individually confirmed removals from a fixed journal prefix; intents and holds receive zero credit. Prefix snapshots replace older observations of the same scopes; final receipts reconcile those events and are never added a second time.
+Completed target receipts and confirmed file-removal events establish **321,822,006,915 logical bytes (321.82 GB)** and **6,797,378 files** removed since this request. Earlier cleanup events are excluded. An unfinished scope receives only individually confirmed removals from a fixed journal prefix; intents and holds receive zero credit. Prefix snapshots replace older observations of the same scopes; final receipts reconcile those events and are never added a second time.
 
-The 10 event prefixes were observed at 2026-10-13T05:59:20.350657+00:00; later removals are not inferred.
+The 10 event prefixes were observed at 2026-10-13T06:50:56.014675+00:00; later removals are not inferred.
 
-C: free space at the start of this cleanup request: 11,985,891,328 bytes (observed 2026-10-12 16:12:58 UTC). C: free space at this update: 221,371,613,184 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
+C: free space at the start of this cleanup request: 11,985,891,328 bytes (observed 2026-10-12 16:12:58 UTC). C: free space at this update: 203,159,941,120 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
 
 For the owner-approved unused 4B model cleanup, C: free space was 146,323,890,176 bytes before and 150,663,954,432 bytes after. The verified model removal was 4,280,404,704 bytes; concurrent disk activity explains why the free-space delta differs.
 
@@ -22,8 +22,8 @@ For the owner-approved unused 4B model cleanup, C: free space was 146,323,890,17
 | Remaining400R6_confirmed_file_events | 0 | 306,768 | 12,405,635,277 | `111a099c5b334a834d2dc6a32048eb5717bb3ff4ae5095c52109b554eda6954b` |
 | Remaining500HistoricalR6_confirmed_file_events | 0 | 296,789 | 17,921,116,664 | `4033d0f461bbe427ace1796aecf9b77539a450b85db7a6ff1bccb4965aea8f50` |
 | Remaining600CurrentPublicR6_confirmed_file_events | 0 | 141,703 | 8,478,700,553 | `c5900714751452f474060f76cd48b2f3bd70dedfd44df39b3cd4eb134b996e8e` |
-| Remaining700CurrentPublicR6_confirmed_file_events | 0 | 154,693 | 6,776,790,293 | `441a62ed364f59347d9bba7144ec778207b43dfc21ba67073c8660506395a98f` |
-| Remaining800EndCurrentPublicR6_confirmed_file_events | 0 | 36,857 | 1,413,164,242 | `ad45f885fb2696a26189245020ba4f54d70dcb3392e49b4fffbef8d65045d49a` |
+| Remaining700CurrentPublicR6_confirmed_file_events | 0 | 173,950 | 7,336,274,518 | `576359756eb02d6e6d88019545ef2185561982d2f8c140153850645c6739e61e` |
+| Remaining800EndCurrentPublicR6_confirmed_file_events | 0 | 66,327 | 2,369,702,769 | `9f45df34f8fac8f111a4351e7fa0a5b4a11eb6a2b8663b9758fd63469b4b9901` |
 | cleanup-method | 211 | 20,383 | 1,034,692,961 | `908e2f6f69d6766345b821ea0af6dc3dbf29ef98c835b9e524e94cca9b7acb57` |
 | fresh-generated-manifest-cleanup | 27 | 658,414 | 38,526,809,482 | `411f7c54a95ffa1e13badaf6c7500bc02039a82f9edb891100b99d359b83c7a1` |
 | fresh-generated-manifest-cleanup | 84 | 1,062,533 | 53,740,105,881 | `2d4c57b356c4d1d6c1621fcfea5ee2853b894f3582092cad31244c102d6e8dca` |
