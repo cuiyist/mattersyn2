@@ -175,3 +175,14 @@ Confirmed removal remains **324,947,723,133 logical bytes / 6,951,560 files**. L
 All **21 known Python HTTP preview processes** were present, including the new Batch 20 preview. Their exact folder/port/PID list is in the local `HELD_PREVIEW_FOLDERS_2026-10-13.private.md` report, based on saved launch-directory evidence. No programme was stopped, and no fresh native CWD read is claimed. Protected Qwen3-32B server PID 32512 was also present. No PDF, page-text, pass or quoted pair file was deleted or uploaded.
 
 Batch 14 through Batch 19 are live. Batch 20 has no new publication credit yet: visual review found stale author labels after citation correction. Root corrected only 11 new titles and their checksum dependencies, preserved every prior record, and used the existing exact digest-approval mechanism after a normal baseline guard rejected the first preparation. The failed attempt is retained. Corrected Source commit a65d047eaa4c5b4beae48280418dd4006ccc1991 is undergoing fresh complete local checks, browser review, CI and normal publication; no release gate was weakened.
+
+
+## Dated storage and additional Batch 20 preview holds
+
+Root measured C free space at **105,682,673,664 bytes at 2026-10-13T19:16:31.413241+00:00**. Against the initial 11,985,891,328-byte observation, the measured net change is **93,696,782,336 bytes**. Concurrent builds and other disk activity continue; this is separate from logical removal accounting.
+
+Confirmed removal remains **324,947,723,133 logical bytes / 6,951,560 files**. Verified local lossless compression savings remain separately **11,771,016,610 bytes**. This report update adds zero deletion or compression credit; **the 600 GB target remains unmet**.
+
+The private hold-register append contains **23 saved Python HTTP-preview owners**: the earlier 21 plus the corrected Batch 20 preview PID61416/port8882 and normal release preview PID64456/port8883. Their directory authority is the saved Root launch/owner receipts, not a fresh PID-presence or native CWD query. All listed preview folders remain held; no programme was stopped and no new cleanup scope was admitted. Protected Qwen3-32B/CUDA server PID32512 is untouched by this update. No original PDF, page-text, pass, quoted pair, training or private audit payload was deleted or uploaded.
+
+The preserved Batch 20 preparation snapshot binds corrected Source `a65d047eaa4c5b4beae48280418dd4006ccc1991`, 33 proposed primary papers and 51 records, and `pushed: false`. Its local public boundary passed 35,844 files with zero failures. These preparation facts add no live credit. Actual final Source/Site/Pages/anonymous/ledger delivery evidence is required separately; no future result is inferred here. Earlier stale-label checks/correction, failed attempts, deployment warnings, audit questions and denominators remain unchanged in the historical report.
