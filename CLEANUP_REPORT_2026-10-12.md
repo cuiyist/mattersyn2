@@ -111,3 +111,13 @@ Two old preview programs retain generated cleanup folders; neither was stopped. 
 Two obsolete-copy attempts conservatively retained files because their native volume-ID comparison used a narrower representation than the scan. Both attempts were stopped and their unchanged journals confirm zero removals. A full-width same-handle identity correction passed focused tests and an actual metadata probe, and its new cleanup attempts are running; no identity check is bypassed.
 
 The earlier official-metadata model/download attempt failed DNS before removal and remains preserved with zero credit. The owner later explicitly authorized removal of the unused, re-downloadable Qwen3-4B Q8 model: one SHA256-verified file, 4,280,404,704 logical bytes, was removed. The recorded active Qwen3-32B server identity was unchanged before and after; no program was stopped or restarted. The old Vulkan download remains parked. No Ollama CLI, process or default/environment installation was found, so no Ollama removal is claimed.
+
+## Completed cleanup metadata compression, October 13
+
+Five completed cleanup metadata spools/journals were compressed locally with full decompressed byte-count/SHA verification before the redundant uncompressed copies were removed through exclusive held handles. All original content remains recoverable locally. No paper, page-text, pass, pair, model, scientific audit, current working checkout or running programme was changed.
+
+The original files held 6,056,119,856 bytes; their retained lossless archives hold 596,268,609 bytes, a net file-size reduction of **5,459,851,247 bytes (5.46 GB)**. This is compression savings, separate from the 321,822,006,915 logical bytes of confirmed deleted redundant material; it adds zero raw-removal credit. The 600 GB target remains unmet.
+
+C: free space was 174,906,949,632 bytes before this compression and 180,374,134,784 bytes after; concurrent cleanup and other disk activity also affect that difference. Later observation: 180,422,107,136 bytes free. The additional B14/B15 exact-public copy cleanup remains in progress and is not yet added to this total.
+
+Administrative aggregate SHA256: `fe0c1d3d6e7398857593448f2330edc84e0adc5a596d1511892461a085102825`. Detailed local host paths and payloads remain off public GitHub.
