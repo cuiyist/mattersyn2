@@ -1,29 +1,29 @@
 # Storage cleanup, October 12, 2026
 
-Updated: 2026-10-13T02:46:42.162990+00:00. Cleanup is **in progress**.
+Updated: 2026-10-13T03:16:14.802708+00:00. Cleanup is **in progress**.
 
 The requested target is at least 600 GB removed from the local MatterSyn folder. The fresh scans observed about 845 GB outside the main paper-collection folders; these are logical file sizes and do not establish that all of it is removable.
 
-Completed target receipts and confirmed file-removal events establish **275,804,247,222 logical bytes (275.80 GB)** and **5,981,871 files** removed since this request. Earlier cleanup events are excluded. An unfinished scope receives only individually confirmed removals from a fixed journal prefix; intents and holds receive zero credit. Prefix snapshots replace older observations of the same scopes; final receipts reconcile those events and are never added a second time.
+Completed target receipts and confirmed file-removal events establish **286,334,215,592 logical bytes (286.33 GB)** and **6,148,054 files** removed since this request. Earlier cleanup events are excluded. An unfinished scope receives only individually confirmed removals from a fixed journal prefix; intents and holds receive zero credit. Prefix snapshots replace older observations of the same scopes; final receipts reconcile those events and are never added a second time.
 
-The 7 event prefixes were observed at 2026-10-13T02:43:26.838868+00:00; later removals are not inferred.
+The 7 event prefixes were observed at 2026-10-13T03:12:40.758562+00:00; later removals are not inferred.
 
-C: free space at the start of this cleanup request: 11,985,891,328 bytes (observed 2026-10-12 16:12:58 UTC). C: free space at this update: 204,153,864,192 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
+C: free space at the start of this cleanup request: 11,985,891,328 bytes (observed 2026-10-12 16:12:58 UTC). C: free space at this update: 209,584,783,360 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
 
 For the owner-approved unused 4B model cleanup, C: free space was 146,323,890,176 bytes before and 150,663,954,432 bytes after. The verified model removal was 4,280,404,704 bytes; concurrent disk activity explains why the free-space delta differs.
 
 | Scope | Finished targets | Removed files | Removed bytes | Receipt SHA256 |
 |---|---:|---:|---:|---|
-| SourceR4_confirmed_file_events | 0 | 711,525 | 28,070,953,548 | `867461e37f1c76ecc4835b22a709f3efa3d0a2a2e395bfefe6585f26746dd72b` |
+| SourceR4_confirmed_file_events | 0 | 773,476 | 32,833,103,564 | `385e8527bac40e8e316c4e6b653d36b5438a7319baca997c14adde5d8ff16b17` |
 | Remaining000R4_confirmed_file_events | 0 | 457,093 | 13,284,988,824 | `160e2d8b13e8c9dcc71aeacf4defd0957a28e19b851b7b208e3fc21e738ccf70` |
 | Remaining100R4_confirmed_file_events | 0 | 393,564 | 12,357,545,609 | `8a9a0cfe7b2fca88231813b8052589b0264ecda97543bf2795f45d56113d854f` |
 | Remaining200R6_confirmed_file_events | 0 | 199,078 | 5,770,075,434 | `797d9fd334e82fa92095c1df0c4001354fb50f1ef839e6b64813749e4b4f6f50` |
 | Remaining300R4_confirmed_file_events | 0 | 223,121 | 8,042,687,698 | `2bea04eed04d16b4b774006bcc043a0df17ee722672ab2996704a9e5a7a1b175` |
 | Remaining400R6_confirmed_file_events | 0 | 306,768 | 12,405,635,277 | `111a099c5b334a834d2dc6a32048eb5717bb3ff4ae5095c52109b554eda6954b` |
-| Remaining500HistoricalR6_confirmed_file_events | 0 | 82,844 | 4,890,611,283 | `1b9f24c1eb64c05436be46ea6ada92e6970107ad8c9661eb87eac5297a7edf6f` |
+| Remaining500HistoricalR6_confirmed_file_events | 0 | 144,013 | 8,496,134,065 | `0c89c2b5c9017e5ad4b5541763df6c1fdeaed52d245581c4bbee712e816485e1` |
 | cleanup-method | 211 | 20,383 | 1,034,692,961 | `908e2f6f69d6766345b821ea0af6dc3dbf29ef98c835b9e524e94cca9b7acb57` |
 | fresh-generated-manifest-cleanup | 27 | 658,414 | 38,526,809,482 | `411f7c54a95ffa1e13badaf6c7500bc02039a82f9edb891100b99d359b83c7a1` |
-| fresh-generated-manifest-cleanup | 75 | 990,678 | 50,246,072,645 | `a57de810b42f7db530013379f617dbc527c94755f0f17ba7453582142f96c9cc` |
+| fresh-generated-manifest-cleanup | 79 | 1,033,741 | 52,408,368,217 | `4a9f07ebc886894b4c8da1cce244cd162d886798160b40507084d5eefa52dc1f` |
 | fresh-public-static-cleanup | 4 | 68,012 | 4,501,779,457 | `f24de4389492e1eddb6510dec32ff38581953279854fa3d34358587bc88dbbcb` |
 | root-bulk-frozen-r1 | 18 | 297,289 | 17,224,803,393 | `2d03a0087c6245c4535fddf7c72082b4b0ab984a634edd89acf0176613a315f3` |
 | root-small-frozen-r1 | 131 | 632,549 | 24,729,351,970 | `eb5ab497e828f1a8b3b7a79fb1b436880e9e554b4991b36b33edf87a107726b2` |
