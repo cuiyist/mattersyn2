@@ -135,3 +135,17 @@ Local lossless metadata compression remains separate: **5,459,851,247 bytes** of
 Current C: free space at 2026-10-13T12:32:45.140149+00:00: **181,709,901,824 bytes (181.710 GB)**. This is a point-in-time observation, not a cleanup recovery measurement.
 
 Administrative proof SHA256: `fd2c011596435ee59a8eca95a40abbee35aff06b53af0ee1cec47294a67dac62`. Compression aggregate SHA256: `fe0c1d3d6e7398857593448f2330edc84e0adc5a596d1511892461a085102825`.
+
+
+<!-- cleanup-proof-compression-r2-receipt-sha256:9d0eb7fb5b4ba0baf19492a97efc5a15f53f56ac500b3a57e5cfff776a903d15 -->
+## Additional retained-metadata compression — 2026-10-13
+
+Three completed proof-metadata spools, **6,849,886,935 bytes**, are retained in verified local gzip archives totaling **538,721,572 bytes**. Fresh archive SHA256 checks match the saved recovery receipts; every original byte remains recoverable locally.
+
+This pass reduced file sizes by **6,311,165,363 bytes (6.311 GB)**. Together with the first pass's **5,459,851,247 bytes**, cumulative local compression reduction is **11,771,016,610 bytes (11.771 GB)**. Compression adds zero removed-content credit.
+
+Confirmed logical removals remain **324,947,723,133 bytes (324.948 GB)** across **6,951,560 files**. The 600 GB removal target remains unmet. Previous report fields and history are preserved unchanged.
+
+Current C: free space at 2026-10-13T14:10:37.598852+00:00: **168,471,433,216 bytes (168.471 GB)**. This is a point-in-time observation; concurrent disk activity can affect free space.
+
+Administrative receipt SHA256: `9d0eb7fb5b4ba0baf19492a97efc5a15f53f56ac500b3a57e5cfff776a903d15`. Fresh verification addendum SHA256: `d4204967427c1cd78ac99b705642711a39895ea4ae25b5ca8dcf1072ed46b87e`.
