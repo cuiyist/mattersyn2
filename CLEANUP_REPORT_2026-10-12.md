@@ -149,3 +149,18 @@ Confirmed logical removals remain **324,947,723,133 bytes (324.948 GB)** across 
 Current C: free space at 2026-10-13T14:10:37.598852+00:00: **168,471,433,216 bytes (168.471 GB)**. This is a point-in-time observation; concurrent disk activity can affect free space.
 
 Administrative receipt SHA256: `9d0eb7fb5b4ba0baf19492a97efc5a15f53f56ac500b3a57e5cfff776a903d15`. Fresh verification addendum SHA256: `d4204967427c1cd78ac99b705642711a39895ea4ae25b5ca8dcf1072ed46b87e`.
+
+
+## Subsequent delivery and current storage observation
+
+Root observed C free space of **145,718,960,128 bytes at 2026-10-13T17:08:45.5103146Z**. The initial observation was 11,985,891,328 bytes, so the measured net increase between those observations is 133,733,068,800 bytes. Builds and concurrent disk activity continued during this interval; this net change is distinct from logical removal accounting.
+
+Confirmed removal remains **324,947,723,133 logical bytes / 6,951,560 files**, including the earlier unused 4B model removal. Lossless compression savings remain a separate **11,771,016,610 bytes** with all original metadata content retained locally. **The 600 GB target remains unmet.** This update adds zero deletion credit.
+
+All 20 known Python HTTP-preview process IDs were present at the storage observation. Their saved directory observations and exact launch receipts remain the folder authority; presence was checked without inventing a fresh process-directory read. No preview programme was stopped. The exact programme, PID, port and served-folder list is retained in the local `HELD_PREVIEW_FOLDERS_2026-10-13.private.md` report for the owner to close programmes deliberately. The active Qwen3-32B model, CUDA build and server remain protected.
+
+One completed Batch 19 staging tree has metadata recovery proof for 35,342 files / 2,001,765,748 bytes. It has not been deleted: fresh native identity/consumer evidence is still required, and the older fixed-scope cleanup wrappers do not cover that tree. Unlisted or changed members receive no removal credit. The final predecessor build and served previews stay retained.
+
+Batch 19 completed normal deployment and anonymous verification at **2026-10-13T16:35:31Z**, adding **26 papers / 33 records / 105 figure crops**. The live website contains **845 contributing papers / 3,902 canonical records / 1,781 displayed recipe–structure pairs**. Source b7217048be4cd05d7ad196c10a34959812c01a09 merged through PR37; Site 429387c95f263f0925d884c7cf0bd4d5d39f337a passed Pages run 38430512988 and 400 anonymous file probes with zero mismatches. No throughput or uninterrupted-work claim is made.
+
+Batch 20 is separately prepared for normal release; it has no new live credit here. The audited lane and its owner questions remain paused. No PDF, page-text, pass or quoted pair file was deleted or uploaded by this cleanup.
