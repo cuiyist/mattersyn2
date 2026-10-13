@@ -197,3 +197,12 @@ C free space was **11,985,891,328 bytes before cleanup** (October 12, 16:12:58 U
 There are now **24 saved Python HTTP-preview owners**: the previous 23 plus the actual Batch 21 local-q preview PID42560, port8885. Its folder is in the owner's local hold register. The proposed port8884 was held by Windows System PID4; it was left alone and the preview used an unused port. The saved owner receipts establish the folder paths; this append makes no fresh native-CWD or all-process-presence claim. No protected page-text, pass, quoted pair, training, private audit or original PDF was deleted or uploaded.
 
 Batch 20 has completed deployment and anonymous verification: 33 distinct papers, 51 records and 135 captioned crops. Batch 21's complete local checks passed, with 27 papers, 39 records and 105 captioned figures prepared; its publication remains pending in this dated observation. The separate audited lane remains paused.
+
+
+## Final dated cleanup measurement and Batch 21 delivery
+
+C free space is **84,752,220,160 bytes at 2026-10-13T21:32:11.129161+00:00**, compared with **11,985,891,328 bytes before cleanup**. The intervening peak and later observations remain above; new release builds consume workbench space. Cumulative deletion remains **324,947,723,133 logical bytes / 6,951,560 files**, including the unused 4,280,404,704-byte Qwen3-4B file. Lossless compression remains separately **11,771,016,610 bytes**. No new deletion or compression credit is added. **The 600 GB target remains unmet.**
+
+The private folder register now lists **25 saved Python HTTP-preview owners**, including normal Batch 21 preview PID45548/port8886. Their exact folders are available to the owner locally so they can close the programs. No programme was stopped; no new all-PID presence or native-CWD assertion is made. The active Qwen3-32B model/CUDA server, other work, page-text/pass/quoted-pair/training/private-audit data and original papers remain untouched. Ollama 9B/27B installations were not found, and no Ollama removal is claimed.
+
+Batch 21 is now genuinely deployed and anonymously verified: **27 distinct source-extracted papers /39 records /105 captioned crops**. Source PR39 passed CI38461970557 and ordinarily merged; Site7e7cb11698385fe3791331c48530757419033190 passed Pages38469205232. Anonymous verification at21:24:50UTC checked439 files,27 paper routes and42 material bindings with zero failures. This cleanup update adds no audited-paper or training credit. Local Batch35 reading continues; the separate audited lane stays paused.
