@@ -1,14 +1,14 @@
 # Storage cleanup, October 12, 2026
 
-Updated: 2026-10-13T11:35:40.469320+00:00. Cleanup is **in progress**.
+Updated: 2026-10-13T12:32:45.140149+00:00. Cleanup is **in progress**.
 
 The requested target is at least 600 GB removed from the local MatterSyn folder. The fresh scans observed about 845 GB outside the main paper-collection folders; these are logical file sizes and do not establish that all of it is removable.
 
-Completed target receipts and confirmed file-removal events establish **321,822,006,915 logical bytes (321.82 GB)** and **6,797,378 files** removed since this request. Earlier cleanup events are excluded. An unfinished scope receives only individually confirmed removals from a fixed journal prefix; intents and holds receive zero credit. Prefix snapshots replace older observations of the same scopes; final receipts reconcile those events and are never added a second time.
+Completed target receipts and confirmed file-removal events establish **324,947,723,133 logical bytes (324.948 GB)** and **6,951,560 files** removed since this request. Earlier cleanup events are excluded. An unfinished scope receives only individually confirmed removals from a fixed journal prefix; intents and holds receive zero credit. Prefix snapshots replace older observations of the same scopes; final receipts reconcile those events and are never added a second time.
 
 The 10 event prefixes were observed at 2026-10-13T06:50:56.014675+00:00; later removals are not inferred.
 
-C: free space at the start of this cleanup request: 11,985,891,328 bytes (observed 2026-10-12 16:12:58 UTC). C: free space at this update: 174,839,943,168 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
+C: free space at the start of this cleanup request: 11,985,891,328 bytes (observed 2026-10-12 16:12:58 UTC). C: free space at this update: 181,709,901,824 bytes. Free-space changes also reflect other disk activity; logical bytes removed are reported separately.
 
 For the owner-approved unused 4B model cleanup, C: free space was 146,323,890,176 bytes before and 150,663,954,432 bytes after. The verified model removal was 4,280,404,704 bytes; concurrent disk activity explains why the free-space delta differs.
 
@@ -121,3 +121,17 @@ The original files held 6,056,119,856 bytes; their retained lossless archives ho
 C: free space was 174,906,949,632 bytes before this compression and 180,374,134,784 bytes after; concurrent cleanup and other disk activity also affect that difference. Later observation: 180,422,107,136 bytes free. The additional B14/B15 exact-public copy cleanup remains in progress and is not yet added to this total.
 
 Administrative aggregate SHA256: `fe0c1d3d6e7398857593448f2330edc84e0adc5a596d1511892461a085102825`. Detailed local host paths and payloads remain off public GitHub.
+
+
+<!-- cleanup-b14-b15-r4-receipt-sha256:fd2c011596435ee59a8eca95a40abbee35aff06b53af0ee1cec47294a67dac62 -->
+## B14/B15 cleanup completion — 2026-10-13
+
+The completed run removed **3,125,716,218 bytes (3.126 GB)** across **154,182 files**. It held 179,899 files; no files were missing. No directories or processes were removed or stopped, and Source/Site changes were zero. The original read-only scan remains recorded as failed; this update credits only the completed disposition receipt.
+
+Confirmed cumulative cleanup accounting is **324,947,723,133 bytes (324.948 GB)** across **6,951,560 files**. The requested 600 GB removal target remains unmet by **275,052,276,867 bytes (275.052 GB)**.
+
+Local lossless metadata compression remains separate: **5,459,851,247 bytes** of net file-size reduction, with every original byte retained in verified local archives. This is not added to removed-byte or removed-file accounting. The preceding compression record and report history are preserved unchanged.
+
+Current C: free space at 2026-10-13T12:32:45.140149+00:00: **181,709,901,824 bytes (181.710 GB)**. This is a point-in-time observation, not a cleanup recovery measurement.
+
+Administrative proof SHA256: `fd2c011596435ee59a8eca95a40abbee35aff06b53af0ee1cec47294a67dac62`. Compression aggregate SHA256: `fe0c1d3d6e7398857593448f2330edc84e0adc5a596d1511892461a085102825`.
