@@ -164,3 +164,14 @@ One completed Batch 19 staging tree has metadata recovery proof for 35,342 files
 Batch 19 completed normal deployment and anonymous verification at **2026-10-13T16:35:31Z**, adding **26 papers / 33 records / 105 figure crops**. The live website contains **845 contributing papers / 3,902 canonical records / 1,781 displayed recipe–structure pairs**. Source b7217048be4cd05d7ad196c10a34959812c01a09 merged through PR37; Site 429387c95f263f0925d884c7cf0bd4d5d39f337a passed Pages run 38430512988 and 400 anonymous file probes with zero mismatches. No throughput or uninterrupted-work claim is made.
 
 Batch 20 is separately prepared for normal release; it has no new live credit here. The audited lane and its owner questions remain paused. No PDF, page-text, pass or quoted pair file was deleted or uploaded by this cleanup.
+
+
+## Dated storage observation while Batch 20 is being corrected
+
+C free space was **125,944,041,472 bytes at 2026-10-13T17:56:40.0896920Z**, compared with **11,985,891,328 bytes** at the initial cleanup observation. The measured net increase is **113,958,150,144 bytes**; ongoing temporary release builds use disk space, so this is not a claim that all net change came from deletion.
+
+Confirmed removal remains **324,947,723,133 logical bytes / 6,951,560 files**. Lossless compression savings remain separately **11,771,016,610 bytes**. This update adds zero deletion credit; **the 600 GB target is not met**.
+
+All **21 known Python HTTP preview processes** were present, including the new Batch 20 preview. Their exact folder/port/PID list is in the local `HELD_PREVIEW_FOLDERS_2026-10-13.private.md` report, based on saved launch-directory evidence. No programme was stopped, and no fresh native CWD read is claimed. Protected Qwen3-32B server PID 32512 was also present. No PDF, page-text, pass or quoted pair file was deleted or uploaded.
+
+Batch 14 through Batch 19 are live. Batch 20 has no new publication credit yet: visual review found stale author labels after citation correction. Root corrected only 11 new titles and their checksum dependencies, preserved every prior record, and used the existing exact digest-approval mechanism after a normal baseline guard rejected the first preparation. The failed attempt is retained. Corrected Source commit a65d047eaa4c5b4beae48280418dd4006ccc1991 is undergoing fresh complete local checks, browser review, CI and normal publication; no release gate was weakened.
