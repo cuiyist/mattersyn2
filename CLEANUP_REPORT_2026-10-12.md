@@ -241,3 +241,14 @@ Confirmed cumulative logical removal is now **325,576,502,585 bytes / 6,971,760 
 The disposition loop recorded 84,845 held files and 0 missing files; scope-level hold entries: 0. None were recorded at scope level. Model/CUDA files, Source/Site working checkouts, source/PDF/training originals and protected page-text/pass/pair/private-audit files remained outside this output-only cleanup scope. Retained or unresolved output members, including any chemical/model assets held by the filters, add no removal credit. This entry adds no claim that retained programmes or folders are unused.
 
 The executor observed C free space of **23,451,021,312 bytes before** and **23,449,452,544 bytes after**, an observed change of -1,568,768 bytes during concurrent work. This physical delta is not attributed wholly or partially to this cleanup; logical removal and observed free space are separate measurements. All previous report bytes and dated history remain preserved.
+
+<!-- cleanup-b25-two-dist-completed-20261014-root-r1 -->
+## 2026-10-14 22:56 UTC: Batch 25 generated-output cleanup
+
+The completed cleanup removed 75,458 verified public generated files from the two Batch 25 candidate/final display copies, totaling 4,292,239,322 logical bytes. Both exact scopes completed with zero holds or aborts. No directories were removed and no programs were stopped. Original/private data, papers, text/pass/quoted-pair files, training data, current model/server, user folders and the working source/site repositories were preserved.
+
+Confirmed cumulative cleanup is now **329,868,741,907 logical bytes across 7,047,218 files**. Retained-content compression remains separate at 11,771,016,610 bytes, with no new compression credit. The 600,000,000,000-byte cleanup target remains unmet by 270,131,258,093 logical bytes.
+
+Observed C free space was **76,976,939,008 bytes** at 2026-10-14 22:20:00.8598427 UTC and **74,749,702,144 bytes** at 22:56:18.8707719 UTC. The net observed change was **−2,227,236,864 bytes** while build and local-generation activity continued. This is net disk activity, not a measurement of pure physical space reclaimed by cleanup; logical removed bytes must not be presented as physical recovery.
+
+The cleanup ended at 22:56:00.5329848 UTC. It used exact historical public-byte verification and same-handle file disposition, retained all directories and protected inputs, and did not extend or replay another cleanup attempt. No new paper, accuracy, audit or publication credit is claimed by this storage update.
