@@ -217,3 +217,15 @@ Root observed **84,779,479,040 bytes free at 2026-10-13T21:40:53.5165795Z**. At 
 The saved Root presence observation at **2026-10-13T21:44:13.9729742Z** found all **25 saved preview process IDs** present with the name `python.exe`. This is a process-presence observation, not a new served-folder, native-CWD or open-handle check. Folder authority remains the saved launch receipts and earlier bounded directory observations in the private owner register; all listed preview folders remain held. No model or preview programme was stopped or restarted by this cleanup update. The earlier history of two owned obsolete-cleanup attempts being stopped is retained unchanged. Original papers, PDFs, page-text, pass/pair, training and private audit files remain protected; no fresh payload audit or new scientific credit is asserted.
 
 Historical summary retained: the replaced opening status was “Updated: 2026-10-13T12:32:45.140149+00:00. Cleanup is in progress,” with **181,709,901,824 bytes free** at that update. That dated snapshot remains history and is not the latest free-space measurement. All other prior report history remains unchanged.
+
+<!-- cleanup-b18-b21-zero-removal-20261014-root-r1 -->
+
+## Dated cleanup hold and current diagnostic — 2026-10-14
+
+The cleanup attempt completed at 02:30:03 UTC with all 12 Batch18–Batch21 generated-build output scopes held by the named/opaque programme-folder guard. It completed no target preflight and removed **0 files / 0 bytes**. No directory or programme was removed or stopped, and no compression credit was added. The proposed output copies remain retained.
+
+A separate read-only diagnostic at 03:00:41–03:00:44 UTC observed current Codex/Node path references intersecting these scopes under the unchanged path rule. This is token-reference evidence, not proof of physical file locks, actual file use, or the identity of the earlier attempt's blocking process. Ambiguous literals remain unknown and held; this observation does not retrospectively identify the historical culprit. No guard or cleanup admission was changed.
+
+Confirmed logical removal remains **324,947,723,133 bytes / 6,951,560 files**. Separate lossless compression savings remain **11,771,016,610 bytes**, with content retained locally. The **600 GB removal target remains unmet**.
+
+Root observed C free space of **24,146,292,736 bytes at 02:59:55 UTC**. The earlier zero-removal attempt observed 33,174,081,536 bytes before and 33,129,566,208 bytes after. These are separate dated free-space observations during concurrent work; their changes add no removal or compression credit. All prior report history and accounting remain preserved.
