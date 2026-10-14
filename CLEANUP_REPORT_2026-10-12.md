@@ -229,3 +229,15 @@ A separate read-only diagnostic at 03:00:41–03:00:44 UTC observed current Code
 Confirmed logical removal remains **324,947,723,133 bytes / 6,951,560 files**. Separate lossless compression savings remain **11,771,016,610 bytes**, with content retained locally. The **600 GB removal target remains unmet**.
 
 Root observed C free space of **24,146,292,736 bytes at 02:59:55 UTC**. The earlier zero-removal attempt observed 33,174,081,536 bytes before and 33,129,566,208 bytes after. These are separate dated free-space observations during concurrent work; their changes add no removal or compression credit. All prior report history and accounting remain preserved.
+
+<!-- cleanup-b18-finalized-r2-20261014-root -->
+
+## Finalized admitted Batch18 output cleanup R2 — 2026-10-14
+
+This dated entry records only the finalized R2 result, from 2026-10-14T03:30:40.0241627+00:00 to 2026-10-14T04:10:42.0596927+00:00. The disposition loop completed. Its finite admitted scopes were b18-stage, b18-candidate, b18-final; the other candidate batches were not admitted by this attempt. The final receipt confirms **20,200 files / 628,779,452 logical bytes actually removed**; declared and preflight bytes add no credit. No directories or programmes were removed or stopped.
+
+Confirmed cumulative logical removal is now **325,576,502,585 bytes / 6,971,760 files**. Separate lossless compression savings remain **11,771,016,610 bytes**, with content retained locally; this attempt adds zero compression credit. The **600 GB removal target remains unmet**.
+
+The disposition loop recorded 84,845 held files and 0 missing files; scope-level hold entries: 0. None were recorded at scope level. Model/CUDA files, Source/Site working checkouts, source/PDF/training originals and protected page-text/pass/pair/private-audit files remained outside this output-only cleanup scope. Retained or unresolved output members, including any chemical/model assets held by the filters, add no removal credit. This entry adds no claim that retained programmes or folders are unused.
+
+The executor observed C free space of **23,451,021,312 bytes before** and **23,449,452,544 bytes after**, an observed change of -1,568,768 bytes during concurrent work. This physical delta is not attributed wholly or partially to this cleanup; logical removal and observed free space are separate measurements. All previous report bytes and dated history remain preserved.
