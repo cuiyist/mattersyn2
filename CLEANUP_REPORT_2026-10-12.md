@@ -252,3 +252,20 @@ Confirmed cumulative cleanup is now **329,868,741,907 logical bytes across 7,047
 Observed C free space was **76,976,939,008 bytes** at 2026-10-14 22:20:00.8598427 UTC and **74,749,702,144 bytes** at 22:56:18.8707719 UTC. The net observed change was **−2,227,236,864 bytes** while build and local-generation activity continued. This is net disk activity, not a measurement of pure physical space reclaimed by cleanup; logical removed bytes must not be presented as physical recovery.
 
 The cleanup ended at 22:56:00.5329848 UTC. It used exact historical public-byte verification and same-handle file disposition, retained all directories and protected inputs, and did not extend or replay another cleanup attempt. No new paper, accuracy, audit or publication credit is claimed by this storage update.
+
+<!-- cleanup-B22-B23-B24-B26-completed-20261015-Root-r1 -->
+
+## October 15: twelve obsolete public build copies removed
+
+Two completed cleanup operations removed only old candidate/final distribution and site-stage copies whose full file sets and bytes matched their manifests and published Git blobs. Working checkouts, proof metadata, private audits, papers, page text, pass files, quoted pair files and the active Qwen3-32B model/CUDA server were preserved. No program was stopped; no folder was held by another program.
+
+| Completed operation | Removed file copies | Removed logical bytes | C free before | C free after | Observed net free-space change |
+|---|---:|---:|---:|---:|---:|
+| Batch 22/23, six old public output directories | 220,260 | 12,488,709,534 | 57,061,253,120 | 70,154,395,648 | +13,093,142,528 |
+| Batch 24/26, six old public output directories | 225,855 | 12,857,356,119 | 69,556,756,480 | 83,036,639,232 | +13,479,882,752 |
+
+Build and model work ran concurrently with these observations. Net free-space changes are measured disk observations, not isolated physical deletion recovery. Logical copy totals do not establish physical allocation or recovery.
+
+These two operations add 446,115 removed file copies and 25,346,065,653 logical bytes to the previously reported total. Cumulative verified removal is now **7,493,333 file copies / 355,214,807,560 logical bytes**. Retained-file compression remains separately reported at 11,771,016,610 bytes; no new compression credit is added here.
+
+**The 600 GB cleanup target remains unmet**, by 244,785,192,440 logical bytes. This update preserves all earlier outcomes and holds; it does not claim a website publication or alter the paused audited lane.
