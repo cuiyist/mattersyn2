@@ -269,3 +269,16 @@ Build and model work ran concurrently with these observations. Net free-space ch
 These two operations add 446,115 removed file copies and 25,346,065,653 logical bytes to the previously reported total. Cumulative verified removal is now **7,493,333 file copies / 355,214,807,560 logical bytes**. Retained-file compression remains separately reported at 11,771,016,610 bytes; no new compression credit is added here.
 
 **The 600 GB cleanup target remains unmet**, by 244,785,192,440 logical bytes. This update preserves all earlier outcomes and holds; it does not claim a website publication or alter the paused audited lane.
+
+
+## Cleanup checkpoint — 2026-10-15T17:56:12.578104+00:00
+
+Owner rule added October 15: check C: free space at every existing 30-minute continuation wake-up and before large builds. Below 100 GiB (107,374,182,400 bytes), clean completed, verified rebuildable MatterSyn copies and aim to restore that headroom. The existing wake-up is ACTIVE; no duplicate schedule or routine report was added. Cleanup does not resume a paused website or audit lane. The rule is saved in MatterSyn main through PR52, merge `d3f777b58a7eec2634b8c32b27069db0f704079e`.
+
+This checkpoint confirms 20 more inactive generated preview copies removed: 641,992 file copies / 35,631,740,314 logical bytes. Current cumulative confirmed removal accounting is 8,995,553 file copies / 444,662,980,547 logical bytes; this replaces earlier totals and does not add them together. The historical unused 4B model removal remains included once. The original 600 GB target remains unmet.
+
+C: free space was 20,174,811,136 bytes before the first successful retirement in this group (2026-10-15T17:33:34.636390+00:00), and 51,300,216,832 bytes at this checkpoint. Concurrent build and other disk activity prevent attributing that change solely to cleanup. The 100 GiB threshold is still unmet.
+
+Every retired preview was bound to a previously published Site Git tree, verified byte for byte, and checked again for complete current membership, path containment, registration, metadata and active consumers before ordinary Git worktree removal. No other program was stopped. Original papers, owner folders, page text, quoted passes/pairs, training inputs, the active Qwen3-32B/CUDA runtime, the working Source/Site checkouts and the current release outputs remain protected.
+
+Initial zero-removal holds from Windows path spelling and historical directory-layout assumptions remain recorded. Freshness holds were not counted as removals; a later fresh unchanged check admitted four of them. Additional static-copy byte verification is not deletion credit. Actively served previews and folders with unresolved membership differences remain preserved. No release check, scientific policy, audited record or training export changed.
