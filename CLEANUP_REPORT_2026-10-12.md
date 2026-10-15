@@ -390,3 +390,25 @@ The following three guarded removals subsequently completed. Each returned exit 
 These results add 91,168 removed file copies and 6,000,249,742 logical bytes. Cumulative totals are now 10,564,202 file copies and 540,198,671,554 logical bytes; the 600 GB goal remains unmet. A later reading reported around 22:09 UTC was 108,566,171,648 bytes free on C:, above the 107,374,182,400-byte (100 GiB) threshold at that observation. The before/after and later free-space readings occurred alongside other work and do not establish isolated physical recovery.
 
 Only the three selected reconstructible public static/dist subtrees were removed. Their snapshots, manifests, project parents and receipts were preserved, along with all prior HOLD evidence and protected original papers, page text, passes, pairs, private audits, training data and models. The earlier Batch 32 final-dist consumer HOLD remains separate with zero deletion credit.
+
+
+### Four further completed public-copy removals — 15 October 2026 (R4)
+
+Four additional guarded removals completed with exit code 0. Each receipt confirms the selected folder absent; both preview receipts also confirm their Git worktree registrations absent. The cleanup helpers stopped no programs.
+
+| Relative folder | File copies removed | Logical bytes removed | Started → completed (UTC) | C: free before (bytes) | C: free after (bytes) |
+| --- | ---: | ---: | --- | ---: | ---: |
+| `batch33/r/site-preview` | 40,372 | 2,454,383,960 | 2026-10-15T22:29:27.735379+00:00 → 2026-10-15T22:30:00.026176+00:00 | 103,597,813,760 | 106,172,854,272 |
+| `batch34/q/local-build/project/recipe-atlas/static` | 26,128 | 1,921,945,267 | 2026-10-15T22:32:49.816143+00:00 → 2026-10-15T22:33:12.281847+00:00 | 106,166,452,224 | 108,158,836,736 |
+| `batch34/q/local-build/project/recipe-atlas/dist` | 40,973 | 2,461,908,428 | 2026-10-15T22:35:17.834449+00:00 → 2026-10-15T22:35:51.972954+00:00 | 108,164,538,368 | 110,726,688,768 |
+| `batch32/r/site-preview` | 39,735 | 2,377,664,415 | 2026-10-15T22:37:12.453247+00:00 → 2026-10-15T22:37:54.022609+00:00 | 110,708,604,928 | 108,877,324,288 |
+
+These four disjoint results add **147,208 file copies** and **9,215,902,070 logical bytes**. Cumulative confirmed removal totals are **10,711,410 file copies** and **549,414,573,624 logical bytes**. The 600 GB cleanup goal remains unmet. No prior removal was counted again.
+
+C: free space was 108,877,324,288 bytes at the last removal receipt, above the 107,374,182,400-byte (100 GiB) threshold at that observation. The last row occurred alongside a final build and its free-space reading fell despite successful logical removal. None of these before/after readings establishes isolated physical recovery or guarantees later headroom. Reversible compression remains separate from deletion totals.
+
+The two preview copies passed complete raw published-Site Git byte, membership and closing-identity checks; the Batch 34 q copies passed their pinned public Source/input and generated-output reconstruction checks. Fresh consumer/native guards and exact-role checks preceded Root removal. Primary working Source `7f41a170cda51f3fc807e0de74b90fbd8cd14131` and Site `b96103d725f10cb8e2145619dd6d5a32b59b380d` were preserved. Cleanup changes no paper, audit, gold or publication accounting.
+
+Separately, Root retired only its own completed Batch 34 q preview, PID 34668 on port 18836, at 2026-10-15T22:26:11.5824677+00:00, after exact executable, arguments, creation-time, owner and port verification. Its earlier date-coercion HOLD remains preserved. This was a completed temporary preview retirement; the model server was not stopped or restarted, and no other programs were stopped.
+
+All previous HOLD/failure/no-replay evidence remains intact, with no new credit for unresolved held scopes. The four removals preserve their manifests, snapshots, journals and receipts, primary Source/Site working repositories, original papers, text, passes, pairs, private evidence/audits, training data and models. Every other scope remains outside this update.
