@@ -282,3 +282,16 @@ C: free space was 20,174,811,136 bytes before the first successful retirement in
 Every retired preview was bound to a previously published Site Git tree, verified byte for byte, and checked again for complete current membership, path containment, registration, metadata and active consumers before ordinary Git worktree removal. No other program was stopped. Original papers, owner folders, page text, quoted passes/pairs, training inputs, the active Qwen3-32B/CUDA runtime, the working Source/Site checkouts and the current release outputs remain protected.
 
 Initial zero-removal holds from Windows path spelling and historical directory-layout assumptions remain recorded. Freshness holds were not counted as removals; a later fresh unchanged check admitted four of them. Additional static-copy byte verification is not deletion credit. Actively served previews and folders with unresolved membership differences remain preserved. No release check, scientific policy, audited record or training export changed.
+
+
+## Cleanup checkpoint — 2026-10-15T18:18:42.376223+00:00
+
+Since the preceding checkpoint, 13 additional inactive generated preview copies were confirmed removed: 270,479 file copies / 13,603,110,220 logical bytes. All 33 preview retirements together total 912,471 file copies / 49,234,850,534 logical bytes; the first 20 were already reported and are not counted again here.
+
+A separate completed cleanup removed 20 verified regenerable public static copies: 466,441 file copies / 31,843,291,810 logical bytes. Each successful scope is unique. Held or unsuccessful attempts contribute no removal credit.
+
+This append adds only the newly unreported 33 copies: 736,920 file copies / 45,446,402,030 logical bytes. Current cumulative confirmed removal is 9,732,473 file copies / 490,109,382,577 logical bytes, including the historical unused-model removal once. These cumulative totals replace prior totals rather than being added to them. The original 600 GB target remains unmet.
+
+C: free space measured 90,875,891,712 bytes at 2026-10-15T18:18:42.376223+00:00. The 100 GiB (107,374,182,400-byte) headroom threshold remains unmet. Concurrent builds and disk activity prevent attributing free-space changes solely to cleanup.
+
+The completed scopes were verified against published Git content, with fresh complete membership, metadata, containment and active-consumer checks before removal. No other program was stopped by these operations. Original papers, owner folders, page text, quoted passes/pairs, training inputs, active models/CUDA, the working Source/Site checkouts and current release outputs remain protected. All prior holds and failed-attempt evidence remain preserved. No release check, scientific policy, audited record or training export changed.
