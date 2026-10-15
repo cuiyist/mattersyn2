@@ -348,3 +348,25 @@ The table reports measured free-space readings, not isolated physical recovery. 
 The fresh candidate-static proof remains HOLD with zero deletion. Three older distribution-proof HOLDs also contribute zero removal credit. The metadata-change cause is unknown; no responsible program was identified, and no program was stopped by these cleanup operations. The separate completed-preview lookup had no accepted existing mapping and adds no removal credit. All old HOLDs and failed-attempt evidence remain preserved.
 
 Successful scopes passed their public-byte, complete-membership, metadata, containment, current-role and active-consumer checks. Original papers, owner folders, page text, quoted passes/pairs, training inputs, active models/CUDA and working Source/Site checkouts were preserved. No release check, scientific policy, audited record, training export or publication credit changed.
+
+## Cleanup checkpoint — 2026-10-15T21:10:04.187468+00:00
+
+After B33's normal anonymous verification at 20:57:04 UTC and successful Pages deployment, two exact duplicate candidate-output leaves were removed. Paths below are relative to `research-assets/simple-website-20261010`; the final output, input snapshots, manifests and receipts were retained.
+
+| Removed generated scope | File copies | Logical bytes | C: free before | C: free after | Completed UTC |
+|---|---:|---:|---:|---:|---|
+| `batch33/r/candidate/project/recipe-atlas/static` | 25,646 | 1,845,273,134 | 106,018,516,992 | 107,932,966,912 | 2026-10-15T21:08:59.364496+00:00 |
+| `batch33/r/candidate/project/recipe-atlas/dist` | 40,361 | 2,381,265,110 | 107,933,732,864 | 110,421,483,520 | 2026-10-15T21:10:04.187468+00:00 |
+
+These two unique successful removals add **66,007 file copies / 4,226,538,244 logical bytes**. Cumulative confirmed removal is now **10,473,034 file copies / 534,198,421,812 logical bytes**. Previously counted paths remain counted once; held and failed attempts add zero. The original **600 GB cleanup goal remains unmet**.
+
+The last recorded C: free-space reading was **110,421,483,520 bytes**, above the 100 GiB headroom threshold of 107,374,182,400 bytes at that observation. The before/after readings are concurrent disk observations; they are **not isolated physical-recovery measurements**, and no persistent future headroom is promised. Compression remains separate from deletion accounting.
+
+Both fresh scopes passed complete public-byte, membership, identity, containment, current-role and native consumer/CWD checks; all verification handles were closed before removal. Their actual receipts record exit code 0, roots absent and **0 programs stopped**. The initial R1 ancestry HOLDs remain preserved with **zero removal credit**: Root confirmed that the historical merge object was missing locally, then performed an ordinary fetch of `origin/main` to obtain merge `37c7da9d0a678ce22235c8a942fda452b05a4d99`, while Source HEAD and files stayed unchanged. Acceptance predicates were unchanged; new R2 proof/attempt outputs were used, with no replay of the failed outputs.
+
+Actual removal receipts are retained privately at:
+
+- `engineering/b33-candidate-static-dist-cleanup-readiness-private-20261015-r2/static/attempts/b33_candidate_static-rank-01/result.json`
+- `engineering/b33-candidate-static-dist-cleanup-readiness-private-20261015-r2/dist/attempts/rank-01/result.json`
+
+B33's final output, working Source/Site checkouts, Qwen server/model/CUDA, original papers and owner folders, text/pass/pair evidence, training inputs, other private data, snapshots and all old HOLD/failure evidence were preserved. No release gate, scientific/audit status, audited baseline, training export or publication credit changed through this cleanup.
