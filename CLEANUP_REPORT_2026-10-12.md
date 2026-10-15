@@ -370,3 +370,23 @@ Actual removal receipts are retained privately at:
 - `engineering/b33-candidate-static-dist-cleanup-readiness-private-20261015-r2/dist/attempts/rank-01/result.json`
 
 B33's final output, working Source/Site checkouts, Qwen server/model/CUDA, original papers and owner folders, text/pass/pair evidence, training inputs, other private data, snapshots and all old HOLD/failure evidence were preserved. No release gate, scientific/audit status, audited baseline, training export or publication credit changed through this cleanup.
+
+
+A further Batch 32 generated public build copy passed the full reconstruction check for 39,724 files and 2,305,432,770 logical bytes. The held folder is `batch32/r/final/project/recipe-atlas/dist`. The fresh consumer guard identified direct-consumer PID 19900 and held removal before any removal attempt. The program name is unavailable and unconfirmed; Root's follow-up found that PID absent, and the cause of the hold remains unconfirmed. This attempt removed zero file copies and zero bytes, and stopped no programs. The folder remains held.
+
+Cumulative removal totals remain 534,198,421,812 logical bytes across 10,473,034 file copies, so the 600 GB goal is still unmet. C: free space measured 109,670,772,736 bytes before this held check and 109,669,806,080 bytes afterward; a later reading was 107,224,707,072 bytes, which is 149,475,328 bytes below the 100 GiB threshold. These concurrent-work readings do not establish isolated physical recovery. The Batch 33 final-build alternative is pending and contributes no removal result or credit to this update.
+
+
+### Later completed removals — 15 October 2026
+
+The following three guarded removals subsequently completed. Each returned exit code 0 and confirmed the selected folder absent after removal; no programs were stopped.
+
+| Relative folder | File copies removed | Logical bytes removed | Completed (UTC) | C: free before (bytes) | C: free after (bytes) |
+| --- | ---: | ---: | --- | ---: | ---: |
+| `batch33/r/final/project/recipe-atlas/static` | 25,646 | 1,845,273,134 | 2026-10-15 21:59:08 | 102,315,397,120 | 104,229,273,600 |
+| `batch33/r/final/project/recipe-atlas/dist` | 40,361 | 2,381,265,110 | 2026-10-15 22:00:54 | 104,238,055,424 | 106,726,715,392 |
+| `batch32/r/final/project/recipe-atlas/static` | 25,161 | 1,773,711,498 | 2026-10-15 22:08:26 | 106,719,522,816 | 108,567,011,328 |
+
+These results add 91,168 removed file copies and 6,000,249,742 logical bytes. Cumulative totals are now 10,564,202 file copies and 540,198,671,554 logical bytes; the 600 GB goal remains unmet. A later reading reported around 22:09 UTC was 108,566,171,648 bytes free on C:, above the 107,374,182,400-byte (100 GiB) threshold at that observation. The before/after and later free-space readings occurred alongside other work and do not establish isolated physical recovery.
+
+Only the three selected reconstructible public static/dist subtrees were removed. Their snapshots, manifests, project parents and receipts were preserved, along with all prior HOLD evidence and protected original papers, page text, passes, pairs, private audits, training data and models. The earlier Batch 32 final-dist consumer HOLD remains separate with zero deletion credit.
