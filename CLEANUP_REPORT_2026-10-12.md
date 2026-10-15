@@ -328,3 +328,23 @@ Current cumulative confirmed removal is **10,278,214 file copies / 521,982,247,9
 The final removal receipt recorded C: free space of **113,258,561,536 bytes** at 2026-10-15T19:59:21.204552+00:00. The 100 GiB (107,374,182,400-byte) headroom threshold was met at that reading. This is a dated free-space observation, not an isolated physical-recovery measurement; subsequent build and disk activity continue.
 
 Full public-byte verification and fresh complete-membership, metadata, containment and active-consumer checks preceded both removals. No programs were stopped. Original papers, owner folders, page text, quoted passes/pairs, training inputs, active models/CUDA and working Source/Site checkouts were preserved. All prior HOLDs and failed-attempt evidence remain preserved. No release check, scientific policy, audited record, training export or publication credit changed.
+
+
+## Cleanup checkpoint — 2026-10-15T20:35:11.879425+00:00
+
+Four additional regenerable public-output scopes were confirmed removed after the previous report checkpoint. Their exact relative paths and actual removal-receipt measurements are:
+
+| Removed generated scope | File copies | Logical bytes | C: free before | C: free after | Completed UTC |
+|---|---:|---:|---:|---:|---|
+| `batch31/r2/final/project/recipe-atlas/static` | 24,736 | 1,691,201,147 | 99,671,953,408 | 100,321,460,224 | 2026-10-15T20:24:00.037991+00:00 |
+| `batch31/r2/final/project/recipe-atlas/dist` | 39,192 | 2,219,290,232 | 100,316,409,856 | 102,302,519,296 | 2026-10-15T20:27:20.985974+00:00 |
+| `batch32/q/local-build/project/recipe-atlas/static` | 25,161 | 1,773,711,498 | 102,294,798,336 | 104,135,753,728 | 2026-10-15T20:33:05.058643+00:00 |
+| `batch32/q/local-build/project/recipe-atlas/dist` | 39,724 | 2,305,432,770 | 104,080,461,824 | 106,490,548,224 | 2026-10-15T20:35:11.879425+00:00 |
+
+These four unique successful removals add **128,813 file copies / 7,989,635,647 logical bytes**. Current cumulative confirmed removal is **10,407,027 file copies / 529,971,883,568 logical bytes**. Prior removals are retained once; held or unsuccessful scopes add zero credit. The original 600 GB cleanup target remains unmet.
+
+The table reports measured free-space readings, not isolated physical recovery. Concurrent builds and disk activity prevent attributing the before/after differences solely to deletion. A subsequent recorded C: reading was 106,482,892,800 bytes (about 99.17 GiB), below the 100 GiB headroom target. This soft headroom shortfall is not a release gate.
+
+The fresh candidate-static proof remains HOLD with zero deletion. Three older distribution-proof HOLDs also contribute zero removal credit. The metadata-change cause is unknown; no responsible program was identified, and no program was stopped by these cleanup operations. The separate completed-preview lookup had no accepted existing mapping and adds no removal credit. All old HOLDs and failed-attempt evidence remain preserved.
+
+Successful scopes passed their public-byte, complete-membership, metadata, containment, current-role and active-consumer checks. Original papers, owner folders, page text, quoted passes/pairs, training inputs, active models/CUDA and working Source/Site checkouts were preserved. No release check, scientific policy, audited record, training export or publication credit changed.
