@@ -412,3 +412,30 @@ The two preview copies passed complete raw published-Site Git byte, membership a
 Separately, Root retired only its own completed Batch 34 q preview, PID 34668 on port 18836, at 2026-10-15T22:26:11.5824677+00:00, after exact executable, arguments, creation-time, owner and port verification. Its earlier date-coercion HOLD remains preserved. This was a completed temporary preview retirement; the model server was not stopped or restarted, and no other programs were stopped.
 
 All previous HOLD/failure/no-replay evidence remains intact, with no new credit for unresolved held scopes. The four removals preserve their manifests, snapshots, journals and receipts, primary Source/Site working repositories, original papers, text, passes, pairs, private evidence/audits, training data and models. Every other scope remains outside this update.
+
+
+## 2026-10-15 23:32 UTC — three more verified generated public copies removed
+
+Root completed three separate removals after actual full-byte reconstruction proofs and fresh admission checks. These were generated public copies only; the retained final release, Source/Site checkouts, manifests, snapshots, receipts, paper evidence, models and training data remain protected. B35 integration began after these removals and remains outside these scopes.
+
+| Exact path relative to `research-assets/simple-website-20261010` | UTC start → finish | File copies removed | Logical bytes removed | C: free before → after (bytes) |
+| --- | --- | ---: | ---: | ---: |
+| `batch34/r/candidate/project/recipe-atlas/static` | 2026-10-15T23:28:26.706634Z → 2026-10-15T23:28:45.080347Z | 26,128 | 1,921,945,267 | 102,543,003,648 → 104,534,970,368 |
+| `batch34/r/candidate/project/recipe-atlas/dist` | 2026-10-15T23:28:45.209864Z → 2026-10-15T23:29:06.213863Z | 40,973 | 2,461,908,428 | 104,534,671,360 → 107,112,882,176 |
+| `batch33/r/site-stage` | 2026-10-15T23:31:45.9396635Z → 2026-10-15T23:32:36.3775475Z | 40,361 | 2,381,265,110 | 107,081,740,288 → 109,570,072,576 |
+
+The B34 static and dist receipts both report `REMOVED`, exit code 0 and absent roots. The B33 site-stage receipt reports `completed=true` and its sole scope removed; its prior proof reports `MATCH` for all 40,361 files with no missing, unknown or mismatched leaves. All three report zero programs stopped; no originals or training data were deleted.
+
+This adds **107,462 file copies / 6,765,118,805 logical bytes**. The cumulative total is now **10,818,872 file copies / 556,179,692,429 logical bytes removed**. The **600 GB cleanup goal remains unmet**. Compression is separate and excluded from these deletion totals. The three successful receipts add no credit for older failed, held or partial attempts; all prior HOLD records, failure evidence, journals and no-replay protections remain preserved.
+
+The last dated free-space observation was **109,570,072,576 bytes at 2026-10-15T23:32:36.3775475Z**, above the 100 GiB (107,374,182,400-byte) operating target at that instant. These readings occurred amid other work and do not establish isolated physical recovery or guarantee later headroom. The 100 GiB target is an operational cleanup trigger, not a release-check bypass or release gate.
+
+Evidence (SHA256; full metadata and journals remain private):
+
+- `engineering/b34-r-candidate-static-dist-cleanup-readiness-private-20261015-r2/static/attempts/b34_r_candidate_static-rank-01/result.json`: `0c89f8076d9ba1e855ddab432d4c12772bd6bd87c1a1eead61ed38a9a772ed54`; preceding full-byte proof `7c4b51a04858bef2d755f1d20a7c1b9ec230800c994827774b3a2ff0e5e71323`.
+
+- `engineering/b34-r-candidate-static-dist-cleanup-readiness-private-20261015-r2/dist/attempts/rank-01/result.json`: `3678e4d06e063d408ed830df222210745b0ae8e2736c57b5837e6fee781ed82d`; preceding full-byte proof `befd81ca955a140856e99b1c7d6a5a5d5d8219eedabbf1f373089b5ee72bdf49`.
+
+- `batch33/site-stage-cleanup.actual-r1.json`: `1c53e22825768ab538265459b96ff5b6ae3c9623015716e5db0c9e53492c4c93`; preceding full-byte proof `680c4f34492ad29e4729136a351bc0be41d61a4878a3a11cdc0ec83d4f6c1592`.
+
+- B34 dist Source-input raw Git proof: `2e70cb0184fdc560f8d1345fde7536034b094f4b5a08c7e67cde7bd8a108a4f3`. B33 stage verified leaf-map: `d5de2549020b677802586a1e9ea86fe89e1018b9d07bbf007086baab891a87f8`; Root-bound remover: `b8992c4ecfa40bfe4d5336158bdf535666d544be7ccbf465b7b62d845e591b62`.
