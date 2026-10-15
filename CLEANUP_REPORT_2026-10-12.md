@@ -317,3 +317,14 @@ Current cumulative confirmed removal is **10,212,207 file copies / 517,755,709,6
 C: free space measured **108,898,209,792 bytes** at 2026-10-15T19:53:33.937706+00:00. The 100 GiB (107,374,182,400-byte) headroom threshold was met at this reading. The latest completed removal separately recorded 108,896,157,696 bytes free afterward. These are dated free-space observations, not isolated physical-recovery measurements; concurrent builds and other disk activity continue.
 
 Fresh public-byte, complete-membership, metadata, containment and active-consumer checks preceded the successful removals. No programs were stopped by these operations. Original papers, owner folders, page text, quoted passes/pairs, training inputs, active models/CUDA and working Source/Site checkouts were preserved. All earlier holds and failed-attempt evidence remain preserved. No release check, scientific policy, audited record or training export changed.
+
+
+## Cleanup checkpoint — 2026-10-15T19:59:21.204552+00:00
+
+Two additional completed regenerable public-output scopes were confirmed removed: one public static copy and one generated distribution copy. The unique successful scopes total **66,007 file copies / 4,226,538,244 logical bytes**. Held, failed or incomplete attempts contribute no removal credit.
+
+Current cumulative confirmed removal is **10,278,214 file copies / 521,982,247,921 logical bytes**. This adds only these two newly reported scopes to the previous checkpoint and retains prior removals once. The original 600 GB target remains unmet.
+
+The final removal receipt recorded C: free space of **113,258,561,536 bytes** at 2026-10-15T19:59:21.204552+00:00. The 100 GiB (107,374,182,400-byte) headroom threshold was met at that reading. This is a dated free-space observation, not an isolated physical-recovery measurement; subsequent build and disk activity continue.
+
+Full public-byte verification and fresh complete-membership, metadata, containment and active-consumer checks preceded both removals. No programs were stopped. Original papers, owner folders, page text, quoted passes/pairs, training inputs, active models/CUDA and working Source/Site checkouts were preserved. All prior HOLDs and failed-attempt evidence remain preserved. No release check, scientific policy, audited record, training export or publication credit changed.
