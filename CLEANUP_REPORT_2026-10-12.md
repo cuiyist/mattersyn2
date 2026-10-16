@@ -536,3 +536,18 @@ New confirmed removals: **9,380,375,484 logical bytes / 149,058 copies**. Cumula
 The latest completed cleanup reading was 111,095,889,920 free bytes, above 100 GiB (107,374,182,400 bytes), at 2026-10-16T00:24:47.924323+00:00. Root continues to measure C: at wake-up and before large builds and to prioritize only verified reconstructible cleanup below that threshold. The threshold is an operating cleanup target, not a release gate.
 
 Separately, Root retired its own completed B35 q visual preview (PID 2936, port 18838) at 00:25:54 UTC after exact executable/command/creation/owner/socket checks and moving its tab to the live site. No model or other program was stopped; this adds no deletion credit. B35 all 13 local phases and desktop/phone checks passed; Source PR #55 is open and CI/publication remain pending. No B35 paper credit is added here.
+
+
+## R12 — verified completed B35 Source projection removal, 2026-10-16 06:03 UTC
+
+Removed one redundant, machine-generated Source projection: `batch35/q2/source-boundary`, **33,692 file copies / 2,401,984,030 logical bytes**. The operation started at 2026-10-16T06:02:39.453016+00:00 and finished at 2026-10-16T06:03:04.058183+00:00; the actual result confirms REMOVED, exit 0 and the exact target absent. Zero programs were stopped. Result SHA256: `5c5da1d3647b6c8a1f8ae02dd3e50063cdd60fb64144f138db7fe7db1b1c1db2`.
+
+The R11b cumulative baseline was 604,362,204,987 logical bytes / 11,556,557 copies. Adding only this new unique result gives **606,764,189,017 cumulative logical bytes / 11,590,249 file copies**. These are counts of redundant copies removed, not isolated net physical recovery or a claim that all cleanup work is complete. No earlier HOLD is counted.
+
+C: free space was **100,796,436,480 bytes before** and **103,298,109,440 bytes after** this operation. At the finished-at reading, free space remained **4,076,072,960 bytes below the soft 100 GiB aim (107,374,182,400 bytes)**. Concurrent ordinary build activity prevents attributing the physical-space change solely to this removal. The soft storage aim is not a publication gate.
+
+Admission used the genuine full-byte public-Source reconstruction proof, complete file and directory membership, stable identity/closing metadata, exact literal containment, ordinary-file/no-reparse and Git-ownership checks, fresh current-role checks and native consumer/CWD checks. The accepted whole-directory method has a finite, non-atomic interval between admission and removal; it does not assert a continuing per-leaf lease. The original public-merge-missing Source-proof HOLD and the separately reviewed successful post-fetch proof remain preserved.
+
+Prior B35/B32 closing-metadata HOLDs, B30 missing-file HOLD, B29 missing-proof HOLD and the conservative old-preview parent-prefix consumer HOLD remain unchanged and uncounted. The protected corrected-release preview can match that conservative parent-prefix check; this does not establish that the old preview files are being served. No unknown program is blamed for metadata drift. No HOLD target was retried in this operation.
+
+Source/Site checkouts, active builds and previews, original PDFs and paper text, quoted passes/pairs, training data, private audit material, model files/server and owner folders were preserved. No PDF, model or scientific input was deleted. The pooled release remains pending ordinary release completion; this report adds no publication, independent-audit or training credit, and the audited lane remains paused.
