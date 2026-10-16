@@ -605,3 +605,18 @@ This addition counts **69,527 file copies / 4,692,474,925 logical bytes** once. 
 Cleanup stopped **zero programs**. The owner separately retired the obsolete q3 preview through exact identity/listener checks after replacement browser verification; that lifecycle action contributes no files or bytes. No original papers, quoted source material, training inputs, scientific records, model data, or user folders were deleted.
 
 The observed C: readings are measurements, not isolated physical-recovery attribution: other release work was concurrent. A later read-only observation at 2026-10-16T08:57:36.461445+00:00 found **87964876800 free bytes**, with a **19409305600-byte shortfall** against the 100 GiB soft aim. This aim is not a release gate. Logical copy totals do not establish isolated net physical recovery or completion of a 600 GB storage goal. No publication, independent-audit, gold or training credit is added by cleanup.
+
+
+## R16 — Completed retired B36 release-preview worktree cleanup (2026-10-16)
+
+Only the retired generated Site worktree `batch36/r/site-preview` was removed through the proper Git worktree lifecycle. Its complete files matched the genuine published Site revision, followed by fresh native consumer/CWD and closing metadata checks. The removal receipt records Git exit 0, the target root absent and its worktree registration absent. The current Source/Site checkouts, retained final release, manifests, snapshots and receipts were outside this scope.
+
+| Exact relative generated-copy subtree | File copies removed | Logical bytes | Started UTC | Finished UTC | C: free before (bytes) | C: free after (bytes) |
+| --- | ---: | ---: | --- | --- | ---: | ---: |
+| `batch36/r/site-preview` | 42364 | 2699642449 | 2026-10-16T09:26:11.710020+00:00 | 2026-10-16T09:26:33.546815+00:00 | 86843191296 | 89670021120 |
+
+This addition counts **42,364 file copies / 2,699,642,449 logical bytes** once. Added to the prior **11,770,805 copies / 618,755,032,504 logical bytes**, the cumulative confirmed copy-removal ledger is **11,813,169 copies / 621,454,674,953 logical bytes**. All prior HOLDs and failed setup attempts remain historical evidence and contribute zero removal credit.
+
+Cleanup stopped **zero programs**. The owner had separately retired this temporary preview after the genuine live/browser checks; that earlier lifecycle action contributes no files or bytes here. No original papers, quoted source material, training inputs, scientific records, model data or user folders were selected.
+
+The recorded C: free-space observations were **86843191296 bytes** before and **89670021120 bytes** after. Concurrent work prevents attributing their difference as isolated physical recovery. The latter observation remains **17704161280 bytes below 100 GiB**; no 100 GiB achievement is claimed. Cumulative logical copy totals do not establish isolated physical recovery or completion of a 600 GB storage goal. This cleanup adds no publication, independent-audit, gold or training credit.
