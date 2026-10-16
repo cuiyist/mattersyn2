@@ -835,3 +835,18 @@ Proof pins (SHA-256):
 - `batch15/r/candidate/project/recipe-atlas/dist`: removal`cc60dbaa09944c4bb510e9e4aa01582cf4f1f6c32e7b860732dea70bb0d0d900`; full-byte proof`e7df7912caff4a697015e801bc0d97a72c4050aaf6d8f77b707c7e2b996c3c99`; native CWD/Consumers journal`d9f6ea74e4a71eadbc0c48228d3b88d0846c9304925ca914c5eef50362ce056e`.
 - `batch15/r/final/project/recipe-atlas/dist`: removal`9bae158378b061afd184958fecd75d75d6b101d1aa348a1c54a7d2245b687a5b`; full-byte proof`54522a7a197fe2f7382cd3faf59b4e30752120aa06f597104961db7e1709033f`; native CWD/Consumers journal`8520b6105c0aace300a43995a3252311c4d9467b8ab22e7c7c4d3545d557d6aa`.
 - Excluded B18 candidate HOLD`c024ab69127acf0efe81fb85d0d461c999e0413fcae2ec3ebf189992a81457d7`; original-Source input proof groups`2820c2e1e5d032ab2579604b5dfe5accb8767e2ab23da1c2fd570d042692768c` and`7e86c3bef3678a6b96d2f55bb634b2aa152d639ceecbcc5f318942612684e5ea`.
+
+
+## 2026-10-16 R28 — completed B40 q-r2 public Source-boundary removal
+
+Root completed the exact inactive exported Source-boundary directory after its genuine closed full-byte raw SourceGit reconstruction proof and fresh native CWD/Consumers, current-role, full membership/closing metadata and literal-directory guards passed. The original proof remains evidence with `cleanup_eligible: false`; deletion was a separate reviewed Root action, collected with exit code 0. This is a raw public Source projection, not a SiteGit or generated-dist reconstruction claim.
+
+| Removed relative path | Copies | Logical bytes | Actual UTC interval | C: free before → after (bytes) |
+| --- | ---: | ---: | --- | --- |
+| `batch40/q-r2/source-boundary` | 36169 | 2695804496 | 2026-10-16T17:33:19.443124+00:00 → 2026-10-16T17:33:42.534064+00:00 | 62188220416 → 64993439744 |
+
+Increment: **36,169 copies / 2,695,804,496 logical bytes**. Cumulative through R28: **12,834,197 copies / 686,821,049,878 logical bytes**. Zero programs were stopped. The dated C: readings occurred during concurrent work and do not establish isolated physical recovery; the saved after-reading is below the soft 100 GiB threshold. No current free-space amount, threshold achievement or 600 GB physical-recovery claim is made. Any fresh publisher-time reading is recorded separately.
+
+All earlier HOLDs remain unchanged with zero new credit and no retry, including the B18 candidate dist and the B21/B22 source-boundary directory-size changes. Their historical change causes and responsible programs are not established. Original papers, text, quoted pairs, crops/captions, model/training/private inputs, Source/Site working checkouts, active builds/previews, historical snapshots/manifests/receipts and protected baselines were outside this single exported-copy scope. The audited lane remains paused; cleanup adds no paper, scientific-audit, training or publication credit.
+
+Proof pins (SHA-256): actual removal`f1ec1442f890c895da91cbe0b21cfa8f9de649d6ca9b4a84cf3454e2f9c5012b`; genuine closed original full-byte report`3f27323e563b55675f87c09c383df8fae608bd17d9ee13e65edd5e3b7444a059`; administrative receipt binding`4cc266420fee70696c1483c1cff9415d6a72935e711bd51f1fd859df1b5222d1`; fresh native CWD/Consumers journal`fe478f42665915ab15fbbf347b3526567d3c3524b7a4e61c31a1ee427030c30d`.
