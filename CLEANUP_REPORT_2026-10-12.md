@@ -942,3 +942,16 @@ Proof pins (SHA-256; removal / closed static proof / native CWD-Consumers journa
 - `batch09/q/local-build/project/recipe-atlas/static`: `7da19099a92a6da1034ec4311936decaa45271e4a2d7343683c52197b6f04349` / `b574c002d4bc9ae9dc6e7735f8ffa66a96ac60773b9edef4432cd17ddf26b9ad` / `b2e6023ed7b41e0f171a22a201e2054fc99f84d53e60047af85f1fafb4ade1d6`.
 - Original failed producer summary: `a758bb6123c0ccdf4d4b01bc055d5914c9b704c3554833234d178798382d6dcb`; selection matrix `ea14ba28b840d6afb65837de3a6711ae2e45397aa054fd662d2d9a3438f7b794`; preserved excluded HOLDs `d8130c35ad76898bbcc6d6e84c126527a03977869113d77de76ed340825ac7cb`.
 - Original failed producer summary: `cfe21229bfcc5873aeb815dffd36635e3e86309a97e273cc98745f7e37c89b58`; selection matrix `b72b470094bb0767cabddcede88bd34594d808b91a4ed8c5d5b9a6f4678bdf33`; preserved excluded HOLDs `77fc283fe1f32a77917ccd3131c7746539d72e006f2fb71878554c8c4efb6714`, `121bfee190b455ff2ee035a6aeb52f7a5a5b711411900cc155619df91fcf4b26`.
+
+
+## R32 — one completed public Source-export copy removal (2026-10-16 UTC)
+
+One additional redundant generated Source export, `batch30/q5/source-boundary`, was actually removed after a complete raw-byte reconstruction proof, complete closing file and directory metadata checks, fresh native CWD/consumer closure, and clean Source/Site role checks. The original full-byte proof was MATCH for all **31,585 files / 2,086,588,158 logical bytes**. The guarded removal returned exit code zero and confirmed the literal root absent.
+
+| Relative generated-copy path | Removed file copies | Logical bytes | Removal began UTC | Attempt completed UTC | C: free before (bytes) | C: free after (bytes) |
+| --- | ---: | ---: | --- | --- | ---: | ---: |
+| `batch30/q5/source-boundary` | 31,585 | 2,086,588,158 | 2026-10-16T20:10:12.048849+00:00 | 2026-10-16T20:10:18.278990+00:00 | 65,889,042,432 | 68,069,724,160 |
+
+The additional removal raises the cumulative redundant-copy accounting from **715,047,523,977 logical bytes / 13,256,445 file copies** to **717,134,112,135 logical bytes / 13,288,030 file copies**. These are cumulative logical bytes and copies, not a measurement of isolated physical disk recovery. The dated free-space readings occurred during concurrent work and do not establish an isolated gain, current capacity, completion of the requested physical 600 GB recovery, or achievement of the soft 100 GiB free-space aim.
+
+No programs were stopped for this removal. The fresh native journal records zero unknown CWD owners; it is not a claim of universal HTTP ownership measurement. Original papers, private quoted evidence, model files, training inputs, snapshots, and retained receipts were outside the selected generated subtree. All earlier HOLDs remain preserved with zero removal credit and no automatic retry. In particular, the separate profile-06 Source-boundary proof remains HOLD for changed closing membership/identity; its cause is unestablished and no program is attributed. Other pending or held scopes add no credit here. This storage entry adds no paper-publication, scientific-audit, or training-readiness credit; the audited lane remains paused.
