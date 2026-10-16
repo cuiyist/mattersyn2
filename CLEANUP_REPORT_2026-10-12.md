@@ -1,3 +1,18 @@
+## Verified update — 2026-10-16T03:11:29.543765+00:00
+
+Removed two superseded old Batch 35 local q build subtrees: **67,999 file copies / 4,509,791,085 logical bytes**. Actual C: free bytes were **99,499,057,152 before → 104,197,242,880 after**. These are concurrent observations, not isolated physical-recovery measurements.
+
+- `batch35/q/local-build/project/recipe-atlas/static`: 26,509 copies / 1,983,023,214 logical bytes; receipt `b21d4bc8aff4910cb482a9972bb5eaae614afbbfa4dbc1b746070e045e6e0385`.
+- `batch35/q/local-build/project/recipe-atlas/dist`: 41,490 copies / 2,526,767,871 logical bytes; receipt `79265e12a802d32bb1cf5ee0531f4d3ca4478d7130f6b6b5615fd1f3ca5af1ed`.
+
+Confirmed cumulative removed generated copies: **583,954,063,069 logical bytes / 11,246,686 files**. The 600 GB goal remains unmet by 16,045,936,931 bytes. This C: observation remains 3,176,939,520 bytes below the soft 100 GiB headroom aim; further bounded cleanup is being prepared.
+
+Full raw-byte reconstruction was verified against the original public Source Git inputs, saved build snapshots and genuine generated manifests. These outputs were not deployed Site Git files; no such claim is made. Fresh complete membership/metadata, exact Source/Site roles, literal absolute paths, reparse and native consumer/CWD checks passed before each Root-only removal. Both directories are absent. The admission-to-removal interval is bounded, not atomic. The initial missing-local-merge-object attempt and earlier failed candidate remain preserved.
+
+Zero programs were stopped and no folder was held in these two removals. A separate old q/source-boundary candidate remains on HOLD: all 33,699 leaf hashes passed, but closing complete metadata differed. It was not deleted or retried; no program can be named from that receipt. At 03:18:16 UTC Root retired only obsolete owned preview PID48968 after matching its creation, owner, executable, argv and listener to the original receipt and checking replacement PID35620. Qwen21160 and other programs were untouched. Two retirement-helper failures occurred before any stop: missing guard initialization and default JSON timestamp precision loss. Both were preserved and fixed without removing identity checks. The old preview files have not yet been deleted. The served old preview, current q2 build, Source/Site working checkouts, papers, owner-created folders, page text, quoted passes/pairs/training data, private audits and active Qwen3-32B model/server/CUDA build were outside deletion scope. No website publication or scientific-audit credit is added.
+
+---
+
 ## Verified update — 2026-10-16T03:00:38.664075+00:00
 
 Removed five superseded, never-deployed Batch 35 build subtrees: **177,488 file copies / 11,546,350,041 logical bytes**. Actual C: free bytes were **87,457,800,192 before → 99,501,936,640 after**. These are concurrent observations, not isolated physical-recovery measurements.
