@@ -1,3 +1,18 @@
+## Verified update — 2026-10-16T04:26:53.625326+00:00
+
+Removed **64,476 verified redundant generated file copies /4,353,228,953 logical bytes** in two distinct Root-only operations. Confirmed cumulative removed copies: **588,307,292,022 logical bytes /11,311,162 files**. The 600 GB target remains unmet by 11,692,707,978 bytes.
+
+- `batch33/q-r2/source-boundary`: 32,741 file copies /2,257,288,450 logical bytes; all directories retained. Complete actual result `670718f849bfd2b117d84437e8faa00cbd960f9864133f382bb80a7f1fba0b1e`; genuine full-byte Source reconstruction proof `b3912dc00fa79bbc180ad8f2bc48a401db368b41fcf095ee0d74a7abdb1cd412`. Started 2026-10-16T03:49:24.2319812+00:00, finished 2026-10-16T04:26:15.7976810+00:00; C: 88,566,489,088 before to 90,817,863,680 after. All leaves passed their original public-source byte, identity and native-consumer checks; zero held leaves, zero program stops.
+- `batch31/q/source-boundary`: 31,735 file copies /2,095,940,503 logical bytes; the exact machine-created directory is absent. Complete actual result `418de7752562e908c27d4d98bc39a1343742addfdd9d4621920477ba572ba66b`; genuine full-byte Source reconstruction proof `c18c132fcf699a162e4e570b49c8b5795a96e873cca6091febe07820e0252d59`. Started 2026-10-16T04:26:30.525713+00:00, finished 2026-10-16T04:26:53.625326+00:00; C: 90,812,411,904 before to 92,990,951,424 after. Root independently reviewed the existing finite whole-directory model; full file/directory membership, raw source identities, literal path, no-reparse/Git-owner, fresh roles and consumer checks passed. This strategy has a finite non-atomic admission-to-removal interval; it does not claim continuing per-leaf leases. Zero program stops.
+
+The last observation is 14,383,230,976 bytes below the soft 100 GiB headroom aim. Concurrent free-space readings do not isolate physical recovery. The two operations changed neither working checkout nor scientific/model inputs; current publication resumed only after the remover exited.
+
+Additional candidates remain held and are not credited or retried: old B35 q/source-boundary and B32 q-r2/source-boundary passed leaf hashes but differed in closing complete metadata; the saved final rows do not establish a cause or owning program. B30 q4/source-boundary had 6,980 of 31,592 expected files (24,612 missing, no unknown files), so no leaf hashing or deletion was attempted. Missing files are not new cleanup credit. B29 q-native-r2 lacks a genuine complete source-body proof. The old B35 r/site-preview passed its raw proof but is conservatively held because the consumer prefix `batch35/r` also matches current Root r2 publisher/preview paths; this is a guard match, not an established operating-system file lock. No guard was weakened and no such process was stopped.
+
+At 04:00:01 UTC Root retired only its obsolete q2 preview PID35620 after exact original/replacement creation, owner, executable, argv and listener checks. Replacement preview PID47008 and the active Qwen server21160 remained running. Corrected q2 build files remain; their metadata readiness is not full-byte deletion clearance. Original papers, owner folders, page text, quoted pass/pair/training files, private audits, credentials, active Qwen3-32B model/server/CUDA build and Source/Site working checkouts remain protected. No publication, scientific-audit or training credit is added by this report.
+
+---
+
 ## Verified update — 2026-10-16T03:11:29.543765+00:00
 
 Removed two superseded old Batch 35 local q build subtrees: **67,999 file copies / 4,509,791,085 logical bytes**. Actual C: free bytes were **99,499,057,152 before → 104,197,242,880 after**. These are concurrent observations, not isolated physical-recovery measurements.
