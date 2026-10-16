@@ -871,3 +871,29 @@ Proof pins (SHA-256):
 
 - `batch20/q-label-fix-r2/source-boundary`: removal`e6bc7bbdd11b204ef47a7ad29ba7cd844628eb8c17a3281c5f9a77725b0ca1c1`; genuine original full-byte report`7d83295a35e49b465ebb05baf51b3f27ac623a9f50e7071b36c21847407c0c35`; administrative binding`0561bb7adb773f2b92493f834c81ca02a5a1db2e3af65efa4e71c7162c7bedd9`; native CWD/Consumers journal`ce335bc34ccde0dd13ca0854b27cc906f6b04216935aa5372c2c68b481ebd6d3`.
 - `batch23/q-r2/source-boundary`: removal`a3812bcadcab21eed770b51973dcbb86c70034f4f7316dd51d136a952a3f8ece`; genuine original full-byte report`0988c44ca9e3ea2d780a611b537afe4a63a8f133ff6725659c0893dd1cb16573`; administrative binding`a718958349fd7cc0eb1261cbe4bcb51609c59c7bd01592e4dce653705497dbe2`; native CWD/Consumers journal`f2fc2bda5057faf8b99ac48b3bff8ff63c2313c035dc0ab4cf74e986e66b1c46`.
+
+
+## 2026-10-16 R30 — four completed public Source/static removals; fifth admission held
+
+Root reviewed the full core, adapter and literal PowerShell removal script, then collected the selected-five command with overall exit code 0. Individual receipts govern its outcome: **four REMOVED, one HOLD before any removal attempt**. The four static subtrees had genuine per-root dual raw-SHA256/Git-blob-SHA1 proofs, exact snapshot/SourceGit maps, fresh complete metadata/membership and native CWD/Consumers/current-role closure. No whole-Source-body, SiteGit or3f-proof substitution was used.
+
+| Removed relative path | Copies | Logical bytes | Actual UTC interval | C: free before → after (bytes) |
+| --- | ---: | ---: | --- | --- |
+| `batch20/q-label-fix-r2/local-build/project/recipe-atlas/static` | 22408 | 1519312412 | 2026-10-16T18:54:33.009339+00:00 → 2026-10-16T18:54:51.973192+00:00 | 50671722496 → 52250079232 |
+| `batch20/r/candidate/project/recipe-atlas/static` | 22408 | 1519312412 | 2026-10-16T18:54:51.980190+00:00 → 2026-10-16T18:55:11.621697+00:00 | 52250079232 → 53838016512 |
+| `batch20/r/final/project/recipe-atlas/static` | 22408 | 1519312412 | 2026-10-16T18:55:11.632696+00:00 → 2026-10-16T18:55:31.479159+00:00 | 53838077952 → 55416541184 |
+| `batch19/r/candidate/project/recipe-atlas/static` | 22057 | 1500651464 | 2026-10-16T18:55:31.492247+00:00 → 2026-10-16T18:55:54.394769+00:00 | 55416438784 → 56985972736 |
+
+Increment: **89,281 copies / 6,058,588,700 logical bytes**. Cumulative through R30: **12,982,395 copies / 696,784,246,188 logical bytes**. Zero programs were stopped. The command began with50,671,722,496 free bytes at18:54:33 UTC. The fourth REMOVED receipt ended with56,985,972,736 free bytes at18:55:54 UTC; the final HOLD receipt separately closed with**56,985,890,816 free bytes at18:55:57 UTC**. These are dated concurrent-work observations, below the soft100GiB target, not isolated physical recovery or a current-capacity claim. No600GB physical-recovery or100GiB achievement is asserted. Any fresh publisher-time reading is recorded separately.
+
+`batch19/r/final/project/recipe-atlas/static` remains HOLD: `Fresh complete metadata/membership/count differs`. Its removal was never attempted, with zero files/bytes removed and no retry or credit. Cause and responsible program are unknown. The original ten-root byteproof remains overall EXIT1 with original roots1–5 HOLD and6–10 individual MATCH; local selected receipts1–5 were byte-identical administrative views of those genuine6–10 reports. Neither that overall failed run nor the fifth admission is promoted to a group success. All other prior HOLDs remain unchanged.
+
+Original papers/text/quoted pairs, all crop/caption/model/training/private inputs, Source/Site working checkouts, active previews/builds, snapshots/manifests/receipts and protected baselines were outside these literal static-copy scopes. The audited lane remains paused. Cleanup adds no paper, scientific-audit, training or publication credit.
+
+Proof pins (SHA-256):
+
+- `batch20/q-label-fix-r2/local-build/project/recipe-atlas/static`: removal`5b7c9f3f6a20cfcd77e84ee42f647eed8a60ee43745575346540d988171ef828`; original/view static proof`57c3e85dac4d814281da87fe671d020136840fb327a16e282c2c00e7cf9698b3`; native CWD/Consumers journal`8dfc4a3ffb583a984a05ae76dd3b4e6cd5e3da03a9386b93b27e615d37ae9616`.
+- `batch20/r/candidate/project/recipe-atlas/static`: removal`0c9a17dc6939b7ce32481336038a6cf44bb61d4261314cde3314524f6a87d143`; original/view static proof`2a21298aeb158e49586b1a951d32aff580e3f926719f45e800c3d0ea3de01f4f`; native CWD/Consumers journal`ce84a7ef28992d6ec2b719ed6e9be226884e932932758a27d64e71a92fb70743`.
+- `batch20/r/final/project/recipe-atlas/static`: removal`08d6774008444ceed1b9664947fddb1ccf4d94d3aa048cae0cc81fce264199f0`; original/view static proof`d825aa6b67b2309d4cb68156d3b05a59a8835b7520cc8782f2213e65d6d53aa5`; native CWD/Consumers journal`f6ed2438ef89a818ba6642224d163403e80dffa65233c2297fb5cef589bedbb3`.
+- `batch19/r/candidate/project/recipe-atlas/static`: removal`0ef2d00f8864e2d3635cb738a70e6fbcd98da5faedd5518ba63278fc876d7ea5`; original/view static proof`42bbfe7702d1f19c0db48eedebaf91c95f7c3b09ab2b78c3ab62c88117100cae`; native CWD/Consumers journal`4a5856a7a9253dd38ab6ed028c039e284334e3c479e99be78115071c8f5237a7`.
+- Fifth no-attempt HOLD`aa8ab2a1bff8d40ebff6ee4aff541360d86092b4a013bfc4b8253b3189b5af54`; original failed all-ten summary`db945291c415466f0f98a0ce41f5121ae6a8366610d3815329a236fc9dcc842d`; Root review`15ada122447cd938515e5d0adb9aad77ac818b79fa2214d7913c41458c7e217f`; independent static review`4b19bd83ecd53b7be932a0a567e0c6a1b5c6d603597cec7616ee2f91e62ad6df`.
