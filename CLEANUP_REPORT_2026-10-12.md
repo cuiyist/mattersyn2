@@ -1,3 +1,13 @@
+## Verified update — 2026-10-16T02:11:57.2347780+00:00
+
+Removed only the completed B34 q/source-boundary copy's 33,269 verified files, totaling 2,337,854,030 logical bytes. All directories remain. Actual C: free bytes: **95,432,941,568 before → 97,369,645,056 after**. The change occurred during concurrent work and is not an isolated physical-recovery measurement.
+
+Confirmed cumulative removed copies: **567,897,921,943 logical bytes / 11,001,199 files**. The 600 GB goal remains unmet by 32,102,078,057 bytes. C: remains 10,004,537,344 bytes below the soft 100 GiB headroom aim. Further generated-copy cleanup needs its own current reconstruction and consumer checks; protected data will not be deleted to force the target.
+
+Reconstruction was proven against public Source H7 by full raw and Git-blob hashes for every leaf. The initial long-path proof failure is preserved; the reviewed extended-path accessor produced the genuine matching proof, then the independently reviewed same-handle remover completed with zero held files, zero directories removed and zero programs stopped. Papers, page text, quoted passes/pairs/training files, private audits, the active Qwen3-32B model/server/CUDA build and working Source/Site checkouts were untouched. Removal receipt SHA256: `ca771531d0914fe01e20bbcebb2325d65a8fde67346b52568b05f8f838052e2a`. No website publication or scientific-audit credit is added.
+
+---
+
 # Storage cleanup, October 12, 2026
 
 Updated: 2026-10-13T21:40:53.5165795Z. The admitted cleanup runs are complete; further candidates remain held, and the **600 GB removal target is unmet**.
