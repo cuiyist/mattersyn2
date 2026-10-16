@@ -795,3 +795,43 @@ Proof pins (SHA-256):
 
 - B20: actual removal `ea1b5ce8d58e4961e34b35a3edd7506a56791b8ae488c90be19962c21d03b9f9`; genuine closed full-byte MATCH `a2f19b1de729facc7394d619822b883325f87dc5fa40e56a3adf016c1af72ec5`; complete-directory preflight `9d49441e506292f7fa674fa6719fd1a0a2c6539a7aba8e66120bda29da8340c2`; native CWD journal `945ec381afbcb3660e3667f9ffb26c7794af49cce2a44360031a877241bd21ef` (2 genuine entries, all unknown=0).
 - B21: actual removal `0708b1a929cb01b93a5303ccc22386ebd7811b3f0d5fe8bb0a6171071d5bb02d`; genuine closed full-byte MATCH `2a602bb8ee8a10f39c3c9f65f7ff906a551afc24745f3bbf39d1ec260d948cc6`; complete-directory preflight `26525c63a9dca390121cd748a13015936ee1e6cd742dff304a71d7f481259db5`; native CWD journal `cb8e7f66e042227a699c5b7d81f3e1ad4b221a26e01bc1dbba43197257bf9c2a` (3 genuine entries, all unknown=0).
+
+
+## 2026-10-16 R27 — ten completed older generated dist removals
+
+Root collected both bounded removal commands with exit code 0. Ten unique generated `dist` directories were removed only after their original Source-input reconstruction proofs, complete full-byte target proofs, fresh native CWD/Consumers checks and closing metadata guards passed. Candidate manifest statuses, including historical `UNAPPROVED`, remain unchanged. The full-byte proof is evidence only; removal was a separate reviewed Root action.
+
+| Removed relative path | Copies | Logical bytes | Actual UTC interval | C: free before → after (bytes) |
+| --- | ---: | ---: | --- | ---: |
+| `batch20/r/final/project/recipe-atlas/dist` | 35844 | 2023927062 | 2026-10-16T17:00:20.541966+00:00 → 2026-10-16T17:01:04.474585+00:00 | 53704564736 → 55587618816 |
+| `batch19/r/candidate/project/recipe-atlas/dist` | 35342 | 2001765748 | 2026-10-16T17:01:04.498585+00:00 → 2026-10-16T17:01:40.173816+00:00 | 55594303488 → 57687105536 |
+| `batch19/r/final/project/recipe-atlas/dist` | 35342 | 2001765748 | 2026-10-16T17:01:40.193815+00:00 → 2026-10-16T17:02:19.559190+00:00 | 57685630976 → 59563241472 |
+| `batch18/r/final/project/recipe-atlas/dist` | 35015 | 1976400311 | 2026-10-16T17:02:19.581681+00:00 → 2026-10-16T17:03:07.580368+00:00 | 59562356736 → 61630664704 |
+| `batch17/r/candidate/project/recipe-atlas/dist` | 34618 | 1947068762 | 2026-10-16T17:07:09.980902+00:00 → 2026-10-16T17:07:50.646423+00:00 | 56010604544 → 58048618496 |
+| `batch17/r/final/project/recipe-atlas/dist` | 34618 | 1947068762 | 2026-10-16T17:07:50.664934+00:00 → 2026-10-16T17:08:34.361149+00:00 | 58048614400 → 59837091840 |
+| `batch16/r-caption-fix/candidate/project/recipe-atlas/dist` | 34199 | 1918488188 | 2026-10-16T17:08:34.386683+00:00 → 2026-10-16T17:09:17.600069+00:00 | 59716210688 → 61601021952 |
+| `batch16/r-caption-fix/final/project/recipe-atlas/dist` | 34199 | 1918488188 | 2026-10-16T17:09:17.626069+00:00 → 2026-10-16T17:09:58.272779+00:00 | 61601087488 → 63509135360 |
+| `batch15/r/candidate/project/recipe-atlas/dist` | 33809 | 1888591533 | 2026-10-16T17:09:58.291778+00:00 → 2026-10-16T17:10:36.204729+00:00 | 63509131264 → 65494482944 |
+| `batch15/r/final/project/recipe-atlas/dist` | 33809 | 1888591533 | 2026-10-16T17:10:36.224739+00:00 → 2026-10-16T17:11:19.355940+00:00 | 65494425600 → 67236102144 |
+
+The first group removed **141,543 copies / 8,003,858,869 logical bytes**; the second removed **205,252 copies / 11,508,296,966 logical bytes**. Increment: **346,795 copies / 19,512,155,835 logical bytes**. Cumulative through R27: **12,798,028 copies / 684,125,245,382 logical bytes**. These logical redundant-copy totals do not establish isolated physical recovery or completion of a 600 GB physical-recovery goal. Zero programs were stopped by these removals.
+
+The newest saved removal reading was **67,236,102,144 C: free bytes** at **2026-10-16T17:11:19.355940+00:00**, below the soft 100 GiB threshold of107,374,182,400 bytes. All table readings are dated observations during concurrent work; no current free-space amount or isolated physical gain is asserted. A fresh publisher-time reading, if measured by Root, is recorded separately.
+
+`batch18/r/candidate/project/recipe-atlas/dist` remains a **HOLD**: its original proof reported `Closing complete dist metadata differs`. It was excluded before removal, contributes zero removal credit and is not replayed or relabeled. The historical metadata-change cause and responsible program are unknown. All other earlier HOLDs/failures remain preserved.
+
+Original papers, text, quoted pairs, captions and model/training/private inputs were outside these generated-output scopes. Source/Site working checkouts, active builds/previews, historical snapshots/manifests/receipts and protected data remain preserved. The audited lane remains paused; cleanup adds no paper, scientific-audit, training or publication credit.
+
+Proof pins (SHA-256):
+
+- `batch20/r/final/project/recipe-atlas/dist`: removal`51f7e560bc4f3d3048bd4b0e5715c4218a0e9c5220b140bf839f886666cec366`; full-byte proof`642cedd8d494e915e6d3bed7f037e2ee77e6442f342fb54536e861a933760cc3`; native CWD/Consumers journal`a09881ee76aa7a3bcd212b063caf31e7c2cfaa03b8799e5c407d69dc07a8c856`.
+- `batch19/r/candidate/project/recipe-atlas/dist`: removal`8399bd2b99c122e130dfad750f40beacfee9e4e4f21c4698979287c76ee4f65b`; full-byte proof`db715fbdded81a1ead091ad5b714498054a1a19ac0d46d698427854e096097fc`; native CWD/Consumers journal`b450c05d4e63d459ad4b0004b8aeb08af53af80d643cbfc7aaf3f07ca224f9ad`.
+- `batch19/r/final/project/recipe-atlas/dist`: removal`2c0fbfee0cd69ebb5a19c0bc342fa48c5c4a4ef7e277a8f34bfabce11ed76da3`; full-byte proof`702503e01c2ccaab218fe368261db82df4459d9d0f0b2c63d132010c1b95722e`; native CWD/Consumers journal`18b6e282617fce87abc4f113829ac01bc941c70b80f43b51cfba155042eab2d6`.
+- `batch18/r/final/project/recipe-atlas/dist`: removal`6cf22e54c4f81e5f46efc1bcc4441596b021b36d54017e151f249e4dde8d282e`; full-byte proof`1c5845af080a47737abe87fc705b0ce9ce23bcad73c84a8710a13887499f7a67`; native CWD/Consumers journal`291a61494e5f286be2f23867a8661c569d7525205ad090117ec974ea46a521c2`.
+- `batch17/r/candidate/project/recipe-atlas/dist`: removal`8af981fcbc32327e42a2baef279e70d32b350b510721298160840ac79e62dd93`; full-byte proof`68ee10624991ef8d9225bf72e3723ae50facb77d558428675333914a025e3485`; native CWD/Consumers journal`edaae55f6c804ca58ea1fbba4aff65bf4386e3d99e22f5fa5889d4de5be12ef8`.
+- `batch17/r/final/project/recipe-atlas/dist`: removal`a32afda0acff4695c6ff83134b21fe9cacb12708617e9bebc13aca8b2ae120fb`; full-byte proof`edb3ab04cb3652214005c24468ec27c77746a09c4e00621eb99b40613c859aeb`; native CWD/Consumers journal`bb7a49a7cc5f2acb73fad044539471adf673433bc57b91ad97417650d40f767e`.
+- `batch16/r-caption-fix/candidate/project/recipe-atlas/dist`: removal`a6f4d2f4f693eef9be08c4ab2678526eea62964839860500f46c925181e855db`; full-byte proof`d34f2f8e25cbcc18418345e1c8b774b13b5f72220a12836939fad2a23bebe4b6`; native CWD/Consumers journal`55e31eadeae5e36cb0a35e4a03d61f60f3bc37d8c0d72b8ff406830eff643ebc`.
+- `batch16/r-caption-fix/final/project/recipe-atlas/dist`: removal`d67f1aec25404670435400535e619a309c2a2cc98ff0a27ceed3caabae957fb3`; full-byte proof`45b360b24f162a1e8d045730b87f73d11de4bd01705cb1d26f90568f2d79394d`; native CWD/Consumers journal`65a3b20333779f95b4270c83e10e6e2ead570b50786f1c9a446877e35f897892`.
+- `batch15/r/candidate/project/recipe-atlas/dist`: removal`cc60dbaa09944c4bb510e9e4aa01582cf4f1f6c32e7b860732dea70bb0d0d900`; full-byte proof`e7df7912caff4a697015e801bc0d97a72c4050aaf6d8f77b707c7e2b996c3c99`; native CWD/Consumers journal`d9f6ea74e4a71eadbc0c48228d3b88d0846c9304925ca914c5eef50362ce056e`.
+- `batch15/r/final/project/recipe-atlas/dist`: removal`9bae158378b061afd184958fecd75d75d6b101d1aa348a1c54a7d2245b687a5b`; full-byte proof`54522a7a197fe2f7382cd3faf59b4e30752120aa06f597104961db7e1709033f`; native CWD/Consumers journal`8520b6105c0aace300a43995a3252311c4d9467b8ab22e7c7c4d3545d557d6aa`.
+- Excluded B18 candidate HOLD`c024ab69127acf0efe81fb85d0d461c999e0413fcae2ec3ebf189992a81457d7`; original-Source input proof groups`2820c2e1e5d032ab2579604b5dfe5accb8767e2ab23da1c2fd570d042692768c` and`7e86c3bef3678a6b96d2f55bb634b2aa152d639ceecbcc5f318942612684e5ea`.
