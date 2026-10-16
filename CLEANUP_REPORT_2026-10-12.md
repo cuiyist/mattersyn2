@@ -774,3 +774,24 @@ Proof pins (SHA-256):
 - q-static: actual removal `e8725e9dbca226043b8b50c3711e5c0ff021159d17ce01337d636b0c66062c75`; original full-byte `cb92150b780f149525911f93f262130145a64d1c5b8f26a871244f648be02c12`; unchanged-status admission view `253b2f0049de79efcdf14f26b6e7b66c91c6114dadccdb506a535bb32eb05345`; native journal `25a55095b7ed8cbad85825473a37a79b7c4a0664a88937c2cb7d897ff7bf8742`.
 - candidate-static: actual removal `023bdad02f11253b503d450808175fca0c0dc196e5d0807347a91d11a9803f34`; original full-byte `9e6f0da6b97a82b84142e0ebc405ed30ecd4f49256b6ddde191e3ded2d3329e4`; unchanged-status admission view `e14944578a5ca7aecadccdb20e8cbbb5a2955df1fa5de90caae1afbf62dea885`; native journal `4cfee7d753c1bea62bca180d0f3871028bd09dc650ffe5fbe4770c9fb0e89569`.
 - Source D input-body proof `5d58c4326d4c8e5204f1044e7dcf343757a058564559b71adcb0fe51d488d523`; publication binding `a9f9e5f0d4880f2bc7d674e518779a2f9d1b367e2127ec50e63aafe6e965314f`; alias-maker `0ce0aef37852fed1cf43b04bb86291c1f5202e264f3504aa1b3ab5d3e9e7dc39`.
+
+
+## 2026-10-16 R26 — completed B20 and B21 public Site stage removals
+
+Root separately completed two exact generated Site-stage removals after genuine full-byte reconstruction proofs, fresh native CWD/Consumers, same-handle leases and complete directory identity preflights. These are historical published-stage copies; their original release snapshots, manifests, verification receipts and private inputs are preserved. Original full-byte reports retain `cleanup_eligible: false`; actual removal was a separate reviewed Root action.
+
+| Removed relative path | Copies | Logical bytes | Actual UTC interval | C: free before → after (bytes) |
+| --- | ---: | ---: | --- | --- |
+| `batch20/r/site-stage` | 35844 | 2023927062 | 2026-10-16T16:31:56.0745251+00:00 → 2026-10-16T16:32:42.3282156+00:00 | 54976966656 → 57094311936 |
+| `batch21/r/site-stage` | 36211 | 2044900219 | 2026-10-16T16:38:01.5545722+00:00 → 2026-10-16T16:39:40.1932351+00:00 | 57032654848 → 59172233216 |
+
+Increment: **72,055 file copies / 4,068,827,281 logical bytes**. Cumulative through R26: **12,451,233 file copies / 664,613,089,547 logical bytes**. Both actual receipts are completed, with each stage removed, zero programs stopped and zero originals/training deletions; Root collected both native commands with exit code 0. The C: readings are dated observations during ongoing work and do not establish isolated physical recovery. The last removal reading, 59,172,233,216 bytes, is below the soft 100 GiB threshold (107,374,182,400 bytes); no threshold achievement or 600 GB physical-recovery claim is made.
+
+The original B20 proof `916f32c01e851cee405e66840ba903e0baafea6966fc4be3cbe55b63d2ce66bb` remains an unchanged HOLD with zero deletion/credit. After separate Root-authorized quiescence evidence, one new complete read-only R2 proof independently reread every leaf and obtained MATCH; only that genuine R2 proof was admitted for the completed removal. The original closing-metadata change has no established historical cause. It was not excused, relabeled, promoted or reused as fresh full-byte evidence. All other earlier HOLDs and failures, including B40 final-static, remain preserved with zero new credit.
+
+Source/Site working checkouts, active builds and previews, Qwen and other programs, verified final baselines, original papers/text/passes/quoted pairs, audits/training/private data, manifests and receipts remain protected. No new paper, scientific-audit, training or publication credit results from cleanup.
+
+Proof pins (SHA-256):
+
+- B20: actual removal `ea1b5ce8d58e4961e34b35a3edd7506a56791b8ae488c90be19962c21d03b9f9`; genuine closed full-byte MATCH `a2f19b1de729facc7394d619822b883325f87dc5fa40e56a3adf016c1af72ec5`; complete-directory preflight `9d49441e506292f7fa674fa6719fd1a0a2c6539a7aba8e66120bda29da8340c2`; native CWD journal `945ec381afbcb3660e3667f9ffb26c7794af49cce2a44360031a877241bd21ef` (2 genuine entries, all unknown=0).
+- B21: actual removal `0708b1a929cb01b93a5303ccc22386ebd7811b3f0d5fe8bb0a6171071d5bb02d`; genuine closed full-byte MATCH `2a602bb8ee8a10f39c3c9f65f7ff906a551afc24745f3bbf39d1ec260d948cc6`; complete-directory preflight `26525c63a9dca390121cd748a13015936ee1e6cd742dff304a71d7f481259db5`; native CWD journal `cb8e7f66e042227a699c5b7d81f3e1ad4b221a26e01bc1dbba43197257bf9c2a` (3 genuine entries, all unknown=0).
