@@ -1,3 +1,25 @@
+## Verified update — 2026-10-16T05:13:48.095298+00:00
+
+Removed **245,395 verified redundant generated file copies /16,054,912,965 logical bytes** from seven completed B35 build directories. Confirmed cumulative removed copies: **604,362,204,987 logical bytes /11,556,557 files**. This exceeds 600 billion logical bytes of redundant copies; it is not a measurement of isolated net physical recovery.
+
+- `batch35/q2/local-build/project/recipe-atlas/static`: 26,505 copies /1,983,016,267 logical bytes, exact directory now absent; actual result SHA256 `8a73732e9440a68fe2327b0927e3027c03bf8a713e7a4367fc34a68f1072a50f`. Started 2026-10-16T04:48:58.332181+00:00, finished 2026-10-16T04:49:17.663362+00:00; C: 92,808,572,928 before to 94,867,935,232 after. Zero program stops.
+- `batch35/q2/local-build/project/recipe-atlas/dist`: 41,470 copies /2,526,466,041 logical bytes, exact directory now absent; actual result SHA256 `642621c3ec49af3353d123af9b2217e476b5d31b4b1d313394c1f6f370bd50e7`. Started 2026-10-16T04:49:17.672411+00:00, finished 2026-10-16T04:49:52.923599+00:00; C: 94,867,931,136 before to 97,512,570,880 after. Zero program stops.
+- `batch35/r2/site-stage`: 41,470 copies /2,526,466,041 logical bytes, exact directory now absent; actual result SHA256 `f9924ee3bc53049b68651c613f0faf3fc5d056278d781a14f30f1ae261e1ec40`. Started 2026-10-16T05:06:35.171829+00:00, finished 2026-10-16T05:07:09.533673+00:00; C: 97,399,513,088 before to 100,044,050,432 after. Zero program stops.
+- `batch35/r2/candidate/project/recipe-atlas/static`: 26,505 copies /1,983,016,267 logical bytes, exact directory now absent; actual result SHA256 `9bcb04fbdcfc04dd9acd2a87c4a40cb6f3a15e31100e8724cb2cce9cf928a3d5`. Started 2026-10-16T05:07:09.561674+00:00, finished 2026-10-16T05:07:41.920863+00:00; C: 100,044,042,240 before to 102,097,965,056 after. Zero program stops.
+- `batch35/r2/candidate/project/recipe-atlas/dist`: 41,470 copies /2,526,466,041 logical bytes, exact directory now absent; actual result SHA256 `fc35b25afc5c6dc7f14c2bbda30f01a7b095e5ddfb186e0c48152c1bbb747bb6`. Started 2026-10-16T05:07:41.935862+00:00, finished 2026-10-16T05:08:16.648903+00:00; C: 102,098,014,208 before to 104,743,223,296 after. Zero program stops.
+- `batch35/r2/final/project/recipe-atlas/static`: 26,505 copies /1,983,016,267 logical bytes, exact directory now absent; actual result SHA256 `9c0f6f8714c4f142c4cc89c98536638ddb42dee4d768f4b802e01f39230093b7`. Started 2026-10-16T05:08:16.669902+00:00, finished 2026-10-16T05:08:47.931017+00:00; C: 104,743,215,104 before to 106,797,387,776 after. Zero program stops.
+- `batch35/r2/final/project/recipe-atlas/dist`: 41,470 copies /2,526,466,041 logical bytes, exact directory now absent; actual result SHA256 `23a66a5af14fc5472a0abbe26d6d813d50116f060660b6d8fbab225003f4e3d7`. Started 2026-10-16T05:08:47.945522+00:00, finished 2026-10-16T05:09:21.073549+00:00; C: 106,797,375,488 before to 109,442,535,424 after. Zero program stops.
+
+Fresh C: observation at 2026-10-16T05:13:48.095298+00:00: **109,374,394,368 bytes (101.86 GiB) free**, above the soft 100 GiB aim. Concurrent build activity means these readings do not isolate physical recovery.
+
+All seven actual operations used the accepted finite whole-directory removal method after full-byte reconstruction checks, exact literal target/membership checks, no-reparse and Git ownership checks, and fresh active-role/native-consumer checks. It has a finite non-atomic interval between admission and removal; it is not a continuing per-leaf lease. The genuine H9 public-Source input proof is `9c963b9ae21ab14622b6a47ca728d2845b711d94534ab11a91329b34851aa0a7`. The original first H9 proof HOLD, caused by the public merge not yet being present in the local object database, remains saved. Ordinary fetch brought in the actual public merge; a new exclusive proof then passed. No policy or guard was changed to resolve it.
+
+Root preserved the active r2 preview, its server, release receipts/snapshots, Source/Site working checkouts, original papers and owner folders, page text, quoted passes/pairs/training files, private audits, credentials and the active Qwen3-32B model/server/CUDA build. No PDFs or scientific inputs were deleted. No other program was stopped. Earlier B35/B32 closing-metadata HOLDs, B30 missing-file HOLD, B29 missing-proof HOLD and the conservative old B35 preview consumer-prefix HOLD remain intact; no unknown owning program is asserted.
+
+B35 was separately deployed and anonymously verified at 2026-10-16T04:44:19Z: 24 new source_extracted papers, 44 records and 134 active captioned figure keys; Site `aabf55d63d7556839b3a41ba71c1e4cdecb75fe7`, Pages run38851251655 successful, 565 anonymous file checks with zero mismatches. This cleanup report adds no publication, audit or training credit.
+
+---
+
 ## Verified update — 2026-10-16T04:26:53.625326+00:00
 
 Removed **64,476 verified redundant generated file copies /4,353,228,953 logical bytes** in two distinct Root-only operations. Confirmed cumulative removed copies: **588,307,292,022 logical bytes /11,311,162 files**. The 600 GB target remains unmet by 11,692,707,978 bytes.
