@@ -671,3 +671,26 @@ This event is counted once. The cumulative removed-copy accounting advances from
 The dated free-space observations were **67,693,457,408 bytes** at 2026-10-16 12:04:49.765715 UTC and **70,393,315,328 bytes** at 12:05:20.239321 UTC. Concurrent release work continued, so the change is not attributed as an isolated physical gain. The latter observation remained **36,980,867,072 bytes below 100 GiB (107,374,182,400 bytes)**. The 100 GiB free-space target and the 600 GB physical-recovery goal remain unmet; the cumulative logical-copy total does not establish physical recovery.
 
 All preceding report bytes, earlier HOLD rows and failure histories remain unchanged. In particular, the separate B36 q3 Source-boundary HOLD for two closing directory-size differences receives no new deletion credit or retry, and its cause remains unknown. The selected copy's parent, other generated outputs, manifests, snapshots and private receipts remain outside this removal; original paper/training inputs, model files and working checkouts were not selected. No program stop or cause attribution is inferred.
+
+
+## 2026-10-16 - R20: three completed B38 public Source static copies
+
+Three completed, reconstructible static-copy subtrees were removed after each exact full-byte membership/identity proof and fresh current Source/Site and native consumer admission. Each removal returned exit code 0, with its selected root absent afterward, zero unknown native CWD owners at admission and no program stopped. This is copy cleanup only, with no scientific read, audit, training or website-publication credit.
+
+| Relative folder | File copies removed | Logical bytes removed | Started UTC | Completed UTC | C free before / after (bytes) |
+| --- | ---: | ---: | --- | --- | ---: |
+| `batch38/q-r3/local-build/project/recipe-atlas/static` | 27,946 | 2,166,566,510 | 2026-10-16 12:44:32.831832 | 2026-10-16 12:44:53.708696 | 70,522,052,608 / 72,763,748,352 |
+| `batch38/r/candidate/project/recipe-atlas/static` | 27,946 | 2,166,566,510 | 2026-10-16 12:44:53.855725 | 2026-10-16 12:45:29.517041 | 72,763,740,160 / 75,003,969,536 |
+| `batch38/r/final/project/recipe-atlas/static` | 27,946 | 2,166,566,510 | 2026-10-16 12:45:29.675059 | 2026-10-16 12:46:04.710408 | 75,014,983,680 / 77,257,162,752 |
+
+The three unique removals add **83,838 copies / 6,499,699,530 logical bytes**, advancing cumulative accounting from **12,064,313 copies / 638,554,556,601 logical bytes** to **12,148,151 copies / 645,054,256,131 logical bytes**. Each is counted once. Logical lengths are not isolated physical disk recovery. The final dated observation, **77,257,162,752 bytes free at 2026-10-16 12:46:04.710408 UTC**, remained **30,117,019,648 bytes below 100 GiB (107,374,182,400 bytes)**. Concurrent work prevents attribution of the free-space change as an isolated gain; no 100 GiB or 600 GB physical-recovery completion is asserted.
+
+The public-Source input/blueprint raw-byte proof SHA256 is `734d66fbb215a0f55e1ba6f241d24186ac7b0918772570f3e82f101b4d7024ab`. Target proof and completed-removal pins are:
+
+| Scope | Original full-byte proof SHA256 | Removal-result SHA256 |
+| --- | --- | --- |
+| `batch38/q-r3/local-build/project/recipe-atlas/static` | `8e96b85364dbba53e8e896d86aaf2828f2a37ca4126b2befc71d23625fcc1d75` | `81e7b4052b70d6bca08fd49cd4ab3d64e1470ab79f439154d3fbd9af9fe6f593` |
+| `batch38/r/candidate/project/recipe-atlas/static` | `426702fcf42d32028d39b05256d4ae5091f3a60466b742bd297aeaf136a6d824` | `21430a522afdae0db5104e206d1c41c4d4a65fa3d04bbd74e7e203c751dd295d` |
+| `batch38/r/final/project/recipe-atlas/static` | `81496f32a201d807f3d5b62c32d25ff896e3f5bf2dac9c0f4aa2657e47078a53` | `4ab7f1157efcf0b25da9b878bb7fe493f84a162f5ddc0aab74f4bc616ebce8c9` |
+
+All previous report bytes and HOLD/failure histories remain unchanged and receive no new credit. This event selected only the three named static subtrees; their dist siblings and remaining generated outputs, snapshots/manifests/receipts, working Source/Site checkouts, original paper/text/pass/pair data, owner folders, models and training inputs remained outside the selection. No program stop, older-HOLD replay, cause attribution or additional publication is inferred.
