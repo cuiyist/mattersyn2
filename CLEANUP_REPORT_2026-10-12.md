@@ -620,3 +620,22 @@ This addition counts **42,364 file copies / 2,699,642,449 logical bytes** once. 
 Cleanup stopped **zero programs**. The owner had separately retired this temporary preview after the genuine live/browser checks; that earlier lifecycle action contributes no files or bytes here. No original papers, quoted source material, training inputs, scientific records, model data or user folders were selected.
 
 The recorded C: free-space observations were **86843191296 bytes** before and **89670021120 bytes** after. Concurrent work prevents attributing their difference as isolated physical recovery. The latter observation remains **17704161280 bytes below 100 GiB**; no 100 GiB achievement is claimed. Cumulative logical copy totals do not establish isolated physical recovery or completion of a 600 GB storage goal. This cleanup adds no publication, independent-audit, gold or training credit.
+
+
+## R17 — Completed B36 release-copy cleanup and one preserved HOLD (2026-10-16)
+
+Only the following five obsolete generated-copy subtrees were removed. Each removal used its exact complete byte/membership proof, authenticated public Source inputs or normal passed publication manifest, fresh native consumer/CWD checks and unchanged closing metadata/current-role guards. The normal candidate/final manifest statuses remain historical; cleanup adds no release approval.
+
+| Exact relative generated-copy subtree | File copies removed | Logical bytes | Started UTC | Finished UTC | C: free before (bytes) | C: free after (bytes) |
+| --- | ---: | ---: | --- | --- | ---: | ---: |
+| `batch36/r/candidate/project/recipe-atlas/static` | 27174 | 2071671819 | 2026-10-16T09:47:12.218398+00:00 | 2026-10-16T09:47:33.466276+00:00 | 90258190336 | 92402667520 |
+| `batch36/r/final/project/recipe-atlas/static` | 27174 | 2071671819 | 2026-10-16T09:48:23.318272+00:00 | 2026-10-16T09:48:44.438996+00:00 | 92401487872 | 94552961024 |
+| `batch36/r/candidate/project/recipe-atlas/dist` | 42353 | 2620803106 | 2026-10-16T09:49:30.403636+00:00 | 2026-10-16T09:50:02.376476+00:00 | 94551822336 | 97310666752 |
+| `batch36/r/site-stage` | 42353 | 2620803106 | 2026-10-16T09:50:54.669179+00:00 | 2026-10-16T09:51:27.372590+00:00 | 97310531584 | 100055785472 |
+| `batch36/r/final/project/recipe-atlas/dist` | 42353 | 2620803106 | 2026-10-16T09:57:07.751765+00:00 | 2026-10-16T09:57:41.567584+00:00 | 99991375872 | 102733713408 |
+
+This addition counts **181,407 file copies / 12,005,752,956 logical bytes** once. Added to the prior **11,813,169 copies / 621,454,674,953 logical bytes**, the cumulative confirmed copy-removal ledger is **11,994,576 copies / 633,460,427,909 logical bytes**. All five receipts record removal exit 0, absent target roots and **zero programs stopped**. The Source/Site checkouts, target parents, manifests, snapshots, receipts, original papers, quoted source material, training inputs, model data and user folders were outside the selected scopes.
+
+The separate `batch36/q3/source-boundary` scope remains **HOLD, zero deletion and zero credit**. Its 34,435 file comparisons passed, but the complete closing metadata check detected two directory-size changes: `recipe-atlas/data/records` from 0 to 2621440 bytes and `recipe-atlas/static/assets/crystal-references/models` from 0 to 65536 bytes. The overall proof was therefore not admitted. Cause and responsible program are unknown; no program is attributed or stopped, no predicate was relaxed, and no retry or removal is included. The full proof, differences and all prior HOLD history remain preserved.
+
+The C: readings above are observations during concurrent work, not isolated physical-recovery attribution. The last removal finished at 2026-10-16T09:57:41.567584+00:00 with **102733713408 free bytes**, still **4640468992 bytes below 100 GiB**. No 100 GiB achievement is claimed. Cumulative logical copy totals do not establish isolated net physical recovery or completion of a 600 GB storage goal. This cleanup adds no publication, independent-audit, gold or training credit.
