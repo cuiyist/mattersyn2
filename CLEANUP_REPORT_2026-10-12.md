@@ -656,3 +656,18 @@ The earlier q2 metadata-readiness hold was resolved by genuine terminal CI for t
 The actual removal journal records fresh native Consumer/CWD closure with zero unknown processes and zero programs stopped. Source/Site working checkouts, current failed B38 q outputs and their receipts, models, training/corpus, owner/source papers, quoted extraction inputs, original snapshots/manifests and all protected private material were outside this single deletion scope. No source-quality, scientific-audit or publication credit is created.
 
 Proof SHA256 references: removal `fc1c9261a22a29258c7aae9abc216e6ed59ba09396db1c8c7978519e1faed32a`; closed full-byte report `9aa1ea9ef7fe6537bcf05db794ad9c6c17bcb04d5f83b3fab40c48f1f604b88e`; derived admission `8a6794824f2603ca8bdc7a8bbfef3d690f12e9114d20bae8e8537a6fb9fbc08b`; public Source-input reconstruction `7cdb56955b7ffab88ff2f8b7f9e655b74f7b09b86dc68969d36b74033bb921b8`; fresh native closure journal `39212bc23c4597c755c1bddff422db338d464cb85f2d5c5c42bfb4f9e49cc1e8`. All original proof and failure histories remain retained privately.
+
+
+## 2026-10-16 - R19: retired B38 q-r3 public Source-export copy
+
+A single reconstructible public Source-export copy was removed after an exact complete raw-byte, membership, identity and public-Source-Git reconstruction proof, followed by fresh current-role and native consumer checks. The ordinary removal returned exit code 0, the selected root was absent afterward, and no program was stopped. This is a cleanup event only; it adds no scientific read, audit, training or website-publication credit.
+
+| Relative folder | File copies removed | Logical bytes removed | Result | Completed UTC |
+| --- | ---: | ---: | --- | --- |
+| `batch38/q-r3/source-boundary` | 35,295 | 2,596,585,795 | REMOVED; root absent | 2026-10-16 12:05:20.239321 |
+
+This event is counted once. The cumulative removed-copy accounting advances from **12,029,018 copies / 635,957,970,806 logical bytes** to **12,064,313 copies / 638,554,556,601 logical bytes**. These figures count reconstructible file copies and their logical lengths; they are not a measurement of isolated physical disk recovery. The original full-byte proof SHA256 is `052958c5015ab5eaa832fcc8ed75e376517c1faba57a405780341e317a0d759c`; the actual removal-result SHA256 is `e49ad017a98f73f959b422cdede44b3d46f208ecdea133ebe76b43f87541a765`.
+
+The dated free-space observations were **67,693,457,408 bytes** at 2026-10-16 12:04:49.765715 UTC and **70,393,315,328 bytes** at 12:05:20.239321 UTC. Concurrent release work continued, so the change is not attributed as an isolated physical gain. The latter observation remained **36,980,867,072 bytes below 100 GiB (107,374,182,400 bytes)**. The 100 GiB free-space target and the 600 GB physical-recovery goal remain unmet; the cumulative logical-copy total does not establish physical recovery.
+
+All preceding report bytes, earlier HOLD rows and failure histories remain unchanged. In particular, the separate B36 q3 Source-boundary HOLD for two closing directory-size differences receives no new deletion credit or retry, and its cause remains unknown. The selected copy's parent, other generated outputs, manifests, snapshots and private receipts remain outside this removal; original paper/training inputs, model files and working checkouts were not selected. No program stop or cause attribution is inferred.
