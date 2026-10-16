@@ -955,3 +955,31 @@ One additional redundant generated Source export, `batch30/q5/source-boundary`, 
 The additional removal raises the cumulative redundant-copy accounting from **715,047,523,977 logical bytes / 13,256,445 file copies** to **717,134,112,135 logical bytes / 13,288,030 file copies**. These are cumulative logical bytes and copies, not a measurement of isolated physical disk recovery. The dated free-space readings occurred during concurrent work and do not establish an isolated gain, current capacity, completion of the requested physical 600 GB recovery, or achievement of the soft 100 GiB free-space aim.
 
 No programs were stopped for this removal. The fresh native journal records zero unknown CWD owners; it is not a claim of universal HTTP ownership measurement. Original papers, private quoted evidence, model files, training inputs, snapshots, and retained receipts were outside the selected generated subtree. All earlier HOLDs remain preserved with zero removal credit and no automatic retry. In particular, the separate profile-06 Source-boundary proof remains HOLD for changed closing membership/identity; its cause is unestablished and no program is attributed. Other pending or held scopes add no credit here. This storage entry adds no paper-publication, scientific-audit, or training-readiness credit; the audited lane remains paused.
+
+
+## R33 — one completed Source export and three completed public Site stages (2026-10-16 UTC)
+
+This append records four new, nonoverlapping generated-copy removals after R32. Root collected all four native commands with exit code 0. The individual receipts and closed full-byte proofs remain private; the metadata below identifies their exact scopes and pins. No pending or held scope receives credit.
+
+| Generated scope relative to the MatterSyn workspace | Copies | Logical bytes | UTC start → finish | C: free before → after (bytes) | Root native | Actual receipt SHA256 |
+|---|---:|---:|---|---|---:|---|
+| `research-assets/simple-website-20261010/batch27/q-display-fix-r2/source-boundary` | 30,972 | 2,051,907,110 | 2026-10-16T20:15:53.812314+00:00 → 2026-10-16T20:16:22.550417+00:00 | 67,912,466,432 → 70,052,921,344 | 80500 | `209e1e6cacba6422375d08addb75f0d7ee8c695118dfae0b416d225d4bd4fbf2` |
+| `research-assets/simple-website-20261010/batch19/r/site-stage` | 35,342 | 2,001,765,748 | 2026-10-16T20:21:59.9832216+00:00 → 2026-10-16T20:22:41.7290820+00:00 | 52,828,262,400 → 54,928,084,992 | 56588 | `d2f89db2062cc0408821b35edaad9b21606d00f5d5e87fab00d7e62b6bd4aa26` |
+| `research-assets/simple-website-20261010/batch17/r/site-stage` | 34,618 | 1,947,068,762 | 2026-10-16T20:23:06.5752704+00:00 → 2026-10-16T20:23:50.3548872+00:00 | 54,927,802,368 → 56,965,746,688 | 88793 | `c0136144c95820df5bfc07d9423d503a3c78216e6995cc7e38886d1dea32f90f` |
+| `research-assets/simple-website-20261010/batch16/r-caption-fix/site-stage` | 34,199 | 1,918,488,188 | 2026-10-16T20:24:03.6275955+00:00 → 2026-10-16T20:24:46.8131950+00:00 | 56,965,259,264 → 58,984,902,656 | 56145 | `e430fb6129a77b291b4a057dfbc2bd8c161cc1a04ef5471502b64d61d5804c25` |
+
+The Source05 receipt is the exact B27 `q-display-fix-r2/source-boundary` removal, backed by raw Source proof `d25495e8f553a9939785edc7632e2e16d88b65828a6798d094aa5b42ece0d99a` and the same derived admission `b7489fa4e828f1477bc62242e217a76dca964b1de2ce96b4a86a72def0a214e6` used by Root. Its fresh native CWD receipt records zero unknowns and its Consumers event records zero program stops. This does not substitute a different Source-input proof.
+
+| Site stage | Genuine closed full-byte report SHA256 | Mandatory fresh directory preflight SHA256 | Native journal SHA256 |
+|---|---|---|---|
+| B19 | `93052eafb979b2994955eb8f4b89473ed324054f49639d49a2b0e3506eb472a7` | `af9c2bc8e9b54dd4c5937251442c0a783665378db70d475ebd489b19a579546b` | `ce0d0df2943eefee7e8866415667bd1183d992b68a0417c5e9876ad61e2be6b6` |
+| B17 | `e8c8ec45d50c9fc3770941c5541af9dcd4f272d12404cc13832b58413ccdb3db` | `6e5015e69664dcf802a9740528f996603d0abdd7603541f4de557b28a4b856e7` | `4d199e6abba23d438624abeb73a1ab175030ccb98d7a4eb88cd4727f5ac51c68` |
+| B16_caption | `5fbcdd38e7e43a516fcf6bc485b1d4d202b3f089bf63ff1924aaebf8f04f13de` | `c1158ede4530c12953b6ee59fb517398d26582d2cd31fc95abe73582e78e44c4` | `a3aca464e33b055821f095c6e518eb2f510eefde8117c54965034b59fc0c6517` |
+
+Independent receipt sums: **135,131 additional copies / 7,919,229,808 additional logical bytes**. Added once to R32’s 13,288,030 copies / 717,134,112,135 logical bytes, the cumulative total is **13,423,161 copies / 725,053,341,943 logical bytes**. These are logical-copy accounting totals; they do not measure isolated physical recovery or establish 600 GB of physical space reclaimed.
+
+All three stage proofs remained `cleanup_eligible: false`; only Root’s separate fresh directory, role, native-consumer and same-handle checks authorized each exact singleton operation. Reports, maps, snapshots, provenance, native journals and receipts remain preserved outside the removed roots. The dated last-stage C: reading was **58,984,902,656 bytes at 20:24:46.8131950 UTC**, below 107,374,182,400 bytes (100 GiB). Current free space is not inferred from that reading. Concurrent build/copy activity prevents an isolated physical-gain claim; the soft capacity aim remains unmet by this reading.
+
+All previously reported HOLDs, failed wrapper summaries and no-replay exclusions remain unchanged with zero additional credit, including Source06 and the earlier held Source-boundary/static scopes. No held result was promoted or retried by this append. Root’s four actual result receipts record zero program stops; the stage receipts also record zero original/training deletion.
+
+Only redundant generated public Source/Site copies were removed. Original papers, source text, quoted pass/pair/training files, private audit inputs, active Qwen/CUDA, both working checkouts and canonical published assets remained protected. Deleted public copies are reconstructible from their bound public commits. The audited lane remains paused. Cleanup adds no paper, scientific-audit, training or publication credit.
