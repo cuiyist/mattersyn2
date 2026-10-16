@@ -1011,3 +1011,30 @@ All three original full-byte reports retain `cleanup_eligible: false`; Root sepa
 All prior HOLDs, failed overall wrapper summaries and no-replay exclusions remain unchanged with zero new credit. Each new result records zero program stops; stage results also record zero original/training deletion. This append reports no new papers and makes no claim that the current F correction, q checks or publication succeeded.
 
 Only redundant generated public Source/Site copies were removed. Original papers, source text, quoted pass/pair/training files, private audit inputs, active Qwen/CUDA, both working checkouts and canonical published assets remained protected. Deleted public copies are reconstructible from their bound public commits. The audited lane remains paused. Cleanup adds no paper, scientific-audit, training or publication credit.
+
+
+## R35 — two completed public Site stages and a dated capacity checkpoint (2026-10-16 UTC)
+
+This append adds only the completed B29 and B42 Site-stage removals after R34. Each immutable result records `completed: true`, its exact singleton scope `removed: true`, zero program stops and zero original/training deletion. Root collected B42 native command 21902 with exit code 0; B29 is bound to its earlier completed actual receipt. No cleanup or publication is performed by this proposal.
+
+| Generated scope relative to the MatterSyn workspace | Copies | Logical bytes | UTC start → finish | C: free before → after (bytes) | Actual receipt SHA256 |
+|---|---:|---:|---|---|---|
+| `research-assets/simple-website-20261010/batch29/r/site-stage` | 38,779 | 2,198,172,359 | 2026-10-16T21:25:29.4851873+00:00 → 2026-10-16T21:26:40.6923675+00:00 | 47,300,583,424 → 48,645,058,560 | `008e8f2ed3d7fb9446de812a7cc018b83fbe3b6047d693d176c68555d2340d53` |
+| `research-assets/simple-website-20261010/batch42/r/site-stage` | 45,164 | 2,878,322,709 | 2026-10-16T21:38:42.7148480+00:00 → 2026-10-16T21:39:48.6720801+00:00 | 135,520,288,768 → 138,527,985,664 | `e94a806cc016e594bcfbe67736b087eafe3aeada1bde6be3376f526d96e07611` |
+
+Both removals were bound to genuine closed full-byte Site-reconstruction reports and mandatory fresh complete-directory preflights.
+
+| Site stage | Closed full-byte report SHA256 | Fresh directory preflight SHA256 | Native journal SHA256 |
+|---|---|---|---|
+| B29 | `225b3169247fc7cd518b777ae9d8d341252d0d66d212f754c131b1710fe2b719` | `ee9a065609f8139bda5212a86f6477834413c49942fc0480640c3c75eeec0e9a` | `d52c98dfae2e2b04378268cf09000a2d2e96e966464f6b56887bd8904610d813` |
+| B42 | `baa6f5b90ec3d2ee2b2db05c9383530321158f8f44162a70473658db78fc6a28` | `449564e1c96f8ae686a3a8b022ed0803bdde3959a36ed0f7fab0c857e25b3639` | `efe874236fe7df5758438ebfbe5bbed14677529a3d591f8bd2756026c0e7c70a` |
+
+Independent sums of the two actual receipts are **83,943 additional copies / 5,076,495,068 additional logical bytes**. Added once to R34’s 13,527,064 copies / 731,538,904,995 logical bytes, the cumulative accounting is **13,611,007 copies / 736,615,400,063 logical bytes**. These are logical-copy totals, not isolated physical recovery and not a claim of 600 GB of physical reclamation.
+
+The B42 result observed **138,527,985,664 free bytes at 21:39:48.6720801 UTC**, above **107,374,182,400 bytes (100 GiB)**. Root separately reported **138,527,166,464 bytes at approximately 21:41 UTC**, still above that threshold; the approximate time is not presented as an exact new capture receipt. The large intervening increase between B29’s and B42’s operation boundaries is **not attributed to these removals**. These system-wide readings establish dated capacity observations, not an isolated physical gain, a cause or a guarantee of later capacity. Root may capture a separate fresh reading when publishing. No additional cleanup/proof launch is needed for this checkpoint.
+
+B32 `batch32/r/site-stage` remains **HOLD** (`2c0546aff7768760dbf88bf12e8804623c2dab5378c4649e018270518a4de33d`), and B30 `batch30/r2/site-stage` remains **HOLD** (`e18433af798f1ca171143799939e6399f8ff899089d0f741a4271e4174bd7376`). Both preserve `cleanup_eligible: false`, zero deletion and zero new credit. Later metadata-only observations do not replace their failed full proofs, authorize a retry or promote them. B40 Site-stage readiness remains unrun and receives no credit. Every earlier HOLD, partial result, failed wrapper and no-replay history remains intact.
+
+The original two full-byte reports retain `cleanup_eligible: false`; Root separately performed the fresh exact-role, native-consumer, complete directory/file membership and identity checks used for each singleton removal. Native verification leases were disposed before removal; no atomic continuing per-leaf deletion lease is claimed. Both native journals record zero unknowns in their two CWD receipts. Snapshots, manifests, map/proof/preflight/native/result receipts and parent project directories remain preserved outside the removed exact stages.
+
+Original papers, source text, quoted pass/pair/training data, private audit findings, active Qwen/CUDA, current q/r working copies, both Source/Site checkouts and canonical assets remain protected. No program was stopped. This report-only append claims no current F q/build/publication success and adds no paper, scientific-audit, training or publication credit; the audited lane remains paused.
