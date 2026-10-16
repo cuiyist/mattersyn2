@@ -737,3 +737,20 @@ Cleanup stopped **zero programs**. Root had separately retired its temporary pre
 The C: readings were **73,374,818,304 bytes** before and **76,308,254,720 bytes** after. Concurrent work prevents attributing their difference as isolated physical recovery. The latter reading remains **31,065,927,680 bytes below 100 GiB**; this entry claims no 100 GiB achievement. Cumulative logical copy totals do not establish isolated physical recovery or completion of a 600 GB physical-storage goal. This cleanup adds no publication, independent-audit, gold or training credit.
 
 Proof bindings (SHA256; metadata only): proper-Git removal receipt `d713262a0517b57bc08fafccea44ba479a057da72f8c178fb00262bb4329a552`; complete public-Git payload proof `573f7d8ca7f915efd1861667531adf044673df58092d00b8aa935dce71ef1ea8`; fresh native/consumer journal `5f0e10cda27a972fad37fb73a8ce62967d6e540ed84cffd4f14bee8b731698da`; registration/admin/map capture `11668cb18d53f8363220c5db5ca525c1084737e11b935cf88d24f41277a3f3ef`. All original private proof files remain preserved outside the removed subtree.
+
+
+## R24 — Completed B38 generated Site stage cleanup (2026-10-16)
+
+Only the generated public-output copy `batch38/r/site-stage` was removed. A genuine read-only proof matched all 43,387 manifest leaves against their raw SHA256 and published Site Git blob bytes/lengths. Root separately checked exact saved directory membership and identity immediately before the stage remover; all 1,538 directories matched and no unknown directory was admitted. The remover retained its complete leaf metadata/membership, per-file native-lease hash verification and fresh consumer/CWD checks. This was an ordinary nonGit stage copy, with the stage receipt's own `completed` and per-scope `removed` fields; it is not recorded as a Git-worktree removal.
+
+| Exact relative generated-copy subtree | File copies removed | Logical bytes | Started UTC | Finished UTC | C: free before (bytes) | C: free after (bytes) |
+| --- | ---: | ---: | --- | --- | ---: | ---: |
+| `batch38/r/site-stage` | 43387 | 2722457822 | 2026-10-16T14:19:10.7261625+00:00 | 2026-10-16T14:20:13.9047519+00:00 | 76225626112 | 79073140736 |
+
+This addition counts **43,387 file copies / 2,722,457,822 logical bytes** once. Added to the prior **12,278,323 copies / 653,302,504,530 logical bytes**, the cumulative confirmed copy-removal ledger is **12,321,710 copies / 656,024,962,352 logical bytes**. All prior HOLDs, including the unresolved final-project remainder, remain preserved and receive zero credit.
+
+The actual receipt records completed removal, **zero programs stopped** and **zero original or training inputs deleted**. The current Source/Site checkouts, active B40 checks and release work, B38 final verified-dist baseline, paper/PDF/text/pass/pair data, models, scientific records, snapshots, manifests and private proof files were outside the selected subtree. No server was stopped for this cleanup.
+
+C: free-space readings were **76,225,626,112 bytes** before and **79,073,140,736 bytes** after. Concurrent release work prevents treating their difference as isolated physical recovery. The after-reading is **28,301,041,664 bytes below 100 GiB**; no threshold achievement is claimed. Cumulative logical copy removal does not prove a 600 GB physical-storage goal. This entry adds no publication, scientific-audit, gold or training credit.
+
+Proof bindings (SHA256; metadata only): actual nonGit stage receipt `47304e2b5fd2f89b646960b2f8b0fa218adfcc6bb275c1214c464800c67e874c`; closed fullbyte stage report `cf505a252fa4585f0788d4842ab6d282c0fc26e02ad8ecd04a7d974d057fbf59`; Root's additional fresh directory identity/membership receipt `a19a7e3873586a1c874f9a5c8813530fd4a4bd0047b42cbf8074fff1733ce59c`; native CWD journal `800d25d247f666b2b363ff5ad7ab18f7cfcdcf58feb6cfe2ae0bc8b6c93c5142` (two fresh observations, zero unknowns). Original proofs and the separate directory-check script remain preserved outside the removed copy.
