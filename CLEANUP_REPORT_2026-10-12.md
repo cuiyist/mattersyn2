@@ -639,3 +639,20 @@ This addition counts **181,407 file copies / 12,005,752,956 logical bytes** once
 The separate `batch36/q3/source-boundary` scope remains **HOLD, zero deletion and zero credit**. Its 34,435 file comparisons passed, but the complete closing metadata check detected two directory-size changes: `recipe-atlas/data/records` from 0 to 2621440 bytes and `recipe-atlas/static/assets/crystal-references/models` from 0 to 65536 bytes. The overall proof was therefore not admitted. Cause and responsible program are unknown; no program is attributed or stopped, no predicate was relaxed, and no retry or removal is included. The full proof, differences and all prior HOLD history remain preserved.
 
 The C: readings above are observations during concurrent work, not isolated physical-recovery attribution. The last removal finished at 2026-10-16T09:57:41.567584+00:00 with **102733713408 free bytes**, still **4640468992 bytes below 100 GiB**. No 100 GiB achievement is claimed. Cumulative logical copy totals do not establish isolated net physical recovery or completion of a 600 GB storage goal. This cleanup adds no publication, independent-audit, gold or training credit.
+
+
+## R18 — completed retired B36 q2 public Source-export copy removal (2026-10-16)
+
+Root removed only `research-assets/simple-website-20261010/batch36/q2/source-boundary`, a generated normal public Source export. The genuine full-byte proof matched all **34,442 files / 2,497,542,897 logical bytes** against the saved normal manifest and publicly reconstructible Source inputs. The subsequent guarded literal-subtree removal finished with exit 0 and the root absent. No other program was stopped.
+
+| Scope | UTC start → finish | File copies removed | Logical bytes removed | C: free before → after (bytes) |
+|---|---|---:|---:|---:|
+| `batch36/q2/source-boundary` | 10:24:48.393877 → 10:25:08.767433 | 34,442 | 2,497,542,897 | 92,171,919,360 → 94,768,107,520 |
+
+The new unique increment is **2,497,542,897 logical bytes / 34,442 file copies**. Added once to the previously published R17 totals, the cumulative accounting is now **635,957,970,806 logical bytes / 12,029,018 file copies**. These are logical copy-removal counts, not isolated physical storage recovery. The dated after-reading remains **12,606,074,880 bytes below 100 GiB**; no 100 GiB achievement or 600 GB physical-cleanup completion is claimed. Concurrent work prevents attributing the free-space change solely to this removal.
+
+The earlier q2 metadata-readiness hold was resolved by genuine terminal CI for the same historical Source commit; the original receipt and all guards were preserved. This operation did **not** retry the separate q3/source-boundary closing-metadata HOLD. That q3 HOLD, every earlier failed/held attempt and its zero deletion credit remain unchanged. Its cause and any program attribution remain unestablished.
+
+The actual removal journal records fresh native Consumer/CWD closure with zero unknown processes and zero programs stopped. Source/Site working checkouts, current failed B38 q outputs and their receipts, models, training/corpus, owner/source papers, quoted extraction inputs, original snapshots/manifests and all protected private material were outside this single deletion scope. No source-quality, scientific-audit or publication credit is created.
+
+Proof SHA256 references: removal `fc1c9261a22a29258c7aae9abc216e6ed59ba09396db1c8c7978519e1faed32a`; closed full-byte report `9aa1ea9ef7fe6537bcf05db794ad9c6c17bcb04d5f83b3fab40c48f1f604b88e`; derived admission `8a6794824f2603ca8bdc7a8bbfef3d690f12e9114d20bae8e8537a6fb9fbc08b`; public Source-input reconstruction `7cdb56955b7ffab88ff2f8b7f9e655b74f7b09b86dc68969d36b74033bb921b8`; fresh native closure journal `39212bc23c4597c755c1bddff422db338d464cb85f2d5c5c42bfb4f9e49cc1e8`. All original proof and failure histories remain retained privately.
