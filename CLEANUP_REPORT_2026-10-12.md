@@ -1,3 +1,21 @@
+## Verified update — 2026-10-16T03:00:38.664075+00:00
+
+Removed five superseded, never-deployed Batch 35 build subtrees: **177,488 file copies / 11,546,350,041 logical bytes**. Actual C: free bytes were **87,457,800,192 before → 99,501,936,640 after**. These are concurrent observations, not isolated physical-recovery measurements.
+
+- `batch35/r/site-stage`: 41,490 copies / 2,526,767,871 logical bytes; receipt `d34e4f129c24af6e89b203ab0facb953f45f1d48ceb7ce7e3ac03c131eee502b`.
+- `batch35/r/candidate/project/recipe-atlas/static`: 26,509 copies / 1,983,023,214 logical bytes; receipt `610bc2b3aa74be80d838e3b03076265a389bc9d66ae5aa15480dd6e61e61c1ab`.
+- `batch35/r/candidate/project/recipe-atlas/dist`: 41,490 copies / 2,526,767,871 logical bytes; receipt `a222dba993236ff95d157ae7d7c94e93fe440e0294cbc32cc181f3bb4dd9394d`.
+- `batch35/r/final/project/recipe-atlas/static`: 26,509 copies / 1,983,023,214 logical bytes; receipt `c7a827c1875bc297a06c1d9a2c2b8184a80a3b77e1809a586d88404449c5a2df`.
+- `batch35/r/final/project/recipe-atlas/dist`: 41,490 copies / 2,526,767,871 logical bytes; receipt `1e70d2be51bcc70f889f05e3735682f4f2a18c36de2cfba4209c810e2af64d05`.
+
+Confirmed cumulative removed generated copies: **579,444,271,984 logical bytes / 11,178,687 files**. The 600 GB goal remains unmet by 20,555,728,016 bytes. This C: observation remains 7,872,245,760 bytes below the soft 100 GiB headroom aim; further bounded cleanup is being prepared.
+
+Full raw-byte reconstruction was verified against the original public Source Git inputs, saved build snapshots and genuine generated manifests. These outputs were not deployed Site Git files; no such claim is made. Fresh complete membership/metadata, exact Source/Site roles, literal absolute paths, reparse and native consumer/CWD checks passed before each Root-only removal. All five directories are absent. The admission-to-removal interval is bounded, not atomic. The initial missing-local-merge-object attempt and earlier failed candidate remain preserved.
+
+Zero programs were stopped and no folder was held in these five removals. The served old preview, current q2 build, Source/Site working checkouts, papers, owner-created folders, page text, quoted passes/pairs/training data, private audits and active Qwen3-32B model/server/CUDA build were outside deletion scope. No website publication or scientific-audit credit is added.
+
+---
+
 ## Verified update — 2026-10-16T02:11:57.2347780+00:00
 
 Removed only the completed B34 q/source-boundary copy's 33,269 verified files, totaling 2,337,854,030 logical bytes. All directories remain. Actual C: free bytes: **95,432,941,568 before → 97,369,645,056 after**. The change occurred during concurrent work and is not an isolated physical-recovery measurement.
