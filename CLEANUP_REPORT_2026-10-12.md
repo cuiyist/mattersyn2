@@ -983,3 +983,31 @@ All three stage proofs remained `cleanup_eligible: false`; only Root’s separat
 All previously reported HOLDs, failed wrapper summaries and no-replay exclusions remain unchanged with zero additional credit, including Source06 and the earlier held Source-boundary/static scopes. No held result was promoted or retried by this append. Root’s four actual result receipts record zero program stops; the stage receipts also record zero original/training deletion.
 
 Only redundant generated public Source/Site copies were removed. Original papers, source text, quoted pass/pair/training files, private audit inputs, active Qwen/CUDA, both working checkouts and canonical published assets remained protected. Deleted public copies are reconstructible from their bound public commits. The audited lane remains paused. Cleanup adds no paper, scientific-audit, training or publication credit.
+
+
+## R34 — one completed Source export and two completed public Site stages (2026-10-16 UTC)
+
+This append records three new, nonoverlapping generated-copy removals after R33. Root collected native commands 92769, 27809 and 13868 with exit code 0 and verified their exact completed receipts. Pending scaffold entries received no credit; the final totals below use all three completed actual results. No cleanup operation or publication action is performed by this report proposal.
+
+| Generated scope relative to the MatterSyn workspace | Copies | Logical bytes | UTC start → finish | C: free before → after (bytes) | Root native | Actual receipt SHA256 |
+|---|---:|---:|---|---|---:|---|
+| `research-assets/simple-website-20261010/batch42/q-r2/source-boundary` | 36,786 | 2,750,909,677 | 2026-10-16T20:51:34.055249+00:00 → 2026-10-16T20:52:13.707389+00:00 | 55,531,302,912 → 58,371,067,904 | 92769 | `0596376e7e903be63b29a32c14d28a2fe1d8ada32822708e679c82aec1b0779a` |
+| `research-assets/simple-website-20261010/batch15/r/site-stage` | 33,809 | 1,888,591,533 | 2026-10-16T20:53:05.3467260+00:00 → 2026-10-16T20:56:55.1265544+00:00 | 53,014,376,448 → 54,477,012,992 | 27809 | `fdb44a93d8f586e514127470103725022cb2ac2605d5c66f866c203198585139` |
+| `research-assets/simple-website-20261010/batch14/r/site-stage` | 33,308 | 1,846,061,842 | 2026-10-16T20:57:10.1763893+00:00 → 2026-10-16T20:58:35.8634380+00:00 | 54,476,099,584 → 56,408,883,200 | 13868 | `f2f65081acc65c8a28c11fcddfc68ba270d8519e3c9fecc3d9abad42be45b698` |
+
+The B42 `q-r2/source-boundary` receipt is backed by genuine closed Source-export proof `b85f7158a7eb1496dc3068dbc19e76516511deda909abc7f41d4f1d30186a4e9` and the exact derived admission `30b81c3ff20e9f988d2a73ca7e4d8652f61aa0cfb4e4f9b54f8c47d912b46c53` used by Root. The raw Source4d manifest was bound to authentic public Source4d Git metadata and its existing E2 publication closure. No failed E1 checkpoint, older Source capture or separate Source-body proof was relabeled. Its native CWD receipt records zero unknowns and its Consumers event records zero program stops.
+
+| Site stage | Genuine closed full-byte report SHA256 | Mandatory fresh directory preflight SHA256 | Native journal SHA256 |
+|---|---|---|---|
+| B15 | `56995e76241e65dc2bb23785277632fd992c2c3d88d998814c3d894023d4d82d` | `b5f38abe868ce0cab76d2495157c4a9b5e7e653aa27f15bc08f099cddc27afc9` | `57baaa86c987f710a453f5cebba041eb0d13c95b6fdbc381214cdea412741d23` |
+| B14 | `0936abde569753a406bec24c2e0b8b8473e727d8cbe7c180149033d539bcc72f` | `1cf0d824e4d84745471d73ff18c69bcb779a5a6abc863cb9abff39c507716f29` | `64568fa1961d4e516054171b0b8c7dbe2ad53e52f4b2d5f9b1e1f565e1948dae` |
+
+Independent sums of the three actual receipts are **103,903 additional copies / 6,485,563,052 additional logical bytes**. Added once to R33’s 13,423,161 copies / 725,053,341,943 logical bytes, the cumulative accounting is **13,527,064 copies / 731,538,904,995 logical bytes**. These are logical-copy totals, not isolated physical recovery or evidence that 600 GB of physical space was reclaimed.
+
+The dated last-stage C: reading was **56,408,883,200 bytes at 20:58:35.8634380 UTC**, below 107,374,182,400 bytes (100 GiB). Free-space readings are observations at separate operation boundaries; concurrent build/copy activity prevents attribution of an isolated physical gain. No current capacity or 100 GiB achievement is inferred. Root may capture a separate current reading during report publication.
+
+All three original full-byte reports retain `cleanup_eligible: false`; Root separately performed fresh role, native-consumer, containment and complete membership/identity checks. Both stage removals also had mandatory complete directory preflights and exact map bindings. Native verification leases were disposed before each exact singleton stage removal; no atomic continuing per-leaf deletion lease is claimed. Snapshots, manifests, proofs, maps, journals, failed results and receipts remain outside removed targets and are preserved.
+
+All prior HOLDs, failed overall wrapper summaries and no-replay exclusions remain unchanged with zero new credit. Each new result records zero program stops; stage results also record zero original/training deletion. This append reports no new papers and makes no claim that the current F correction, q checks or publication succeeded.
+
+Only redundant generated public Source/Site copies were removed. Original papers, source text, quoted pass/pair/training files, private audit inputs, active Qwen/CUDA, both working checkouts and canonical published assets remained protected. Deleted public copies are reconstructible from their bound public commits. The audited lane remains paused. Cleanup adds no paper, scientific-audit, training or publication credit.
