@@ -720,3 +720,20 @@ Root removed only `research-assets/simple-website-20261010/batch38/r/candidate/p
 - Exact reconstruction proof SHA-256: `6d15e117336a9ef936a5da3f5d6b20fa094ff89aeb2704b9a86c944f20632e2c`; removal receipt SHA-256: `fafb2d33c68cd18fe70590d6efa6c8a6d4e3fb88e126a128384ff3ad4fa49f0e`.
 - Fresh native CWD checks recorded zero unknown observations and the target consumer check passed. No programs were stopped. Source `84671ee15d20669ac6d07c1b70bb34751bcc4b3c` and Site `48090279ddc2589619b857b423791125dc929963` were clean at admission.
 - All earlier HOLD and failure records remain preserved. No removed files are credited to any unchanged zero-removal HOLD; no metadata-change cause is inferred. Papers, owner data, source text, quoted pass/pair/training files, active model/server and working checkouts remain protected. No new model, paper, audit or publication credit.
+
+
+## R23 — Completed retired B38 release-preview worktree cleanup (2026-10-16)
+
+Only the retired generated Site worktree `batch38/r/site-preview` was removed through the ordinary Git worktree lifecycle. Its complete payload matched published Site commit `48090279ddc2589619b857b423791125dc929963`, including the generated release controls. The root `.git` admin file was excluded from payload membership and separately protected by its exact admin/backpointer pins. Fresh native consumer/CWD checks reported zero unknown consumers; closing metadata and detached registration checks passed before Git removal. Git exited 0, and the receipt records both the root and its registration absent.
+
+| Exact relative generated-copy subtree | File copies removed | Logical bytes | Started UTC | Finished UTC | C: free before (bytes) | C: free after (bytes) |
+| --- | ---: | ---: | --- | --- | ---: | ---: |
+| `batch38/r/site-preview` | 43398 | 2803332755 | 2026-10-16T13:52:59.853504+00:00 | 2026-10-16T13:53:27.805344+00:00 | 73374818304 | 76308254720 |
+
+This addition counts **43,398 file copies / 2,803,332,755 logical bytes** once. Added to the prior **12,234,925 copies / 650,499,171,775 logical bytes**, the cumulative confirmed copy-removal ledger is **12,278,323 copies / 653,302,504,530 logical bytes**. All prior HOLDs and failed or superseded setup contexts remain preserved and contribute zero additional credit.
+
+Cleanup stopped **zero programs**. Root had separately retired its temporary preview PID 48092 on port 18846 at 2026-10-16T13:06:02.7526924Z; that lifecycle action contributes no files or bytes here. The current Source/Site checkouts, B40 checks and release work, B38 final verified-dist baseline, snapshots, manifests, raw proofs and receipts were protected. No original papers, quoted source material, scientific records, training inputs, models or user folders were selected.
+
+The C: readings were **73,374,818,304 bytes** before and **76,308,254,720 bytes** after. Concurrent work prevents attributing their difference as isolated physical recovery. The latter reading remains **31,065,927,680 bytes below 100 GiB**; this entry claims no 100 GiB achievement. Cumulative logical copy totals do not establish isolated physical recovery or completion of a 600 GB physical-storage goal. This cleanup adds no publication, independent-audit, gold or training credit.
+
+Proof bindings (SHA256; metadata only): proper-Git removal receipt `d713262a0517b57bc08fafccea44ba479a057da72f8c178fb00262bb4329a552`; complete public-Git payload proof `573f7d8ca7f915efd1861667531adf044673df58092d00b8aa935dce71ef1ea8`; fresh native/consumer journal `5f0e10cda27a972fad37fb73a8ce62967d6e540ed84cffd4f14bee8b731698da`; registration/admin/map capture `11668cb18d53f8363220c5db5ca525c1084737e11b935cf88d24f41277a3f3ef`. All original private proof files remain preserved outside the removed subtree.
