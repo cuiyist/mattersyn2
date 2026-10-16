@@ -707,3 +707,16 @@ Root removed only `research-assets/simple-website-20261010/batch38/q-r3/local-bu
 - Exact reconstruction proof SHA-256: `5ff995e124aba5b545fc95fc8e648b6fb57c4a8d833e2a0c6cedea317b88b8de`; removal receipt SHA-256: `becfac7b4ca212a23fb561c4b056cb542b9a39d64a78e237d55261c02338596d`.
 - Fresh native process/CWD checks found zero unknown native CWD observations and passed the target consumer check. No programs were stopped. Source `84671ee15d20669ac6d07c1b70bb34751bcc4b3c` and Site `48090279ddc2589619b857b423791125dc929963` were clean at admission.
 - Papers, owner folders, source text, quoted pass/pair/training files, active model/server, working checkouts and all earlier HOLD/failure records remain protected. No new model, paper, audit or publication credit.
+
+
+## R22 — completed B38 release candidate dist removed, 2026-10-16
+
+Root removed only `research-assets/simple-website-20261010/batch38/r/candidate/project/recipe-atlas/dist` after the complete closed byte comparison matched the saved generated manifest and GitHub-reconstructible Source ca23 inputs. The historical candidate remains UNAPPROVED; cleanup gives it no release approval. The verified B38/B39 final dist baseline, snapshots, manifests and release receipts remain preserved.
+
+- Removal interval: 2026-10-16T13:46:50.355458+00:00 to 2026-10-16T13:47:14.845184+00:00.
+- Removed: 43,387 generated file copies /2,722,457,822 logical bytes; the actual removal receipt confirms the target absent.
+- C: free before: 70554521600 bytes; after: 73392971776 bytes. At that measurement the 100 GiB soft aim remained unmet by 33,981,210,624 bytes; it is not a release gate. Concurrent work prevents attributing an isolated physical recovery.
+- Cumulative copy accounting: 12,234,925 copies /650,499,171,775 logical bytes. These logical totals do not establish 600 GB of physical recovery.
+- Exact reconstruction proof SHA-256: `6d15e117336a9ef936a5da3f5d6b20fa094ff89aeb2704b9a86c944f20632e2c`; removal receipt SHA-256: `fafb2d33c68cd18fe70590d6efa6c8a6d4e3fb88e126a128384ff3ad4fa49f0e`.
+- Fresh native CWD checks recorded zero unknown observations and the target consumer check passed. No programs were stopped. Source `84671ee15d20669ac6d07c1b70bb34751bcc4b3c` and Site `48090279ddc2589619b857b423791125dc929963` were clean at admission.
+- All earlier HOLD and failure records remain preserved. No removed files are credited to any unchanged zero-removal HOLD; no metadata-change cause is inferred. Papers, owner data, source text, quoted pass/pair/training files, active model/server and working checkouts remain protected. No new model, paper, audit or publication credit.
