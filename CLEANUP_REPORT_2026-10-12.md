@@ -754,3 +754,23 @@ The actual receipt records completed removal, **zero programs stopped** and **ze
 C: free-space readings were **76,225,626,112 bytes** before and **79,073,140,736 bytes** after. Concurrent release work prevents treating their difference as isolated physical recovery. The after-reading is **28,301,041,664 bytes below 100 GiB**; no threshold achievement is claimed. Cumulative logical copy removal does not prove a 600 GB physical-storage goal. This entry adds no publication, scientific-audit, gold or training credit.
 
 Proof bindings (SHA256; metadata only): actual nonGit stage receipt `47304e2b5fd2f89b646960b2f8b0fa218adfcc6bb275c1214c464800c67e874c`; closed fullbyte stage report `cf505a252fa4585f0788d4842ab6d282c0fc26e02ad8ecd04a7d974d057fbf59`; Root's additional fresh directory identity/membership receipt `a19a7e3873586a1c874f9a5c8813530fd4a4bd0047b42cbf8074fff1733ce59c`; native CWD journal `800d25d247f666b2b363ff5ad7ab18f7cfcdcf58feb6cfe2ae0bc8b6c93c5142` (two fresh observations, zero unknowns). Original proofs and the separate directory-check script remain preserved outside the removed copy.
+
+
+## 2026-10-16 R25 — two completed B40 public Source static-copy removals
+
+Root completed two separately admitted removals of generated static copies reconstructed from public Source D `84671ee15d20669ac6d07c1b70bb34751bcc4b3c`. The genuine Source input-byte proof is `5d58c4326d4c8e5204f1044e7dcf343757a058564559b71adcb0fe51d488d523`; the same-release publication binding pins Site `e55ae599839638b3b953f625e62dda07c2e664e0`, successful Pages and anonymous verification. The original full-byte receipts retain `cleanup_eligible: false`; their exact administrative admission views preserve that flag. Removal was a separate Root action with fresh native CWD/Consumers and closing metadata checks.
+
+| Removed relative path | Copies | Logical bytes | Actual UTC interval | C: free before → after (bytes) |
+| --- | ---: | ---: | --- | --- |
+| `batch40/q-r2/local-build/project/recipe-atlas/static` | 28734 | 2259649957 | 2026-10-16T16:05:27.170958+00:00 → 2026-10-16T16:05:58.306662+00:00 | 59265159168 → 61601984512 |
+| `batch40/r/candidate/project/recipe-atlas/static` | 28734 | 2259649957 | 2026-10-16T16:10:52.865111+00:00 → 2026-10-16T16:11:19.209424+00:00 | 61602349056 → 63938842624 |
+
+Increment: **57,468 file copies / 4,519,299,914 logical bytes**. Cumulative through R25: **12,379,178 file copies / 660,544,262,266 logical bytes**. Both actual receipts report `REMOVED`, exit code 0, roots absent and zero programs stopped. These logical-copy totals do not establish isolated physical recovery or a 600 GB physical-recovery target. The final observed C: value of 63,938,842,624 bytes is below the soft 100 GiB threshold (107,374,182,400 bytes); that threshold is not a release gate.
+
+The final-static full-byte receipt `68e1ad5ab6ac5be78e339652f268a191e40e069956e6d326146f537af8f4921a` remains HOLD (`Closing full membership/identity differs`), with zero removal/credit and no retry. Its saved receipt contains no historical per-file rows or closing digest; the later bounded metadata-only observation cannot establish a historical field change, changed bytes or cause. All earlier HOLDs/failures remain preserved with zero added credit. Current Source/Site checkouts, all D dist siblings and the verified release baseline, other programs including Qwen, original papers/text/passes/quoted pairs, audits/training/private inputs, manifests and receipts remain protected. This cleanup adds no paper, scientific-audit or publication credit.
+
+Proof pins (SHA-256):
+
+- q-static: actual removal `e8725e9dbca226043b8b50c3711e5c0ff021159d17ce01337d636b0c66062c75`; original full-byte `cb92150b780f149525911f93f262130145a64d1c5b8f26a871244f648be02c12`; unchanged-status admission view `253b2f0049de79efcdf14f26b6e7b66c91c6114dadccdb506a535bb32eb05345`; native journal `25a55095b7ed8cbad85825473a37a79b7c4a0664a88937c2cb7d897ff7bf8742`.
+- candidate-static: actual removal `023bdad02f11253b503d450808175fca0c0dc196e5d0807347a91d11a9803f34`; original full-byte `9e6f0da6b97a82b84142e0ebc405ed30ecd4f49256b6ddde191e3ded2d3329e4`; unchanged-status admission view `e14944578a5ca7aecadccdb20e8cbbb5a2955df1fa5de90caae1afbf62dea885`; native journal `4cfee7d753c1bea62bca180d0f3871028bd09dc650ffe5fbe4770c9fb0e89569`.
+- Source D input-body proof `5d58c4326d4c8e5204f1044e7dcf343757a058564559b71adcb0fe51d488d523`; publication binding `a9f9e5f0d4880f2bc7d674e518779a2f9d1b367e2127ec50e63aafe6e965314f`; alias-maker `0ce0aef37852fed1cf43b04bb86291c1f5202e264f3504aa1b3ab5d3e9e7dc39`.
