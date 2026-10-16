@@ -589,3 +589,19 @@ C: readings in the table occurred while the independent normal release build con
 Exact actual-result SHA256s: dist `169abdbc8981ddc31b36c5f9d27edf78735f3309f3333564e5052583bc04bbd3`; static `5d7b20396a5b11878041bc0c2fd5912649f2d5a09b66368446de192c66aed72f`. Source-input proof SHA256: `7cdb56955b7ffab88ff2f8b7f9e655b74f7b09b86dc68969d36b74033bb921b8`. Exact closed target-proof SHA256s: dist `748fa652e2d2966857245956a3a9cfb0f5aafd7aed7f2a5eba7e35dff2fdd06a`; static `db1d9ecaedcae6db3ad91e6324aa8133f37345eab12ee76ebe366352232f4013`. Native/consumer journal SHA256s: dist `19d3c195516d61abe5b6a42cd57e778b93672c0d041eadebce9daf39efe63647`; static `da5bb95b7d562f7a695d364cac57e1cdf18d401f0b842d58d1e0dcbad992daed`.
 
 All earlier failures and HOLDs remain preserved and uncounted. Primary Source/Site checkouts, the active normal B36 release, current q3 preview, model/server, original papers/PDFs/text/pass/pairs, training material, private evidence, owner folders and all other siblings/parents were outside this selection and remain protected. Zero programs were stopped. This entry adds no paper publication, independent audit, training or throughput credit.
+
+
+## R15 — Completed retired B36 q3 generated-copy cleanup (2026-10-16)
+
+Only the following two obsolete build-copy subtrees were removed. Each had a complete byte/membership proof bound to its exact public Source171 inputs, followed by fresh native consumer/CWD and closing metadata checks. The current release preview, model server, Source/Site checkouts, snapshots, manifests and receipts were retained.
+
+| Exact relative generated-copy subtree | File copies removed | Logical bytes | Started UTC | Finished UTC | C: free before (bytes) | C: free after (bytes) |
+| --- | ---: | ---: | --- | --- | ---: | ---: |
+| `batch36/q3/local-build/project/recipe-atlas/dist` | 42353 | 2620803106 | 2026-10-16T08:48:47.646398+00:00 | 2026-10-16T08:49:08.346843+00:00 | 83428397056 | 86161506304 |
+| `batch36/q3/local-build/project/recipe-atlas/static` | 27174 | 2071671819 | 2026-10-16T08:55:08.199207+00:00 | 2026-10-16T08:55:42.966811+00:00 | 85815607296 | 87960203264 |
+
+This addition counts **69,527 file copies / 4,692,474,925 logical bytes** once. Added to the prior **11,701,278 copies / 614,062,557,579 logical bytes**, the cumulative confirmed copy-removal ledger is **11,770,805 copies / 618,755,032,504 logical bytes**. Prior zero-removal HOLDs, failed setup invocations and unresolved scopes add no credit; their evidence remains preserved.
+
+Cleanup stopped **zero programs**. The owner separately retired the obsolete q3 preview through exact identity/listener checks after replacement browser verification; that lifecycle action contributes no files or bytes. No original papers, quoted source material, training inputs, scientific records, model data, or user folders were deleted.
+
+The observed C: readings are measurements, not isolated physical-recovery attribution: other release work was concurrent. A later read-only observation at 2026-10-16T08:57:36.461445+00:00 found **87964876800 free bytes**, with a **19409305600-byte shortfall** against the 100 GiB soft aim. This aim is not a release gate. Logical copy totals do not establish isolated net physical recovery or completion of a 600 GB storage goal. No publication, independent-audit, gold or training credit is added by cleanup.
