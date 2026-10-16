@@ -439,3 +439,20 @@ Evidence (SHA256; full metadata and journals remain private):
 - `batch33/site-stage-cleanup.actual-r1.json`: `1c53e22825768ab538265459b96ff5b6ae3c9623015716e5db0c9e53492c4c93`; preceding full-byte proof `680c4f34492ad29e4729136a351bc0be41d61a4878a3a11cdc0ec83d4f6c1592`.
 
 - B34 dist Source-input raw Git proof: `2e70cb0184fdc560f8d1345fde7536034b094f4b5a08c7e67cde7bd8a108a4f3`. B33 stage verified leaf-map: `d5de2549020b677802586a1e9ea86fe89e1018b9d07bbf007086baab891a87f8`; Root-bound remover: `b8992c4ecfa40bfe4d5336158bdf535666d544be7ccbf465b7b62d845e591b62`.
+
+## Verified completed Batch 34 copy cleanup — 2026-10-16 UTC
+
+Four literal generated copies were removed after complete reconstruction and current consumer/identity/lease checks. The preview was also verified against the complete published Git tree and its registration was removed normally. All proof and removal logs remain local; no other program was stopped. Original papers, page text, pass/pair/training files, active Qwen model/server/CUDA build and the working Source/Site checkouts remain protected.
+
+| Removed folder under the MatterSyn workbench | File copies | Logical bytes | C: free before | C: free after | Finished UTC |
+|---|---:|---:|---:|---:|---|
+| `batch34/r/site-stage` | 40,973 | 2,461,908,428 | 108,910,006,272 | 108,969,603,072 | 2026-10-16T00:07:47.6869869+00:00 |
+| `batch34/r/final/project/recipe-atlas/static` | 26,128 | 1,921,945,267 | 103,934,128,128 | 105,925,918,720 | 2026-10-16T00:16:52.446798+00:00 |
+| `batch34/r/final/project/recipe-atlas/dist` | 40,973 | 2,461,908,428 | 105,934,802,944 | 108,507,172,864 | 2026-10-16T00:17:29.152874+00:00 |
+| `batch34/r/site-preview` | 40,984 | 2,534,613,361 | 108,446,666,752 | 111,095,889,920 | 2026-10-16T00:24:47.924323+00:00 |
+
+New confirmed removals: **9,380,375,484 logical bytes / 149,058 copies**. Cumulative confirmed removals: **565,560,067,913 logical bytes / 10,967,930 copies**. The 600 GB removal target is still unmet by **34,439,932,087 bytes**. These concurrent before/after readings do not isolate physical recovery; build and model activity continued. All prior HOLDs and their zero-credit histories remain unchanged.
+
+The latest completed cleanup reading was 111,095,889,920 free bytes, above 100 GiB (107,374,182,400 bytes), at 2026-10-16T00:24:47.924323+00:00. Root continues to measure C: at wake-up and before large builds and to prioritize only verified reconstructible cleanup below that threshold. The threshold is an operating cleanup target, not a release gate.
+
+Separately, Root retired its own completed B35 q visual preview (PID 2936, port 18838) at 00:25:54 UTC after exact executable/command/creation/owner/socket checks and moving its tab to the live site. No model or other program was stopped; this adds no deletion credit. B35 all 13 local phases and desktop/phone checks passed; Source PR #55 is open and CI/publication remain pending. No B35 paper credit is added here.
