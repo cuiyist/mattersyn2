@@ -850,3 +850,24 @@ Increment: **36,169 copies / 2,695,804,496 logical bytes**. Cumulative through R
 All earlier HOLDs remain unchanged with zero new credit and no retry, including the B18 candidate dist and the B21/B22 source-boundary directory-size changes. Their historical change causes and responsible programs are not established. Original papers, text, quoted pairs, crops/captions, model/training/private inputs, Source/Site working checkouts, active builds/previews, historical snapshots/manifests/receipts and protected baselines were outside this single exported-copy scope. The audited lane remains paused; cleanup adds no paper, scientific-audit, training or publication credit.
 
 Proof pins (SHA-256): actual removal`f1ec1442f890c895da91cbe0b21cfa8f9de649d6ca9b4a84cf3454e2f9c5012b`; genuine closed original full-byte report`3f27323e563b55675f87c09c383df8fae608bd17d9ee13e65edd5e3b7444a059`; administrative receipt binding`4cc266420fee70696c1483c1cff9415d6a72935e711bd51f1fd859df1b5222d1`; fresh native CWD/Consumers journal`fe478f42665915ab15fbbf347b3526567d3c3524b7a4e61c31a1ee427030c30d`.
+
+
+## 2026-10-16 R29 — two completed exported Source-boundary removals
+
+Root completed two exact inactive raw public Source projections after genuine closed single-scope SourceGit reconstruction proofs and fresh native CWD/Consumers, current-role, full membership/closing metadata and literal-directory guards passed. Both removal commands were collected with exit code 0. Original full-byte reports remain evidence with `cleanup_eligible: false`; actual deletion was separate reviewed Root action.
+
+| Removed relative path | Copies | Logical bytes | Actual UTC interval | C: free before → after (bytes) |
+| --- | ---: | ---: | --- | --- |
+| `batch20/q-label-fix-r2/source-boundary` | 29034 | 1929773408 | 2026-10-16T18:08:17.114183+00:00 → 2026-10-16T18:08:50.368524+00:00 | 53136343040 → 55141875712 |
+| `batch23/q-r2/source-boundary` | 29883 | 1974834202 | 2026-10-16T18:12:48.077920+00:00 → 2026-10-16T18:13:21.439171+00:00 | 55107387392 → 57170219008 |
+
+Increment: **58,917 copies / 3,904,607,610 logical bytes**. Cumulative through R29: **12,893,114 copies / 690,725,657,488 logical bytes**. Zero programs were stopped. The newest saved after-reading, **57,170,219,008 C: free bytes** at **2026-10-16T18:13:21.439171+00:00**, is dated during concurrent work and below the soft 100 GiB threshold. No current capacity, isolated physical gain, 100 GiB achievement or 600 GB physical-recovery claim is made. Any fresh publisher-time measurement is recorded separately.
+
+The earlier B23 proof wrapper exited 1; that failure is preserved and is not promoted to an overall successful run. Its separately genuine closed single-scope MATCH and the later guarded removal with exit code 0 are the distinct evidence used here. No failed wrapper is reused as a positive removal receipt.
+
+All earlier HOLDs remain unchanged with zero new credit and no retry, including B21/B22/B24/B25/B26 Source boundaries. Historical metadata-change causes and responsible programs are unknown. Original papers/text/quoted pairs, crops/captions, model/training/private inputs, Source/Site working checkouts, active builds/previews, snapshots/manifests/receipts and protected baselines were outside these exported-copy scopes. The audited lane remains paused; cleanup adds no paper, scientific-audit, training or publication credit.
+
+Proof pins (SHA-256):
+
+- `batch20/q-label-fix-r2/source-boundary`: removal`e6bc7bbdd11b204ef47a7ad29ba7cd844628eb8c17a3281c5f9a77725b0ca1c1`; genuine original full-byte report`7d83295a35e49b465ebb05baf51b3f27ac623a9f50e7071b36c21847407c0c35`; administrative binding`0561bb7adb773f2b92493f834c81ca02a5a1db2e3af65efa4e71c7162c7bedd9`; native CWD/Consumers journal`ce335bc34ccde0dd13ca0854b27cc906f6b04216935aa5372c2c68b481ebd6d3`.
+- `batch23/q-r2/source-boundary`: removal`a3812bcadcab21eed770b51973dcbb86c70034f4f7316dd51d136a952a3f8ece`; genuine original full-byte report`0988c44ca9e3ea2d780a611b537afe4a63a8f133ff6725659c0893dd1cb16573`; administrative binding`a718958349fd7cc0eb1261cbe4bcb51609c59c7bd01592e4dce653705497dbe2`; native CWD/Consumers journal`f2fc2bda5057faf8b99ac48b3bff8ff63c2313c035dc0ab4cf74e986e66b1c46`.
