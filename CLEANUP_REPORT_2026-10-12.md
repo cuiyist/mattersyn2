@@ -694,3 +694,16 @@ The public-Source input/blueprint raw-byte proof SHA256 is `734d66fbb215a0f55e1b
 | `batch38/r/final/project/recipe-atlas/static` | `81496f32a201d807f3d5b62c32d25ff896e3f5bf2dac9c0f4aa2657e47078a53` | `4ab7f1157efcf0b25da9b878bb7fe493f84a162f5ddc0aab74f4bc616ebce8c9` |
 
 All previous report bytes and HOLD/failure histories remain unchanged and receive no new credit. This event selected only the three named static subtrees; their dist siblings and remaining generated outputs, snapshots/manifests/receipts, working Source/Site checkouts, original paper/text/pass/pair data, owner folders, models and training inputs remained outside the selection. No program stop, older-HOLD replay, cause attribution or additional publication is inferred.
+
+
+## R21 — retired B38 q build removed, 2026-10-16
+
+Root removed only `research-assets/simple-website-20261010/batch38/q-r3/local-build/project/recipe-atlas/dist` after its complete closed byte comparison matched the GitHub-reconstructible Source ca23 inputs and exact generated manifest. The historical q candidate remains unapproved; its removal does not turn that candidate into a release. The separately verified normal B38/B39 r release and its final dist baseline remain preserved.
+
+- Removal interval: 2026-10-16T13:29:22.995216+00:00 to 2026-10-16T13:29:47.506159+00:00.
+- Removed: 43,387 generated file copies /2,722,457,822 logical bytes; target confirmed absent.
+- C: free before: 76189544448 bytes; after: 79027896320 bytes. Concurrent work prevents attributing an isolated physical recovery. The 100 GiB target remains unmet.
+- Cumulative copy accounting: 12,191,538 copies /647,776,713,953 logical bytes. This is not a physical recovery claim.
+- Exact reconstruction proof SHA-256: `5ff995e124aba5b545fc95fc8e648b6fb57c4a8d833e2a0c6cedea317b88b8de`; removal receipt SHA-256: `becfac7b4ca212a23fb561c4b056cb542b9a39d64a78e237d55261c02338596d`.
+- Fresh native process/CWD checks found zero unknown native CWD observations and passed the target consumer check. No programs were stopped. Source `84671ee15d20669ac6d07c1b70bb34751bcc4b3c` and Site `48090279ddc2589619b857b423791125dc929963` were clean at admission.
+- Papers, owner folders, source text, quoted pass/pair/training files, active model/server, working checkouts and all earlier HOLD/failure records remain protected. No new model, paper, audit or publication credit.
