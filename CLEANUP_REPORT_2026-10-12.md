@@ -1060,3 +1060,22 @@ q-r4 evidence: completed receipt `bf79771b9bfffd845d52f9a16cce6ce543e1514de365b4
 The latest completed-operation observation was103,433,076,736 free bytes at q-r4 completion, still **3,941,105,664 bytes below100GiB (107,374,182,400)**. Root separately reported103,430,746,112 bytes afterward, also below the threshold; that message supplied no separate exact capture timestamp. Concurrent build and disk activity prevent attributing changes in free space solely to these removals. The report-only publisher records its own fresh dated capacity separately; this section makes no threshold-restored claim.
 
 All prior HOLDs, frozen scientific trials, paused audit-lane questions and existing publication counts remain unchanged. This cleanup/report update creates zero paper-publication, audit or training credit.
+
+
+## R37 — three completed q-copy removals, 2026-10-17 UTC
+
+This append records three completed removals only. It retains the entire R36 report unchanged, including all earlier HOLDs and failures. The prior report was anonymously verified at commit `4f1f382c09b28c26f2a52196333f00b81e5db182` (165,084 bytes). There is no new paper-publication credit.
+
+| Completed generated copy under `research-assets/simple-website-20261010/` | File copies removed | Logical bytes removed | Actual UTC interval | C: free bytes before → after |
+| --- | ---: | ---: | --- | ---: |
+| `batch44/q-r4/local-build/project/recipe-atlas/static` | 30,064 | 2,417,417,103 | 00:20:48.488151 → 00:21:22.550405 | 103,389,085,696 → 105,862,115,328 |
+| `batch44/q-r3/local-build/project/recipe-atlas/static` | 30,067 | 2,417,428,367 | 00:24:22.011932 → 00:24:47.495779 | 102,753,951,744 → 105,252,290,560 |
+| `batch44/q-r3/source-boundary` | 37,673 | 2,864,412,766 | 00:25:18.182389 → 00:25:50.394290 | 105,261,658,112 → 108,196,667,392 |
+
+The three Root-owned native removers completed with exit code 0. Each result records the target absent afterward, zero programs stopped, a matching full-byte/metadata proof, a fresh native current-directory observation with zero unknown consumers, and a fresh consumer check. The static-copy proofs use exact public Source Git bytes (raw SHA-256 and Git blob SHA-1) plus the complete metadata/membership contract. The q-r3 Source export uses its actual closed Source/Git protocol and exact derived root binding; it is not relabelled as a generated-site input-body proof. Read-only proofs alone did not authorize removal.
+
+This increment is **97,804 file copies and 7,699,258,236 logical bytes**. The cumulative completed-removal ledger is **13,790,903 file copies and 750,001,432,132 logical bytes**. These are logical copy totals, not isolated physical disk savings. Concurrent builds changed free space between operations; the three before/after intervals must not be added to claim physical recovery.
+
+At the last removal's recorded completion (2026-10-17 00:25:50.394290 UTC), C: had **108,196,667,392 free bytes**, 822,484,992 bytes above the 100 GiB trigger (107,374,182,400 bytes). Root subsequently reported a separate actual observation of **108,128,706,560 free bytes**, 754,524,160 bytes above that trigger; no more precise capture timestamp or independent capture file is asserted for that follow-up. These are dated observations, not a guarantee that capacity will remain above the trigger. The publisher also records its own fresh C: observation separately when Root runs it.
+
+The current working Source and Site roles were `2b90ea956d7b309fda2a414a950290a5ece6b882` and `92749b7af8920a2c507a301ba05739db98710f2f`. The q-r3 copy's reconstruction authority remains its historical Source `6d01d692b778164c4d91b01c65d09e37548d2e38` and public ancestor `8c441707887a944c633c24223b2ad30eaf7c70a9`; this does not promote the historical q-r3 semantic/browser HOLD to a release. That HOLD remains unchanged. The active q distributions, current integration, one working Source/Site checkout, Qwen3-32B model/server/CUDA build, original papers, page text, quoted pass/pair/training files, owner folders and credentials are outside these three removals. No process was stopped. No paper data or quoted text is included in this report, no repository setting is changed, and the separate audit lane stays paused.
