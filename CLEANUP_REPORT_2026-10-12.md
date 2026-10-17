@@ -1549,3 +1549,26 @@ The last dated receipt, at 2026-10-17T22:05:41.334158+00:00, recorded C: free **
 Each receipt records zero programs stopped. The three known-leaf operations deleted **zero unknown files and zero directories**: unknown entries and every directory remain. Candidate/final Dist, the retained q3 local-build Dist, all manifests, preview, site-stage, the Source/Site working checkouts, Source assets and protected paper/page-text/pass/pair/training/model/server/CUDA inputs remain outside those known-leaf removal scopes. The earlier cancelled stage and the two completed public Source-export copies were removed under their separately proved exact scopes.
 
 All original empty-directory, Source-q1, obsolete-DIST and other historical HOLD decisions and their evidence remain unchanged in the exact R62 prefix. None is retried, expanded or treated as completed by these six operations. No other program was stopped to unlock a folder. This report contains safe storage counts, paths and dated receipts only; no paper text, quoted model payloads or credentials.
+
+## R64 — four completed post-R63 K41 generated-copy cleanups
+
+This entry includes only four completed operations. The earlier private three-operation R64 proposal remains historical and unpublished; it is not applied separately. The complete R63 report, including every earlier HOLD, remains an exact byte prefix.
+
+| Completed UTC | Generated copy (relative to MatterSyn) | Files removed | Logical bytes removed | C: before (bytes) | C: after (bytes) | Observed delta (bytes) |
+|---|---|---:|---:|---:|---:|---:|
+| 2026-10-17T22:30:19.240579+00:00 | research-assets/simple-website-20261010/batch56/r-K-r2/candidate/project/recipe-atlas/dist | 49614 | 3274014289 | 9843212288 | 13014482944 | 3171270656 |
+| 2026-10-17T22:35:38.698546+00:00 | research-assets/simple-website-20261010/batch56/r-K-r2/site-stage | 49614 | 3274014289 | 12948201472 | 16248242176 | 3300040704 |
+| 2026-10-17T22:43:12.771391+00:00 | research-assets/simple-website-20261010/batch56/q-K-r3/local-build/project/recipe-atlas/dist | 49614 | 3274014289 | 16233836544 | 19285647360 | 3051810816 |
+| 2026-10-17T23:12:21.974070+00:00 | research-assets/simple-website-20261010/batch56/r-K-r2/final/project/recipe-atlas/dist/assets | 29517 | 2663773001 | 19104223232 | 18476609536 | -627613696 |
+
+Completed increment: 178359 generated file copies and 12485815868 logical bytes. Cumulative completed totals: 15653887 file copies and 887617820341 logical bytes. These are copy counts and logical byte totals, not independently attributed physical disk gain.
+
+The final-assets operation ran from 2026-10-17T23:08:35.101241+00:00 to 2026-10-17T23:12:21.974070+00:00. C: was observed at 19104223232 bytes before and 18476609536 bytes after, a dated change of -627613696 bytes while Source export/build work overlapped. No physical gain is inferred from that observation. The final dated observation remains below the 100 GiB threshold (107374182400 bytes); it is not a current free-space measurement.
+
+All four operations removed only independently reconstructed generated leaves. Unknown entries and every directory were retained. Four final bookkeeping data JSONs, manifests, receipts, prior HOLD targets, papers and quote-bearing training files, Source/Site working copies, active model/server files and the active next release work were preserved. No other program was stopped; no publication, audit or training credit is added.
+
+Completion receipt SHA-256 values:
+- 3e50a8d443a590741702f36e96d16b3d0d45dd6017cab7c9834aeeacf4f45fe7
+- ee760c12768a4f17d15a32c1d6042f7b26ec8dc106ac3e707c25cf15c5432c14
+- 7c7439bba6027ddabcc7cec91cc94827b154499d95b8bf81df959a646d6e7061
+- 120c1771cb62f3d89b9a6845b5adea49bd848336038995036be5754774ecbb78
