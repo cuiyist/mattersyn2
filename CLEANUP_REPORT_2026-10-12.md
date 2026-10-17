@@ -1503,3 +1503,25 @@ The earlier `batch55/q-r2/local-build/project/recipe-atlas/dist` attempt remains
 Root separately retired its completed owned J q2 HTTP preview, PID 2932 on loopback port 18861, at 17:12:59 UTC: one owned preview, zero other programs stopped, zero files deleted, Qwen untouched. This process retirement adds no removal credit.
 
 R61 adds **49,060 file copies / 3,236,540,182 logical bytes** once. Cumulative verified logical removals are **15,256,499 file copies / 857,581,632,084 bytes**; these totals are not isolated physical recovery. Dated cleanup roles were prepared Source `1bfd2b112ffe7ded48a9922cc971c96847181b23` and Site `c3190e5cdd941b3b9737f56b3ab18259beb1877f`; reconstruction is published Site Git, not Source HTML. J bookkeeping had already been consumed. All report history, held scopes, protected working checkouts, models, originals, training inputs and required release metadata remain preserved. This report update adds no K website publication, paper, audit or training credit.
+
+
+## R62 — J44 candidate cleanup held; zero files removed (2026-10-17)
+
+The one-shot cleanup attempt for `batch55/r-r1/candidate/project/recipe-atlas/dist` ran from 2026-10-17T19:08:50.415472+00:00 to 2026-10-17T19:08:55.706109+00:00 and stopped with `Complete current file/directory membership differs from Git`. Status: **HOLD / NOT_REMOVED**. The literal remover was not reached. This attempted copy remains local, with zero removed copies and zero removed logical bytes; do not retry it.
+
+Saved opening metadata and the already-published Site manifest show all 49,060 expected file names and sizes (3,236,540,182 logical bytes), with no extra files, missing files or size mismatch. Strict directory membership was 1,902 saved versus 1,896 manifest-implied directories. The following six extra directory entries have no saved file entries beneath them:
+
+- `assets/figures/yu2018-cds-nanocrystals-acssuschemeng8b00398`
+- `assets/paper-reviews/bae2013-nn4002825`
+- `assets/paper-reviews/ge2007-ange-200700197`
+- `assets/paper-reviews/li2006-1-2207494`
+- `assets/papers`
+- `assets/papers/wu2008`
+
+This is a saved-metadata diagnosis only. It does not establish file-body equality or permit deleting the extra directories. The zero-extra guard remains unchanged; the failed scope and its evidence remain preserved. J final, both earlier HOLD scopes, papers, page text, pass/pair/training files, active model/server/CUDA files and the Source/Site checkouts remain protected.
+
+The saved native pre-proof passed with unknown-process count 0 and programs stopped 0. No program was identified as the cause of this HOLD; membership, rather than a program lock, stopped the attempt. Root supplied a dated absence proof for the former candidate preview PID 23672; no new process probe or program stop was performed for this report.
+
+C: free space, in bytes: Root before-launch reading 42,154,749,952; attempt before 42,154,672,128; attempt after 42,139,201,536. A later Root-reported reading of 36,214,980,608 overlapped the Site build. These dated readings do not isolate cleanup recovery; this attempt removed nothing. The 100 GiB threshold (107,374,182,400 bytes) is still unmet, with a 71,159,201,792-byte shortfall relative to that later reading. No physical gain is inferred.
+
+Verified cumulative retirement remains **15,256,499 file copies / 857,581,632,084 logical bytes**, unchanged from the genuine R61 report at [9de75f4833e060c416f9494292f9b5e7f6449795](https://github.com/cuiyist/mattersyn2/blob/9de75f4833e060c416f9494292f9b5e7f6449795/CLEANUP_REPORT_2026-10-12.md). R62 adds no cleanup, paper, publication, audit or training credit. This report contains storage metadata only.
