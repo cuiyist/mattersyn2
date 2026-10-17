@@ -1525,3 +1525,27 @@ The saved native pre-proof passed with unknown-process count 0 and programs stop
 C: free space, in bytes: Root before-launch reading 42,154,749,952; attempt before 42,154,672,128; attempt after 42,139,201,536. A later Root-reported reading of 36,214,980,608 overlapped the Site build. These dated readings do not isolate cleanup recovery; this attempt removed nothing. The 100 GiB threshold (107,374,182,400 bytes) is still unmet, with a 71,159,201,792-byte shortfall relative to that later reading. No physical gain is inferred.
 
 Verified cumulative retirement remains **15,256,499 file copies / 857,581,632,084 logical bytes**, unchanged from the genuine R61 report at [9de75f4833e060c416f9494292f9b5e7f6449795](https://github.com/cuiyist/mattersyn2/blob/9de75f4833e060c416f9494292f9b5e7f6449795/CLEANUP_REPORT_2026-10-12.md). R62 adds no cleanup, paper, publication, audit or training credit. This report contains storage metadata only.
+
+
+## R63 — six completed generated-copy cleanups, 2026-10-17
+
+This section records six completed, receipt-backed removals of duplicate generated files. It adds no website, publication, scientific-audit, accuracy or training-ready credit. All targets below are relative to `research-assets/simple-website-20261010/`.
+
+| Completed UTC | Generated target | Removed file copies | Removed logical bytes | C: free before (bytes) | C: free after (bytes) | Observed free-byte delta |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| 2026-10-17T20:03:54.9999234Z | `batch56/r-K-r1/site-stage` | 49,612 | 3,274,006,953 | 21,514,756,096 | 24,929,943,552 | +3,415,187,456 |
+| 2026-10-17T21:10:28.590832+00:00 | `batch56/q-K-r3/source-boundary` | 40,437 | 3,142,542,566 | 16,237,010,944 | 19,497,484,288 | +3,260,473,344 |
+| 2026-10-17T21:19:09.899922+00:00 | `batch56/q-K-r2/source-boundary` | 40,435 | 3,142,508,958 | 12,638,679,040 | 15,889,440,768 | +3,250,761,728 |
+| 2026-10-17T21:47:22.658810+00:00 | `batch56/r-K-r2/candidate/project/recipe-atlas/static/assets` (known file leaves only) | 29,515 | 2,663,771,304 | 5,707,030,528 | 4,939,665,408 | −767,365,120 |
+| 2026-10-17T21:57:15.456383+00:00 | `batch56/r-K-r2/final/project/recipe-atlas/static/assets` (known file leaves only) | 29,515 | 2,663,771,304 | 4,930,715,648 | 7,495,385,088 | +2,564,669,440 |
+| 2026-10-17T22:05:41.334158+00:00 | `batch56/q-K-r3/local-build/project/recipe-atlas/static/assets` (known file leaves only) | 29,515 | 2,663,771,304 | 7,487,787,008 | 10,161,328,128 | +2,673,541,120 |
+
+These six genuine receipts add **219,029 retired file copies / 17,550,372,389 logical bytes**. The verified R62 baseline at [`cd4fde4d2f9b34c5674d5f64a593684848df4566`](https://github.com/cuiyist/mattersyn2/blob/cd4fde4d2f9b34c5674d5f64a593684848df4566/CLEANUP_REPORT_2026-10-12.md) was15,256,499 copies /857,581,632,084 logical bytes. The resulting completed-only cumulative total is **15,475,528 file copies / 875,132,004,473 logical bytes**. No prospective or unexecuted cleanup is included.
+
+The candidate known-leaf operation records **C: free 5,707,030,528 → 4,939,665,408 bytes**, an observed **negative delta of −767,365,120 bytes** during concurrent Site-stage growth reported by Root. No isolated physical gain is attributed to any operation. Logical duplicate-file retirement and observed free-space movement are different measurements while other work is running. All free-byte readings above are dated receipt observations, not a claim of current free space.
+
+The last dated receipt, at 2026-10-17T22:05:41.334158+00:00, recorded C: free **10,161,328,128 bytes**, which was **97,212,854,272 bytes below** the100 GiB threshold (107,374,182,400 bytes). It does not establish the current free-space reading.
+
+Each receipt records zero programs stopped. The three known-leaf operations deleted **zero unknown files and zero directories**: unknown entries and every directory remain. Candidate/final Dist, the retained q3 local-build Dist, all manifests, preview, site-stage, the Source/Site working checkouts, Source assets and protected paper/page-text/pass/pair/training/model/server/CUDA inputs remain outside those known-leaf removal scopes. The earlier cancelled stage and the two completed public Source-export copies were removed under their separately proved exact scopes.
+
+All original empty-directory, Source-q1, obsolete-DIST and other historical HOLD decisions and their evidence remain unchanged in the exact R62 prefix. None is retried, expanded or treated as completed by these six operations. No other program was stopped to unlock a folder. This report contains safe storage counts, paths and dated receipts only; no paper text, quoted model payloads or credentials.
