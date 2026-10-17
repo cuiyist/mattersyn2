@@ -1305,3 +1305,21 @@ The reconstruction is **Source raw Git**, not Site Git: Source commit `76f8214a5
 Fresh raw-byte, complete ordinary membership, native-consumer, reparse/hardlink/alias/path, clean-role/CAS and strict closing-identity checks passed. Saved full opening and closing rows match exactly. The H served q distribution, active Site preparation/release paths, all servers/models, working checkouts, plans/manifests/receipts, original PDFs, page text, quoted passes/pairs and training files were protected. No failure was relaxed or replayed and no new source facts were added.
 
 Cumulative verified generated-copy retirement through R49: **14,588,074 file copies /809,731,761,472 logical bytes**. This is cumulative logical-copy accounting, not unique source bytes or isolated physical gain. The complete R48 report prefix stays byte-for-byte intact. This is only an append to the existing `cuiyist/mattersyn2` cleanup report; no repository settings, source/site records, scientific accuracy, training readiness or paper publication credit changes.
+
+## R50 — published G68 generated site-stage copy removed, 2026-10-17 UTC
+
+Root collected cleanup session **10515 /EXIT0**. The only newly counted scope is `research-assets/simple-website-20261010/batch47/r-r4/site-stage`: **47,201 generated file copies /3,073,854,003 logical bytes**, genuinely `REMOVED`. No earlier cleanup or HOLD is counted again.
+
+| UTC interval | Files | Logical bytes | C: free before | C: free after (result) | C: free after (summary) |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| 2026-10-17T07:27:55.941921+00:00 to 2026-10-17T07:32:10.626119+00:00 | 47201 | 3073854003 | 102274228224 | 104771031040 | 104771026944 |
+
+The final summary at **2026-10-17T07:32:10.627124+00:00** observed **104,771,026,944 bytes free**, still **2,603,155,456 bytes below** the 100 GiB threshold (107,374,182,400 bytes). Protected H Site preparation/build work continued during this interval. These are dated observations: no isolated physical-reclaim or threshold-restored claim is made. Programs stopped: **0**.
+
+This generated G staging tree was reconstructed from the already-published **Site Git** commit `ccc22244f6fc61a5566910f4c95f7f1b2379c053`, tree `617d0ba836c6794f107e7b7ea218884fe4e8566f`, with the saved G complete export/final manifests, exact raw SHA256/Git blob/length/mode and ordinary file/directory membership. This is different from R49's H Source-Git reconstruction. The eleven repository control files stay outside this stage copy. The singleton used the original strict membership verifier with **no extra-empty-directory allowance**. Full opening and closing metadata rows were retained and match exactly.
+
+At the Root invocation, clean Source was `76f8214a53f85383ad092c744d32a3cdfb1277e9`, Source origin/main was the genuine H PR64 merge `6a2060f9a20447bca32eac2f8b9d94fa62b8a829`, and the clean Site checkout remained published G Site `ccc22244f6fc61a5566910f4c95f7f1b2379c053`. G's successful push, Pages and full anonymous verification were bound separately. Fresh native consumers, complete raw bytes, reparse/hardlink/alias/path, clean-role/CAS and strict closing checks passed. These are dated cleanup facts, not H website publication: H publication credit remains **0** while its normal dry run is pending.
+
+All candidate/final/project siblings, previews/worktrees, served q4 distribution and servers/models, active H q/release/build paths, Source/Site working checkouts, manifests/plans/receipts/logs, original PDFs, page text, quoted passes/pairs and training files were outside the literal target and protected. Every earlier failure/HOLD and its original zero-credit disposition remains unchanged; no guard was relaxed and no failed cleanup was replayed.
+
+Cumulative verified generated-copy retirement through R50: **14,635,275 file copies /812,805,615,475 logical bytes**. These are cumulative logical-copy counts, not unique source bytes or isolated physical gain. The entire R49 report prefix is unchanged. This report-only append to the existing `cuiyist/mattersyn2` file changes no repository settings, source/site records, scientific accuracy, training readiness or paper publication credit.
