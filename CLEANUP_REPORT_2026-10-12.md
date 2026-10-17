@@ -1158,3 +1158,25 @@ The increment is **67,740 file copies / 5,281,885,445 logical bytes**. The cumul
 The final saved observation at `2026-10-17T03:18:16.254634+00:00` was **103,545,712,640 free bytes**, still **3,828,469,760 bytes below** the 100 GiB trigger (107,374,182,400 bytes). The threshold was **not restored** at that dated observation. The publisher records another fresh C: observation separately; no permanent-capacity claim is made. No further cleanup scope was started by this report-preparation worker.
 
 All earlier failures and HOLDs remain on record, with no replay or extra credit. The current q3 work, q44/q-r3 and q-r4 distributions/previews, r-r2 held scopes, canonical assets, original papers, page text, quoted pass/pair/training inputs, audit originals, both working checkouts, owner folders, active Qwen/CUDA and all other scopes stay protected. No repository setting change, source-paper transfer, new-paper credit or audit-lane resume is claimed.
+
+
+## R42 — two completed historical q44/q-r2 generated-copy removals, 2026-10-17 UTC
+
+Exactly two new completed removals are credited below. The full R41 report remains an unchanged 182,650-byte prefix, anonymously verified at commit `adf0a40341c7005519487ca796ad58a86f6e511f`, SHA-256 `6f3eff690c4e1226439130e1d8cb000b21ffd2d7bae0c4c93f811af6e43683af`.
+
+| Completed generated copy under `research-assets/simple-website-20261010/` | File copies removed | Logical bytes removed | Actual UTC interval | C: free bytes before → after |
+| --- | ---: | ---: | --- | ---: |
+| `batch44/q-r2/source-boundary` | 37,673 | 2,864,461,753 | 03:25:42.875545 → 03:28:34.684309 | 103,535,132,672 → 106,467,155,968 |
+| `batch44/q-r2/local-build/project/recipe-atlas/static` | 30,067 | 2,417,428,367 | 03:28:48.070367 → 03:31:22.674511 | 106,466,500,608 → 108,936,327,168 |
+
+Root collected both independent runs with exit code 0. Each actual result is `REMOVED`, with its exact target absent and zero programs stopped. Full retained Git object bodies, raw Git blob SHA-1, raw SHA-256, mode and length were verified against the saved normal manifest and complete target bytes. Exact file/directory membership, fresh native CWD/Consumers evidence with zero unknown results, and closing metadata/role guards passed. The static scope admitted only the same five named generated directories: four empty leaves and their parent containing only the listed empty child. No unknown file or directory was accepted.
+
+At these cleanup intervals, the clean Source guard was `b64da472223e7528a5b477813055128673588d6c` and the Site guard was `6924e17c332ba1b8b80d53b04e47ea96ea0fe508`. These dated guards were distinct from immutable reconstruction Source `4412b5c18ce19ceeddcb1bb45e2d1cf6a21d3e0c`, tree `962b93ae0e28af9b44751415032be14508676186`. The helpers required read-only ancestry to the already-public `ce02eaf3616c7b8bb8bc34033629a19b1da75c53` and fixed `origin/main` to that authority at the checks. No global Git configuration was changed. This report does not require the working Source HEAD to remain at the dated cleanup guard or claim that a later Source change or G is published.
+
+The historical q44/q-r2 checkpoint had completed with its final build failed. That original failure, all logs, manifests, proof records and private data remain intact; neither cleanup nor the ancestry check promotes it to a successful release. The initial metadata-only scan hit a Windows long-path limitation and was repeated over the same literal scopes with the accepted extended I/O prefix. The failed scan made no membership claim or target change. All earlier HOLDs and failures stay on record without replay or extra credit.
+
+The increment is **67,740 file copies / 5,281,890,120 logical bytes**. The cumulative completed-removal ledger is **14,085,862 file copies / 773,254,023,089 logical bytes**. These are logical copy totals, not isolated physical recovery. Concurrent build activity and other filesystem changes prevent attributing the C: observations solely to deletion.
+
+The final saved observation at `2026-10-17T03:31:22.675515+00:00` was **108,936,323,072 free bytes**, **1,562,140,672 bytes above** the 100 GiB threshold (107,374,182,400 bytes). The threshold was restored at this dated observation only. The report publisher records a separate fresh observation; later builds may consume space again. No additional cleanup scope was prepared or started after this pair.
+
+Active release work and previews, protected held scopes, both working checkouts, owner folders, original papers, page text, quoted pass/pair/training inputs, private audit originals, canonical assets and active Qwen/CUDA remain protected. No program was stopped, no repository setting changed, no source-paper payload transferred and no paper-publication credit or audit-lane resume is claimed.
