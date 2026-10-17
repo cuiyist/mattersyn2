@@ -1392,3 +1392,20 @@ The retained-object proof checked **28,686 unique Git blobs / 2,530,103,758 byte
 New credit is **31,183 generated copies / 2,535,425,978 logical bytes**; cumulative verified credit is **14,856,928 copies / 827,947,844,129 logical bytes**. The dated summary remained **11,526,803,456 bytes below 100 GiB**. Logical copied bytes do not establish isolated physical recovery or current free space. This report adds no paper, audit or throughput credit.
 
 Every R53 byte and historical failed/HOLD result is preserved. This Source-static scope is now completed and credited once and must never be proposed or counted again. No model, original paper, quote-bearing training file, Source/Site checkout or setting is changed by this report-only append. Future operational Source head/status context is unbound; this publisher validates dated evidence and makes no current-clean assertion.
+
+
+## R55 — Completed H51 candidate Source-static copy retired (2026-10-17 10:26 UTC)
+
+The single unattempted `batch51/r-r1/candidate/project/recipe-atlas/static` copy was removed after a fresh Root proof. This Source-static subtree was separate from the original held candidate DIST and H q-r1 DIST siblings, which remained excluded and retain zero cleanup credit. Previously credited scopes were not replayed.
+
+- UTC cleanup interval: **10:22:58.417432–10:26:01.033120**. The actual result and summary each record the same finish time; both receipts are pinned separately.
+- Actual removed generated copies: **31,183 files / 2,535,425,978 logical bytes**.
+- C free: **92,527,673,344 → 88,842,182,656 bytes**; the separate summary reading is **88,841,371,648 bytes**. C free declined while the protected I build was active. These readings do not isolate the cleanup's physical effect, and **100 GiB was not restored**.
+- Dated clean guard: prepared corrective I Source `bd19c91cf2af17650acb64f13cb227449abc0bbf`, Source origin/main `6a2060f9a20447bca32eac2f8b9d94fa62b8a829` and Site `4ab674bff0e5fb237b5eaeb9ceb22c07bb90128f`. These are cleanup-time roles, not a current-working-tree or I publication claim.
+- Reconstruction was published **H Source Git** commit `76f8214a53f85383ad092c744d32a3cdfb1277e9`, tree `8b3347fc234a242550cb466c8c79a39f7830e6cf`, authenticated through the saved H manifest/allowlist/snapshot, normal 13-phase check and Source CI/ordinary merge. Metadata authority remained in q-r1; disposable ancestry was checked against the separate exact literal r-r1 target scope.
+
+The retained-object proof checked **28,686 unique Git blobs / 2,530,103,758 bytes**; every one of the 31,183 target leaves matched saved raw SHA256, Git blob identity and same-handle metadata. All **32,975 opening and closing metadata rows** (31,183 files and 1,792 directories) were saved and identical. Only the exact same five named empty generated directories were admitted beyond the published file map's implied parents; there were no file exceptions or generic empty-directory allowance. Fresh native consumer checks and the literal one-target remover passed, with **0 programs stopped**.
+
+New credit is **31,183 generated copies / 2,535,425,978 logical bytes**. Cumulative verified credit is **14,888,111 copies / 830,483,270,107 logical bytes**. The dated summary remained **18,532,810,752 bytes below 100 GiB**. Logical copied bytes are separate from distinct originals, isolated physical recovery, current free space and throughput.
+
+Every R54 byte and historical failed/HOLD result is preserved. This candidate Source-static scope is completed and credited once and must never be proposed or counted again. The report adds no paper or audit credit and changes no original paper, quoted training file, model, Source/Site checkout or setting. Future operational Source head/status context remains null; this publisher checks dated saved evidence only.
