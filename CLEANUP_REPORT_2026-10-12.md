@@ -1341,3 +1341,20 @@ Both cleanup invocations stopped zero programs. Separately, Root ended only its 
 Two strict attempts remain **HOLD / zero deletion / never replay**: H35 normal candidate DIST at 08:37:28.642818, and H35 q-r1 local-build DIST at 08:41:51.993335. Their saved opening-row diagnoses found no extra or missing files, no missing directories, and exactly five extra empty generated directories: `assets/figures/yu2018-cds-nanocrystals-acssuschemeng8b00398`, `assets/paper-reviews/bae2013-nn4002825`, `assets/paper-reviews/ge2007-ange-200700197`, `assets/papers`, and `assets/papers/wu2008`. The membership guard refused before body proof or removal. Saved rows, original errors and no-replay history remain intact; no program cause is inferred. The normal site-stage was unattempted in the H2 run.
 
 The earlier three-copy proposal was withheld before execution because H35 bookkeeping still needs normal final DIST at its next integration hook. Final DIST remains protected. No later stage, q-copy or other cleanup result is included in this frozen append; pending results receive no credit. All R50 bytes and earlier failure histories are preserved. This report-only update does not change Source/Site data, the frozen R50 bookkeeping context, the paused audit lane, quality gates, or paper publication counts.
+
+
+## R52 — completed H35 site-stage retirement (2026-10-17 08:47 UTC)
+
+The previously unattempted `batch51/r-r1/site-stage` was removed once through its separate exact-target helper, after genuine H35 publication, full retained Site Git and saved raw-SHA checks, complete strict membership, fresh native consumers, and identical saved opening/closing metadata. This is a different scope from the preserved candidate and q-r1 DIST HOLDs.
+
+- UTC interval: **08:46:30.793590–08:47:49.054648**.
+- Actual removed generated copies: **47,749 files / 3,120,949,119 logical bytes**.
+- C free: **97,690,648,576 → 100,876,001,280 bytes**; the separate summary reading is **100,875,997,184 bytes**.
+- Reconstruction: published Site `4ab674bff0e5fb237b5eaeb9ceb22c07bb90128f`, tree `af8c256b6d860f90e790a02eb2f72fbb6ae6d024`; dated cleanup guards were clean Source76 / ordinary Source merge6a206 / Site4ab. The retained Git proof checked 45,249 unique blobs / 3,115,624,840 bytes.
+- Programs stopped by this cleanup: **0**; no other programs or Qwen were stopped or restarted. The separate three owned HTTP-preview retirements are prior R51 history, not new R52 actions.
+
+Verified cumulative removal is now **14,777,996 generated file copies / 822,291,469,032 logical bytes**. The dated final summary remains **6,498,185,216 bytes below 100 GiB** (107,374,182,400 bytes). Decimal 100.876 GB is below that threshold. This does not establish isolated physical recovery, current free space, uninterrupted activity, or any publication throughput. Repeated reconstructible copies are counted separately.
+
+The original H candidate and H q-r1 complete-membership HOLDs remain unchanged, zero-credit and never replayed; R51's exact saved five-extra-directory diagnoses and all prior failures remain preserved in the prefix. The H final DIST required by bookkeeping, any future final-copy cleanup, and every other pending scope receive no credit in this append. Source may now be dirty under the normal I integration; the report describes dated cleanup evidence and does not assert current Source cleanliness or touch either working checkout.
+
+The full R51 report is an exact unchanged prefix. This append transfers no paper text, quote-bearing data or credentials, changes no website/audit/release rule, and adds no paper-publication credit. H35 bookkeeping used its frozen R50 context at the completed reviewed normal hook; this report does not rewrite that input.
