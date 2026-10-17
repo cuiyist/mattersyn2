@@ -1200,3 +1200,24 @@ The old q3 checkpoint's genuine all-13-check technical PASS remains on record, s
 The increment is **69,282 file copies / 5,436,553,394 logical bytes**. The cumulative completed-removal ledger is **14,155,144 file copies / 778,690,576,483 logical bytes**. These are logical copy totals, not isolated physical recovery. Release-build work overlapped cleanup. The first scope's saved summary observed 108,517,228,544 free bytes, but the final saved observation at `2026-10-17T03:54:16.135566+00:00` was **105,220,161,536 free bytes**, still **2,154,020,864 bytes below** the 100 GiB threshold (107,374,182,400 bytes). Thus the final observation was below the threshold despite the earlier restoration. The report publisher records a separate fresh observation; no lasting-capacity claim is made.
 
 All historical failures/HOLDs remain intact, without replay or double counting. Both working checkouts, original papers, page text, quoted pass/pair/training inputs, private audit originals, owner folders, canonical assets and active Qwen/CUDA remain protected. No program was stopped, no repository setting changed, no source-paper payload transferred and no paper-publication credit or audit-lane resume is claimed. This report-preparation task inspected or started no additional cleanup scope.
+
+
+## R44 — one completed G47/q-r4 Source-export copy removal, 2026-10-17 UTC
+
+This append credits exactly one newly completed removal. The entire R43 report remains an unchanged 190,666-byte prefix, anonymously verified at commit `6eae044afa50742b10ec2da8a197f0b961812386`, SHA-256 `56fd2736ffbd960bff9c1c5f55362aee5ea3cda90afa6b06dca1a40037335838`.
+
+| Completed generated copy under `research-assets/simple-website-20261010/` | File copies removed | Logical bytes removed | Actual UTC interval | C: free bytes before → after |
+| --- | ---: | ---: | --- | ---: |
+| `batch47/q-r4/source-boundary` | 38,492 | 2,944,530,080 | 04:01:55.853952 → 04:03:01.558259 | 105,194,856,448 → 108,205,309,952 |
+
+Root collected the native run with exit code 0. Its actual result is `REMOVED`, with the literal target absent and zero programs stopped. The helper verified all 38,492 expected file members and 2,270 directories, actual retained Git object bodies, raw Git blob SHA-1, raw SHA-256, file mode and length, complete target byte identity, fresh native CWD/Consumers evidence with zero unknown results, and closing membership/metadata/role checks. No other cleanup scope is included or credited.
+
+Both the reconstruction input and dated clean Source guard were local Git `7cb332648835cf662fefbb9f65cbd920af984839`, tree `11a3fb2096634ac6c03d891bee3461aefe192013`. The dated Site guard was `6924e17c332ba1b8b80d53b04e47ea96ea0fe508`; `origin/main` was checked at the separate public reference `ce02eaf3616c7b8bb8bc34033629a19b1da75c53`. These are historical cleanup bindings, not assertions about current HEAD/main or a later Source merge. The proof relies on retained exact local Git bodies and does not infer public reconstruction or G publication.
+
+The completed q4 checkpoint's all-13-check technical PASS is preserved. The original q3 caption-browser HOLD remains historical. The two authentic caption-closure receipts stay pinned and checked: 301 approved keys, 691 exact caption instances and all 4,985 canonical files unchanged, with all other Reader fields preserved. Their original parent remains b64, distinct from the q4 reconstruction input 7cb; no receipt was relabelled. These preservation facts do not create a new browser or publication result.
+
+The increment is **38,492 file copies / 2,944,530,080 logical bytes**. The cumulative completed-removal ledger is **14,193,636 file copies / 781,635,106,563 logical bytes**. These totals describe logical copies, not isolated physical recovery. Other work may change disk usage during the interval.
+
+The final saved observation at `2026-10-17T04:03:01.559257+00:00` was **108,205,502,464 free bytes**, **831,320,064 bytes above** the 100 GiB threshold (107,374,182,400 bytes). Restoration is established only at that dated observation. The publisher records a separate fresh C: observation; later release builds can consume space again.
+
+The q4 static copy, q4 distributions/HTTP preview, active Qwen/CUDA, both working checkouts, owner folders, original papers, page text, quoted pass/pair/training inputs, private audit originals, canonical assets and all other scopes remain protected. All previous failures/HOLDs remain on record without replay or double counting. No program was stopped, repository setting changed, source-paper payload transferred, new-paper credit claimed or audited lane resumed. No future removal is included in this append.
