@@ -1221,3 +1221,25 @@ The increment is **38,492 file copies / 2,944,530,080 logical bytes**. The cumul
 The final saved observation at `2026-10-17T04:03:01.559257+00:00` was **108,205,502,464 free bytes**, **831,320,064 bytes above** the 100 GiB threshold (107,374,182,400 bytes). Restoration is established only at that dated observation. The publisher records a separate fresh C: observation; later release builds can consume space again.
 
 The q4 static copy, q4 distributions/HTTP preview, active Qwen/CUDA, both working checkouts, owner folders, original papers, page text, quoted pass/pair/training inputs, private audit originals, canonical assets and all other scopes remain protected. All previous failures/HOLDs remain on record without replay or double counting. No program was stopped, repository setting changed, source-paper payload transferred, new-paper credit claimed or audited lane resumed. No future removal is included in this append.
+
+
+## R45 — four completed generated-copy removals (2026-10-17 UTC)
+
+Only the following four successful removals are added to the prior report. Root collected each native process with exit code 0; the saved final RESULT and SUMMARY receipts report REMOVED. The generated copies were checked by complete retained-Git byte and identity proofs plus fresh native consumer checks before removal. No other attempted, held or planned scope contributes to this increment.
+
+| Removed generated scope | File copies | Logical bytes | UTC start → finish | Dated C: free before → after (bytes) |
+| --- | ---: | ---: | --- | --- |
+| B47 q-r4 local-build/project/recipe-atlas/static | 30790 | 2492136151 | 2026-10-17T04:27:54.984714+00:00 → 2026-10-17T04:30:29.795323+00:00 | 102039310336 → 104572297216 |
+| Published F67 (B44 r-r2) site-stage | 46217 | 2992739008 | 2026-10-17T04:32:19.088888+00:00 → 2026-10-17T04:36:24.198365+00:00 | 104579678208 → 102226341888 |
+| Published F67 (B44 r-r2) final/project/recipe-atlas/dist | 46217 | 2992739008 | 2026-10-17T04:36:37.154000+00:00 → 2026-10-17T04:40:44.111606+00:00 | 102109892608 → 104556974080 |
+| F67 (B44 r-r2) final/project/recipe-atlas/static — new fresh proof | 30064 | 2417417103 | 2026-10-17T04:43:39.333746+00:00 → 2026-10-17T04:46:00.652206+00:00 | 104560103424 → 107029610496 |
+
+The q-r4 static copy was reconstructed against retained local Source Git bodies at `7cb332648835cf662fefbb9f65cbd920af984839` (tree `11a3fb2096634ac6c03d891bee3461aefe192013`); this is local reconstruction authority, not a claim that the entire Source is public. The F67 site-stage and final/dist copies were reconstructed against the already published `mattersyn-site` commit `6924e17c332ba1b8b80d53b04e47ea96ea0fe508` (tree `45352e985ab28d478659e0e17956912019dc7d02`). The F67 final/static copy instead used public Source `2b90ea956d7b309fda2a414a950290a5ece6b882`, retained Git tree `22d301a403a54404570dd929f8116273ad728caa` and its genuine saved Source snapshot; current Source and Site roles were checked separately.
+
+The original final/static closing-identity **HOLD** (receipt SHA256 `c35a5496ed5320fc9e200c61e659862e09e17c0efbe6eac6cfe688349626ff5d`) remains unchanged and adds no removal credit. The fourth row comes only from the new fresh full-byte/native/closing-identity attempt's successful result (SHA256 `a2d0759a13116156fa57c1a2ad58cc5d73e263e3dec6cafc4189997ecdd3073f`), not from replaying the old proof or relabelling the HOLD.
+
+This increment is **153,288 file copies /10,895,031,270 logical bytes**. With the independently verified R44 report at `e6bcef0dee6c5d47694eb00c7e8c020bd1be5f7c` (194,077 bytes; SHA256 `4b64d20657f0fab0147115d1c5235dab45fd350432d304d3dad0911f9ce2f803`), cumulative accounting is **14,346,924 redundant file copies /792,530,137,833 logical bytes**. These are logical copy-removal totals, not isolated physically reclaimed capacity or proof of the requested 600 GB physical goal.
+
+The last removal's per-root dated free reading was `104560103424 → 107029610496` bytes. Its separately recorded final SUMMARY reading was `107029606400` bytes at `2026-10-17T04:46:00.653204+00:00`. The concurrent G build changes disk use during this interval; the F67 site-stage before/after readings in the table even decrease. No isolated reclaimed-gain or current-capacity claim follows from these readings. Root will observe C: again during the actual report publication and preserve that fresh observation in the verification receipt.
+
+Programs stopped: **0**. The retained working Source/Site checkouts, active model/server, original papers, page text, quoted passes/pairs/training data, user-owned folders, original failed/HOLD receipts and preserved caption closure history are outside these four generated-copy targets. This report-only append changes no repository setting, release gate, audit denominator, paper record or publication count; G publication credit remains **0** here. All prior report bytes remain an exact prefix.
