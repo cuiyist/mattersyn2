@@ -1116,3 +1116,25 @@ The increment is **30,064 file copies / 2,417,417,103 logical bytes**. The cumul
 At the actual completion (2026-10-17 02:17:33.540793 UTC), C: free space was **102,283,001,856 bytes**, still 5,091,180,544 bytes below the 100 GiB trigger (107,374,182,400 bytes). This dated observation does not establish current capacity or restoration of the threshold. A fresh observation remains pending until Root runs the report publisher; that publisher records the actual value separately.
 
 Only this redundant generated static copy was removed. Its public static contents are reconstructible from the bound public Source commit. Canonical published assets, original papers, text, quoted pass/pair/training inputs, private audit originals, owner folders, both working checkouts, all protected distributions/previews, active Qwen/CUDA and every other scope remain protected. No active program was stopped. No repository setting change, source-paper transfer, new-paper publication credit or audit-lane resume is claimed.
+
+
+## R40 — two completed retained-Git generated-copy removals, 2026-10-17 UTC
+
+Exactly two new completed removals are recorded below. The entire R39 report remains an unchanged prefix (175,112 bytes), anonymously verified at commit `208f705b6a4a32659b05aee95987cf8d9938491b`, SHA-256 `4bc4325d1ba2db106de128de0e72206a5efdfb2f35c87f58b1f7c169de0c1900`.
+
+| Completed generated copy under `research-assets/simple-website-20261010/` | File copies removed | Logical bytes removed | Actual UTC interval | C: free bytes before → after |
+| --- | ---: | ---: | --- | ---: |
+| `batch47/q-r2/source-boundary` | 38,491 | 2,944,405,404 | 02:51:39.113183 → 02:52:48.370488 | 101,991,620,608 → 105,007,792,128 |
+| `batch47/q-r2/local-build/project/recipe-atlas/static` | 30,790 | 2,492,136,151 | 02:54:55.848836 → 02:58:14.309646 | 105,006,030,848 → 107,421,810,688 |
+
+The first wrong-path attempt incorrectly targeted a nonexistent `source-boundary/project` child and failed before native queries or byte proof, with zero deletion. The corrected two-root run genuinely removed `source-boundary`, then ended with a zero-deletion HOLD on the static scope because its directory membership differed. Root's collected exit code was 1 for that run; only its completed first removal is credited. The static scope was subsequently handled by one separately reviewed, single-root helper; Root collected that run with exit code 0. Neither original failure was rewritten or replayed, and the already-removed first scope was excluded from the new helper.
+
+The static discrepancy comprised exactly five generated directories: four empty leaves (`assets/figures/yu2018-cds-nanocrystals-acssuschemeng8b00398`, `assets/paper-reviews/bae2013-nn4002825`, `assets/paper-reviews/ge2007-ange-200700197`, `assets/papers/wu2008`) and their one additional parent `assets/papers`, containing only the listed empty child. The single-root helper required that exact extra-directory set and emptiness, then used the original exact membership verifier for every remaining directory and file. No unknown directory, file, mode, hash or length was admitted.
+
+Both actual removals freshly verified retained local Git blob bodies, raw Git blob SHA-1, raw SHA-256, mode and length against the saved normal q2 manifest, complete target byte identity and membership, fresh native CWD/Consumers checks with zero unknown results, closing metadata and Source/Site/WIP guards. The target roots are absent. Zero programs were stopped. The immutable reconstruction source is retained local Git `fed417779c3adfc182470bf3e5555c1e96805cfd`; this is **not** a claim that this commit is public or that G is published. The q2 checkpoint was completed but failed its final build. Its original failure, manifests, logs, result metadata and proof journals remain outside the deleted scopes.
+
+The increment is **69,281 file copies / 5,436,541,555 logical bytes**. The cumulative completed-removal ledger is **13,950,382 file copies / 762,690,247,524 logical bytes**. These are logical copy totals, not isolated physical recovery; other work and filesystem activity prevent attributing the observed free-space change solely to cleanup.
+
+The final saved observation at 2026-10-17 02:58:14.310648 UTC was **107,421,806,592 free bytes**, 47,624,192 bytes above the 100 GiB threshold (107,374,182,400 bytes). This dated observation establishes threshold restoration at that instant only; it does not guarantee later capacity. The report publisher records its own fresh C: observation separately.
+
+Only these redundant generated copies were removed. Source WIP and the retained Git commit, original papers, page text, quoted pass/pair/training files, private audit originals, both working checkouts, owner folders, protected outputs, active Qwen/CUDA and all other scopes remain protected. No repository setting change, source-paper transfer, paper-publication credit or audit-lane resume is claimed.
