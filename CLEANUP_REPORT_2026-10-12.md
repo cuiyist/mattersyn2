@@ -1323,3 +1323,21 @@ At the Root invocation, clean Source was `76f8214a53f85383ad092c744d32a3cdfb1277
 All candidate/final/project siblings, previews/worktrees, served q4 distribution and servers/models, active H q/release/build paths, Source/Site working checkouts, manifests/plans/receipts/logs, original PDFs, page text, quoted passes/pairs and training files were outside the literal target and protected. Every earlier failure/HOLD and its original zero-credit disposition remains unchanged; no guard was relaxed and no failed cleanup was replayed.
 
 Cumulative verified generated-copy retirement through R50: **14,635,275 file copies /812,805,615,475 logical bytes**. These are cumulative logical-copy counts, not unique source bytes or isolated physical gain. The entire R49 report prefix is unchanged. This report-only append to the existing `cuiyist/mattersyn2` file changes no repository settings, source/site records, scientific accuracy, training readiness or paper publication credit.
+
+
+## R51 — completed G/H registered previews; two strict membership holds (2026-10-17 UTC)
+
+Only two completed registered-worktree retirements receive new cleanup credit here. Both were reconstructed against actual retained published Site Git blobs and saved raw SHA256 values, checked with fresh native consumers and exact closing identities, then removed by the normal literal Git worktree lifecycle. No original paper, quoted training input, model, working checkout or audited record was deleted.
+
+| Completed scope | UTC interval | Generated file copies | Logical bytes | C free before → result after (bytes) |
+| --- | --- | ---: | ---: | ---: |
+| G68 batch47/r-r4/site-preview; detached base6924, published body SiteCCC, admin site-preview25 | 08:02:27.053512–08:06:29.668275 | 47,212 | 3,158,391,102 | 91,583,434,752 → 94,597,222,400 |
+| H35 batch51/r-r1/site-preview; detached baseCCC, published body Site4ab, admin site-preview24 | 08:39:27.431050–08:40:44.836160 | 47,760 | 3,206,513,336 | 94,409,138,176 → 97,712,177,152 |
+
+The corresponding summary readings are 94,597,218,304 and 97,712,107,520 bytes. The latter is below 107,374,182,400 bytes (100 GiB). These are dated free-space observations across concurrent work, not isolated physical recovery or a claim that the threshold was restored. New credit is **94,972 generated file copies / 6,364,904,438 logical bytes**; verified cumulative credit is **14,730,247 copies / 819,170,519,913 logical bytes**. Repeated generated copies are counted separately; these are not distinct original files or a 24-hour figure.
+
+Both cleanup invocations stopped zero programs. Separately, Root ended only its three completed temporary HTTP previews (PIDs 40552/49248/33568, ports 18856/18857/18858) by the exact owned-process lifecycle at 08:31:18–08:31:19 UTC. Its completion receipt says other programs stopped 0, filesystem deletions 0 and Qwen untouched.
+
+Two strict attempts remain **HOLD / zero deletion / never replay**: H35 normal candidate DIST at 08:37:28.642818, and H35 q-r1 local-build DIST at 08:41:51.993335. Their saved opening-row diagnoses found no extra or missing files, no missing directories, and exactly five extra empty generated directories: `assets/figures/yu2018-cds-nanocrystals-acssuschemeng8b00398`, `assets/paper-reviews/bae2013-nn4002825`, `assets/paper-reviews/ge2007-ange-200700197`, `assets/papers`, and `assets/papers/wu2008`. The membership guard refused before body proof or removal. Saved rows, original errors and no-replay history remain intact; no program cause is inferred. The normal site-stage was unattempted in the H2 run.
+
+The earlier three-copy proposal was withheld before execution because H35 bookkeeping still needs normal final DIST at its next integration hook. Final DIST remains protected. No later stage, q-copy or other cleanup result is included in this frozen append; pending results receive no credit. All R50 bytes and earlier failure histories are preserved. This report-only update does not change Source/Site data, the frozen R50 bookkeeping context, the paused audit lane, quality gates, or paper publication counts.
