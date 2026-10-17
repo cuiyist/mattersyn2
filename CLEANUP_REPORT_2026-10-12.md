@@ -1358,3 +1358,20 @@ Verified cumulative removal is now **14,777,996 generated file copies / 822,291,
 The original H candidate and H q-r1 complete-membership HOLDs remain unchanged, zero-credit and never replayed; R51's exact saved five-extra-directory diagnoses and all prior failures remain preserved in the prefix. The H final DIST required by bookkeeping, any future final-copy cleanup, and every other pending scope receive no credit in this append. Source may now be dirty under the normal I integration; the report describes dated cleanup evidence and does not assert current Source cleanliness or touch either working checkout.
 
 The full R51 report is an exact unchanged prefix. This append transfers no paper text, quote-bearing data or credentials, changes no website/audit/release rule, and adds no paper-publication credit. H35 bookkeeping used its frozen R50 context at the completed reviewed normal hook; this report does not rewrite that input.
+
+
+## R53 — H35 final DIST retired after bookkeeping completion (2026-10-17 09:24 UTC)
+
+The separate, previously unattempted `batch51/r-r1/final/project/recipe-atlas/dist` was removed once after H35 bookkeeping completed at **08:49:23.816364 UTC** through the normal reviewed I integration hook. The completed application, five-document scope, 35 SourceEx-only ledger events and 54 H records remained pinned; no historical bookkeeping input was copied or substituted.
+
+- UTC cleanup interval: **09:20:58.342721–09:24:58.756870**.
+- Actual removed generated copies: **47,749 files / 3,120,949,119 logical bytes**.
+- C free: **99,945,857,024 → 103,138,820,096 bytes**; the separate summary reading is **103,138,816,000 bytes**.
+- Dated clean guard: private prepared I Source `95804a05ac72ba9f74fb21c715388139939e77ef`, direct parent HSource76, public Source merge6a206, Site4ab. I958 was a prepared local child; it is not represented as published here.
+- Exact reconstruction was the already published H Site `4ab674bff0e5fb237b5eaeb9ceb22c07bb90128f`, tree `af8c256b6d860f90e790a02eb2f72fbb6ae6d024`, with historical H Source76. The retained proof checked 45,249 unique Git blobs / 3,115,624,840 bytes; every target leaf also matched saved raw SHA256 and same-handle identity.
+
+The fresh complete metadata contained 47,749 files and 1,810 directories. Only the exact same five named empty generated directories admitted by the tested parent pattern were present beyond the published file map's implied parents; `assets/papers` had only its exact `wu2008` empty child. There was no generic empty-directory or file exception. All 49,559 opening and closing metadata rows were saved and identical. Fresh native consumer checks and the literal one-target remover passed; programs stopped by cleanup **0**, other programs stopped **0**. Prior owned HTTP-preview retirements remain R51 history, not new R53 actions.
+
+New credit is **47,749 generated copies / 3,120,949,119 logical bytes**; verified cumulative credit is **14,825,745 copies / 825,412,418,151 logical bytes**. The dated summary remains **4,235,366,400 bytes below 100 GiB** (107,374,182,400 bytes). This is not isolated physical recovery, current free space, uninterrupted activity, or publication-throughput evidence. Repeated generated copies are separate from distinct original files.
+
+The original held H candidate and H q-r1 copies were not included or replayed and retain zero credit. This final-DIST scope is now completed and credited once; it must never be proposed or counted again. All R52 bytes and prior failed attempts are preserved. No pending scope, I website paper or audit credit is added, and no model, paper, quote-bearing file, Source/Site checkout or setting is changed by this report-only append.
