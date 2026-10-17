@@ -1038,3 +1038,25 @@ B32 `batch32/r/site-stage` remains **HOLD** (`2c0546aff7768760dbf88bf12e8804623c
 The original two full-byte reports retain `cleanup_eligible: false`; Root separately performed the fresh exact-role, native-consumer, complete directory/file membership and identity checks used for each singleton removal. Native verification leases were disposed before removal; no atomic continuing per-leaf deletion lease is claimed. Both native journals record zero unknowns in their two CWD receipts. Snapshots, manifests, map/proof/preflight/native/result receipts and parent project directories remain preserved outside the removed exact stages.
 
 Original papers, source text, quoted pass/pair/training data, private audit findings, active Qwen/CUDA, current q/r working copies, both Source/Site checkouts and canonical assets remain protected. No program was stopped. This report-only append claims no current F q/build/publication success and adds no paper, scientific-audit, training or publication credit; the audited lane remains paused.
+
+
+## R36 — two completed generated-copy removals, 2026-10-17 UTC
+
+Only the two newly completed cleanup events below add credit in this section. The exact R35 report body and all earlier histories remain unchanged.
+
+| Generated copy removed | Files | Logical bytes | Actual UTC interval | C: free before → after (bytes) |
+| --- | ---: | ---: | --- | ---: |
+| B40 previously published Site stage: `research-assets/simple-website-20261010/batch40/r/site-stage` | 44,422 | 2,822,446,591 | 2026-10-17T00:04:20.6625067+00:00 → 2026-10-17T00:05:21.3880810+00:00 | 103579226112 → 106520932352 |
+| B44 q-r4 raw public Source export: `research-assets/simple-website-20261010/batch44/q-r4/source-boundary` | 37,670 | 2,864,327,242 | 2026-10-17T00:13:45.567755+00:00 → 2026-10-17T00:14:13.655540+00:00 | 100469112832 → 103433076736 |
+
+New-only increment: **82,092 file copies /5,686,773,833 logical bytes**. From the exact R35 baseline of13,611,007 copies /736,615,400,063 logical bytes, the cumulative accounting is **13,693,099 copies /742,302,173,896 logical bytes**. These are logical redundant-copy totals; they do not establish isolated physical recovery or a600GB physical-recovery achievement. No earlier removed root is counted again.
+
+Both removals completed with zero programs stopped. Original PDFs, quoted page-text/pass/pair/training files, active Qwen3-32B model/server/CUDA build and working Source/Site checkouts were preserved. The active q-r4 preview/dist and normal r-r2 build were outside these literal cleanup roots. The q-r4 copy was verified against actual public SourceGit and the exact Source export protocol; it is not being described as a generated-dist input-body proof or a newly published paper.
+
+B40 evidence: completed receipt `bde4f8af030397d95a5b4113cf43df06ee62e0a7893d759fced3ebcb4ce537cf`, closed full-byte report `13e53660200e8d6d4ca489749cab5df3996d4abc57d7fcfbe60942142932bce8`,44,422 exact leaves /1,594 directories; fresh directory closure and native consumer/lease checks completed separately from the read-only proof. The proof itself remained cleanup_eligible=false; it did not independently authorize deletion.
+
+q-r4 evidence: completed receipt `bf79771b9bfffd845d52f9a16cce6ce543e1514de365b4723d9c04639c03477b`, normalized root receipt `129619410ed4ad8255f62d660e86622b20aab205220d69d611b4418e94982db7`, genuine raw Source full-byte protocol report `be3a04b67c90ad5eda4d451822a9840bcf811cc3c3aa011928043fec8a314566`;37,670 exact leaves /2,201 directories. Fresh native CWD visibility recorded unknown=0 and the final Consumers check passed. No source papers or quote-bearing payloads are uploaded with this report.
+
+The latest completed-operation observation was103,433,076,736 free bytes at q-r4 completion, still **3,941,105,664 bytes below100GiB (107,374,182,400)**. Root separately reported103,430,746,112 bytes afterward, also below the threshold; that message supplied no separate exact capture timestamp. Concurrent build and disk activity prevent attributing changes in free space solely to these removals. The report-only publisher records its own fresh dated capacity separately; this section makes no threshold-restored claim.
+
+All prior HOLDs, frozen scientific trials, paused audit-lane questions and existing publication counts remain unchanged. This cleanup/report update creates zero paper-publication, audit or training credit.
