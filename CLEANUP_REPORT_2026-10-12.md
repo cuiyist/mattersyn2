@@ -1458,3 +1458,14 @@ The complete verified R57 report is preserved. This append adds only the third d
 - Sourcebd19/Site4ab were dated clean guards, not a current-role assertion. The sibling q2 DIST/preview, I49 release trees, held H distributions, checkouts, models, papers and quote-bearing private training inputs were outside the deletion scope. This public report contains no paper text or quotes.
 
 Cumulative verified removals: 15,030,523 file copies / 841,769,765,184 logical bytes. Counts include reproducible copies; they do not measure physical recovered bytes or throughput. This is only an existing one-file cleanup-report append, with no Source/Site record or repository-setting change and zero I49 publication, audit or training credit. Publication is established separately through the normal release path.
+
+
+## R59 - two completed I49 generated copies, October 17, 2026
+
+Root completed and collected both ordinary cleanup processes with exit code 0. The removed scopes were batch53/r-r1/final/project/recipe-atlas/dist and batch53/r-r1/site-stage: 48,455 files and 3,182,006,993 logical bytes each; together 96,910 copies and 6,364,013,986 logical bytes. Both copies were reconstructed against actually published Site Git commit 87dd3b153337eac5ef4531c841688dc3d79e1e20, including retained blob bodies, every target leaf, exact opening/closing metadata, native consumer checks and literal removals. The final DIST retained its exact five generated-directory rule; the exported stage required exact directory membership without an extra-directory allowance. No program was stopped.
+
+The final cleanup ran 13:20:28-13:25:37 UTC: C free bytes 76,680,073,216 before and 79,874,482,176 after (summary 79,874,347,008). The stage cleanup ran 13:25:50-13:31:31 UTC: 79,873,544,192 before and 79,870,971,904 after (summary 79,870,963,712). The protected J export ran concurrently, so these readings do not establish isolated physical recovery. The last dated summary is 27,503,218,688 bytes below 100 GiB; the threshold is not restored.
+
+Cumulative verified removals recorded by this report are now 15,127,433 file copies and 848,133,779,170 logical bytes. These are logical removal totals, not a claim about physically recovered disk space. Papers, owner folders, page text, quoted passes/pairs/training files, active model/server/CUDA build, working checkouts and held scopes were preserved. The older q2 preview copy remains held pending its separate compatible proof; its root-owned preview server was not stopped.
+
+One worker read of the completed final receipt was automatically refused because the attempt was classified as active. That worker read was left out and not retried. Root used its own already collected cleanup outcomes for this report; no denied cleanup or source operation was bypassed. This report adds no paper, audit or training credit. R58 and all earlier history remain unchanged.
