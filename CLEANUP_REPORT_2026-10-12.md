@@ -1426,3 +1426,22 @@ The retained-object proof checked **36,711 unique Git blobs / 3,040,204,679 byte
 New cleanup credit is **39,515 generated copies / 3,051,420,222 logical bytes**. Cumulative verified credit is **14,927,626 copies / 833,534,690,329 logical bytes**. The dated summary remained **15,573,540,864 bytes below 100 GiB**. No current-free-space, isolated-gain, uninterrupted-work or throughput claim is made.
 
 Every R55 byte, earlier HOLD and original q-r1 failed-build result is preserved. This Source-export scope is completed and credited once and must never be proposed or counted again. The held H q/candidate DIST scopes, active I q-r2 and servers, all original papers, text/pass/pair/training/private audits, model and Source/Site working checkouts were excluded. The I49 batch was **not site-published by this cleanup**; no paper or audit credit is added. This report-only append performs no Source/Site change or cleanup action.
+
+
+## R57 — I53 q2 Source export and obsolete q1 static copy retired (2026-10-17 11:23 UTC)
+
+Two separate generated scopes were removed once. Each received fresh retained-Git and target-byte verification, native consumer checks, complete opening/closing metadata closure and its own literal one-target removal. All original q1 failed-build logs, receipts and metadata stayed outside both targets.
+
+| Scope | Result interval (UTC) | Generated files | Logical bytes | C free before → after; separate summary bytes |
+|---|---|---:|---:|---|
+| `batch53/q-r2/source-boundary` | 11:15:20.208550–11:19:08.731403 | 39,515 | 3,051,390,009 | 85,179,961,344 → 88,279,007,232; summary 88,279,003,136 |
+| `batch53/q-r1/local-build/project/recipe-atlas/static` | 11:20:05.217583–11:23:03.727665 | 31,691 | 2,591,842,423 | 88,278,794,240 → 90,896,027,648; summary 90,896,023,552 |
+
+The q2 summary finished separately at **11:19:08.732404 UTC** and q1-static summary at **11:23:03.728665 UTC**; result/summary times are independently pinned and ordered, not assumed identical. These C readings are dated observations and do not isolate cleanup's physical effect. The last summary remained **16,478,158,848 bytes below 100 GiB**; the threshold was not restored.
+
+- **q2 export:** exact reconstruction was corrective Source `bd19c91cf2af17650acb64f13cb227449abc0bbf`, tree `0b207360040b46884ef86d5b862344a5a38822c7`. The completed q2 had all **13 phases PASS**. Its proof checked 36,711 unique retained Git blobs / 3,040,174,466 bytes and every target leaf's raw SHA256, Git mode and same-handle identity. All **41,867** opening/closing rows (39,515 files, 2,352 directories) were identical; directory membership had **zero exceptions**.
+- **q1 static:** reconstruction stayed original Source `95804a05ac72ba9f74fb21c715388139939e77ef`, tree `03347a91c97217190c38904334adf89d6ab00c40`. Its original q1 first 12 phases passed and final complete-build returned **EXIT1**, which remains preserved. The static input copy was reconstructed directly from retained Git and saved q1 inputs, independently of the already-removed q1 Source-boundary copy. Its proof checked 29,140 unique retained Git blobs / 2,586,447,655 bytes and all target leaves. All **33,531** opening/closing rows (31,691 files, 1,840 directories) were identical. Only the same exact five named empty generated directories were admitted beyond implied parents, with no file exceptions or generic empty-directory allowance.
+
+Both removals retained strict dated clean Sourcebd19/Site4ab guards and Source origin/main `3b615f19c43deda68aa0e45248a835bd47388a0c`, the ordinary PR65 merge after all three exact-head Source CI checks in run39025564710 succeeded. Programs stopped: **0**. The q2 served DIST/preview16936, normal I release `batch53/r-r1`, held H DIST scopes, originals, text/pass/pair/training/private audits, model and working checkouts were protected.
+
+Combined new credit is **71,206 generated copies / 5,643,232,432 logical bytes**. Cumulative verified cleanup is **14,998,832 copies / 839,177,922,761 logical bytes**. Per-scope unique Git-blob counts are not added as globally distinct originals. Every R56 byte and historical failure/HOLD is preserved; these two completed scopes must never be replayed or counted again. Source CI/merge and cleanup do **not** publish I49 to the website; no paper, audit, current-free-space, isolated-gain or throughput credit is added. This report-only append changes no Source/Site file or setting.
