@@ -1409,3 +1409,20 @@ The retained-object proof checked **28,686 unique Git blobs / 2,530,103,758 byte
 New credit is **31,183 generated copies / 2,535,425,978 logical bytes**. Cumulative verified credit is **14,888,111 copies / 830,483,270,107 logical bytes**. The dated summary remained **18,532,810,752 bytes below 100 GiB**. Logical copied bytes are separate from distinct originals, isolated physical recovery, current free space and throughput.
 
 Every R54 byte and historical failed/HOLD result is preserved. This candidate Source-static scope is completed and credited once and must never be proposed or counted again. The report adds no paper or audit credit and changes no original paper, quoted training file, model, Source/Site checkout or setting. Future operational Source head/status context remains null; this publisher checks dated saved evidence only.
+
+
+## R56 — Obsolete I53 q-r1 Source export retired (2026-10-17 11:05 UTC)
+
+Only `batch53/q-r1/source-boundary`, the completed obsolete public-input Source export, was removed. All original q-r1 logs, metadata and failure receipts remained outside the target. Its first 12 phases passed; its final complete-build phase returned **EXIT1**. The boundary itself passed. The failed whole q-r1 run is preserved and is **not** represented as all-13-pass.
+
+- UTC cleanup interval: **11:02:14.474769–11:05:13.860983**. The separately pinned summary finished at **11:05:13.861981**; the two finish timestamps are not assumed equal.
+- Actual removed generated copies: **39,515 files / 3,051,420,222 logical bytes**.
+- C free: **88,709,120,000 → 91,800,645,632 bytes**; the separate summary reading is **91,800,641,536 bytes**. These are dated observations, not an isolated physical-recovery measurement.
+- Dated clean guard: corrective Source `bd19c91cf2af17650acb64f13cb227449abc0bbf`, Source origin/main `3b615f19c43deda68aa0e45248a835bd47388a0c`, and the existing live H35 Site `4ab674bff0e5fb237b5eaeb9ceb22c07bb90128f`.
+- Exact reconstruction used retained original Source `95804a05ac72ba9f74fb21c715388139939e77ef`, tree `03347a91c97217190c38904334adf89d6ab00c40`, and its saved approved public manifest/allowlist/snapshot. It was authenticated as an ancestor of corrective Sourcebd19 and its ordinary PR65 merge, after all three exact-head Source CI checks in run **39025564710** succeeded. This Source-only merge adds no I website-publication credit.
+
+The retained-object proof checked **36,711 unique Git blobs / 3,040,204,679 bytes**. Every one of the 39,515 target leaves matched retained Git blob identity, saved raw SHA256/mode and same-handle metadata. All **41,867 opening and closing metadata rows** (39,515 files and 2,352 directories) were saved and identical. Complete directory membership matched the manifest's implied parents exactly, with **no file or directory exceptions**. Fresh native consumer checks and the literal one-target remover passed; **0 programs were stopped**.
+
+New cleanup credit is **39,515 generated copies / 3,051,420,222 logical bytes**. Cumulative verified credit is **14,927,626 copies / 833,534,690,329 logical bytes**. The dated summary remained **15,573,540,864 bytes below 100 GiB**. No current-free-space, isolated-gain, uninterrupted-work or throughput claim is made.
+
+Every R55 byte, earlier HOLD and original q-r1 failed-build result is preserved. This Source-export scope is completed and credited once and must never be proposed or counted again. The held H q/candidate DIST scopes, active I q-r2 and servers, all original papers, text/pass/pair/training/private audits, model and Source/Site working checkouts were excluded. The I49 batch was **not site-published by this cleanup**; no paper or audit credit is added. This report-only append performs no Source/Site change or cleanup action.
