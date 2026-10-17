@@ -1138,3 +1138,23 @@ The increment is **69,281 file copies / 5,436,541,555 logical bytes**. The cumul
 The final saved observation at 2026-10-17 02:58:14.310648 UTC was **107,421,806,592 free bytes**, 47,624,192 bytes above the 100 GiB threshold (107,374,182,400 bytes). This dated observation establishes threshold restoration at that instant only; it does not guarantee later capacity. The report publisher records its own fresh C: observation separately.
 
 Only these redundant generated copies were removed. Source WIP and the retained Git commit, original papers, page text, quoted pass/pair/training files, private audit originals, both working checkouts, owner folders, protected outputs, active Qwen/CUDA and all other scopes remain protected. No repository setting change, source-paper transfer, paper-publication credit or audit-lane resume is claimed.
+
+
+## R41 — two completed historical q44/q-r1 generated-copy removals, 2026-10-17 UTC
+
+This append credits exactly two newly completed removals. The full R40 report remains an unchanged 179,052-byte prefix, anonymously verified at commit `f630b360337f9fa30f4a761b502f59e7d2b7656d`, SHA-256 `00f7cd13b1b09b38dcd6deba80209245961d1f70ed2eb4c6dd7955aa60999cb1`.
+
+| Completed generated copy under `research-assets/simple-website-20261010/` | File copies removed | Logical bytes removed | Actual UTC interval | C: free bytes before → after |
+| --- | ---: | ---: | --- | ---: |
+| `batch44/q-r1/source-boundary` | 37,673 | 2,864,457,078 | 03:10:22.264722 → 03:13:52.134828 | 104,281,133,056 → 106,943,610,880 |
+| `batch44/q-r1/local-build/project/recipe-atlas/static` | 30,067 | 2,417,428,367 | 03:14:55.524566 → 03:18:16.253634 | 101,702,647,808 → 103,545,667,584 |
+
+Root collected both independent native runs with exit code 0. Each actual result is `REMOVED`, with its exact target absent, all byte verification handles closed and zero programs stopped. The helpers verified complete saved-manifest file membership, raw Git blob SHA-1 and SHA-256, file mode and length, actual retained Git object bodies, full target byte identity, fresh native CWD/Consumers evidence with zero unknown results, and closing complete metadata/current-role guards. The static scope allowed only the same five explicitly named generated directories: four empty leaves and their one parent containing only the listed empty child. Every other directory and file remained subject to the original exact membership guard.
+
+Current clean Source `b64da472223e7528a5b477813055128673588d6c` and Site `6924e17c332ba1b8b80d53b04e47ea96ea0fe508` were kept separate from historical reconstruction Source `e0c873298df188edbcda124698d7b6a1305b662a`. Read-only Git ancestry checks required that historical input to be an ancestor of the already-public `ce02eaf3616c7b8bb8bc34033629a19b1da75c53`, with `origin/main` fixed to that authority during cleanup. No global Git setting was changed. This does not assert that the current Source commit or G is published. The old q44/q-r1 checkpoint finished with its final build failed; its failure, logs, manifests, results and proof metadata remain intact. No all-checks-pass or held-candidate publication claim is made.
+
+The increment is **67,740 file copies / 5,281,885,445 logical bytes**. The cumulative completed-removal ledger is **14,018,122 file copies / 767,972,132,969 logical bytes**. These are logical copy totals, not isolated physical recovery. The active q3 release checks/build and other filesystem activity overlapped this cleanup; the observed C: changes are not attributed solely to deletion.
+
+The final saved observation at `2026-10-17T03:18:16.254634+00:00` was **103,545,712,640 free bytes**, still **3,828,469,760 bytes below** the 100 GiB trigger (107,374,182,400 bytes). The threshold was **not restored** at that dated observation. The publisher records another fresh C: observation separately; no permanent-capacity claim is made. No further cleanup scope was started by this report-preparation worker.
+
+All earlier failures and HOLDs remain on record, with no replay or extra credit. The current q3 work, q44/q-r3 and q-r4 distributions/previews, r-r2 held scopes, canonical assets, original papers, page text, quoted pass/pair/training inputs, audit originals, both working checkouts, owner folders, active Qwen/CUDA and all other scopes stay protected. No repository setting change, source-paper transfer, new-paper credit or audit-lane resume is claimed.
