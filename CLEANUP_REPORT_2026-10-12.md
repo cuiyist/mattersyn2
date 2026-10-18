@@ -1827,3 +1827,28 @@ The current N43 q output role remains on HOLD after a generic preflight failed b
 The final-output observation was **17,918,615,552 → 13,952,196,608 free C bytes**, an observed **negative delta of 3,966,418,944 bytes** during concurrent work. The latest completed-scope reading was **16,566,755,328 free bytes at 2026-10-18T20:51:19.357787+00:00**. Every C value here is a dated saved observation. Differences are not isolated physical gains, and no current free-space value, 100 GiB achievement or 600 GB physical recovery is inferred.
 
 This report-only update creates no Source/Site, paper, audit or training credit. No source quotes or private process lists are included. The existing paused audit questions, denominators and all historical partial/unknown totals remain unchanged.
+
+
+## R80 — three completed asset-copy scopes; further work pending
+
+Immediate C-drive working room remains the priority. This update adds only three completed, individually verified generated asset-copy scopes. It adds no publication credit.
+
+| Completed generated copy scope | Native terminal | Known files removed | Logical bytes removed |
+| --- | ---: | ---: | ---: |
+| Failed q-O53-r1 local-build project static/assets | 18106, exit 0 | 31,142 | 2,812,898,623 |
+| Failed q-O53-r1 source-boundary static/assets, separate bootstrap-repair attempt | 2062, exit 0 | 31,142 | 2,812,898,623 |
+| Consumed q-O53-r3 source-boundary static/assets | 17785, exit 0 | 31,142 | 2,812,898,623 |
+
+All three actual summaries report no failure, no unknown or held files removed, no directories removed, no programs stopped, and no Source/Site writes. Exact paired started/deleted journals support their counts. Failed q1 and consumed successful q3 retain their separate lifecycle records. The original q1 source-export preflight setup failure (missing journal-parent directory) remains a separate HOLD with zero deletions and zero credit; the later completed bootstrap attempt does not relabel that failure.
+
+The increment is **93,426 file copies / 8,438,695,869 logical bytes**. Added to the genuine published R79 cumulative 17,243,376 / 1,029,548,363,422, the arithmetic cumulative is **17,336,802 file copies / 1,037,987,059,291 logical bytes**. These count repeated generated copies and logical bytes, not unique source data or an isolated physical gain.
+
+Dated C-drive observations from the actual summaries, with concurrent work:
+
+- q1 local input, 2026-10-18 21:08:06–21:17:12 UTC: 5,583,122,432 → 4,150,304,768 free bytes; observed change **−1,432,817,664**.
+- q1 separate source-export bootstrap attempt, 2026-10-18 21:29:19–21:37:43 UTC: 3,977,682,944 → 6,580,396,032 free bytes; observed change **+2,602,713,088**.
+- q3 source export, 2026-10-18 21:49:54–21:58:16 UTC: 5,706,043,392 → 8,550,449,152 free bytes; observed change **+2,844,405,760**.
+
+These are dated observations rather than current free-space measurements. None is attributed solely to cleanup. This update makes no 600GB physical-recovery or 100GiB free-space claim.
+
+At this packet's supplied Root observation, q-O53-r3 local-input session41812 was running and its local-output role was not yet executed. The prospective r6 family (~46.027GB logical) was also unexecuted. These three pending entries receive **zero credit**, with actual final counts and terminal evidence left unset. Later genuine terminal results require their own reviewed accounting before an append. Every earlier HOLD, unresolved partial result and global NULL total remains unchanged. No PDFs, page text, pass/pair files, private payloads or model contents are included in this report append.
