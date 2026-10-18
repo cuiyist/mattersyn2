@@ -1624,3 +1624,17 @@ This append adds **178,977 file copies / 15,203,609,784 logical bytes**. Cumulat
 A B42 prebinding invocation failed before output creation or cleanup-worker launch because it omitted the already established Git safe.directory environment. The unchanged helper passed when invoked with that environment; no gate was changed. The failure was recorded at 2026-10-18T01:36:04.763110+00:00, which is a record time, not an invented execution timestamp. It deleted nothing. No automatic approval rejection is claimed.
 
 Optional B38/B42 final-copy cleanups are uncounted here. Original papers, page text, pass/pair and training files, models, working checkouts, historical holds, four protected K final JSONs and the new q Dist preview remain protected. Source push or CI progress is not Site publication.
+
+
+## R68 — two completed historical final-copy cleanups
+Two more sets of exact reconstructible asset leaves were removed. All directories and unknown entries, original/private training inputs, active model files, working checkouts, historical holds and protected current-release data were preserved; no programs were stopped.
+| Completed (UTC) | Generated copy scope | File copies | Logical bytes | C free before → after (bytes) | Observed delta (bytes) |
+|---|---|---:|---:|---|---:|
+| 2026-10-18T01:50:23.231099+00:00 | `batch38/r/final/project/recipe-atlas/dist/assets` | 25,540 | 2,135,852,244 | 22,487,728,128 → 24,629,972,992 | +2,142,244,864 |
+| 2026-10-18T01:57:13.787952+00:00 | `batch42/r/final/project/recipe-atlas/dist/assets` | 26,721 | 2,279,006,081 | 24,629,563,392 → 20,723,126,272 | -3,906,437,120 |
+
+Completed increment: **52,261 file copies / 4,414,858,325 logical bytes**. Cumulative completed totals: **16,065,008 file copies / 923,510,282,136 logical bytes**. These are logical copy totals, not distinct papers or isolated physical recovery.
+
+The second operation's observed C free-space delta was **-3,906,437,120 bytes** during the concurrent new Site build. The last dated observation was 20,723,126,272 free bytes at 2026-10-18T01:57:13.787952+00:00, still below 100 GiB. No current-free-space or attributed-gain claim is made.
+
+Source PR69 merged ordinarily as `f3f27f0f57c56d82610af686754aa30fd9b46764`; all three exact-head CI jobs passed in the original run39086770342. The first watcher timed out before merge; the later receipt reconciled that result without rerunning CI or changing a gate. At report preparation the L58 Site dry run remained pending: these storage operations add no paper or Site-publication credit.
