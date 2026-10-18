@@ -1852,3 +1852,24 @@ Dated C-drive observations from the actual summaries, with concurrent work:
 These are dated observations rather than current free-space measurements. None is attributed solely to cleanup. This update makes no 600GB physical-recovery or 100GiB free-space claim.
 
 At this packet's supplied Root observation, q-O53-r3 local-input session41812 was running and its local-output role was not yet executed. The prospective r6 family (~46.027GB logical) was also unexecuted. These three pending entries receive **zero credit**, with actual final counts and terminal evidence left unset. Later genuine terminal results require their own reviewed accounting before an append. Every earlier HOLD, unresolved partial result and global NULL total remains unchanged. No PDFs, page text, pass/pair files, private payloads or model contents are included in this report append.
+
+
+## R81 — two completed q3 asset copies and the completed untouched historical suffix
+
+This appendix adds only three genuinely completed operations whose saved native terminals report exit 0. The two q3 rows were not credited in R80. The historical suffix completed at 2026-10-18T23:34:20.822771+00:00 and its closed paired journal was reconciled after the process ended.
+
+| Completed generated-copy scope | Files removed | Logical bytes | Finished UTC | C free before (bytes) | C free after (bytes) | Observed C change (bytes) |
+| --- | ---: | ---: | --- | ---: | ---: | ---: |
+| `batch68/q-O53-r3/local-build/project/recipe-atlas/static/assets` | 31,142 | 2,812,898,623 | 2026-10-18T22:06:14.0145056+00:00 | 8,550,338,560 | 11,396,468,736 | 2,846,130,176 |
+| `batch68/q-O53-r3/local-build/project/recipe-atlas/dist/assets` | 31,142 | 2,812,898,623 | 2026-10-18T22:18:52.8220504+00:00 | 11,394,949,120 | 14,192,500,736 | 2,797,551,616 |
+| Fixed untouched historical public-build suffix (27,496 closed children) | 595,548 | 46,027,480,745 | 2026-10-18T23:34:20.822771+00:00 | 13,246,124,032 | 58,539,945,984 | 45,293,821,952 |
+
+New completed accounting is **657,832 file copies / 51,653,277,991 logical bytes**. Adding those actual operations once to R80 gives **17,994,634 file copies / 1,089,640,337,282 logical bytes** cumulatively. These are removed generated-copy counts and logical bytes, not isolated physical disk savings.
+
+The historical suffix contains exactly 27,496 completed closed children, 595,548 files and 46,027,480,745 logical bytes, with no unresolved or unpaired outcome. Earlier J55 removals, partial HOLD prefixes and all three previously failed-next targets were excluded from this distinct suffix; none is replayed or newly credited. Their original history remains unchanged in the complete R80 prefix.
+
+The dated terminal-summary C reading was **58,539,945,984 bytes at 2026-10-18T23:34:20.822771+00:00**. Its observed change was 45,293,821,952 bytes during overlapping work and is not attributed solely to cleanup. That dated reading remains below 100 GiB and is not a current free-space measurement.
+
+The q3 file-only operations preserved every directory, held file and unknown entry, including output-only SVGs. The historical operation preserved parent directories, unknown entries, held scopes and loose leaves outside its fixed closed children. Each of these three cleanup APIs reported zero program stops. Root separately retired an owned obsolete Site preview at 2026-10-18T22:16:21.9194143+00:00; that action is not part of the cleanup stop count and left other user programs and the active model untouched. Original papers, page text, pass/pair and training data, audit findings, working Source/Site checkouts and the active model remain protected.
+
+The separate base16 and seven-role supplemental work receive **zero completion or deletion credit in this appendix**; no result is inferred for them. This report update changes no Source/Site content, repository settings, scientific records, audit totals or publication credit. No paper quotations or private source payloads are included.
