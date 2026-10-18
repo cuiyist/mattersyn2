@@ -1606,3 +1606,21 @@ New completed removal totals: 89928 file copies / 8135314542 logical bytes. Cumu
 C observations are dated values while a different build was writing. Negative deltas are retained; no isolated physical gain is claimed. The last dated observation remains below 100 GiB. All directories, unknown files, papers, page text, passes, quoted pairs and training data, active model/server/runtime and the working Source/Site checkouts are preserved. No other program was stopped. New publication credit: 0. Old-K and other pending cleanup scopes are not counted here.
 
 Choice: remove only byte-verified, reconstructible obsolete public asset copies and retain the failure evidence and protected inputs. The corrected phone display uses wrapping text for a single context; ordinary build and browser gates remain required. No release check, policy or permission rule was weakened.
+
+
+## R67 — six completed generated-copy cleanups
+Only the six terminal operations below are counted. Five operations removed selected reconstructible asset leaves while preserving all their directories and unknown entries. One operation removed a complete, exactly inventoried public Source export: 41,049 files and its 2,490 generated subdirectories. Its canonical Source reconstruction and all receipts outside that exact export were preserved. No programs were stopped and no Site publication credit is created.
+| Completed (UTC) | Generated copy scope | File copies | Logical bytes | C free before → after (bytes) | Observed delta (bytes) |
+|---|---|---:|---:|---|---:|
+| 2026-10-18T01:06:07.329493+00:00 | `batch56/r-K-r1/candidate/project/recipe-atlas/dist/assets` | 29,512 | 2,654,509,735 | 7,225,581,568 → 9,913,974,784 | +2,688,393,216 |
+| 2026-10-18T01:12:39.736866+00:00 | `batch47/q-r4/local-build/project/recipe-atlas/dist/assets` | 28,045 | 2,460,386,400 | 9,913,204,736 → 12,371,705,856 | +2,458,501,120 |
+| 2026-10-18T01:23:50.253757+00:00 | `batch44/q-r4/local-build/project/recipe-atlas/dist/assets` | 27,407 | 2,385,936,878 | 12,379,373,568 → 14,763,102,208 | +2,383,728,640 |
+| 2026-10-18T01:36:35.850364+00:00 | `batch42/r/candidate/project/recipe-atlas/dist/assets` | 26,721 | 2,279,006,081 | 14,641,614,848 → 16,936,747,008 | +2,295,132,160 |
+| 2026-10-18T01:37:41.709929+00:00 | `batch60/q-L58-phone-r1/source-boundary` | 41,049 | 3,195,119,960 | 16,936,669,184 → 20,241,195,008 | +3,304,525,824 |
+| 2026-10-18T01:43:54.453472+00:00 | `batch40/r/candidate/project/recipe-atlas/dist/assets` | 26,243 | 2,228,650,730 | 20,242,894,848 → 22,488,174,592 | +2,245,279,744 |
+
+This append adds **178,977 file copies / 15,203,609,784 logical bytes**. Cumulative completed totals are **16,012,747 file copies / 919,095,423,811 logical bytes**. These are logical file-copy totals, not isolated physical capacity gained or distinct papers. The last dated C observation is 22,488,174,592 bytes at 2026-10-18T01:43:54.453472+00:00; it is below 100 GiB and is not a current-free-space claim. Concurrent builds can change free space independently.
+
+A B42 prebinding invocation failed before output creation or cleanup-worker launch because it omitted the already established Git safe.directory environment. The unchanged helper passed when invoked with that environment; no gate was changed. The failure was recorded at 2026-10-18T01:36:04.763110+00:00, which is a record time, not an invented execution timestamp. It deleted nothing. No automatic approval rejection is claimed.
+
+Optional B38/B42 final-copy cleanups are uncounted here. Original papers, page text, pass/pair and training files, models, working checkouts, historical holds, four protected K final JSONs and the new q Dist preview remain protected. Source push or CI progress is not Site publication.
