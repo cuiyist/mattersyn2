@@ -1760,3 +1760,22 @@ C: free bytes across the five summaries were **48,581,824,512 before → 62,364,
 Cumulative completed accounting is **16,556,778 file-copy removals / 969,799,323,741 logical bytes**. Copies removed over time are not current occupancy or physical recovery. The original 3060 and 67049 HOLDs, NULL transaction-wide totals and separately known partial prefixes remain unchanged and are not added. At the aggregate observation the three q roles, registered preview and older R5 forest were not executed; this append credits none of them. All prior report bytes and failure/correction history remain preserved.
 
 M50 delivery is independently evidenced by normal publisher session51123EXIT0, same-Site Pages39115612442success and anonymousPASS at **09:42:42UTC**: **50papers/65source_extracted records/234crop keys/531caption instances**, with **1,873verified live paper groups**. The cleanup adds no website, scientific-audit or training credit and claims no20papers/hour rate. Original PDFs, page text, quoted pass/pair/training files, private findings, active model/server and working checkouts remain protected.
+
+## R77 — 2026-10-18: three completed M50 q copies and proper Git preview retirement
+
+Root observed the three q cleanup tools EXIT0 (39922, 10550, 5362) and the separate proper-Git preview tool EXIT0 (27066). This append credits only **142,315 public file copies / 11,719,490,424 logical bytes**.
+
+| Completed scope | UTC finish | Public file copies | Logical bytes | C: before → after bytes |
+|---|---|---:|---:|---:|
+| q Source export asset subset | 10:39:22.794088 | 30,404 | 2,750,939,982 | 62,356,189,184 → 65,116,598,272 |
+| q local-build input asset subset | 10:44:44.062212 | 30,404 | 2,750,939,982 | 65,116,540,928 → 67,878,899,712 |
+| q local-build Dist asset subset | 10:50:14.337955 | 30,404 | 2,750,939,982 | 67,878,899,712 → 70,643,326,976 |
+| registered preview, normal Git worktree removal | 10:54:43.452111 | 51,103 | 3,466,670,478 | 70,639,042,560 → 74,215,088,128 |
+
+The q operations have **91,212 paired completed leaf removals / 8,252,819,946 logical bytes**, with every directory and unknown entry preserved. The preview was separately proved against the published Site Git tree and retired through normal Git worktree removal; its 51,103 public files are counted, and Git administration metadata is excluded. No other program was stopped. All final/bookkeeping data, receipts, protected inputs, working checkouts and earlier HOLDs remain protected.
+
+Two earlier failures remain preserved: a mistyped CLI authority hash was rejected before q input/target reading or attempt creation (zero deletions); the preview's inherited L58 count constants failed before attempt creation, target walk or removal (zero deletions). Only its two exact numeric literals were corrected, with an independent raw-inverse review, before the genuine successful tool. The old failure records have not been relabelled as successes.
+
+C: free bytes across these dated summaries were **62,356,189,184 → 74,215,088,128**, observed +11,858,898,944 bytes; this is **not an isolated physical gain**. The last summary finished at **10:54:43.452111 UTC**. These observations are not current free space, and 100 GiB remains unmet at that observation.
+
+Cumulative completed accounting is **16,699,093 file-copy removals / 981,518,814,165 logical bytes**. Copies removed over time are not current occupancy or physical recovery. The separate R5 attempt was reported running during preparation; no R5 terminal result is used here, **R5 adds zero credit**, and its transaction-wide actual totals remain **NULL**. Original 3060/67049 HOLDs, separately known partial prefixes and their NULL global totals remain unchanged and uncredited. The complete R76 prefix and all prior failure history are retained. No website, audit, training or publication-rate credit is added. No paper text, quoted model/pass/pair payload or credentials are included.
