@@ -1682,3 +1682,20 @@ C free was 20,086,128,640 → 23,607,951,360 bytes during 2026-10-18T04:16:57.09
 
 M52 normal local preparation completed and its normal asset registration added 428 rights entries with zero exceptions. The preceding 5,294 canonical raw records and 592 L58 caption instances remain protected. M52 still has zero publication credit and its new UI/release checks remain pending; published L58 totals stay 1,823 papers / 5,294 canonical records / 3,173 pairs. No cleanup, model or local preparation is presented as new website publication.
 
+
+
+## R72 — three abandoned failed M52 generated-copy cleanups
+
+The failed q-M52-r2 checkpoint kept its final Ge-routing failure and all prior logs. Root explicitly abandoned only its three generated Source-backed asset copies after the producer ended. This is not a successful build, a Source release or a website publication. Each scope passed complete Source/Git/target byte and identity checks, fresh consumer checks and per-leaf closing checks before removal.
+
+| Completed generated asset-copy scope | File copies | Logical bytes | C free before → after (bytes) | Finished UTC | Observed delta (bytes) |
+| --- | ---: | ---: | --- | --- | ---: |
+| batch62/q-M52-r2/source-boundary/recipe-atlas/static/assets | 30,404 | 2,750,940,568 | 11941142528 → 14724562944 | 2026-10-18T05:34:25.0687557+00:00 | 2,783,420,416 |
+| batch62/q-M52-r2/local-build/project/recipe-atlas/static/assets | 30,404 | 2,750,940,568 | 14724481024 → 17502179328 | 2026-10-18T05:42:17.0991779+00:00 | 2,777,698,304 |
+| batch62/q-M52-r2/local-build/project/recipe-atlas/dist/assets | 30,404 | 2,750,940,568 | 17502076928 → 20285890560 | 2026-10-18T05:49:09.4887964+00:00 | 2,783,813,632 |
+
+Completed increment: **91,212 file copies / 8,252,821,704 logical bytes**. Completed cumulative total, retaining the exact R71 history: **16,356,504 file copies / 948,743,643,807 logical bytes**. These count reconstructible copies, not papers or isolated physical disk recovery.
+
+The last dated C observation was **20,285,890,560 bytes free at 2026-10-18T05:49:09.4887964+00:00**. It does not establish 100 GiB free or 600 GB of physical recovery; concurrent changes are not attributed to this cleanup.
+
+All directories, unknown files, output-only SVGs and nonassets were preserved. Source/Site working checkouts, original papers, page-text/pass/pair/training files, model/server/runtime and prior HOLD evidence remain protected. Zero programs were stopped and zero Source/Site files were changed by these removals. Website paper credit from these cleanups is zero; the next corrected Source checkpoint and its release checks remain separate.
