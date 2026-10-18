@@ -1779,3 +1779,18 @@ Two earlier failures remain preserved: a mistyped CLI authority hash was rejecte
 C: free bytes across these dated summaries were **62,356,189,184 → 74,215,088,128**, observed +11,858,898,944 bytes; this is **not an isolated physical gain**. The last summary finished at **10:54:43.452111 UTC**. These observations are not current free space, and 100 GiB remains unmet at that observation.
 
 Cumulative completed accounting is **16,699,093 file-copy removals / 981,518,814,165 logical bytes**. Copies removed over time are not current occupancy or physical recovery. The separate R5 attempt was reported running during preparation; no R5 terminal result is used here, **R5 adds zero credit**, and its transaction-wide actual totals remain **NULL**. Original 3060/67049 HOLDs, separately known partial prefixes and their NULL global totals remain unchanged and uncredited. The complete R76 prefix and all prior failure history are retained. No website, audit, training or publication-rate credit is added. No paper text, quoted model/pass/pair payload or credentials are included.
+
+
+## R78 - 2026-10-18: R5 cleanup stopped on strict metadata CAS; no cleanup credit added
+
+The R5 old-public-copy cleanup ended with actual native EXIT 1 at 11:13:33.765381 UTC. Its complete target/retained file identity, membership and metadata comparison failed. The original HOLD and error evidence are preserved; the cleanup item is parked without retry. This was a safety-check stop, not a disk-full failure.
+
+The independently verified journal contains 6,086 completed child pairs covering 129,704 known files and 9,478,864,348 logical bytes. These are completed-prefix observations only, separately recorded and uncredited. The transaction-wide actual files deleted, actual logical bytes deleted and unknown files deleted remain unknown (NULL). The report's credited cumulative totals therefore stay exactly 16,699,093 file copies and 981,518,814,165 logical bytes; this update adds zero to both. Earlier J55, 3060 and 67049 exclusions and HOLDs are unchanged.
+
+The deterministic next queue item is batch24/q-r2/local-build/project/recipe-atlas/static/assets/crystal-references (232 files, five directories, 7,371,069 logical bytes). Its identity is inferred only from the immutable queue after the verified prefix: no failed-child opening baseline, saved byteproof, started event or removal API action was recorded for it. It is conservatively held, never retried or credited. The changed field and responsible program are unknown; no program was stopped and no parent or unknown entry is claimed removed.
+
+The cleanup summary observed C free space of 74,212,134,912 bytes before and 83,853,553,664 bytes after. The 9,641,418,752-byte change is not an isolated cleanup gain. These dated readings remain below the 100 GiB goal; they do not claim current free space or storage exhaustion.
+
+Before N45 Source writes, a metadata-only capture finished at 11:20:02.117289 UTC: all 21,802 retained Source files and 1,064 Source directories matched the opening cache, with zero differences or read errors. No Source or target file bodies were read for that comparison, and no target inspection or program-cause inference was made.
+
+Root then reported normal N45 website integration continuing, no active cleaner, and the separate B92 local two-worker controller active. No unattended progress is inferred. This report adds no website, audit or training credit; the audited lane stays paused. Original papers, page text, quoted pass/pair/training files, the active model/runtime and the Source/Site working checkouts remain protected.
