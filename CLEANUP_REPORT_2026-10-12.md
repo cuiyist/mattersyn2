@@ -1653,3 +1653,23 @@ R69 adds **29,976 copies / 2,711,771,514 logical bytes**. Cumulative completed c
 
 Separately, L58 publication genuinely passed: Source 86806 / ordinary PR 69 / all three original exact-head CI checks, Site b634 / Pages 39091147107, and unchanged anonymous verifier af35 at 2026-10-18T03:10:14+00:00. It added 58 papers / 75 records / 256 caption keys / 592 instances; current verified totals are 1,823 papers / 5,294 canonical records / 3,173 pairs. Both earlier failed verifications remain saved. Cleanup itself earns zero publication credit. Root official browser access remained unavailable; a separately authorized chat produced the reviewed browser observations. This report does not diagnose the differing access.
 
+
+## R70 — four completed L58 generated-copy cleanups, 2026-10-18T04:06:13.960922+00:00
+
+Only the four completed operations below are added to the exact R69 prefix. Every historical HOLD and both earlier failed publication verifications remain preserved.
+
+| Scope under batch60/r-L58-phone-r1 | Files removed | Logical bytes removed | C free before → after (bytes) | Observed free-byte change |
+| --- | ---: | ---: | --- | ---: |
+| final/project/recipe-atlas/static/assets | 29,976 | 2,711,771,514 | 9,193,398,272 → 11,920,728,064 | +2,727,329,792 |
+| final/project/recipe-atlas/dist/assets | 29,976 | 2,711,771,514 | 11,919,720,448 → 14,641,074,176 | +2,721,353,728 |
+| candidate/project/recipe-atlas/dist/assets | 29,976 | 2,711,771,514 | 14,640,504,832 → 17,370,370,048 | +2,729,865,216 |
+| site-stage/assets | 29,976 | 2,711,771,514 | 17,370,284,032 → 20,090,298,368 | +2,720,014,336 |
+
+Actual completion times: Final input 2026-10-18T03:46:40.411387+00:00 → 2026-10-18T03:51:19.363456+00:00; Final output source-backed subset 2026-10-18T03:55:03.196638+00:00 → 2026-10-18T03:58:04.273383+00:00; Candidate output source-backed subset 2026-10-18T03:59:17.618448+00:00 → 2026-10-18T04:02:29.642560+00:00; Stage output source-backed subset 2026-10-18T04:03:11.373791+00:00 → 2026-10-18T04:06:13.960922+00:00. All four native tool sessions ended with exit code zero. Each operation removed only the known reconstructible asset-file subset: zero directories, unknown files or protected inputs were deleted; zero programs were stopped. Retained manifests, four final data JSONs, evidence, checkouts, private text/pass/pair/training inputs and the active model stay protected.
+
+R70 adds **119,904 copies / 10,847,086,056 logical bytes**. Cumulative completed cleanup is **16,214,888 copies / 937,069,139,706 logical bytes**. These are logical copy totals, not physical recovery. The last dated C-free reading was 20,090,298,368 bytes at 2026-10-18T04:06:13.960922+00:00; it is not a fresh current-space reading or a claim that 100 GiB is free. Individual measured changes are not attributed to isolated cleanup gain.
+
+The managed registered preview remains INERT and contributes zero removals. The rejected q-input binding stays omitted with zero deletions and no retry. Root selected a separate future arrangement for a DISTINCT new q run: retire generated copies only after genuine q13 success, visual review, preview-server retirement, Source CI/merge, native absence and dependency completion. This is a future condition, not an operation recorded here.
+
+L58 remains genuinely published at Source 86806 / Site b634 / Pages 39091147107 / anonymous receipt af35: 58 papers, 75 records, 256 caption keys and 592 instances. Verified totals remain 1,823 papers / 5,294 canonical records / 3,173 pairs. M52 is still a prepared private 52-paper / 67-record / 243-figure pool with zero publication credit; new M UI checks are pending. Root official browser access remains unavailable after the fresh retry; separately authorized browser observations succeeded, without a diagnosis of the differing access. Cleanup itself adds no website-paper or audit/training credit.
+
