@@ -1794,3 +1794,36 @@ The cleanup summary observed C free space of 74,212,134,912 bytes before and 83,
 Before N45 Source writes, a metadata-only capture finished at 11:20:02.117289 UTC: all 21,802 retained Source files and 1,064 Source directories matched the opening cache, with zero differences or read errors. No Source or target file bodies were read for that comparison, and no target inspection or program-cause inference was made.
 
 Root then reported normal N45 website integration continuing, no active cleaner, and the separate B92 local two-worker controller active. No unattended progress is inferred. This report adds no website, audit or training credit; the audited lane stays paused. Original papers, page text, quoted pass/pair/training files, the active model/runtime and the Source/Site working checkouts remain protected.
+
+
+## R79: seventeen completed generated-copy cleanup scopes
+The seventeen completed scopes below are supported by saved summaries, terminal observations and paired deletion journals where applicable. The current N43 q output role remains omitted with zero credit.
+| Completed scope | Generated path relative to the MatterSyn folder | File copies | Logical bytes | C free before → after (bytes) | Finished UTC |
+|---|---|---:|---:|---|---|
+| Source92-qs | `research-assets/simple-website-20261010/batch65/q-N43-paint-r2/source-boundary/recipe-atlas/static/assets` | 30,763 | 2,780,998,655 | 39,516,958,720 → 42,311,049,216 | 2026-10-18T15:14:08.823938+00:00 |
+| Source92-qi | `research-assets/simple-website-20261010/batch65/q-N43-paint-r2/local-build/project/recipe-atlas/static/assets` | 30,763 | 2,780,998,655 | 42,311,036,928 → 45,097,353,216 | 2026-10-18T15:20:43.075145+00:00 |
+| Source92-qo | `research-assets/simple-website-20261010/batch65/q-N43-paint-r2/local-build/project/recipe-atlas/dist/assets` | 30,763 | 2,780,998,655 | 45,097,410,560 → 47,890,587,648 | 2026-10-18T15:26:28.373368+00:00 |
+| Source92-ci | `research-assets/simple-website-20261010/batch65/r-N43-r1/candidate/project/recipe-atlas/static/assets` | 30,763 | 2,780,998,655 | 47,890,575,360 → 50,674,659,328 | 2026-10-18T15:32:45.972334+00:00 |
+| Source92-fi | `research-assets/simple-website-20261010/batch65/r-N43-r1/final/project/recipe-atlas/static/assets` | 30,763 | 2,780,998,655 | 50,674,634,752 → 53,473,419,264 | 2026-10-18T15:39:05.802879+00:00 |
+| Source92-co | `research-assets/simple-website-20261010/batch65/r-N43-r1/candidate/project/recipe-atlas/dist/assets` | 30,763 | 2,780,998,655 | 53,473,406,976 → 56,265,789,440 | 2026-10-18T15:44:41.705075+00:00 |
+| Source92-fo | `research-assets/simple-website-20261010/batch65/r-N43-r1/final/project/recipe-atlas/dist/assets` | 30,763 | 2,780,998,655 | 56,265,805,824 → 59,056,959,488 | 2026-10-18T15:49:57.582157+00:00 |
+| Source92-so | `research-assets/simple-website-20261010/batch65/r-N43-r1/site-stage/assets` | 30,763 | 2,780,998,655 | 59,056,947,200 → 61,841,084,416 | 2026-10-18T15:55:01.330005+00:00 |
+| O53-failed-dist | `research-assets/simple-website-20261010/batch68/q-O53-r1/local-build/project/recipe-atlas/dist/assets` | 31,142 | 2,812,898,623 | 11,855,515,648 → 14,197,854,208 | 2026-10-18T19:29:07.4596583+00:00 |
+| N43-registered-preview | `research-assets/simple-website-20261010/batch65/r-N43-polytype-r3/site-preview` | 51,696 | 3,501,670,809 | 8,271,355,904 → 11,229,847,552 | 2026-10-18T19:34:22.606084+00:00 |
+| N43-current-qs | `research-assets/simple-website-20261010/batch65/q-N43-polytype-r3/source-boundary/recipe-atlas/static/assets` | 30,763 | 2,780,998,655 | 11,215,532,032 → 13,993,418,752 | 2026-10-18T19:46:09.790725+00:00 |
+| N43-current-qi | `research-assets/simple-website-20261010/batch65/q-N43-polytype-r3/local-build/project/recipe-atlas/static/assets` | 30,763 | 2,780,998,655 | 13,892,014,080 → 16,659,476,480 | 2026-10-18T20:15:03.207109+00:00 |
+| N43-current-ci | `research-assets/simple-website-20261010/batch65/r-N43-polytype-r3/candidate/project/recipe-atlas/static/assets` | 30,763 | 2,780,998,655 | 16,631,328,768 → 19,416,580,096 | 2026-10-18T20:22:12.543889+00:00 |
+| N43-current-co | `research-assets/simple-website-20261010/batch65/r-N43-polytype-r3/candidate/project/recipe-atlas/dist/assets` | 30,763 | 2,780,998,655 | 19,415,195,648 → 22,029,512,704 | 2026-10-18T20:28:12.199144+00:00 |
+| N43-current-fi | `research-assets/simple-website-20261010/batch65/r-N43-polytype-r3/final/project/recipe-atlas/static/assets` | 30,763 | 2,780,998,655 | 15,344,836,608 → 17,917,751,296 | 2026-10-18T20:36:08.491169+00:00 |
+| N43-current-fo | `research-assets/simple-website-20261010/batch65/r-N43-polytype-r3/final/project/recipe-atlas/dist/assets` | 30,763 | 2,780,998,655 | 17,918,615,552 → 13,952,196,608 | 2026-10-18T20:42:55.841169+00:00 |
+| N43-current-so | `research-assets/simple-website-20261010/batch65/r-N43-polytype-r3/site-stage/assets` | 30,763 | 2,780,998,655 | 13,768,642,560 → 16,566,755,328 | 2026-10-18T20:51:19.357787+00:00 |
+
+Completed increment: **544,283 file copies / 48,029,549,257 logical bytes**. With the unchanged R78 baseline, the cumulative accounting is **17,243,376 file copies / 1,029,548,363,422 logical bytes**. These are logical copy counts across historical generated scopes, not a measurement of current folder occupancy or isolated physical disk recovery.
+
+The eight Source92 scopes were superseded public-build copies; their removal does not claim those builds were deployed. The failed O53 output subset preserved both output-only SVGs, every directory and its failure evidence. The registered N43 preview was retired through normal Git worktree removal; Git admin metadata is not included in public file-copy accounting. File-only roles preserved directories and unknown entries. Original papers, page text, pass/pair/training files, models, working checkouts and all earlier failure/HOLD evidence remain protected.
+
+The current N43 q output role remains on HOLD after a generic preflight failed before CIM/native evidence, authority creation or any cleanup attempt. It deleted zero files. A later diagnostic recorded zero matching processes, which does not identify the historical program. No program was stopped and the held scope was not retried. Old683 and the parked historical forest HOLDs retain zero additional credit; this update does not replay or normalize any earlier failure.
+
+The final-output observation was **17,918,615,552 → 13,952,196,608 free C bytes**, an observed **negative delta of 3,966,418,944 bytes** during concurrent work. The latest completed-scope reading was **16,566,755,328 free bytes at 2026-10-18T20:51:19.357787+00:00**. Every C value here is a dated saved observation. Differences are not isolated physical gains, and no current free-space value, 100 GiB achievement or 600 GB physical recovery is inferred.
+
+This report-only update creates no Source/Site, paper, audit or training credit. No source quotes or private process lists are included. The existing paused audit questions, denominators and all historical partial/unknown totals remain unchanged.
