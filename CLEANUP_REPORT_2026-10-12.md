@@ -1572,3 +1572,21 @@ Completion receipt SHA-256 values:
 - ee760c12768a4f17d15a32c1d6042f7b26ec8dc106ac3e707c25cf15c5432c14
 - 7c7439bba6027ddabcc7cec91cc94827b154499d95b8bf81df959a646d6e7061
 - 120c1771cb62f3d89b9a6845b5adea49bd848336038995036be5754774ecbb78
+
+## R65 — three completed obsolete failed-build asset-copy cleanups
+
+This entry adds only three actual completed cleanups of generated copies from the failed q-L-r2 work. That build failed its Ge quality gate; its failure history is preserved and is not represented as a passed build. The complete R64 report, including all earlier HOLD decisions, remains an exact byte prefix.
+
+| Completed UTC | Obsolete generated copy (relative to MatterSyn) | Files removed | Logical bytes removed | C: before (bytes) | C: after (bytes) | Observed delta (bytes) |
+|---|---|---:|---:|---:|---:|---:|
+| 2026-10-17T23:55:14.717259+00:00 | research-assets/simple-website-20261010/batch60/q-L-r2/local-build/project/recipe-atlas/static/assets | 29,985 | 2,712,893,048 | 11,079,770,112 | 13,802,692,608 | 2,722,922,496 |
+| 2026-10-18T00:00:34.993889+00:00 | research-assets/simple-website-20261010/batch60/q-L-r2/source-boundary/recipe-atlas/static/assets | 29,985 | 2,712,893,048 | 13,805,924,352 | 16,498,405,376 | 2,692,481,024 |
+| 2026-10-18T00:08:17.294101+00:00 | research-assets/simple-website-20261010/batch60/q-L-r2/local-build/project/recipe-atlas/dist/assets | 29,985 | 2,712,893,048 | 13,164,724,224 | 9,852,891,136 | -3,311,833,088 |
+
+New completed subtotal: **89,955 generated file copies / 8,138,679,144 logical bytes**. Completed cumulative total carried from R64: **15,743,842 file copies / 895,756,499,485 logical bytes**. These are repeated generated-copy counts and logical sizes, not a measurement of distinct original data or physical disk space recovered.
+
+Root completed full known-file SHA256 and frozen Git461 reconstruction checks before removal. Only the known generated asset leaves were removed. All directories and unknown entries were preserved; no program was stopped. Retained source inputs, paper PDFs, page text, quoted pass/pair/training files, active model/server, working checkouts, receipts, snapshots, failure logs and the four protected K final-data JSONs were preserved. Earlier Sourceq1, empty-directory and old Dist HOLD scopes were not retried.
+
+The last cleanup summary observed C: free space falling from **13,164,724,224 to 9,852,891,136 bytes** (delta **−3,311,833,088**) while a separate fresh Source build was growing. This dated concurrent observation is not attributed to the cleanup as a physical gain. The 100 GiB threshold (107,374,182,400 bytes) was not met at that observation; no current free-space value is inferred.
+
+At the supplied work checkpoint, corrected Source commit 870f96c9e115b4c8a59884c7bc982affaf5d075d had passed the first twelve normal Source phases and q-L58-r1 was still running its complete build. This is not a complete-build, deployment or publication claim. These cleanups add **zero papers, audits or publication credit**.
