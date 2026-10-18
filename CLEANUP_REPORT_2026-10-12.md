@@ -1638,3 +1638,18 @@ Completed increment: **52,261 file copies / 4,414,858,325 logical bytes**. Cumul
 The second operation's observed C free-space delta was **-3,906,437,120 bytes** during the concurrent new Site build. The last dated observation was 20,723,126,272 free bytes at 2026-10-18T01:57:13.787952+00:00, still below 100 GiB. No current-free-space or attributed-gain claim is made.
 
 Source PR69 merged ordinarily as `f3f27f0f57c56d82610af686754aa30fd9b46764`; all three exact-head CI jobs passed in the original run39086770342. The first watcher timed out before merge; the later receipt reconciled that result without rerunning CI or changing a gate. At report preparation the L58 Site dry run remained pending: these storage operations add no paper or Site-publication credit.
+
+## R69 — one completed L58 candidate-input asset copy, 2026-10-18T03:38:09.158983+00:00
+
+Only the completed operation below is added. All older report bytes and every historical HOLD remain unchanged.
+
+| Completed scope | Files removed | Logical bytes removed | C free before → after (bytes) | Observed change |
+| --- | ---: | ---: | --- | ---: |
+| batch60/r-L58-phone-r1/candidate/project/recipe-atlas/static/assets | 29,976 | 2,711,771,514 | 6,482,960,384 → 9,202,876,416 | +2,719,916,032 |
+
+The operation ran 2026-10-18T03:33:21.958138+00:00 to 2026-10-18T03:38:09.158983+00:00. It removed only known reconstructible asset file copies: zero directories, unknown files or protected inputs were deleted; zero programs were stopped. These measured free-byte readings are dated observations, not current free space or an attributed physical gain. The 100 GiB free-space target is not claimed.
+
+R69 adds **29,976 copies / 2,711,771,514 logical bytes**. Cumulative completed cleanup is **16,094,984 copies / 926,222,053,650 logical bytes**. No uncompleted final-input, final-output or q-input cleanup is counted. A q-input cleanup binding was rejected by automatic approval because its bulk authority was overbroad and unproven; it was left out with zero deletions and no retry.
+
+Separately, L58 publication genuinely passed: Source 86806 / ordinary PR 69 / all three original exact-head CI checks, Site b634 / Pages 39091147107, and unchanged anonymous verifier af35 at 2026-10-18T03:10:14+00:00. It added 58 papers / 75 records / 256 caption keys / 592 instances; current verified totals are 1,823 papers / 5,294 canonical records / 3,173 pairs. Both earlier failed verifications remain saved. Cleanup itself earns zero publication credit. Root official browser access remained unavailable; a separately authorized chat produced the reviewed browser observations. This report does not diagnose the differing access.
+
