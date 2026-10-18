@@ -1590,3 +1590,19 @@ Root completed full known-file SHA256 and frozen Git461 reconstruction checks be
 The last cleanup summary observed C: free space falling from **13,164,724,224 to 9,852,891,136 bytes** (delta **−3,311,833,088**) while a separate fresh Source build was growing. This dated concurrent observation is not attributed to the cleanup as a physical gain. The 100 GiB threshold (107,374,182,400 bytes) was not met at that observation; no current free-space value is inferred.
 
 At the supplied work checkpoint, corrected Source commit 870f96c9e115b4c8a59884c7bc982affaf5d075d had passed the first twelve normal Source phases and q-L58-r1 was still running its complete build. This is not a complete-build, deployment or publication claim. These cleanups add **zero papers, audits or publication credit**.
+
+## R66 — three retired Source-build asset copies, 2026-10-18 UTC
+
+The old Source 870f96c build passed its 13 local phases. Its actual browser review failed on the phone specimen selector; that failure and all check, screenshot, snapshot and retirement evidence remain preserved. The old owned preview was retired. These are completed generated-copy removals, not a Source CI or website publication result. The corrected Source 86806b4 is running its separate normal build; no success or paper credit is inferred.
+
+| Scope | Completed UTC | Known files removed | Logical bytes removed | C before bytes | C after bytes | Observed delta |
+|---|---|---:|---:|---:|---:|---:|
+| old source export assets | 2026-10-18T00:45:02.256165+00:00 | 29976 | 2711771514 | 9155239936 | 11876364288 | 2721124352 |
+| old local input assets | 2026-10-18T00:53:04.369203+00:00 | 29976 | 2711771514 | 11873878016 | 11203518464 | -670359552 |
+| old Dist assets | 2026-10-18T00:57:53.097206+00:00 | 29976 | 2711771514 | 11202183168 | 7895027712 | -3307155456 |
+
+New completed removal totals: 89928 file copies / 8135314542 logical bytes. Cumulative completed removal totals: 15833770 file copies / 903891814027 logical bytes.
+
+C observations are dated values while a different build was writing. Negative deltas are retained; no isolated physical gain is claimed. The last dated observation remains below 100 GiB. All directories, unknown files, papers, page text, passes, quoted pairs and training data, active model/server/runtime and the working Source/Site checkouts are preserved. No other program was stopped. New publication credit: 0. Old-K and other pending cleanup scopes are not counted here.
+
+Choice: remove only byte-verified, reconstructible obsolete public asset copies and retain the failure evidence and protected inputs. The corrected phone display uses wrapping text for a single context; ordinary build and browser gates remain required. No release check, policy or permission rule was weakened.
