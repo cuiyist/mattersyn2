@@ -1673,3 +1673,12 @@ The managed registered preview remains INERT and contributes zero removals. The 
 
 L58 remains genuinely published at Source 86806 / Site b634 / Pages 39091147107 / anonymous receipt af35: 58 papers, 75 records, 256 caption keys and 592 instances. Verified totals remain 1,823 papers / 5,294 canonical records / 3,173 pairs. M52 is still a prepared private 52-paper / 67-record / 243-figure pool with zero publication credit; new M UI checks are pending. Root official browser access remains unavailable after the fresh retry; separately authorized browser observations succeeded, without a diagnosis of the differing access. Cleanup itself adds no website-paper or audit/training credit.
 
+
+## R71 — completed managed L58 preview retirement, 2026-10-18T04:17:47.961568+00:00
+
+The registered batch60/r-L58-phone-r1/site-preview worktree was retired with the normal literal Git worktree removal after its full published-Git byte proof, exact membership of 50,404 files / 1,998 directories, fresh consumer checks and closing identity checks. This adds **50,404 published file copies / 3,421,682,397 logical bytes**. Git administration metadata was removed through its normal managed lifecycle and is not counted as published file copies. No paper, raw text/pass/pair/training file, active model or working Source/Site checkout was deleted; no program was stopped.
+
+C free was 20,086,128,640 → 23,607,951,360 bytes during 2026-10-18T04:16:57.090431+00:00 → 2026-10-18T04:17:47.961568+00:00 (observed change +3,521,822,720). These are dated measurements, not current free space or isolated physical recovery; the 100 GiB target is not claimed. Cumulative completed cleanup is **16,265,292 copies / 940,490,822,103 logical bytes**. All prior report bytes, HOLDs and failed publication evidence are preserved. The rejected q-input item remains omitted with zero deletions and no retry.
+
+M52 normal local preparation completed and its normal asset registration added 428 rights entries with zero exceptions. The preceding 5,294 canonical raw records and 592 L58 caption instances remain protected. M52 still has zero publication credit and its new UI/release checks remain pending; published L58 totals stay 1,823 papers / 5,294 canonical records / 3,173 pairs. No cleanup, model or local preparation is presented as new website publication.
+
