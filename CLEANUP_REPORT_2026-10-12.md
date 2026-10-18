@@ -1699,3 +1699,22 @@ Completed increment: **91,212 file copies / 8,252,821,704 logical bytes**. Compl
 The last dated C observation was **20,285,890,560 bytes free at 2026-10-18T05:49:09.4887964+00:00**. It does not establish 100 GiB free or 600 GB of physical recovery; concurrent changes are not attributed to this cleanup.
 
 All directories, unknown files, output-only SVGs and nonassets were preserved. Source/Site working checkouts, original papers, page-text/pass/pair/training files, model/server/runtime and prior HOLD evidence remain protected. Zero programs were stopped and zero Source/Site files were changed by these removals. Website paper credit from these cleanups is zero; the next corrected Source checkpoint and its release checks remain separate.
+
+
+## R73 — one completed ignored Source build-file cleanup
+
+Root removed only the exact qualified regular-file subset of `repos/mattersyn/recipe-atlas/dist/assets` by explicit file-only unlink. Each file passed retained Source/Git/snapshot/target byte and identity checks, ignored/untracked proofs, fresh consumer checks and immediate per-file checks.
+
+| Completed generated file-copy scope | File copies | Logical bytes | C free before → after (bytes) | Started / finished UTC | Observed delta (bytes) |
+| --- | ---: | ---: | --- | --- | ---: |
+| Source ignored Dist assets — qualified regular files only | 29,974 | 2,691,738,054 | 10,012,274,688 → 12,678,578,176 | 2026-10-18T06:28:07.141866+00:00 / 2026-10-18T06:40:02.327140+00:00 | +2,666,303,488 |
+
+Completed increment: **29,974 file copies / 2,691,738,054 logical bytes**. Completed cumulative total, retaining the exact R72 history: **16,386,478 file copies / 951,435,381,861 logical bytes**. These count reconstructible generated copies, not papers or isolated physical recovery.
+
+Ignored generated leaves inside the Source working copy were deleted. Tracked canonical/authored Source bytes, the Git checkout, all directories, six unknown subtrees and two excluded chemical JSONs were preserved. Papers, page text/pass/pair/training files and model/server/runtime remained protected; zero programs were stopped.
+
+Earlier Git-clean proposals remain parked. The unsupported read-only option and the read-only dry-run parent expansion deleted zero files; exact dry-run guards were not weakened and no broad parent cleanup was used. All historical HOLDs and refused items remain on record.
+
+A later dated observation at **2026-10-18T06:41:26.859457+00:00** showed **13,089,267,712 bytes free**, still **94,284,914,688 bytes below 100 GiB**. Neither that reading nor the cleanup interval is attributed as isolated physical recovery; the 100 GiB target is unmet. Source and Site were clean at that observation.
+
+The separate M50 checkpoint passed all 13 local phases. Its browser review remains pending at this checkpoint; no Source push/CI/merge or website publication is claimed here. Cleanup website credit is zero and the audited lane remains paused.
