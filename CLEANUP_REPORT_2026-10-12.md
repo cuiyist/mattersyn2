@@ -1742,3 +1742,21 @@ The next queue item is conservatively held: `batch25/q/source-boundary/recipe-at
 C: observations were **17,728,999,424 before → 52,432,224,256 after**, an observed +34,703,224,832 bytes during overlapping Site building, not an isolated physical gain. A later dated Site-preparation receipt at **09:11:33.127537 UTC** recorded 48,874,123,264 free bytes, still below 100 GiB. These are dated observations, not a current reading; cumulative logical copies do not establish 600 GB of physical recovery. No program was stopped, and original papers, text, quoted pass/pair/training files, private findings, models/server and working checkouts remain protected.
 
 Source PR70 passed all three exact-head checks and ordinarily merged as `e9ab346b0bcfec4cf59b7675d1e288cedde44281`. Authorized worker browser evidence passed the M50 Source review while Root's own browser connection remains unavailable. Normal Site preparation session 14084 exited0 with reproducible candidate/final builds and a passed boundary; its 109 required Site routes were awaiting active UI review on port 18922 at the preparation observation. This is **zero new Site publication credit**: the latest verified live total remains **1,823 papers**. No scientific-audit, training or policy change is claimed.
+
+## R76 — 2026-10-18: five completed M50 public asset-copy scopes
+
+Root observed all five distinct native tools EXIT0 (79016, 84230, 1827, 98506, 70810). From **10:01:54.645936 to 10:25:21.164848 UTC**, the serial operations removed **152,020 generated public file copies / 13,754,699,910 logical bytes** from the exact candidate/final static inputs, candidate/final Dist asset subsets and site-stage asset subset under `batch62/r-M50-r1`. Each scope has a matching summary and 30,404 paired started/deleted journal entries, bound to the preserved M50 snapshot and full normal Source-backed leaf checks. All directories and unknown entries were preserved; zero unknown files, directories or programs were deleted/stopped.
+
+| Scope | UTC finish | File copies | Logical bytes | C: before → after bytes |
+|---|---|---:|---:|---:|
+| candidate static input | 10:06:43.473199 | 30,404 | 2,750,939,982 | 48,581,824,512 → 51,310,469,120 |
+| final static input | 10:11:30.624809 | 30,404 | 2,750,939,982 | 51,310,374,912 → 54,077,992,960 |
+| candidate Dist asset subset | 10:15:30.313779 | 30,404 | 2,750,939,982 | 54,077,079,552 → 56,836,206,592 |
+| final Dist asset subset | 10:21:30.676661 | 30,404 | 2,750,939,982 | 56,838,090,752 → 59,604,586,496 |
+| site-stage asset subset | 10:25:21.164848 | 30,404 | 2,750,939,982 | 59,603,824,640 → 62,364,876,800 |
+
+C: free bytes across the five summaries were **48,581,824,512 before → 62,364,876,800 after**, an observed +13,783,052,288 bytes, not an isolated physical gain. The separate aggregate observation at **10:27:04.577410 UTC** recorded 62,376,615,936 free bytes. Both are dated observations; 100 GiB remains unmet.
+
+Cumulative completed accounting is **16,556,778 file-copy removals / 969,799,323,741 logical bytes**. Copies removed over time are not current occupancy or physical recovery. The original 3060 and 67049 HOLDs, NULL transaction-wide totals and separately known partial prefixes remain unchanged and are not added. At the aggregate observation the three q roles, registered preview and older R5 forest were not executed; this append credits none of them. All prior report bytes and failure/correction history remain preserved.
+
+M50 delivery is independently evidenced by normal publisher session51123EXIT0, same-Site Pages39115612442success and anonymousPASS at **09:42:42UTC**: **50papers/65source_extracted records/234crop keys/531caption instances**, with **1,873verified live paper groups**. The cleanup adds no website, scientific-audit or training credit and claims no20papers/hour rate. Original PDFs, page text, quoted pass/pair/training files, private findings, active model/server and working checkouts remain protected.
