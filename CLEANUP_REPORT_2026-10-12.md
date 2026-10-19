@@ -1954,3 +1954,12 @@ This is a cleanup report update only: no website paper, publication, audit, trai
 - The retained f311 public Git body map was reused with fresh tree/object-availability checks; all current target files received full byte/identity verification and immediate SHA256 checks before literal file removal. No repeated Git-body read is claimed.
 - Canonical P43 Source3904 and Sitef2 remained clean; legacy Git/index and original curation WIP stayed unchanged apart from the exact expected static-file deletion statuses. All directories, tools, documents, controls, retained Git objects, active model/server and original/quoted training inputs were preserved; programs stopped: 0.
 - All earlier pre-deletion HOLD attempts and their evidence remain intact and uncredited; no failed attempt was replayed. This R86 report changes no cumulative total and adds no website or paper-publication credit.
+
+
+## October 19, 2026 — completed P51 generated-input cleanup
+
+Removed only the duplicate generated files under `batch71/q-P51-r3/local-build/project/recipe-atlas/static`: **34,810 files, 2,858,521,572 logical bytes**. All **2,170 directories** remain. The separately served preview, original papers, quoted training files, active model and server, and working Source/Site checkouts were preserved. No program was stopped. Exact file hashes and retained public Git objects were checked; no global open-handle absence is claimed.
+
+The completed operation ran from 2026-10-19T15:42:27.7807501Z to 2026-10-19T15:48:18.1768690Z. Actual C: free space was **106,871,177,216 bytes before** and **109,792,423,936 bytes after**. These concurrent whole-drive readings are not an isolated physical-space gain. The after reading exceeded the 107,374,182,400-byte cleanup threshold. No directories or unique project data were removed.
+
+Source PR #74 has merged after all three exact-source checks passed. The separate normal P51 Site preparation has begun; publication and anonymous verification are still pending, so this entry adds **zero published-paper credit**. The next authorized local-only five-paper batch has started on the existing server. The separate audited lane remains paused.
