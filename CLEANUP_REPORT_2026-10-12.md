@@ -1891,3 +1891,20 @@ The supplementary HOLD has a known, paired completed prefix of **12 children / 4
 After both native cleaners had genuinely ended, Root separately observed **94,434,340,864 C free bytes at 2026-10-18T23:55:41.2393831Z**, with no active cleaner. This dated reading is **below 100 GiB (107,374,182,400 bytes)** by **12,939,841,536 bytes**. It is separate from the earlier summary readings and is not an unbounded current-capacity claim or cleanup-attributed physical gain.
 
 The two cleanup APIs reported zero program stops and zero parent-directory removals. The successful operation reports zero unknown-file deletion; the supplementary HOLD keeps its global unknown total NULL. Original papers, page text, pass/pair and training data, audit evidence, working Source/Site checkouts and the active model remain protected. No new six-role or other future headroom work is credited here. This report update changes no Source/Site content, repository settings, scientific records, audit totals or publication credit, and includes no quoted source payload.
+
+
+## R83 — untouched six-role cleanup completed; dated C capacity exceeds 100 GiB
+
+The distinct six-role native cleaner genuinely ended with exit 0. Its closed journal reconciles exactly **10,033 children / 62,528 generated public file copies / 14,711,771,601 logical bytes**, with no unpaired child event, unresolved outcome, unknown-file deletion, parent-directory removal or program stop reported by this cleanup API. The fixed scope excludes the entire earlier supplementary B30 stage and does not replay any historical HOLD.
+
+| Operation | Actual outcome | Files newly credited | Logical bytes newly credited | Started / finished UTC | Dated C free before / after (bytes) |
+| --- | --- | ---: | ---: | --- | --- |
+| Six untouched public-build Source-backed closed-child roles | Complete, native exit 0 | 62,528 | 14,711,771,601 | 2026-10-19T00:11:12.641696+00:00 / 2026-10-19T00:17:32.194514+00:00 | 94,214,295,552 / 108,102,217,728 |
+
+This one completed operation adds **62,528 file copies / 14,711,771,601 logical bytes**. The cumulative report becomes **18,213,081 file copies / 1,140,947,982,705 logical bytes**. The summary records a C free-space change of **13,887,922,176 bytes**; neither that concurrent observation nor the removed-copy logical total is attributed as isolated physical disk savings. No base16, old67/r6, original supplementary or other previously reported result is counted again.
+
+After the native terminal, Root separately observed **108,098,818,048 C free bytes at 2026-10-19T00:17:54.492780+00:00**, with no active cleaner. This dated reading is **above 100 GiB (107,374,182,400 bytes)** by **724,635,648 bytes**. It records that the requested threshold was reached at that observation, without claiming an unbounded current free-space level or attributing all capacity change to cleanup.
+
+The original supplementary native49002 HOLD is unchanged: its known paired prefix remains **12 children / 420 files / 7,004,697 logical bytes**, diagnostic only with **zero cumulative credit**; its global actual-file, actual-byte and unknown-file totals remain **NULL**. The entire original `batch30/r/site-stage/assets` scope remains excluded, including its completed prefix and any unobserved next child. No failed-next target or culprit program is inferred and no retry is authorized.
+
+Separate B42/B38 read-only public-subset proof work is preparation for possible extra build headroom only. It is not a cleanup result or running deletion and receives **zero deletion credit** here. Original papers, page text, pass/pair and training data, private audit evidence, working Source/Site checkouts and the active model remain protected. This report-only update changes no Source/Site content, repository settings, scientific records, audit totals or publication credit, and transfers no quoted source payload.
