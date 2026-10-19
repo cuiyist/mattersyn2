@@ -1974,3 +1974,16 @@ A retired Source-boundary attempt stopped before deletion at 19:56:45 because of
 All directories were preserved. No programs were stopped and neither Source nor Site was written by these operations. Original papers, quoted evidence and model data were outside the deletion scope. C: free-space observations were 78,004,420,608 → 112,164,757,504 bytes during the partial attempt and 111,376,277,504 → 114,816,212,992 bytes during the completed boundary attempt; these are concurrent whole-drive readings, not isolated physical gains from cleanup.
 
 P51 remains 51 papers, 69 records and 195 crops pending Site publication and verification, with zero Site publication credit. The owner’s scope is to finish and verify P51, then pause; no new batches or clients are authorized.
+
+
+### 2026-10-19 — retired generated copies: three completed removals and a preserved HOLD
+
+The q5 first attempt closed as HOLD at 21:08:15 UTC with **0 files / 0 logical bytes removed**. Its failed guard and original attempt remain preserved; it was not replayed or counted as reclaimed space.
+
+A separate bounded operation completed at 21:22:21 UTC, removing **11,642 generated public-data files / 737,238,568 logical bytes** from two retired copies. The recorded whole-drive C: free-space readings were 100,669,939,712 bytes before and 101,435,699,200 bytes afterward.
+
+The corrected q5 plan then completed at 21:33:49 UTC, removing **130,899 generated files / 9,680,385,683 logical bytes** from three fixed retired file sets. Reconstruction was bound to retained local Source inputs and the normal snapshot/build records; this was cleanup of an unpublished HOLD candidate, with no GUI or publication PASS inferred. Its whole-drive C: free-space readings were 101,435,166,720 bytes before and 111,407,988,736 bytes afterward.
+
+A final narrow operation completed at 21:59:42 UTC, removing **8 old public preview files / 274,670,081 logical bytes**. Its saved preflight and result bind the same eight ordinary single-link files to retained Source39 Git, the preserved snapshot, and equal old candidate/final build metadata, with no active old-preview consumers observed. The whole-drive C: readings were 107,273,641,984 bytes before and 107,548,286,976 bytes afterward.
+
+All four receipts record **0 directories removed, 0 programs stopped and 0 Source/Site writes**. Directory structure and retained reconstruction inputs were preserved. Original papers, source evidence, quoted material and model outputs were outside these generated-file operations. The C: differences include concurrent whole-drive activity and are not isolated physical-recovery measurements. These cleanup results create no paper, training, audit or Site-publication credit. P51 publication and anonymous verification remain separate work, after which the owner-requested pause applies.
