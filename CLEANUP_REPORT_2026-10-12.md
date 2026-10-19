@@ -1963,3 +1963,14 @@ Removed only the duplicate generated files under `batch71/q-P51-r3/local-build/p
 The completed operation ran from 2026-10-19T15:42:27.7807501Z to 2026-10-19T15:48:18.1768690Z. Actual C: free space was **106,871,177,216 bytes before** and **109,792,423,936 bytes after**. These concurrent whole-drive readings are not an isolated physical-space gain. The after reading exceeded the 107,374,182,400-byte cleanup threshold. No directories or unique project data were removed.
 
 Source PR #74 has merged after all three exact-source checks passed. The separate normal P51 Site preparation has begun; publication and anonymous verification are still pending, so this entry adds **zero published-paper credit**. The next authorized local-only five-paper batch has started on the existing server. The separate audited lane remains paused.
+
+
+### P51 generated-copy cleanup — 19 October 2026 (UTC)
+
+The seven-scope cleanup closed on HOLD at 19:27:57 after removing 175,440 verified generated-copy files totaling 12,669,453,469 logical bytes. The partial remainder is preserved; this attempt will not be replayed.
+
+A retired Source-boundary attempt stopped before deletion at 19:56:45 because of a Windows long-path error: zero files and zero bytes were removed. A separately reviewed correction then completed at 20:05:25, removing 43,090 files totaling 3,343,722,185 logical bytes, each verified against the exact retained Source Git content.
+
+All directories were preserved. No programs were stopped and neither Source nor Site was written by these operations. Original papers, quoted evidence and model data were outside the deletion scope. C: free-space observations were 78,004,420,608 → 112,164,757,504 bytes during the partial attempt and 111,376,277,504 → 114,816,212,992 bytes during the completed boundary attempt; these are concurrent whole-drive readings, not isolated physical gains from cleanup.
+
+P51 remains 51 papers, 69 records and 195 crops pending Site publication and verification, with zero Site publication credit. The owner’s scope is to finish and verify P51, then pause; no new batches or clients are authorized.
