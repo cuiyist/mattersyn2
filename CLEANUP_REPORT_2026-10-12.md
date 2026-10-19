@@ -1908,3 +1908,20 @@ After the native terminal, Root separately observed **108,098,818,048 C free byt
 The original supplementary native49002 HOLD is unchanged: its known paired prefix remains **12 children / 420 files / 7,004,697 logical bytes**, diagnostic only with **zero cumulative credit**; its global actual-file, actual-byte and unknown-file totals remain **NULL**. The entire original `batch30/r/site-stage/assets` scope remains excluded, including its completed prefix and any unobserved next child. No failed-next target or culprit program is inferred and no retry is authorized.
 
 Separate B42/B38 read-only public-subset proof work is preparation for possible extra build headroom only. It is not a cleanup result or running deletion and receives **zero deletion credit** here. Original papers, page text, pass/pair and training data, private audit evidence, working Source/Site checkouts and the active model remain protected. This report-only update changes no Source/Site content, repository settings, scientific records, audit totals or publication credit, and transfers no quoted source payload.
+
+
+## R84 — completed closed subsets of retired failed B42/B38 builds
+
+The distinct B42/B38 native cleaner genuinely ended with exit 0. Its closed paired journal reconciles exactly **8,463 children / 55,203 generated public file copies / 12,989,948,484 logical bytes**. This is the complete selected closed-child subset, not removal of the whole old builds or every Source-matching file. The old thirteenth local-build failures remain historical failures; no successful build, browser approval or publication is inferred from cleanup.
+
+| Operation | Actual outcome | Files newly credited | Logical bytes newly credited | Started / finished UTC | Dated C free before / after (bytes) |
+| --- | --- | ---: | ---: | --- | --- |
+| Six B42/B38 failed-build public Source-backed closed-child subsets | Complete, native exit 0 | 55,203 | 12,989,948,484 | 2026-10-19T00:30:32.636149+00:00 / 2026-10-19T00:36:21.319903+00:00 | 108,039,897,088 / 121,047,560,192 |
+
+Only this completed closed subset adds **55,203 file copies / 12,989,948,484 logical bytes**. The cumulative report becomes **18,268,284 file copies / 1,153,937,931,189 logical bytes**. The summary C free-space change is **13,007,663,104 bytes**; neither that observation nor the logical-copy total is attributed as isolated physical disk savings. No R83 or earlier cleanup is recounted.
+
+**101,568 loose or partial selected Source-matching files / 254,616,309 logical bytes** remained outside this closed forest and receive no deletion credit. Changed chemical-registry files, output-only or unknown content, every parent root and all non-child directories remain preserved. The actual cleanup reports zero unknown-file deletions, parent-directory removals and program stops, with no unresolved outcome or unpaired journal tail.
+
+After the genuine native terminal, Root separately observed **121,044,402,176 C free bytes at 2026-10-19T00:37:05.219826+00:00**, with no active cleaner. This dated reading is **above 100 GiB (107,374,182,400 bytes)** by **13,670,219,776 bytes**. It is distinct from the summary readings and is not an unbounded current-capacity or isolated-gain claim. The capacity receipt records zero Source/Site writes for this observation; it precedes the separate O53/P51 five-document bookkeeping seam, which is not part of this cleanup.
+
+All earlier HOLD histories remain unchanged and uncredited. In particular, original supplementary49002 global actual-file, actual-byte and unknown-file totals remain **NULL**; its known **12-child / 420-file / 7,004,697-byte** prefix is diagnostic only with zero cumulative credit. The entire original `batch30/r/site-stage/assets` scope remains excluded. No failed-next target or culprit is inferred and no retry is authorized. Original papers, page text, pass/pair and training data, private audit evidence, working Source/Site checkouts and the active model remain protected. This report-only update changes no repository settings, scientific records, audit totals or publication credit and transfers no quoted source payload.
