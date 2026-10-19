@@ -1925,3 +1925,23 @@ Only this completed closed subset adds **55,203 file copies / 12,989,948,484 log
 After the genuine native terminal, Root separately observed **121,044,402,176 C free bytes at 2026-10-19T00:37:05.219826+00:00**, with no active cleaner. This dated reading is **above 100 GiB (107,374,182,400 bytes)** by **13,670,219,776 bytes**. It is distinct from the summary readings and is not an unbounded current-capacity or isolated-gain claim. The capacity receipt records zero Source/Site writes for this observation; it precedes the separate O53/P51 five-document bookkeeping seam, which is not part of this cleanup.
 
 All earlier HOLD histories remain unchanged and uncredited. In particular, original supplementary49002 global actual-file, actual-byte and unknown-file totals remain **NULL**; its known **12-child / 420-file / 7,004,697-byte** prefix is diagnostic only with zero cumulative credit. The entire original `batch30/r/site-stage/assets` scope remains excluded. No failed-next target or culprit is inferred and no retry is authorized. Original papers, page text, pass/pair and training data, private audit evidence, working Source/Site checkouts and the active model remain protected. This report-only update changes no repository settings, scientific records, audit totals or publication credit and transfers no quoted source payload.
+
+
+## R85 - 2026-10-19: two verified retired P51 copies removed; 100 GiB threshold restored
+
+Root removed only these two fixed retired copies under `research-assets/simple-website-20261010/batch71/q-P51-r2/local-build/project/recipe-atlas/`:
+
+| Retired copy | Verified files removed | Removed logical bytes | C: free bytes before proof | C: free bytes immediately before deletion | C: free bytes after completion | Completion (UTC) |
+| --- | ---: | ---: | ---: | ---: | ---: | --- |
+| `dist` | 52,993 | 3,478,107,280 | 103,005,003,776 | 102,298,214,400 | 105,929,785,344 | 2026-10-19 10:03:45.8870819 |
+| `static` | 34,810 | 2,858,521,710 | 105,893,793,792 | 105,893,761,024 | 108,847,558,656 | 2026-10-19 10:14:23.2636838 |
+
+These two successful exact-target removals account for **87,803 verified file copies and 6,336,628,990 logical bytes**. These are new operation counts, not a recomputed historical cumulative total. The dated C: observations reflect all disk activity and are not an isolated measurement of physical space recovered by cleanup.
+
+The 100 GiB trigger is 107,374,182,400 free bytes. The second completion restored the observed free space above that threshold. A native postcheck at **2026-10-19 10:15:09.7823836 UTC** observed **108,854,624,256 free bytes**; this is a dated observation, not a promise of the current free space.
+
+Before each removal, Root verified the literal MatterSyn boundary, no reparse points, the exact complete copied-file set, each present file's SHA256 and size, retained reconstruction inputs, and native consumer/runtime guards. The retired static copy was tied to the exact retained old Source tree and available Git blobs. The generated dist was tied to its exact saved candidate inventory and retained reconstruction inputs. Original receipts, maps and the old Source reconstruction ref remain local; no full rehash of every Git blob body is claimed.
+
+Native postchecks preserved the active Qwen3-32B server (PID 19184), preview server (PID 40220), batch controller (PID 43296), current q3 preview, clean Source/Site working checkouts, and old Source ref `edeba325011cfa3d253e9d50ad07a7ecba90a3eb`. Original papers, page text, quoted pass/pair/training files, credentials, the active model/CUDA build and reconstruction receipts were outside these removals. **No program was stopped.** Prior failed/partial cleanup holds remain on record and were not retried by these two operations.
+
+This is a cleanup report update only: no website paper, publication, audit, training or throughput credit; no Source/Site change, repository setting change or deletion of audited records.
