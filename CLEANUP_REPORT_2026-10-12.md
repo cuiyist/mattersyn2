@@ -1945,3 +1945,12 @@ Before each removal, Root verified the literal MatterSyn boundary, no reparse po
 Native postchecks preserved the active Qwen3-32B server (PID 19184), preview server (PID 40220), batch controller (PID 43296), current q3 preview, clean Source/Site working checkouts, and old Source ref `edeba325011cfa3d253e9d50ad07a7ecba90a3eb`. Original papers, page text, quoted pass/pair/training files, credentials, the active model/CUDA build and reconstruction receipts were outside these removals. **No program was stopped.** Prior failed/partial cleanup holds remain on record and were not retried by these two operations.
 
 This is a cleanup report update only: no website paper, publication, audit, training or throughput credit; no Source/Site change, repository setting change or deletion of audited records.
+
+
+## R86 — One legacy static file-copy cleanup; every directory retained
+
+- Root completed the exact legacy `repos/mattersyn/recipe-atlas/static` file-only cleanup at 2026-10-19T13:16:07.828970+00:00 UTC. Removed 34382 verified Git-backed file copies / 2825621785 logical bytes; directories deleted: 0; directory paths retained: 2127, including the six diagnosed empty directories.
+- C free before/after the cleanup: 106411581440 / 109272748032 bytes. Native postcheck at 2026-10-19T13:16:52.596325+00:00: 109272678400 bytes. These are dated global observations, not an isolated physical-gain measurement; 100 GiB at postcheck: met.
+- The retained f311 public Git body map was reused with fresh tree/object-availability checks; all current target files received full byte/identity verification and immediate SHA256 checks before literal file removal. No repeated Git-body read is claimed.
+- Canonical P43 Source3904 and Sitef2 remained clean; legacy Git/index and original curation WIP stayed unchanged apart from the exact expected static-file deletion statuses. All directories, tools, documents, controls, retained Git objects, active model/server and original/quoted training inputs were preserved; programs stopped: 0.
+- All earlier pre-deletion HOLD attempts and their evidence remain intact and uncredited; no failed attempt was replayed. This R86 report changes no cumulative total and adds no website or paper-publication credit.
