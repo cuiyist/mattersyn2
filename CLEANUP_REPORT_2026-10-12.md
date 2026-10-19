@@ -1873,3 +1873,21 @@ The dated terminal-summary C reading was **58,539,945,984 bytes at 2026-10-18T23
 The q3 file-only operations preserved every directory, held file and unknown entry, including output-only SVGs. The historical operation preserved parent directories, unknown entries, held scopes and loose leaves outside its fixed closed children. Each of these three cleanup APIs reported zero program stops. Root separately retired an owned obsolete Site preview at 2026-10-18T22:16:21.9194143+00:00; that action is not part of the cleanup stop count and left other user programs and the active model untouched. Original papers, page text, pass/pair and training data, audit findings, working Source/Site checkouts and the active model remain protected.
 
 The separate base16 and seven-role supplemental work receive **zero completion or deletion credit in this appendix**; no result is inferred for them. This report update changes no Source/Site content, repository settings, scientific records, audit totals or publication credit. No paper quotations or private source payloads are included.
+
+
+## R82 — completed base16 cleanup and a separate supplementary HOLD
+
+The base16 native cleaner genuinely ended with exit 0. Its closed paired journal reconciles exactly 24,471 children, 155,919 files and 36,595,873,822 logical bytes. The supplementary native cleaner ended with exit 1 and retains its original HOLD. These distinct outcomes are accounted for separately.
+
+| Operation | Actual outcome | Files newly credited | Logical bytes newly credited | Finished UTC | Dated C free before / after (bytes) |
+| --- | --- | ---: | ---: | --- | --- |
+| Fixed base16 public-build closed children | Complete, exit 0 | 155,919 | 36,595,873,822 | 2026-10-18T23:50:35.665229+00:00 | 57,745,674,240 / 94,445,670,400 |
+| Original seven-role supplementary forest | HOLD, exit 1 | 0 | 0 | 2026-10-18T23:52:51.877242+00:00 | 94,431,948,800 / 94,435,303,424 |
+
+Only the completed base16 operation adds to cumulative accounting: **155,919 file copies / 36,595,873,822 logical bytes**. The cumulative report therefore becomes **18,150,553 file copies / 1,126,236,211,104 logical bytes**. Removed generated-copy logical bytes are not isolated physical disk savings, and no earlier R81 or historical HOLD accounting is repeated.
+
+The supplementary HOLD has a known, paired completed prefix of **12 children / 420 files / 7,004,697 logical bytes**, shown here for diagnosis only with **zero cumulative credit**. Its original global actual-file, actual-byte and unknown-file totals remain **NULL**. The saved error is a current target/retained FileID, membership or metadata CAS mismatch. No failed-next target or culprit program is established. The entire original `batch30/r/site-stage/assets` scope is excluded from further cleanup, including the completed prefix and any unobserved next child; this report authorizes no retry or unholding.
+
+After both native cleaners had genuinely ended, Root separately observed **94,434,340,864 C free bytes at 2026-10-18T23:55:41.2393831Z**, with no active cleaner. This dated reading is **below 100 GiB (107,374,182,400 bytes)** by **12,939,841,536 bytes**. It is separate from the earlier summary readings and is not an unbounded current-capacity claim or cleanup-attributed physical gain.
+
+The two cleanup APIs reported zero program stops and zero parent-directory removals. The successful operation reports zero unknown-file deletion; the supplementary HOLD keeps its global unknown total NULL. Original papers, page text, pass/pair and training data, audit evidence, working Source/Site checkouts and the active model remain protected. No new six-role or other future headroom work is credited here. This report update changes no Source/Site content, repository settings, scientific records, audit totals or publication credit, and includes no quoted source payload.
