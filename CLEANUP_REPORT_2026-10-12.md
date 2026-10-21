@@ -2101,3 +2101,16 @@ The latest three independently reconciled passes (B27, eleven groups of large kn
 The next seven-group cleanup is running under Root ownership; its eventual terminal alone can earn removal credit. The historical held roots B55/r-r1, B51/r-r1, B40/r and B32/r remain excluded. The separate paused audit lane, old Worker A/B queue and five older owner entries remain unchanged. The running Qwen server/controller and local paper/pass/pair/training files are protected.
 
 Storage choice: durable safe reports stay on GitHub, without a duplicate full report saved locally. Avoid new candidate/build copies while storage is constrained. Original PDFs, quoted/private files and necessary local model/working files are never uploaded by this report-only operation. No site records, repository settings, release checks or public paper counts change.
+
+
+## Verified seven-group large-leaf cleanup, 2026-10-21
+
+Root's sole cleaner session24435 exited0 at 2026-10-21T04:50:47.8729807+00:00. Independent exact terminal/journal/map accounting exited0. It removed **1,108 duplicate leaves / 6,120,841,032 logical bytes**, with **zero failed leaves**. Twenty-seven roles completed their selected sets; twenty-nine target roles were already absent and received zero deletion credit. The3,208 held entries are2,400 already-absent known leaves and808 already-absent known parents, also credited zero. There are no incomplete ROLE_HOLD results. No directories were removed, no programs stopped and no Source/Site Git mutations made.
+
+The seven roots were B56/r-K-r2, B47/r-r4, B44/r-r2, B42/r, B38/r, B36/r and B35/r2, restricted to immutable known leaves at least1MiB whose complete bytes matched the retained public Git reconstruction. All four historical held roots named in the prior entry remained excluded. The original archived29,922,260,736-byte selection was an upper bound, not the actual removal.
+
+Terminal SHA256: `c34330e2635c3a355c732be8360ca9b7b8eee5f1aff0d080fed6dd60eb13b40a`. Independent verification SHA256: `4e40dfd57103c14e96395b528d6ba2201e9c5555b9b3f1de232ff90cbe0d8ca8`. Exact journaled paths were absent when individually checked after completion; no permanent-absence claim is made.
+
+The latest four independently verified passes now total **196,257 duplicate leaves / 30,284,469,712 logical bytes**. No historical cleanup or already-absent path is recounted. C: free bytes sampled at 2026-10-21T04:53:55.486825+00:00: **47,947,071,488**. This remains below the107,374,182,400-byte target; disk-wide change is not isolated cleanup gain.
+
+The final Q19 generated-site copy is undergoing fresh ownership checks, with no new deletion credit yet. Root continues bounded cleanup, keeps necessary private/model/working files locally, avoids duplicate build copies and saves safe durable reports to this existing GitHub file. The website/audit policies and paused audit lane remain unchanged. No quoted paper content or private payload was uploaded.
