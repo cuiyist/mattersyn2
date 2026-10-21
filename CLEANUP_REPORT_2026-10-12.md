@@ -2137,3 +2137,13 @@ Safe durable reports stay in this GitHub file without a full local report copy. 
 - This continuation now totals six verified passes: 281,570 removed duplicate files / 48,373,752,477 logical bytes. This is not an isolated physical-space measurement or a 600 GB claim.
 - C: free space: 51,942,506,496 bytes at pass start; 66,187,993,088 bytes at pass end; 66,176,499,712 bytes observed at 2026-10-21T05:42:47.778469+00:00. The 107,374,182,400-byte target remains unmet. Other disk activity can affect these observations.
 - Continue only bounded generated-copy cleanup. Papers, page text, quoted pass/pair/training files, private audits, active Qwen model/CUDA server and the Source/Site workbench remain local. No source or quoted content is included in this report.
+
+
+### October 21 temporary-site copies, verified completion
+
+- Finished at 2026-10-21T05:57:32.7075749+00:00: 7,866 duplicate regular files / 5,450,861,163 logical bytes removed across twelve exact temporary-site roles. All selected rows matched the existing public Site; old builds were not relabelled as published.
+- Independent journal reconciliation and individual post-terminal absence checks passed. All 291,104 held entries have zero deletion credit. No deletion errors, directories removed, program stops or Source/Site Git mutations. Private and unknown files remain untouched.
+- Seven verified continuation passes now total 289,436 duplicate files / 53,824,613,640 logical bytes. This is not an isolated physical-space or 600 GB claim.
+- C: free bytes: 66,171,592,704 at pass start; 71,554,142,208 at pass end; 68,759,326,720 at 2026-10-21T06:03:43.290140+00:00. The 107,374,182,400-byte target remains unmet.
+- Bounded implementation fixes: an initial next-pass metadata invocation stopped before target access because Root review fields were unset; the fields were corrected and the genuine preflight passed. A read-only reconciliation first stopped on Windows slash spelling; its replacement preserves the exact supplied pin spelling and accepts only the two literal spellings of the fixed runtime path. Size/hash/identity checks and original receipts are unchanged; corrected independent verification passed. No cleanup replay occurred.
+- Durable project outputs and safe reports belong on GitHub. Local storage is limited to the working checkout, active model/runtime, necessary private inputs and evidence; completed reconstructible build copies are removed. No paper text or quoted training payload is uploaded.
