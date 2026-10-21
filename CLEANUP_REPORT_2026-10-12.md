@@ -2169,3 +2169,25 @@ The final eleven-root lower-size set remains untouched. Its original attempt sto
 A separate metadata-only search linked at most 6,483 original crop copies (1,757,037,217 logical bytes) to already-live registered figures. This is an upper bound, not a completed cleanup: current byte/identity/consumer qualification is still missing, so the copies were preserved. No further unused model download was found at the known MatterSyn download destinations. Runtime archives, mixed private archives, unknown/user-owned paths and earlier unresolved holds remain protected.
 
 Durable safe records, code, figures and reports belong on GitHub. Keep only the active workbench locally and remove reconstructible completed builds after use. Original papers and quote-bearing page text/pass/pair/training files, private evidence, credentials, the active Qwen3-32B/CUDA runtime and one Source/Site working checkout remain local; none was uploaded or removed. No other program, Windows setting, audited record or website release was changed for this cleanup. The existing extraction controller continues; the audited lane and its older owner questions remain paused.
+
+
+### Q20 verified and first generated-copy cleanup completed — 2026-10-21
+
+Q20 added 50 papers, 80 records and 287 captioned figure crops through the unchanged release path. [Site a05cf49](https://github.com/cuiyist/mattersyn-site/commit/a05cf494e3eb035c257f51da65af12b43a9c971a) passed [Pages 39581813314](https://github.com/cuiyist/mattersyn-site/actions/runs/39581813314) and anonymous verification at 10:17:35 UTC. Observed totals: 2,284 papers, 5,947 records and 3,826 recipe–structure pairs. This repeats no earlier publication credit.
+
+Root retired only the following completed, reconstructible generated files under `C:/Users/jiacu/Desktop/mattersyn`; all directories were preserved.
+
+| Relative path | Files removed | Logical bytes removed |
+|---|---:|---:|
+| p20/source-boundary | 47,023 | 3,843,036,424 |
+| c20/project/recipe-atlas/static | 38,331 | 3,329,250,263 |
+| c20/project/recipe-atlas/data | 6,226 | 388,889,554 |
+| c20/project/recipe-atlas/dist | 57,440 | 3,981,981,272 |
+
+Total: **149,020 files / 11,543,157,513 logical bytes**. Finished at 2026-10-21T11:15:09.4810459+00:00. Full-byte and published Git-object checks preceded each removal; the independent journal reconciliation matched every selected entry. Held entries: 0; failed entries: 0; directories removed: 0; programs stopped: 0; Source/Site Git changes: 0.
+
+C: free bytes were **27,156,652,032 before / 38,176,604,160 after**. A later observation at 2026-10-21T11:19:52.199983+00:00 was 38,174,711,808 bytes. Drive changes include other activity and are not isolated cleanup gain. The 107,374,182,400-byte aim remains unmet.
+
+The eight preceding completed passes remain 309,558 files / 58,588,072,484 logical bytes; adding this distinct pass gives nine passes, **458,578 files / 70,131,229,997 logical bytes**. Historical zero-deletion holds and the two corrected metadata-reference errors are preserved and add no deletion credit. Further disjoint cleanup is pending and receives no credit here.
+
+Papers, owner folders, page text, quoted pass/pair/training files, credentials, the active Qwen3-32B model/server/CUDA build and canonical Source/Site checkouts were preserved. No other program was stopped. No papers or quoted private files were uploaded. The audited lane, old Worker A/B queue and five older owner questions remain paused.
