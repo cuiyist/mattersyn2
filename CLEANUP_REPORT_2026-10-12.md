@@ -2299,3 +2299,24 @@ Choice: preserve the GitHub inputs and normal build recipe, then remove the veri
 Choice: use a plain repository and PR reference to retain the existing public-safe text check.
 
 A report-helper terminal-field mismatch was corrected before its first publication attempt: Source-only cleanup flags are checked directly, and frozen Site occupancy comes from the genuine docs merge and runtime. No extraction prompt, scientific record or normal release check changed. The earlier sandbox credential lookup failed before any GitHub request; its consumed attempt remains preserved, and a separately reviewed ordinary merger completed PR 85 with the existing OS credential.
+
+
+<!-- cleanup-q27-three-completed-20261021 -->
+## October 21: completed historical Q27 generated-output cleanup
+
+Root completed this bounded cleanup at 23:20:52 UTC, after starting at 23:04:37 UTC. Three generated copies were reconstructed against retained public Source commit e3d0aa67cff5dcf62799e8630deabb755b8c5fa5 or its explicit successful normal rebuild chain. This is a reconstruction claim, not equality to a deployed site.
+
+| Generated path below research-assets/simple-website-20261010 | Removed files | Logical bytes |
+| --- | ---: | ---: |
+| batch27/q/source-boundary | 30,972 | 2,051,899,565 |
+| batch27/q/local-build/project/recipe-atlas/static | 24,082 | 1,652,559,063 |
+| batch27/q/local-build/project/recipe-atlas/dist | 38,238 | 2,173,963,049 |
+| Total | 93,292 | 5,878,421,677 |
+
+All three closed deletion journals exactly match their immutable known-file maps. Independent metadata accounting found zero held or failed entries, no duplicate absolute namespaces, and no overlap with the sixteen previously named completed cleanup sets. Directories were preserved. No programs were stopped and no Source or Site Git data was changed.
+
+C free space measured 46,833,348,608 bytes before and 69,178,417,152 bytes after. That observed change is not isolated to this cleanup; its logical-byte credit is only 5,878,421,677 bytes. The 100 GiB free-space target remains unmet. This completed attempt has no folder/program hold to report.
+
+The seventeen named completed cleanup sets now total 1,528,109 removed known files and 147,057,043,022 logical bytes. These are named-set accounting totals, not lifetime deletion totals or a physical-space-gain claim. Earlier absent targets, zero-effect holds, failures and the refused three-input cleanup remain unchanged and receive no additional credit.
+
+Papers, owner-created folders, page text, quoted pass/pair/training files, private audits, credentials, the active Qwen3-32B model/server/CUDA runtime and the canonical Source/Site checkouts were preserved. This report-only update adds no website paper credit; the last verified site remains 2,288 papers, 5,952 records and 3,831 recipe-structure pairs.
