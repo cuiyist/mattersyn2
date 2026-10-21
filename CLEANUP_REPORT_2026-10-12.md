@@ -1,3 +1,18 @@
+## Root cleanup milestone — 2026-10-21T02:50:22.871851+00:00
+
+Milestone `Q18-known-leaves:33ffae2e9eb7b6da`. Removed **453,106 generated file copies / 33,087,223,786 logical bytes** from the completed P18 Source boundary, C18 static/data/dist, and R18 candidate/final/static/data/dist, Site stage and known preview payload. The original public reconstruction is retained in Source `793bfa690ec10b38b5006e56d5a8fd623d5f298b` and Site `d53a91b494237a76563d90db5f0db3778b5c5ea6`.
+
+- Deletion interval: 2026-10-21T01:01:26.0454833+00:00 to 2026-10-21T02:35:27.4704553+00:00.
+- C: available bytes at those observations: **45,679,120,384 → 18,505,945,088**; current observation at this report: **18,399,617,024**. Whole-drive concurrent activity means these are not isolated physical-recovery measurements. At 02:03 UTC Windows reported an 84,912 MiB paging-file allocation; its size is recorded as an observation, not attributed to this cleanup.
+- Twelve unlisted preview control files and every directory were retained. Zero failed deletions, other programs stopped, or Source/Site Git mutations by the cleaner. Papers, private page text, quoted passes/pairs/training files, owner folders, active Qwen3-32B model/server/CUDA build and working checkouts were preserved.
+- Independent map/journal/absence join passed for all 453,106 distinct paths and their exact logical sizes. Terminal SHA256: `33ffae2e9eb7b6da219172b99ccbb285b8f5b7ef78b3fe982ba90b52359f128f`; independent verification: `699a9b486f53631c17a17ae25c533c524dc6da4639f0e53c1c36636ca8cb23d4`.
+- The first independent join attempted to use intentionally NULL future-map slots in the frozen plan and stopped without mutations. The corrected join used the original immutable resolved-preflight mapping; the failed attempt remains local history.
+- C: remains below the 100 GiB target. Older generated copies are being checked for public Git reconstruction and active consumers; no candidate inventory total is claimed as removed. Q19's unchanged normal publication path has started; this cleanup report assigns no new paper credit. The separate audit lane, old Worker A/B queue and five older questions remain paused.
+
+Durable safe reports and project outputs stay on GitHub. Only active workbench files and protected private source/training inputs require local retention. No paper text, private model payload or quoted file is included in this report.
+
+---
+
 ## Verified update — 2026-10-16T05:13:48.095298+00:00
 
 Removed **245,395 verified redundant generated file copies /16,054,912,965 logical bytes** from seven completed B35 build directories. Confirmed cumulative removed copies: **604,362,204,987 logical bytes /11,556,557 files**. This exceeds 600 billion logical bytes of redundant copies; it is not a measurement of isolated net physical recovery.
