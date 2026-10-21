@@ -2191,3 +2191,23 @@ C: free bytes were **27,156,652,032 before / 38,176,604,160 after**. A later obs
 The eight preceding completed passes remain 309,558 files / 58,588,072,484 logical bytes; adding this distinct pass gives nine passes, **458,578 files / 70,131,229,997 logical bytes**. Historical zero-deletion holds and the two corrected metadata-reference errors are preserved and add no deletion credit. Further disjoint cleanup is pending and receives no credit here.
 
 Papers, owner folders, page text, quoted pass/pair/training files, credentials, the active Qwen3-32B model/server/CUDA build and canonical Source/Site checkouts were preserved. No other program was stopped. No papers or quoted private files were uploaded. The audited lane, old Worker A/B queue and five older owner questions remain paused.
+
+
+### Q20 R20 extension: completed 2026-10-21 at 12:40:09 UTC
+
+The existing owned cleanup session 39249 finished successfully. It removed only the four publication-backed sets of known generated regular leaves below; every directory and unknown, control, private or protected item was preserved. These are actual terminal counts, not proposed capacity.
+
+| MatterSyn-relative target | Files removed | Logical bytes removed |
+|---|---:|---:|
+| r20/candidate/project/recipe-atlas/static | 38,331 | 3,329,250,263 |
+| r20/candidate/project/recipe-atlas/dist | 57,440 | 3,981,981,272 |
+| r20/final/project/recipe-atlas/static | 38,331 | 3,329,250,263 |
+| r20/final/project/recipe-atlas/dist | 57,440 | 3,981,981,272 |
+
+Extension total: **191,542 files / 14,622,463,070 logical bytes**, with **0 holds, 0 failures, 0 directories removed, 0 programs stopped and 0 Source/Site Git mutations by the cleaner**. Reconstruction remains pinned to Source `7717ef6352d7f282b75449b785d9013c1970b319` and published Site `a05cf494e3eb035c257f51da65af12b43a9c971a`. Terminal SHA256: `b6f604e5d4ab492902a5b3e38ca92654f1feddfc3b0315836c7ff51a04019240`.
+
+Actual C: free-space observations were **38,174,396,416 bytes before** and **53,286,764,544 bytes after** this extension. The 100 GiB target is still unmet. Logical removal totals and drive observations do not isolate cleanup gain from other machine activity.
+
+The two completed Q20 cleanup passes together removed **340,562 files / 26,165,620,583 logical bytes**. With the separately recorded prior eight completed passes, this ten-pass reporting cohort totals **650,120 files / 84,753,693,067 logical bytes**; this is not a claim of lifetime totals or 600 GB reclaimed. The remaining four-role R20 tail has not been launched and receives no deletion credit. Papers, owner folders, page text, quoted passes/pairs/training files, private audits, credentials, the active Qwen3-32B model/server/CUDA runtime and canonical Source/Site checkouts remain protected.
+
+Q20 publication remains the already verified 50-paper contribution, at **2,284 papers / 5,947 records / 3,826 pairs**. This report-only append adds no publication credit and changes no website or audited-lane rule.
