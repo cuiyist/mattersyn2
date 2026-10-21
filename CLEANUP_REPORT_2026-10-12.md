@@ -2281,3 +2281,21 @@ The previous fourteen-cohort baseline remains 997,989 files and 109,688,510,064 
 Q21 publication is separately verified at Site commit 60453d3aeb953548676a71e53892a1324b2129ba: Pages run 39650844653 succeeded, and normal anonymous verification checked 140 files, four paper routes and seven material bindings with no failures. Its four-paper publication credit is already recorded; this cleanup adds none.
 
 The original three-input automatic-review refusal remains permanently left out with zero deletion credit. The earlier five-copy r2 attempt also remains preserved as a zero-effect technical HOLD after an owned worker naturally ended. Neither original attempt was replayed or overwritten; this completed cohort used a separately approved fresh-context attempt.
+
+
+<!-- cleanup-q21-docs-four-completed-20261021 -->
+## Completed documentation-build copies — October 21, 22:05 UTC
+
+The next bounded cleanup removed **149,238 generated file copies / 11,556,876,656 logical bytes** between 21:45:26 and 22:05:23 UTC. Its four exact workspace-relative sets were `p21docsr2/source-boundary`, `c21docsr2/project/recipe-atlas/static`, `c21docsr2/project/recipe-atlas/data` and `c21docsr2/project/recipe-atlas/dist`. All mapped regular leaves were removed; holds, failed deletions, directory removals, stopped programs and Source/Site Git mutations were all zero. Closed journals account for every removed leaf and its saved size.
+
+The three raw input copies matched retained public Source Git objects and SHA256 hashes. The generated dist matched its exact normal build manifest and is reconstructible from the saved Source inputs and build tool. This operation makes no claim that the documentation preview equals the live Site. Source PR 85 (cuiyist/mattersyn), with all three exact-head CI jobs successful, saved the documentation as ordinary merge `edac97b4c20aee815e1fca67ffb233c7f5f41a7d`. The frozen Source head was `089cd00b73953b93e7b62a6cbaa40f479faafd33`; this documentation save added no papers or Site release.
+
+C: free bytes were **35,828,027,392 before / 47,764,930,560 after**. Concurrent activity and allocation effects prevent treating the difference as isolated cleanup recovery. The **100 GiB aim remains unmet**, with a dated shortfall of 59,609,251,840 bytes. No folder or program hold was found in the bounded consumer checks.
+
+These fresh namespaces are disjoint from the prior fifteen named completed operations. The named sixteen total **1,434,817 removed copies / 141,178,621,345 logical bytes**; this is not a lifetime total or measured physical recovery. The four older q17–20 static-copy leads are outside this operation and carry no credit here.
+
+Choice: preserve the GitHub inputs and normal build recipe, then remove the verified generated copies. Papers, owner folders, quoted text/pass/pair/training files, private audits, credentials, the active Qwen model/server/runtime and canonical working checkouts remain protected. The original refused P21/C21 item and earlier zero-effect holds remain preserved with zero credit and no replay.
+
+Choice: use a plain repository and PR reference to retain the existing public-safe text check.
+
+A report-helper terminal-field mismatch was corrected before its first publication attempt: Source-only cleanup flags are checked directly, and frozen Site occupancy comes from the genuine docs merge and runtime. No extraction prompt, scientific record or normal release check changed. The earlier sandbox credential lookup failed before any GitHub request; its consumed attempt remains preserved, and a separately reviewed ordinary merger completed PR 85 with the existing OS credential.
