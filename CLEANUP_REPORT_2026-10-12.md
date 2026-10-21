@@ -2259,3 +2259,14 @@ Twelve unmapped preview Git/tool/control entries remain intentionally held. Fail
 Reconstruction uses the already-published historical Source `612640fd4e00a9b656d2d3c31a58a98351f57e66` and Site `33521591b9ffd780b5be93a8f57ae9009aac5328`. Terminal receipt SHA256: `aba549084e5dc25cd28e049f688b1f6dfb2246e761ee574ac67925951f044c77`; independent four-journal/map proof SHA256: `260732b76edcd15349a2aa3bab3f3093e0ea074874d0fc8488853c3b46f1c6b4`. The independent check reads retained metadata, not current target presence.
 
 C: free space was recorded as 36,436,742,144 before and 40,620,363,776 bytes after. That concurrent difference is not isolated cleanup gain. The named thirteen-cohort report window now totals **908,735 removed copies / 102,243,319,256 logical bytes**; this is neither a lifetime total nor a physical-space/floor-completion claim. This report append adds no paper or website-publication credit.
+
+
+<!-- cleanup-q21-r21-four-raw-inputs-completed-20261021 -->
+
+Q21 normal Source validation and the ordinary Source merge are complete. The normal release dry run also passed, and GUI reuse matched all 57,518 generated files across the candidate, final build and preview. Site publication credit remains pending actual Pages and anonymous verification.
+
+The four newly completed release-input copy sets removed 89,254 known regular files, totaling 7,445,190,808 logical bytes, at 2026-10-21 18:02:20 UTC. Independent journal reconciliation matched every event to its retained snapshot map with no duplicate, missing or extra membership, and found no overlap with the prior thirteen named cleanup cohorts. There were zero held entries, failures, directory removals, stopped programs or Source/Site Git mutations.
+
+The fourteen named cleanup cohorts now total 997,989 files and 109,688,510,064 logical bytes. Free C: space changed from 21,037,182,976 to 28,715,986,944 bytes during the latest operation; concurrent activity means this is not an isolated physical-gain measurement. The 100 GiB cleanup aim remains unmet at that recorded endpoint. The previously refused three-input cleanup remains left out with zero deletion credit and no further attempt.
+
+These cleanup totals add no paper or publication credit. They are intended for the existing public progress report after the actual Q21 Site verification is available.
