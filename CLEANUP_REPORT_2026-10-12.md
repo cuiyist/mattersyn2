@@ -2234,3 +2234,16 @@ Dated C: free-space observations were **42,593,669,120 bytes before** and **50,0
 The same reporting cohort now contains **11 completed passes / 777,452 removed file copies / 93,495,434,719 logical bytes**. This adds only the new tail to the previously reported ten-pass cohort; it is not a lifetime or physical-recovery total. All earlier successes, failures and holds remain historical evidence. Papers, page text, quoted passes/pairs, training/private audit data, owner folders, credentials, the protected model/server/runtime and canonical Source/Site checkouts remain protected.
 
 Q20 retains its already verified **50 papers / 80 records / 287 captioned crops**, with live totals **2,284 papers / 5,947 records / 3,826 pairs**. This one-file report append adds no publication, audit or training credit and changes no Source/Site content or release rule.
+
+
+<!-- cleanup-p20docs-local-input-projection-completed-20261021 -->
+
+### Completed documentation-validation input cleanup — 2026-10-21
+
+The completed cleanup removed 47,023 generated documentation-validation Source-input leaves, totaling 3,843,031,923 logical bytes. It finished at 15:16:21.5741821 UTC with zero held or failed entries, zero directories removed, zero programs stopped, and zero Source, Site or Git mutations. Reconstruction uses the retained local documentation commit `db0e7b6529b717b13d41ccd823ea873943c896e4` and its normal Source manifest. This local retained-input basis is not a publication claim.
+
+An independent metadata review reconciled every unique removal-journal path to that manifest and the terminal totals. It found no duplicate, missing or extra paths. That review did not inspect current target absence or claim continued absence. Existing receipts, manifests, private inputs, original papers, model/runtime files, unknown entries and directories remain protected.
+
+Including the eleven previously reported completed passes, the twelve-pass cohort totals 824,475 removed leaves and 97,338,466,642 logical bytes. These are journaled logical sizes, not an isolated increase in free storage. Free C: observations around this pass were 49,007,570,944 bytes before and 48,930,816,000 bytes after; a concurrent Q21 validation build was using storage. The 100 GiB free-space target remains unmet.
+
+The earlier zero-deletion tail HOLD and the standalone documentation validation result of twelve PASS followed by a capacity HOLD remain preserved. This append does not promote either to thirteen PASS, add publication credit, or authorize another cleanup. The separate Q21 science build and its later publication gates retain their own genuine results.
