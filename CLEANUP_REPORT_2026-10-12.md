@@ -2127,3 +2127,13 @@ The latest five independently verified passes total **252,840 duplicate leaves /
 Root completed the immutable metadata/Git preflight for a new disjoint256KiB-to-less-than1MiB band in the same11 historical public roots; independent code-only review found no blocker. Fresh native observation is in progress, with no new deletion credit. Its126,714 copies/62,118,815,736 bytes are archival upper bounds only. No >=1MiB leaf is retried. The unknown `archive` owner directories are protected; an immediate-only metadata check admitted zero disposal candidates there.
 
 Safe durable reports stay in this GitHub file without a full local report copy. Necessary local source papers, private quoted/training files, model/server and one working Source/Site checkout remain protected. No site release, policy, audited record or public paper count changed.
+
+
+### October 21 verified duplicate cleanup: 256 KiB to 1 MiB
+
+- Finished at 2026-10-21T05:25:02.2936917+00:00; independently reconciled terminal journals and individual absence observations.
+- Removed 28,730 proven generated duplicate files, totaling 14,209,642,169 logical bytes. No failed deletions, directory deletions, program stops or Source/Site Git mutations.
+- Held 16,405 already-absent entries with zero cleanup credit; 38 roles had known files removed and 50 roles were absent. Unknown files and protected material remain untouched.
+- This continuation now totals six verified passes: 281,570 removed duplicate files / 48,373,752,477 logical bytes. This is not an isolated physical-space measurement or a 600 GB claim.
+- C: free space: 51,942,506,496 bytes at pass start; 66,187,993,088 bytes at pass end; 66,176,499,712 bytes observed at 2026-10-21T05:42:47.778469+00:00. The 107,374,182,400-byte target remains unmet. Other disk activity can affect these observations.
+- Continue only bounded generated-copy cleanup. Papers, page text, quoted pass/pair/training files, private audits, active Qwen model/CUDA server and the Source/Site workbench remain local. No source or quoted content is included in this report.
