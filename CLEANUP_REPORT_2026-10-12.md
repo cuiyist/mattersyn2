@@ -2049,3 +2049,34 @@ Next cleanup is restricted to mapped copies of verified published builds. Genuin
 Permanent safe records, figures, code and aggregate reports belong on GitHub. Local work is limited to necessary working checkouts/runtime and temporary active-job inputs. Private PDFs, page text, quoted passes/pairs/training data, credentials and the active Qwen3-32B/CUDA runtime were preserved and were not uploaded. Large build creation remains held while bounded cleanup is prioritized.
 
 Evidence digests: terminal `eb8cdbdcd98f216389346847de87fb69de57f6ae61be7ba55205a7756acbd32d`; independent journal reconciliation `66f9815bce93498d70afdb06b78936d9a966e08703ecee134379e14ce70d37c1`. No paper text, quotes, source pages, private audit bodies, model payloads or credential data are included in this update.
+
+
+## Verified eleven-root large-copy cleanup, 2026-10-21T04:25:26.002595+00:00
+
+Root completed the Q19-first bounded pass over eleven published generated-build roots: **3,482 known copies / 11,306,492,493 logical bytes removed**, zero deletion failures, directories removed, programs stopped or Source/Site Git mutations. Full SHA256, retained public Git identity and immediate file-identity checks remained in place; the compact metadata proof was generated once and genuinely checked against22 retained Git maps before reuse. No release check was disabled.
+
+Independent post-terminal reconciliation verified exact journals, byte totals, immutable authorities and observed path absence. Fifty already-absent roles received zero deletion credit. There were1,637 held entries; unknown, protected, small and absent entries were preserved or left uncredited. The38,105,952,002-byte archival selection was an upperbound; it is not the amount deleted.
+
+| Historical published build | Removed copies | Removed logical bytes |
+|---|---:|---:|
+| g0 | 2250 | 5230952638 |
+| g1 | 249 | 973013597 |
+| g2 | 242 | 930927575 |
+| g3 | 44 | 368140922 |
+| g4 | 44 | 364367834 |
+| g5 | 198 | 582451905 |
+| g6 | 198 | 581193824 |
+| g7 | 49 | 371812192 |
+| g8 | 52 | 448026300 |
+| g9 | 83 | 756453162 |
+| g10 | 73 | 699152544 |
+
+Actual C: free bytes: **22950096896 before / 34241777664 at completion**; fresh report observation **34238910464**. The100GiB target (107,374,182,400bytes) is still unmet. Concurrent system/model activity means these differences are not isolated physical-recovery measurements.
+
+The B27 and eleven-root passes together removed **105,071 copies /16,803,384,492 logical bytes** in these two separate verified attempts. Earlier Q18 and historical totals stay unchanged and are not silently recounted here. Safe aggregate evidence is retained on GitHub; no source text, quoted passes/pairs, private audits or model payloads were uploaded.
+
+Root continues the separate three-target Q19 p19/c19 generated-copy cleanup. Four older groups are excluded from new deletion: B55 candidate DIST and B51 candidate DIST (unresolved directory-membership no-retry holds), B40 final static (closing identity hold), and B32 final DIST (older unconfirmed consumer hold). No program was stopped to clear a folder. The unexecuted NEXT10 proposal is not an admission; only a fresh seven-group proposal excluding these holds may be considered with new proofs.
+
+Choice: keep only necessary active inputs/runtime and one Source/Site working checkout locally, keep durable safe project outputs on GitHub, and remove proven reconstructible build copies after verification. Full papers and private quote-bearing training evidence stay local under the unchanged privacy limits.
+
+Evidence SHA256: completed terminal `715aac4063fffefc60a6547978d182398bd81ed417d9ec0c797073a8acd39494`; independent accounting `d17bfc3ab84d37c0c57d3b40e83418ecae41fc7f6be5dd7ca45967be01af444d`.
