@@ -2270,3 +2270,14 @@ The four newly completed release-input copy sets removed 89,254 known regular fi
 The fourteen named cleanup cohorts now total 997,989 files and 109,688,510,064 logical bytes. Free C: space changed from 21,037,182,976 to 28,715,986,944 bytes during the latest operation; concurrent activity means this is not an isolated physical-gain measurement. The 100 GiB cleanup aim remains unmet at that recorded endpoint. The previously refused three-input cleanup remains left out with zero deletion credit and no further attempt.
 
 These cleanup totals add no paper or publication credit. They are intended for the existing public progress report after the actual Q21 Site verification is available.
+
+
+<!-- cleanup-q21-fresh-five-dist-completed-20261021 -->
+
+The fifteenth named cleanup cohort completed on 2026-10-21, from 19:13:07 to 19:47:51 UTC. It removed 287,590 known regular public build-copy files totaling 19,933,234,625 logical bytes. Independent reconciliation matched all five removal journals to their exact retained maps and found no overlap with the prior fourteen named cohorts. Twelve unknown Git, tool and release-control leaves were preserved with zero deletion credit. There were zero failures, directory removals, stopped programs or Source/Site Git mutations.
+
+The previous fourteen-cohort baseline remains 997,989 files and 109,688,510,064 logical bytes. Adding this separate cohort gives fifteen named cohorts totaling 1,285,579 files and 129,621,744,689 logical bytes. These are scoped logical totals, not lifetime cleanup or physical disk gain. Free C: space was observed at 27,969,171,456 bytes before and 48,644,481,024 afterward; concurrent activity prevents attribution of the full change to cleanup. The 100 GiB cleanup aim remained unmet at that endpoint.
+
+Q21 publication is separately verified at Site commit 60453d3aeb953548676a71e53892a1324b2129ba: Pages run 39650844653 succeeded, and normal anonymous verification checked 140 files, four paper routes and seven material bindings with no failures. Its four-paper publication credit is already recorded; this cleanup adds none.
+
+The original three-input automatic-review refusal remains permanently left out with zero deletion credit. The earlier five-copy r2 attempt also remains preserved as a zero-effect technical HOLD after an owned worker naturally ended. Neither original attempt was replayed or overwritten; this completed cohort used a separately approved fresh-context attempt.
