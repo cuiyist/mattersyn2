@@ -2247,3 +2247,15 @@ An independent metadata review reconciled every unique removal-journal path to t
 Including the eleven previously reported completed passes, the twelve-pass cohort totals 824,475 removed leaves and 97,338,466,642 logical bytes. These are journaled logical sizes, not an isolated increase in free storage. Free C: observations around this pass were 49,007,570,944 bytes before and 48,930,816,000 bytes after; a concurrent Q21 validation build was using storage. The 100 GiB free-space target remains unmet.
 
 The earlier zero-deletion tail HOLD and the standalone documentation validation result of twelve PASS followed by a capacity HOLD remain preserved. This append does not promote either to thirteen PASS, add publication credit, or authorize another cleanup. The separate Q21 science build and its later publication gates retain their own genuine results.
+
+
+<!-- cleanup-b25-six-published-copy-completed-20261021 -->
+## B25 remaining published copies: completed 2026-10-21
+
+The six-role B25 subset finished at 16:05:12 UTC. Its four removal journals reconcile exactly to the frozen normal maps: **84,260 known regular file copies / 4,904,852,614 logical bytes**. The two data copies and the stage/preview payload copies account for those removals. Both static copies were already absent and receive zero credit (47,474 mapped files / 3,256,516,580 bytes); the two previously completed dist copies were excluded and never replayed.
+
+Twelve unmapped preview Git/tool/control entries remain intentionally held. Failures, removed directories, stopped programs and Source/Site Git mutations are all zero. Unknown/private inputs and paper/page/pass/pair/training data were preserved. The unused r1 history-path alias check was corrected in a separate r2 before execution; original evidence remains retained.
+
+Reconstruction uses the already-published historical Source `612640fd4e00a9b656d2d3c31a58a98351f57e66` and Site `33521591b9ffd780b5be93a8f57ae9009aac5328`. Terminal receipt SHA256: `aba549084e5dc25cd28e049f688b1f6dfb2246e761ee574ac67925951f044c77`; independent four-journal/map proof SHA256: `260732b76edcd15349a2aa3bab3f3093e0ea074874d0fc8488853c3b46f1c6b4`. The independent check reads retained metadata, not current target presence.
+
+C: free space was recorded as 36,436,742,144 before and 40,620,363,776 bytes after. That concurrent difference is not isolated cleanup gain. The named thirteen-cohort report window now totals **908,735 removed copies / 102,243,319,256 logical bytes**; this is neither a lifetime total nor a physical-space/floor-completion claim. This report append adds no paper or website-publication credit.
