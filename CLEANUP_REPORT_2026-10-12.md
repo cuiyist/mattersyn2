@@ -2211,3 +2211,26 @@ Actual C: free-space observations were **38,174,396,416 bytes before** and **53,
 The two completed Q20 cleanup passes together removed **340,562 files / 26,165,620,583 logical bytes**. With the separately recorded prior eight completed passes, this ten-pass reporting cohort totals **650,120 files / 84,753,693,067 logical bytes**; this is not a claim of lifetime totals or 600 GB reclaimed. The remaining four-role R20 tail has not been launched and receives no deletion credit. Papers, owner folders, page text, quoted passes/pairs/training files, private audits, credentials, the active Qwen3-32B model/server/CUDA runtime and canonical Source/Site checkouts remain protected.
 
 Q20 publication remains the already verified 50-paper contribution, at **2,284 papers / 5,947 records / 3,826 pairs**. This report-only append adds no publication credit and changes no website or audited-lane rule.
+
+
+<!-- cleanup-Q20-R20-tail-r2-completed-20261021 -->
+### Q20 R20 tail: completed 2026-10-21 at 14:13:46 UTC
+
+The separately qualified R20 tail completed its four known public generated-file sets. The original zero-deletion r1 preflight HOLD remains preserved and receives no credit; it was not replayed. The completed r2 used its own fresh context and attempt.
+
+| MatterSyn-relative target | Files removed | Logical bytes removed |
+|---|---:|---:|
+| r20/site-stage | 57,440 | 3,981,981,272 |
+| r20/candidate/project/recipe-atlas/data | 6,226 | 388,889,554 |
+| r20/final/project/recipe-atlas/data | 6,226 | 388,889,554 |
+| r20/site-preview, known public payload only | 57,440 | 3,981,981,272 |
+
+Actual tail removal: **127,332 files / 8,741,741,652 logical bytes**. The terminal records **12 intentionally held Git, tool and release-control entries, 0 failures, 0 directories removed, 0 programs stopped and 0 Source/Site Git mutations by the cleaner**. All unknown, private and protected items remain outside the admitted file set. No whole preview directory or worktree was removed. The retained removal journals were independently reconciled against the exact immutable maps; this does not assert current target absence.
+
+Terminal SHA256: `7d072446a13ffbced913644ccb8ef710222fec8c57298240919e7e1bcf8b7045`. Independent journal-proof SHA256: `e1366ff03a282f2995911daafa9e4b3185994cb011a4ec59558347087dc69135`. Reconstruction remains pinned to Source `7717ef6352d7f282b75449b785d9013c1970b319` and published Site `a05cf494e3eb035c257f51da65af12b43a9c971a`.
+
+Dated C: free-space observations were **42,593,669,120 bytes before** and **50,028,138,496 bytes after** the tail. These observations include concurrent machine activity and are not isolated physical cleanup gain. The 100 GiB aim remains unmet at that dated observation.
+
+The same reporting cohort now contains **11 completed passes / 777,452 removed file copies / 93,495,434,719 logical bytes**. This adds only the new tail to the previously reported ten-pass cohort; it is not a lifetime or physical-recovery total. All earlier successes, failures and holds remain historical evidence. Papers, page text, quoted passes/pairs, training/private audit data, owner folders, credentials, the protected model/server/runtime and canonical Source/Site checkouts remain protected.
+
+Q20 retains its already verified **50 papers / 80 records / 287 captioned crops**, with live totals **2,284 papers / 5,947 records / 3,826 pairs**. This one-file report append adds no publication, audit or training credit and changes no Source/Site content or release rule.
