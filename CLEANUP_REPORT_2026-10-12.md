@@ -2080,3 +2080,24 @@ Root continues the separate three-target Q19 p19/c19 generated-copy cleanup. Fou
 Choice: keep only necessary active inputs/runtime and one Source/Site working checkout locally, keep durable safe project outputs on GitHub, and remove proven reconstructible build copies after verification. Full papers and private quote-bearing training evidence stay local under the unchanged privacy limits.
 
 Evidence SHA256: completed terminal `715aac4063fffefc60a6547978d182398bd81ed417d9ec0c797073a8acd39494`; independent accounting `d17bfc3ab84d37c0c57d3b40e83418ecae41fc7f6be5dd7ca45967be01af444d`.
+
+
+## Verified Q19 G1 generated-copy cleanup, 2026-10-21
+
+Root completed the one approved G1 cleanup at 2026-10-21T04:41:54.7502693+00:00; unified session39364 exited0. An independent post-terminal journal and immutable-map reconciliation also exited0.
+
+| Generated copy | Removed known files | Removed logical bytes |
+| --- | ---: | ---: |
+| `p19_source` | 46,272 | 3,741,803,485 |
+| `c19_static` | 37,661 | 3,233,573,369 |
+| `c19_data` | 6,145 | 384,867,334 |
+
+This pass removed **90,078 duplicate leaves / 7,360,244,188 logical bytes**, with zero held entries and zero failures. It removed no directories, stopped no programs and made no Source/Site Git mutations. The retained public reconstruction is Source `cd5209283f0a1d1e030cb52aaa36d7105be941ea` and verified Site `4ea5815a2d5c368e1dc6fd1c679cb85aaa14b164`. Exact original full maps, genuine completed preflight, fresh native observations, the two file hashes and immediate file identity checks remain required; no cleanup gate was removed.
+
+Terminal SHA256: `70856318c90f4d292c994a9cc147ab144040494953430fbffee02f1fb551a618`. Independent reconciliation SHA256: `6d7c963faa1333573916531a37c1bd59c47f98967d8b792e816a909dc487d7da`. Individual journaled paths were absent when checked after completion; those are non-atomic observations, not a permanent-absence claim.
+
+The latest three independently reconciled passes (B27, eleven groups of large known leaves, and G1) total **195,149 duplicate leaves / 24,163,628,680 logical bytes**. This excludes older historical cleanup totals and the still-running seven-group cleanup, so they are not counted twice. C: free bytes sampled at 2026-10-21T04:51:37.466431+00:00: **47,950,790,656**. Whole-disk change is not asserted to be isolated cleanup gain; the 100 GiB aim remains unmet.
+
+The next seven-group cleanup is running under Root ownership; its eventual terminal alone can earn removal credit. The historical held roots B55/r-r1, B51/r-r1, B40/r and B32/r remain excluded. The separate paused audit lane, old Worker A/B queue and five older owner entries remain unchanged. The running Qwen server/controller and local paper/pass/pair/training files are protected.
+
+Storage choice: durable safe reports stay on GitHub, without a duplicate full report saved locally. Avoid new candidate/build copies while storage is constrained. Original PDFs, quoted/private files and necessary local model/working files are never uploaded by this report-only operation. No site records, repository settings, release checks or public paper counts change.
