@@ -2114,3 +2114,16 @@ Terminal SHA256: `c34330e2635c3a355c732be8360ca9b7b8eee5f1aff0d080fed6dd60eb13b4
 The latest four independently verified passes now total **196,257 duplicate leaves / 30,284,469,712 logical bytes**. No historical cleanup or already-absent path is recounted. C: free bytes sampled at 2026-10-21T04:53:55.486825+00:00: **47,947,071,488**. This remains below the107,374,182,400-byte target; disk-wide change is not isolated cleanup gain.
 
 The final Q19 generated-site copy is undergoing fresh ownership checks, with no new deletion credit yet. Root continues bounded cleanup, keeps necessary private/model/working files locally, avoids duplicate build copies and saves safe durable reports to this existing GitHub file. The website/audit policies and paused audit lane remain unchanged. No quoted paper content or private payload was uploaded.
+
+
+## Verified Q19 G2 generated-site-copy cleanup, 2026-10-21
+
+Root's sole G2 cleaner session97491 exited0 at 2026-10-21T05:09:04.5420267+00:00. Independent exact journal/map/terminal reconciliation also exited0. This pass removed **56,583 known duplicate leaves / 3,879,640,596 logical bytes** from `c19/project/recipe-atlas/dist`, with zero holds and zero failures. It removed no directories, stopped no programs and made no Source/Site Git mutations. Only the genuine completed metadata preflight, fresh separately approved native/runtime evidence and unchanged immediate full-byte/identity guards admitted deletion. The old G2r1 kit remains unexecuted.
+
+Terminal SHA256: `80d4e6c4043d8f0c5f4cb9a414bec7dd20ec208760b284df77ff0e8db727f864`. Independent accounting SHA256: `b31931dd6343f0a30462cab26950de8285c38853a65d29f825a2dfcbf3ea017b`. Original current-public Site `4ea5815a2d5c368e1dc6fd1c679cb85aaa14b164` and Source `cd5209283f0a1d1e030cb52aaa36d7105be941ea` retain reconstruction. Exact journaled paths were absent when individually checked after the completed terminal; no continuing-absence claim.
+
+The latest five independently verified passes total **252,840 duplicate leaves / 34,164,110,308 logical bytes**. This excludes older historical totals and already-absent entries. C: free bytes sampled at 2026-10-21T05:11:53.218915+00:00: **51,943,358,464**. Concurrent whole-disk change is not claimed as isolated cleanup gain. The100GiB aim remains unmet.
+
+Root completed the immutable metadata/Git preflight for a new disjoint256KiB-to-less-than1MiB band in the same11 historical public roots; independent code-only review found no blocker. Fresh native observation is in progress, with no new deletion credit. Its126,714 copies/62,118,815,736 bytes are archival upper bounds only. No >=1MiB leaf is retried. The unknown `archive` owner directories are protected; an immediate-only metadata check admitted zero disposal candidates there.
+
+Safe durable reports stay in this GitHub file without a full local report copy. Necessary local source papers, private quoted/training files, model/server and one working Source/Site checkout remain protected. No site release, policy, audited record or public paper count changed.
