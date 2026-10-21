@@ -2023,3 +2023,29 @@ Five additional Source bookkeeping documents have been prepared locally on `simp
 Five bounded display observations remain OPEN: independent graphite-reference wording; uncertain Schmidt caption OCR; Hidalgo copper-wheel vessel terminology; Ishikawa MOCVD process/vessel terminology; Han ampoule versus legacy field scope. The completed GUI checks did not establish scientific accuracy or inspect every operation individually.
 
 Automatic approval rejected an optional message to the finished browser worker for missing chat-specific permission. It was left unsent and did not affect publication. No release check, policy or scientific approval rule was weakened.
+
+
+## Verified Batch 27 generated-copy cleanup, 2026-10-21T04:09:03.128880+00:00
+
+Completed the bounded old `batch27/r-display-fix-r1` cleanup: **101,589 regular generated copies / 5,496,891,999 logical bytes removed**; zero deletion failures, directories removed, programs stopped or Source/Site Git mutations. Exact journals, immutable maps and post-terminal path absence were independently reconciled. The three already-absent target directories receive zero deletion credit.
+
+| Published build-copy role | Files removed | Logical bytes removed |
+|---|---:|---:|
+| b27_candidate_static | 0 | 0 |
+| b27_candidate_data | 4457 | 308304939 |
+| b27_candidate_dist | 16197 | 532343135 |
+| b27_final_static | 0 | 0 |
+| b27_final_data | 4457 | 308304939 |
+| b27_final_dist | 0 | 0 |
+| b27_site_stage | 38239 | 2173969493 |
+| b27_preview_known_payload | 38239 | 2173969493 |
+
+The 22,054 held entries comprise 22,042 already-absent known leaves and 12 unlisted preview controls; no credit was assigned to them. The previously completed Q18 cleanup (453,106 copies / 33,087,223,786 logical bytes) and all earlier failures remain unchanged. No holding program was identified in this attempt.
+
+Actual C: free bytes during this pass: **18221723648 before / 23607087104 at completion**. Fresh observation at this report: **22950514688 bytes**; the 107,374,182,400-byte target is not yet reached. Disk usage changed concurrently, so the free-space difference is not claimed as an isolated physical cleanup gain.
+
+Next cleanup is restricted to mapped copies of verified published builds. Genuine preflight for the Q19-first eleven-root large-file pass completed; its archival selection (14,238 copies / 38,105,952,002 bytes) is an upperbound, not a current-presence or deletion claim. A missing `Relative`/`Protected` import in its native collector failed before native output or deletion; the bounded fix only imports the existing reviewed functions and uses a new self filename. No release gate changed.
+
+Permanent safe records, figures, code and aggregate reports belong on GitHub. Local work is limited to necessary working checkouts/runtime and temporary active-job inputs. Private PDFs, page text, quoted passes/pairs/training data, credentials and the active Qwen3-32B/CUDA runtime were preserved and were not uploaded. Large build creation remains held while bounded cleanup is prioritized.
+
+Evidence digests: terminal `eb8cdbdcd98f216389346847de87fb69de57f6ae61be7ba55205a7756acbd32d`; independent journal reconciliation `66f9815bce93498d70afdb06b78936d9a966e08703ecee134379e14ce70d37c1`. No paper text, quotes, source pages, private audit bodies, model payloads or credential data are included in this update.
