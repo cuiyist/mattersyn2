@@ -2451,3 +2451,18 @@ C: available bytes were 42,240,630,784 before and 49,972,736,000 after. Concurre
 The normal cleanup process ended with exit code 0; an independent closed-journal accounting check verified the totals and retained the original held-subset status. An initial read-only verifier rejected a path-prefix alias; its corrected companion verified all exact Source aliases without changing the cleanup, release gates or original evidence. Historical failed builds remain failed.
 
 Evidence SHA256: terminal da74c95a1c3b396f8cdbcf1500fadbd8c374b32d77f81638920af10964c6b9d1; independent accounting 799eabc778893aa4462fdd73a7da90abf6db97a2664ccff54adc661badb1beda. Detailed local journals remain local. No new paper publication or uninterrupted background-work claim is made by this report-only update.
+
+
+## 2026-10-22: closed Q24 reconstructible Source-copy cleanup
+
+Root completed the three known Source-copy leaf sets after Source PR 88 passed its three CI jobs and ordinary merge. Closed journals independently reconcile 94,660 removed regular files and 8,054,306,842 logical bytes, with zero held or failed entries. No directories, other programs, canonical Source/Site files or Git state were deleted or changed.
+
+Selected paths under C:/Users/jiacu/Desktop/mattersyn:
+
+- p24r4/source-boundary: 48,563 files; 4,091,215,924 logical bytes.
+- c24r4/project/recipe-atlas/static: 39,718 files; 3,566,122,621 logical bytes.
+- c24r4/project/recipe-atlas/data: 6,379 files; 396,968,297 logical bytes.
+
+The retained GUI candidate dist, all original papers, page text, quoted pass/pair/training files, credentials, the active Qwen model/server and canonical checkouts remain protected. No other program was stopped and no active folder-consumer hold was observed for these selected sets. C: available bytes were 38,811,062,272 before and 47,096,848,384 after the bounded attempt. Concurrent processing means this difference is not an isolated cleanup-gain measurement. The 107,374,182,400-byte free-space aim remains unmet.
+
+Actual terminal SHA256: 99bf08541da325b29f5aec1c43d875dcac4e808ebc0cef5beb116dc57cf792b8. Independent closed-journal proof SHA256: d423b13b8f17f1842b69532d2fe25a6521dd3295bb05840f268760fde9f0da64. This is a report-only storage update, with no paper text, source PDFs or website publication.
