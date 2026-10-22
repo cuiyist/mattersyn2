@@ -2511,3 +2511,13 @@ Large builds, model work and controllers remain parked; protected data and the m
 
 
 Root current observation at 2026-10-22T19:57:31.556338+00:00: C free 64,165,793,792 bytes. This is a separate, non-isolated free-space observation; it is not attributed physical reclaim. The100GiB minimum remains unmet at this observation.
+
+
+Source84 completed cleanup
+
+Root session30742 finished with exit0 on2026-10-22 at20:10:23 UTC. Independent closed-journal accounting confirms474,322 known generated Source-copy files /33,799,327,974 logical bytes removed across84 roles, with0holds, failures, directory removals, program stops or Source/Site/Git mutations. The original terminal and independent proof remain preserved. Previously recorded Raw4 and GUI groups remain separate historical completions. This report update adds no paper or website publication credit.
+
+The cleanup recorded C-free observations of33,054,539,776 bytes before and67,932,266,496 bytes after. These were non-isolated observations, not attributed physical gain. Site55 has no completion credit here; its fresh pending/running state is supplied by Root at publication. Large builds, model work and controllers remain parked, with protected data and the model preserved. The prewrite rule keeps a fixed100GiB reserve plus the next operation's peak allocation budget. Q24's additional24GiB planning allowance is an estimate, not a measured peak, physical reservation or hard upper bound. A one-byte live probe is not a build budget.
+
+
+Root current observation at 2026-10-22T20:16:53.477698+00:00: C free 67,930,169,344 bytes. The fixed100GiB minimum remains unmet at this point observation. This is not attributed physical reclaim or a sustained reserve guarantee. The separate24GiB planning allowance remains an estimate, not a measured peak or hard bound. Site55: native collection running (Root observed session84569); no completed Site55 removal credit.
