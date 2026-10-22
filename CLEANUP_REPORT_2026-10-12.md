@@ -2535,3 +2535,14 @@ R19: 34,140 files / 4,787,149,192 logical bytes removed; 256,358 total held entr
 These four disjoint named groups add 226,006 actual removed files / 81,511,382,296 logical bytes. This bounded sum is not a lifetime total or physical free-space gain. Prior removals, absent files, deferred small files, unknown or protected leaves, failed or unvisited selections and directories receive no new removal credit. Held entries can include small or unknown leaves even when selected known maps are complete.
 
 Root observation at 2026-10-22T22:34:50.786878+00:00: C free 148,965,335,040 bytes. The fixed 100 GiB minimum is met at this point only. This nonisolated observation is not attributed physical reclaim or a sustained reserve guarantee. The separate historical 24 GiB planning allowance is an estimate, not a measured peak or hard bound. No Source/Site change or new paper publication credit.
+
+
+## Q24 published-payload cleanup closeout
+
+This entry records only four Q24 payload copies after genuine process closure and independent journal accounting. Earlier cleanup history remains byte-exact. Logical removed bytes and dated physical free-space observations remain separate.
+
+Q24: 236,608 files / 16,926,010,932 logical bytes removed; 12 total held entries; 0 failures; 4 visited / 0 unvisited roles; selected maps complete true; whole attempt success false; actual process exit 0, original result ATTEMPT_FINISHED_WITH_HELD_SUBSETS.
+
+This Q24 payload closeout adds 236,608 actual removed files / 16,926,010,932 logical bytes. This bounded sum is not a lifetime total or physical free-space gain. Prior removals, absent files, deferred small files, unknown or protected leaves, failed or unvisited selections and directories receive no new removal credit. Held entries can include small or unknown leaves even when selected known maps are complete.
+
+Root observation at 2026-10-22T23:30:31.972320+00:00: C free 166,112,468,992 bytes. The fixed 100 GiB minimum is met at this point only. This nonisolated observation is not attributed physical reclaim or a sustained reserve guarantee. The separate historical 24 GiB planning allowance is an estimate, not a measured peak or hard bound. No Source/Site change or new paper publication credit.
