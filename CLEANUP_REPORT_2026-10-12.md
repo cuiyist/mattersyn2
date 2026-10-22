@@ -2466,3 +2466,14 @@ Selected paths under C:/Users/jiacu/Desktop/mattersyn:
 The retained GUI candidate dist, all original papers, page text, quoted pass/pair/training files, credentials, the active Qwen model/server and canonical checkouts remain protected. No other program was stopped and no active folder-consumer hold was observed for these selected sets. C: available bytes were 38,811,062,272 before and 47,096,848,384 after the bounded attempt. Concurrent processing means this difference is not an isolated cleanup-gain measurement. The 107,374,182,400-byte free-space aim remains unmet.
 
 Actual terminal SHA256: 99bf08541da325b29f5aec1c43d875dcac4e808ebc0cef5beb116dc57cf792b8. Independent closed-journal proof SHA256: d423b13b8f17f1842b69532d2fe25a6521dd3295bb05840f268760fde9f0da64. This is a report-only storage update, with no paper text, source PDFs or website publication.
+
+
+### October 22: completed Q24 obsolete GUI build cleanup (2026-10-22T17:12:12.642880+00:00)
+
+- Completed Root cleanup: 59,152 mapped regular files, 4,231,502,733 logical bytes; no held or failed leaves. Original cleanup process exited 0.
+- Target: `c24r4/project/recipe-atlas/dist`. These generated files are reconstructible from public Source `71ae2690bf6e5e079863d519f3f9de7e3501c9a6`, retained by ordinary main merge `33ae7673662fc6286ef774254ce6d80972ce3321`; the completed normal R24 build and full byte comparison are preserved. This is not a website publication claim.
+- C free bytes: 21,385,859,072 before this cleanup; 25,764,941,824 at its completion. Current separate observation: 25,674,391,552. These physical observations include concurrent disk use; logical deleted bytes are reported separately. The 107,374,182,400-byte minimum remains unmet; cleanup continues and large writes are parked.
+- Preserved every directory and unknown leaf, papers, owner folders, source text, quoted passes/pairs/training, active Qwen3-32B/CUDA server and canonical Source/Site. Programs stopped: 0; canonical Source/Site changes: 0.
+- Independent closed-journal accounting: exact 59,152 unique paths equal the saved build map, total 4,231,502,733 bytes; proof SHA256 `3731d07f0149bb0aa4cfc4e6c4137434f68df4b67758eb2a83d4a47c57388023`. Fresh native checks found no selected-folder consumers. No global open-handle scan is claimed.
+- Preserve earlier setup failures: missing collector import failed before native output; a timestamp-format mismatch was refused before any deletion attempt. Each was corrected explicitly, with original files/results retained. Neither was an automatic approval refusal.
+- Owner minimum: maintain 100 GiB free for MatterSyn operations. The existing 30-minute continuation now budgets peak additional allocation before builds/model batches/snapshots; clean safe completed copies first or park a write that would consume the reserve. Unrelated application disk use cannot be controlled by this job.
