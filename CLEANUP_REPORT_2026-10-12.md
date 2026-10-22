@@ -2384,3 +2384,16 @@ The attempt retained 13,246 protected, unknown or excluded entries and recorded 
 Recorded C: free space changed from 35,394,932,736 to 47,014,445,056 bytes during the latter interval. These concurrent observations are not an isolated measurement of physical space recovered, and the 100 GiB free-space aim remained unmet at that observation. The two events above are individual logical-copy removal counts, not a new lifetime or physical-gain total.
 
 All older report bytes and cleanup history remain intact, including the R22 partial exit of 1, its three closed roles, and the fourth role's original zero credit. The new preview attempt was still pending when this append was prepared and receives zero credit here. The original refused three-input cleanup remains omitted. This report append creates no paper, Source or Site publication credit.
+
+
+<!-- cleanup-q22-consumed-inputs3-r3-20261022 -->
+
+### 2026-10-22: completed Q22 generated-copy cleanup
+
+The completed cleanup removed 92,306 known generated files, totaling 7,677,712,872 logical bytes, at 07:53:56 UTC. The removed sets were the Q22 Source-export copy (47,386 files; 3,901,666,807 bytes), C22 static input copies (38,654; 3,385,332,037 bytes), and C22 data input copies (6,266; 390,714,028 bytes). These copies are reconstructible from retained public Source and normal build inputs.
+
+Independent reconciliation matched all three closed removal journals to their exact immutable maps, with no duplicate, missing or extra paths, holds or failures. No directories were removed or programs stopped, and Source, Site and Git remained unchanged. The two earlier attempts returned native-identity technical holds and removed zero files or logical bytes; their consumed attempts remain separately preserved.
+
+Free-space observations were 17,360,965,632 bytes before and 15,455,936,512 bytes after, while the separate normal R23 build was running. These non-isolated observations do not measure an attributable physical cleanup gain. The 100 GiB cleanup target was not met at this dated observation. This report adds no paper or website-publication credit.
+
+The previously pending fourth R22 preview set also finished separately at 06:09:27 UTC: 57,845 known generated leaves / 4,041,058,306 logical bytes removed; 12 unknown entries retained; zero failures, directories removed or programs stopped. Its free-space readings (46,975,033,344 before; 43,645,722,624 after) were likewise concurrent and non-isolated. This separately completed preview does not rewrite the earlier partial attempt or its unvisited-at-the-time zero credit.
