@@ -2342,3 +2342,24 @@ Root separately confirmed session 63135 exited 0. Its later attestation preserve
 The named completed-set ledger is now 18 sets, 1,598,716 files and 151,353,472,094 logical bytes. The previously reported Q26 partial failure (8,832 removed files / 434,175,298 logical bytes; whole namespace held) and Q28 reconciled subset (25,169 files / 996,042,642 bytes; 44,444 already-absent held entries with zero deletion credit) remain separate and are not added again to this completed-set total. Prior holds and refusal dispositions remain unchanged.
 
 Recorded C free space changed from 37,757,870,080 to 37,946,355,712 bytes during Q30. The 188,485,632-byte difference is not an isolated physical cleanup gain; concurrent activity and allocation effects prevent attributing it to these logical removals. These dated observations do not establish current free space, global target absence or a no-resurrection guarantee. The 100 GiB storage aim was not met by the recorded after-observation. Originals, model assets, training data and protected audit material remain protected.
+
+
+<!-- cleanup-r22-partial-exit1-20261022 -->
+### R22 generated copies: partial removal followed by a native-context hold
+
+The cleanup process exited with code 1 after an owned extraction worker ended naturally. The original core result remains `RUNNING`; it is not a completed four-role result. Three closed role journals record 173,535 checked regular leaves and 12,123,174,918 logical bytes removed from the candidate build, final build and staged public-payload copies. The fourth preview role was unvisited and receives zero credit. No directory, program, Source or Site change is attributed to this cleanup.
+
+The recorded C: observations were 33,732,845,568 bytes before and 46,250,491,904 bytes in the saved core result. Root's later exit observation recorded 46,069,882,880 bytes. These are non-isolated observations, not an attributed physical gain. The 100 GiB cleanup aim remains unmet. The failed attempt, its native-context error and all historical holds remain preserved without replay.
+
+The existing eighteen named complete sets remain 1,598,716 leaves and 151,353,472,094 logical bytes. This R22 partial is reported separately; the previously reported Q26 partial and Q28 absent/held subset are not added again. No full four-role completion, current-path absence or lifetime-total claim is made.
+
+Known removed generated-copy paths (relative to the MatterSyn workbench):
+
+| Path | Removed leaves | Logical bytes |
+|---|---:|---:|
+| r22/candidate/project/recipe-atlas/dist | 57,845 | 4,041,058,306 |
+| r22/final/project/recipe-atlas/dist | 57,845 | 4,041,058,306 |
+| r22/site-stage | 57,845 | 4,041,058,306 |
+| r22/site-preview | 0; unvisited | 0 credited |
+
+The guard reported the ended owned Python worker PID 12560; no program needs to be closed for this completed exit. The unvisited preview and all directories remain held for any separate future qualification.
