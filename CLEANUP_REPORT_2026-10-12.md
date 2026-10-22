@@ -2397,3 +2397,14 @@ Independent reconciliation matched all three closed removal journals to their ex
 Free-space observations were 17,360,965,632 bytes before and 15,455,936,512 bytes after, while the separate normal R23 build was running. These non-isolated observations do not measure an attributable physical cleanup gain. The 100 GiB cleanup target was not met at this dated observation. This report adds no paper or website-publication credit.
 
 The previously pending fourth R22 preview set also finished separately at 06:09:27 UTC: 57,845 known generated leaves / 4,041,058,306 logical bytes removed; 12 unknown entries retained; zero failures, directories removed or programs stopped. Its free-space readings (46,975,033,344 before; 43,645,722,624 after) were likewise concurrent and non-isolated. This separately completed preview does not rewrite the earlier partial attempt or its unvisited-at-the-time zero credit.
+
+
+<!-- cleanup-q23-role0-partial-20261022 -->
+## 2026-10-22 — Q23 generated-copy cleanup stopped after one completed role
+
+The completed first role removed 47,893 known generated files / 3,985,935,653 logical bytes. Independent read-only accounting matched every unique removal-journal path to the exact frozen Source map and confirmed its count and byte sum. That role recorded zero held or failed leaves.
+
+The attempt then stopped with process exit 1: fresh Windows process-owner collection returned Not found before the next role opened. The original partial result retains its saved RUNNING status and the first error is preserved. The other eleven roles were not started and receive no removal credit. The failed attempt is not replayed.
+
+No directories were removed, no programs were stopped, and no Source, Site or Git mutations were recorded. Reported free C: changed from 20,515,074,048 to 24,620,072,960 bytes; this concurrent observation is not isolated cleanup gain. The 100 GiB free-space aim is not claimed as restored. These are this partial attempt's journaled logical totals, not lifetime or physical-space totals.
+
