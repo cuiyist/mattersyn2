@@ -2363,3 +2363,24 @@ Known removed generated-copy paths (relative to the MatterSyn workbench):
 | r22/site-preview | 0; unvisited | 0 credited |
 
 The guard reported the ended owned Python worker PID 12560; no program needs to be closed for this completed exit. The unvisited preview and all directories remain held for any separate future qualification.
+
+
+<!-- cleanup-q23-png-and-failed-copies-20261022 -->
+## 2026-10-22: completed generated PNG duplicates and failed-build copies
+
+The earlier generated PNG duplicate cleanup finished at 04:21:49 UTC: 10,194 known duplicate PNG files / 2,486,160,292 logical bytes were removed. The canonical source PNGs were preserved and passed 10,194 closing comparisons. Twenty-two non-PNG entries were retained (33,777 logical bytes in the Root-recorded observation). There were no failures, directory removals, program stops, original Source mutations, Git operations or model calls.
+
+The separate failed, unpublished Q23 build-copy cleanup finished at 05:45:36 UTC with an observed process exit of 0. Three closed removal journals reconcile to exact known-map subsets:
+
+| Generated copy | Files removed | Logical bytes removed |
+| --- | ---: | ---: |
+| Source-boundary copy | 47,899 | 3,923,510,802 |
+| Candidate dist / Source intersection | 45,181 | 3,609,719,806 |
+| Candidate raw Source copy | 45,547 | 3,797,722,675 |
+| Total | 138,627 | 11,330,953,283 |
+
+The attempt retained 13,246 protected, unknown or excluded entries and recorded zero failures, directory removals, program stops or Source/Site/Git mutations. The retained failed local snapshot supplies regeneration evidence; this is not a successful complete-build or publication claim. The independent proof verifies the removed subsets and held complements and makes no current target-absence claim.
+
+Recorded C: free space changed from 35,394,932,736 to 47,014,445,056 bytes during the latter interval. These concurrent observations are not an isolated measurement of physical space recovered, and the 100 GiB free-space aim remained unmet at that observation. The two events above are individual logical-copy removal counts, not a new lifetime or physical-gain total.
+
+All older report bytes and cleanup history remain intact, including the R22 partial exit of 1, its three closed roles, and the fourth role's original zero credit. The new preview attempt was still pending when this append was prepared and receives zero credit here. The original refused three-input cleanup remains omitted. This report append creates no paper, Source or Site publication credit.
