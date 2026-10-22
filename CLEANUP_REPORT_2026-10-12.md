@@ -2501,3 +2501,13 @@ Large builds, model work and controllers are parked while storage is insufficien
 
 
 Root current observation at 2026-10-22T19:02:00.521291+00:00: C free 49,427,419,136 bytes. This is a separate, non-isolated free-space observation; it is not attributed physical reclaim. The100GiB minimum remains unmet at this observation.
+
+
+Cleanup progress checkpoint
+
+Source84 remains the sole active cleaner, session30742, at the fresh Root observation bound to this update. No whole-scope completion credit is assigned. Raw4 and GUI remain previously recorded closed groups; Site55, Early34 and Next5 have passed metadata-only Preflight and receive no deletion credit from those receipts.
+
+Large builds, model work and controllers remain parked; protected data and the model remain preserved. The prewrite rule keeps a fixed100GiB reserve plus the next operation's peak allocation budget. The saved Q24 estimate uses an additional24GiB planning allowance, requiring124GiB before launch. It is a planning estimate, not a measured peak, physical reservation or hard upper bound; other applications may consume space. A one-byte live probe tests responsiveness only and supplies no build budget. This report update performs no cleanup and adds no paper publication credit.
+
+
+Root current observation at 2026-10-22T19:57:31.556338+00:00: C free 64,165,793,792 bytes. This is a separate, non-isolated free-space observation; it is not attributed physical reclaim. The100GiB minimum remains unmet at this observation.
