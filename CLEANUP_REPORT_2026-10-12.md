@@ -2431,3 +2431,23 @@ C free bytes recorded by this attempt: 23,432,720,384 before; 56,274,788,352 aft
 | r23_site_preview_payload | 58409 | 4125761410 |
 
 The twelve held leaves are preview-only Git, release-control, workflow and release-tool control files outside the exact generated payload map. They were not claimed deleted. No other program was stopped to unlock a folder. Original partial attempts and authoring failures remain on record; verification is journal accounting, not whole-attempt success.
+
+
+### 2026-10-22 14:04 UTC — closed failed-Q24 build-copy cleanup
+
+Removed 140,558 verified reconstructible regular files, totaling 11,639,791,606 logical bytes, from these four completed failed-build copies only:
+
+| Folder under the MatterSyn workbench | Files removed | Logical bytes removed |
+| --- | ---: | ---: |
+| p24r3/source-boundary | 48,581 | 4,028,305,280 |
+| c24r3/project/recipe-atlas/dist (known Source-copy intersection only) | 45,861 | 3,711,339,380 |
+| c24r3/project/recipe-atlas/static | 39,734 | 3,568,663,113 |
+| c24r3/project/recipe-atlas/data | 6,382 | 331,483,833 |
+
+The operation closed with 13,320 held entries and zero failed entries. Directories, unknown or protected leaves, papers, page text, quoted passes/pairs, training files, the canonical Source/Site checkouts and the active Qwen model/server were preserved. No other program was stopped. No folder was attributed to a program lock; retained entries remain held rather than force-deleted. This is a held-subset result, not successful deletion of all four folders.
+
+C: available bytes were 42,240,630,784 before and 49,972,736,000 after. Concurrent normal candidate generation means this physical change is not an isolated measurement of space recovered. The 100 GiB target was not restored. The 11,639,791,606-byte number is a logical removed-file total, not a claim of equivalent physical free space.
+
+The normal cleanup process ended with exit code 0; an independent closed-journal accounting check verified the totals and retained the original held-subset status. An initial read-only verifier rejected a path-prefix alias; its corrected companion verified all exact Source aliases without changing the cleanup, release gates or original evidence. Historical failed builds remain failed.
+
+Evidence SHA256: terminal da74c95a1c3b396f8cdbcf1500fadbd8c374b32d77f81638920af10964c6b9d1; independent accounting 799eabc778893aa4462fdd73a7da90abf6db97a2664ccff54adc661badb1beda. Detailed local journals remain local. No new paper publication or uninterrupted background-work claim is made by this report-only update.
