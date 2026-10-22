@@ -2408,3 +2408,26 @@ The attempt then stopped with process exit 1: fresh Windows process-owner collec
 
 No directories were removed, no programs were stopped, and no Source, Site or Git mutations were recorded. Reported free C: changed from 20,515,074,048 to 24,620,072,960 bytes; this concurrent observation is not isolated cleanup gain. The 100 GiB free-space aim is not claimed as restored. These are this partial attempt's journaled logical totals, not lifetime or physical-space totals.
 
+
+
+## Remaining eleven Q23 generated roles — 2026-10-22 11:33 UTC
+
+The cleanup process ended with exit code 0 and the saved status ATTEMPT_FINISHED_WITH_HELD_SUBSETS. Independent closed-journal accounting reconciled 428,326 known ordinary leaves / 32,206,491,038 logical bytes across all eleven roles. Twelve unknown control leaves were preserved; zero deletion failures, directory removals, program stops or Source/Site Git mutations were recorded. This does not re-count the separate earlier role-0 partial deletion.
+
+C free bytes recorded by this attempt: 23,432,720,384 before; 56,274,788,352 after. This is not an isolated measurement of physical space reclaimed and does not reach the 107,374,182,400-byte cleanup target. Protected source PDFs, page text, quoted pass/pair/training files, owner folders, credentials, the running Qwen3-32B model/CUDA server and the canonical Source/Site checkouts were kept.
+
+| Generated role | Removed leaves | Logical bytes |
+|---|---:|---:|
+| c23r2_static | 39113 | 3465883365 |
+| c23r2_data | 6314 | 393344631 |
+| r23_candidate_static | 39113 | 3465883365 |
+| r23_candidate_data | 6314 | 393344631 |
+| r23_final_static | 39113 | 3465883365 |
+| r23_final_data | 6314 | 393344631 |
+| c23r2_dist | 58409 | 4125761410 |
+| r23_candidate_dist | 58409 | 4125761410 |
+| r23_final_dist | 58409 | 4125761410 |
+| r23_site_stage_payload | 58409 | 4125761410 |
+| r23_site_preview_payload | 58409 | 4125761410 |
+
+The twelve held leaves are preview-only Git, release-control, workflow and release-tool control files outside the exact generated payload map. They were not claimed deleted. No other program was stopped to unlock a folder. Original partial attempts and authoring failures remain on record; verification is journal accounting, not whole-attempt success.
