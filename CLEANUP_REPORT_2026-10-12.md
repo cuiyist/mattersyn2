@@ -2489,3 +2489,15 @@ The recorded C: free-space readings were 25,762,762,752 bytes before and 33,357,
 Independent four-role proof SHA256 `8339aa146283d1caa18484ba3ffca7cb6bd2286fc8700ec7cc0a054049b79cb1`. Root observed exec76158 exit0 (tool dbb623), then independently verified the closed journals; this adds no website publication credit.
 
 Current separate C-free observation at 2026-10-22T17:55:01.397216+00:00: 33,072,455,680 bytes. Cleanup continues; no large website/model writes while the100GiB reserve plus peak allocation would be consumed. Recommended first choice: prioritize already-observed public duplicate files of at least64KiB. The pending Site selection has137,344 files /55,247,953,498 logical bytes;1,366,994 smaller files /11,918,336,825 bytes remain explicitly deferred and receive no deletion credit. Its future per-leaf Git/SHA256/framedSHA1/identity/singlelink/reparse/native checks are unchanged. Source84 map Preflight passed; fresh native checks are in progress. Proposed envelopes are not actual reclaim.
+
+
+Cleanup progress checkpoint
+
+The already recorded closed groups remain Raw4: 92,194 known files / 7,926,181,836 logical bytes, and GUI output: 59,152 known files / 4,231,502,733 logical bytes. Their closed-journal proofs are preserved. These are previously completed groups, not new deletions performed by this report update.
+
+At the Root observation bound to this update, Source84 is the sole active cleaner, session30742. It receives no whole-scope completion or deletion credit here. Site55, Early34 and Next5 have passed metadata-only Preflight; those receipts grant no native or deletion authority and are not cleanup results. Known smaller files remain explicitly deferred, and protected or unmatched files remain preserved under the existing guards.
+
+Large builds, model work and controllers are parked while storage is insufficient. Protected source data, original papers, private payloads and the active model are preserved. The prewrite rule remains a fixed100GiB minimum reserve plus the next operation's peak allocation budget. A one-byte live probe checks responsiveness only; it is not an actual build allocation budget. Logical cleanup accounting and a separate C-free observation do not establish isolated physical gain. This report-only update adds no website or paper publication credit.
+
+
+Root current observation at 2026-10-22T19:02:00.521291+00:00: C free 49,427,419,136 bytes. This is a separate, non-isolated free-space observation; it is not attributed physical reclaim. The100GiB minimum remains unmet at this observation.
