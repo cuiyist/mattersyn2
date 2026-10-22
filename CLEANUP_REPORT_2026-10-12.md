@@ -2477,3 +2477,15 @@ Actual terminal SHA256: 99bf08541da325b29f5aec1c43d875dcac4e808ebc0cef5beb116dc5
 - Independent closed-journal accounting: exact 59,152 unique paths equal the saved build map, total 4,231,502,733 bytes; proof SHA256 `3731d07f0149bb0aa4cfc4e6c4137434f68df4b67758eb2a83d4a47c57388023`. Fresh native checks found no selected-folder consumers. No global open-handle scan is claimed.
 - Preserve earlier setup failures: missing collector import failed before native output; a timestamp-format mismatch was refused before any deletion attempt. Each was corrected explicitly, with original files/results retained. Neither was an automatic approval refusal.
 - Owner minimum: maintain 100 GiB free for MatterSyn operations. The existing 30-minute continuation now budgets peak additional allocation before builds/model batches/snapshots; clean safe completed copies first or park a write that would consume the reserve. Unrelated application disk use cannot be controlled by this job.
+
+
+### 2026-10-22 â€” four completed R24 raw Source copies
+
+The closed removal journals account for 92,194 known regular files and 7,926,181,836 logical bytes from four generated raw Source-copy roles: candidate static 39,718 / 3,566,122,621 bytes; candidate data 6,379 / 396,968,297 bytes; final static 39,718 / 3,566,122,621 bytes; final data 6,379 / 396,968,297 bytes. The saved attempt finished at 17:28:38 UTC with zero held or failed entries, zero directories removed, zero programs stopped, and zero Source, Site or Git mutations. Public Source reconstruction is pinned to 71ae2690bf6e5e079863d519f3f9de7e3501c9a6. This records cleanup only and adds no paper or publication credit.
+
+The recorded C: free-space readings were 25,762,762,752 bytes before and 33,357,049,856 bytes after. These observations include concurrent disk activity; their difference is not isolated cleanup gain. The 100 GiB free-space goal was not restored at that observation. Original technical setup failures, partial attempts, permanent automatic-refusal omissions, and the paused audit lane remain preserved.
+
+
+Independent four-role proof SHA256 `8339aa146283d1caa18484ba3ffca7cb6bd2286fc8700ec7cc0a054049b79cb1`. Root observed exec76158 exit0 (tool dbb623), then independently verified the closed journals; this adds no website publication credit.
+
+Current separate C-free observation at 2026-10-22T17:55:01.397216+00:00: 33,072,455,680 bytes. Cleanup continues; no large website/model writes while the100GiB reserve plus peak allocation would be consumed. Recommended first choice: prioritize already-observed public duplicate files of at least64KiB. The pending Site selection has137,344 files /55,247,953,498 logical bytes;1,366,994 smaller files /11,918,336,825 bytes remain explicitly deferred and receive no deletion credit. Its future per-leaf Git/SHA256/framedSHA1/identity/singlelink/reparse/native checks are unchanged. Source84 map Preflight passed; fresh native checks are in progress. Proposed envelopes are not actual reclaim.
