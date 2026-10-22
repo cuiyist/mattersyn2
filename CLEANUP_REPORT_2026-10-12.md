@@ -2521,3 +2521,17 @@ The cleanup recorded C-free observations of33,054,539,776 bytes before and67,932
 
 
 Root current observation at 2026-10-22T20:16:53.477698+00:00: C free 67,930,169,344 bytes. The fixed100GiB minimum remains unmet at this point observation. This is not attributed physical reclaim or a sustained reserve guarantee. The separate24GiB planning allowance remains an estimate, not a measured peak or hard bound. Site55: native collection running (Root observed session84569); no completed Site55 removal credit.
+
+
+## Later bounded cleanup closeout
+
+This entry records only four separately named cleanup groups after genuine process closure and independent journal accounting. All earlier report bytes and histories remain unchanged. Logical removed-byte totals are distinct from physical free-space observations.
+
+Site55: 137,344 files / 55,247,953,498 logical bytes removed; 1,296,657 total held entries; 0 failures; 55 visited / 0 unvisited roles; selected maps complete true; whole attempt success false; actual process exit 0, original result ATTEMPT_FINISHED_WITH_HELD_SUBSETS.
+Early34: 25,579 files / 11,024,743,477 logical bytes removed; 69,418 total held entries; 0 failures; 34 visited / 0 unvisited roles; selected maps complete true; whole attempt success false; actual process exit 0, original result ATTEMPT_FINISHED_WITH_HELD_SUBSETS.
+Next5: 28,943 files / 10,451,536,129 logical bytes removed; 136,000 total held entries; 0 failures; 5 visited / 0 unvisited roles; selected maps complete true; whole attempt success false; actual process exit 0, original result ATTEMPT_FINISHED_WITH_HELD_SUBSETS.
+R19: 34,140 files / 4,787,149,192 logical bytes removed; 256,358 total held entries; 0 failures; 8 visited / 0 unvisited roles; selected maps complete true; whole attempt success false; actual process exit 0, original result ATTEMPT_FINISHED_WITH_HELD_SUBSETS.
+
+These four disjoint named groups add 226,006 actual removed files / 81,511,382,296 logical bytes. This bounded sum is not a lifetime total or physical free-space gain. Prior removals, absent files, deferred small files, unknown or protected leaves, failed or unvisited selections and directories receive no new removal credit. Held entries can include small or unknown leaves even when selected known maps are complete.
+
+Root observation at 2026-10-22T22:34:50.786878+00:00: C free 148,965,335,040 bytes. The fixed 100 GiB minimum is met at this point only. This nonisolated observation is not attributed physical reclaim or a sustained reserve guarantee. The separate historical 24 GiB planning allowance is an estimate, not a measured peak or hard bound. No Source/Site change or new paper publication credit.
