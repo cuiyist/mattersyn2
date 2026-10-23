@@ -2564,3 +2564,33 @@ The genuine cleanup process exited zero. Independent reconciliation matched ever
 Observed C free bytes were 125,217,316,864 before and 133,719,519,232 after this cleanup. Physical free-space change is not claimed as an isolated cleanup gain. The fixed reserve remains 107,374,182,400 bytes (100 GiB), checked against an explicit positive combined unfinished peak before large MatterSyn writes; it does not reserve disk space or control other applications.
 
 Original papers, page text, quoted pass/pair/training data, private audits, credentials, the active model/CUDA server and canonical Source/Site checkouts were preserved. The active R25 release outputs and its evidence were retained. No other program was stopped, no canonical Git state was changed by the cleaner, and whole-parent deletion is not claimed. Per-file and native process evidence stays local.
+
+
+## Q25 Source4 and Site5 closed cleanup — 2026-10-23 04:50 UTC
+
+Both Root-owned processes genuinely exited 0. Independent closed deletion journals match the exact retained Git/build maps. Source4 removed **93,718 files / 8,135,814,484 logical bytes**. Site5 removed **299,970 files / 21,692,137,030 logical bytes**; all five selected public payload maps are complete. Its original status remains ATTEMPT_FINISHED_WITH_HELD_SUBSETS because **12 unknown Git/tool/release control leaves were preserved** in the preview. Whole-parent removal is not claimed. There were zero deletion failures, directory removals, program stops or canonical Source/Site Git mutations.
+
+| Exact target under the MatterSyn folder | Files removed | Logical bytes |
+| --- | ---: | ---: |
+| `r25/candidate/project/recipe-atlas/static` | 40,414 | 3,667,184,941 |
+| `r25/candidate/project/recipe-atlas/data` | 6,445 | 400,722,301 |
+| `r25/final/project/recipe-atlas/static` | 40,414 | 3,667,184,941 |
+| `r25/final/project/recipe-atlas/data` | 6,445 | 400,722,301 |
+| `r25/candidate/project/recipe-atlas/dist` | 59,994 | 4,338,427,406 |
+| `r25/final/project/recipe-atlas/dist` | 59,994 | 4,338,427,406 |
+| `r25/site-stage` | 59,994 | 4,338,427,406 |
+| `r25/site-preview` | 59,994 | 4,338,427,406 |
+| `c25r2/project/recipe-atlas/dist` | 59,994 | 4,338,427,406 |
+
+| Process | Actual C free bytes before | Actual C free bytes after |
+| --- | ---: | ---: |
+| Source4 | 133,240,209,408 | 141,392,347,136 |
+| Site5 | 141,378,834,432 | 163,628,261,376 |
+
+These actual drive observations exceed the fixed **107,374,182,400-byte (100 GiB) reserve**. Logical deleted-copy bytes and physical free-space observations are separate measures; concurrent activity means their differences are not isolated cleanup-gain claims. Before every large MatterSyn write, actual free bytes minus its explicit positive combined unfinished peak allocation must still meet that floor. This does not reserve disk space or control unrelated applications.
+
+The named prior eight groups plus Source3, Source4 and Site5 total **1,578,155 removed known leaves / 182,487,893,402 logical bytes**. This bounded cohort is not a lifetime or 600-GB claim. Earlier unmatched/held leaves and all previous technical failures and actual automatic refusals remain distinct; no refused item was retried.
+
+The first Source4 report-save attempt failed at local credential retrieval before any GitHub request or transport marker; that zero-transport failure is retained. This ordinary report-only update preserves the complete earlier report prefix and changes one existing public file. No repository settings or force push is used.
+
+Papers, owner-created folders, page text, quoted pass/pair/training files, private audits, credentials, the active Qwen3-32B model/server/CUDA runtime and canonical Source/Site checkouts remain protected. No active external consumer/program hold was found within these nine bounded roles; no program was stopped. Source19 large-leaf cleanup remains a separate pre-execution engineering HOLD after peer review found a missing Site5-closure predicate; it has zero cleanup credit. Other prospective cleanup and paper pools have no removal or publication credit here.
