@@ -2605,3 +2605,54 @@ The 237,311 recorded holds comprise 222,375 unknown leaves preserved outside the
 C free was 149,658,910,720 bytes before and 153,494,294,528 bytes after the attempt. These separate observations are nonisolated and are not attributed physical reclaim. All directories, unknowns, original holds and refusal history remain preserved. The fixed 100 GiB floor plus each operation's positive peak-write budget still applies; a point observation cannot guarantee space against other applications. This report-only update grants no cleanup replay, paper, integration, or publication credit.
 
 Root current observation at 2026-10-23T06:15:27.888062+00:00: C free 154,718,965,760 bytes. The fixed 100 GiB floor is met at this point observation only; this is neither attributed physical reclaim nor a sustained reserve or operation-budget approval.
+
+
+### 2026-10-23: completed Source-copy cleanup accounting
+
+Closed-journal accounting for 38 selected static/data roles records **19,116 removed regular files / 7,614,360,363 logical bytes**. The original result remains `ATTEMPT_FINISHED_WITH_HELD_SUBSETS`: 17 known maps were completely removed; 50 mapped members remain held because their regular-file sizes differ. Another 71,961 unknown entries remain held, for **72,011 total holds**. There were **0 failures, 0 directory removals, 0 program stops and 0 canonical Source/Site/Git mutations**. All 38 visited role selections reconcile to their closed journals; this is not a whole-attempt-success claim.
+
+The saved C: free-space observations were **141,535,059,968 → 149,145,108,480 bytes**. This change is nonisolated; logical bytes are not attributed physical reclaim. It is not a current free-space measurement, a permanent reserve guarantee or a 600 GB cleanup claim.
+
+The table uses paths relative to the MatterSyn workspace. Counts cover only exact known regular leaves matched to retained Source maps. Directories, unmatched/private inputs, original papers, quoted evidence, pass/pair data, audit/training materials, model/runtime files, owner folders and prior refusals remain preserved. The table grants no removal authority for held entries.
+
+| Root-relative target | Journal files removed | Logical bytes removed | Known size-mismatch holds | Unknown holds | Total holds |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| `research-assets/wr28-copt3-source/recipe-atlas/static` | 858 | 299,088,132 | 0 | 3,020 | 3,020 |
+| `research-assets/wr28-copt3-source/recipe-atlas/data` | 174 | 106,238,229 | 0 | 1,028 | 1,028 |
+| `research-assets/wr28-du-source/recipe-atlas/static` | 854 | 298,050,373 | 0 | 2,981 | 2,981 |
+| `research-assets/wr28-du-source/recipe-atlas/data` | 174 | 106,238,229 | 0 | 1,004 | 1,004 |
+| `research-assets/wr28-ge-source/recipe-atlas/static` | 853 | 297,637,930 | 0 | 2,960 | 2,960 |
+| `research-assets/wr28-ge-source/recipe-atlas/data` | 174 | 106,238,229 | 0 | 1,002 | 1,002 |
+| `research-assets/wr28-xie-source/recipe-atlas/static` | 853 | 297,637,930 | 1 | 2,941 | 2,942 |
+| `research-assets/wr28-xie-source/recipe-atlas/data` | 174 | 106,238,229 | 0 | 995 | 995 |
+| `research-assets/wr28-yang94-source/recipe-atlas/static` | 852 | 297,515,269 | 0 | 2,918 | 2,918 |
+| `research-assets/wr28-yang94-source/recipe-atlas/data` | 174 | 106,238,229 | 0 | 991 | 991 |
+| `research-assets/wr28-wang-source/recipe-atlas/static` | 847 | 297,040,643 | 1 | 2,909 | 2,910 |
+| `research-assets/wr28-wang-source/recipe-atlas/data` | 174 | 106,238,229 | 0 | 989 | 989 |
+| `research-assets/wr28-haber-source/recipe-atlas/static` | 844 | 296,926,022 | 0 | 2,856 | 2,856 |
+| `research-assets/wr28-haber-source/recipe-atlas/data` | 174 | 106,238,229 | 0 | 977 | 977 |
+| `research-assets/wr28-qiu-source/recipe-atlas/static` | 843 | 296,525,721 | 1 | 2,856 | 2,857 |
+| `research-assets/wr28-qiu-source/recipe-atlas/data` | 174 | 106,238,229 | 0 | 964 | 964 |
+| `research-assets/wr27-yang-source/recipe-atlas/static` | 838 | 295,838,647 | 2 | 2,794 | 2,796 |
+| `research-assets/wr27-yang-source/recipe-atlas/data` | 174 | 106,238,229 | 3 | 942 | 945 |
+| `research-assets/wr27-ceo2-source/recipe-atlas/static` | 834 | 294,789,331 | 2 | 2,787 | 2,789 |
+| `research-assets/wr27-ceo2-source/recipe-atlas/data` | 174 | 106,238,229 | 3 | 933 | 936 |
+| `research-assets/wr27-zl-source/recipe-atlas/static` | 805 | 290,492,517 | 0 | 2,758 | 2,758 |
+| `research-assets/wr27-zl-source/recipe-atlas/data` | 170 | 105,955,216 | 0 | 896 | 896 |
+| `research-assets/wr27-si-source/recipe-atlas/static` | 805 | 290,492,517 | 2 | 2,727 | 2,729 |
+| `research-assets/wr27-si-source/recipe-atlas/data` | 170 | 105,955,216 | 3 | 868 | 871 |
+| `research-assets/wr27-next-source/recipe-atlas/static` | 790 | 286,834,844 | 3 | 2,706 | 2,709 |
+| `research-assets/wr27-next-source/recipe-atlas/data` | 165 | 105,154,823 | 4 | 865 | 869 |
+| `research-assets/wr27-source/recipe-atlas/static` | 773 | 281,141,600 | 3 | 2,641 | 2,644 |
+| `research-assets/wr27-source/recipe-atlas/data` | 163 | 104,894,763 | 3 | 840 | 843 |
+| `research-assets/wr28-stankov-source/recipe-atlas/static` | 847 | 297,288,708 | 0 | 2,884 | 2,884 |
+| `research-assets/wr28-stankov-source/recipe-atlas/data` | 174 | 106,238,229 | 0 | 986 | 986 |
+| `research-assets/wr28-haber3-source/recipe-atlas/static` | 847 | 297,288,708 | 1 | 2,871 | 2,872 |
+| `research-assets/wr28-haber3-source/recipe-atlas/data` | 174 | 106,238,229 | 3 | 976 | 979 |
+| `research-assets/wr28-tanglu-source/recipe-atlas/static` | 842 | 296,466,198 | 2 | 2,823 | 2,825 |
+| `research-assets/wr28-tanglu-source/recipe-atlas/data` | 174 | 106,238,229 | 3 | 954 | 957 |
+| `research-assets/wr27-wh-source/recipe-atlas/static` | 830 | 294,174,696 | 2 | 2,764 | 2,766 |
+| `research-assets/wr27-wh-source/recipe-atlas/data` | 172 | 106,102,964 | 3 | 902 | 905 |
+| `research-assets/wr27-li-source/recipe-atlas/static` | 827 | 293,867,654 | 2 | 2,755 | 2,757 |
+| `research-assets/wr27-li-source/recipe-atlas/data` | 172 | 106,102,964 | 3 | 898 | 901 |
+| **Total: 38 roles** | **19,116** | **7,614,360,363** | **50** | **71,961** | **72,011** |
