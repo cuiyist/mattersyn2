@@ -2809,3 +2809,74 @@ Q28 is already deployed and anonymously verified once: Site `74ec58ac82bbd23090b
 At preparation of this checkpoint, the separate seventeen-root current-public-copy cleanup had been launched in session 18696 (`fa57e1`) and was still running; **no removal count or physical gain from it had been accepted**. Its eventual result must be accounted independently. The twenty-file cold-metadata NTFS compression packet remains a proposal only, with no compression or space gain credited here. Neither planned cleanup nor proposed compression funds a write. The fixed **107,374,182,400-byte reserve** and the current conservative **4,294,967,296-byte allowance for all unfinished concurrent writes** remain required; Root rechecks actual free space at execution and before later large writes.
 
 Choice: save this safe report-only GitHub checkpoint through the existing single-file compare-and-swap path while keeping canonical Source `4fc041c10b657714337ff135cc631082745b0751` and Site unchanged during the active cleanup. No source checkout mutation, release-gate change, paper text, raw quote, PDF/SI, model payload or private audit payload is part of this update. All directories, unknown/private/control/history leaves, original page text and quoted passes/pairs/training, credentials, canonical working checkouts and the active Qwen3-32B model/server/CUDA build remain protected. Original Source18/AF6 holds and failures remain unchanged. The audited lane, Worker A/B and the five older owner questions stay paused.
+
+## CurrentPublic17 and Storage20: genuine closed operations, separately accounted
+
+This append records only closed, observed operations. It does not turn an earlier partial or held cleanup into a complete cleanup. The preceding report remains an exact byte prefix.
+
+### CurrentPublic17 closed journal accounting
+
+All 17 roles closed after externally observed session 18696 EXIT0 (tool 6f838b). Original raw finish: 2026-10-23T20:23:56.6714083+00:00; raw status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS. Selected maps: 150,403 files / 7,491,181,924 logical bytes. Actual closed journals: 149,663 removed files / 6,516,306,912 logical bytes; 39,257 held entries; 0 failed entries. Named closed hold reasons include 38,517 unknown leaves preserved and 740 known leaves absent/not traversed with no credit. Selected unremoved: 740 files / 974,875,012 logical bytes, including 0 without an explicit raw hold/error reason. Whole-attempt success: false.
+
+| Closed generated root | Journal-removed files | Journal logical bytes | Held entries | Failed entries | Selected unremoved |
+|---|---:|---:|---:|---:|---:|
+| research-assets/fasttrack-20261007/owner-resume2-20261008/five-native-site-preview-actual-r1/site-preview | 17471 | 781202205 | 7642 | 0 | 0 |
+| research-assets/fasttrack-20261007/owner-resume2-20261008/five-native-site-preview-actual-r1/site-stage | 17471 | 781202205 | 7631 | 0 | 0 |
+| research-assets/workflow-v5/stages/yang-20261001/candidate-build/project/recipe-atlas/static | 5489 | 220659333 | 197 | 0 | 153 |
+| research-assets/workflow-v5/stages/yang-20261001/candidate-build/project/recipe-atlas/data | 1770 | 61868990 | 69 | 0 | 32 |
+| research-assets/workflow-v5/stages/yang-20261001/candidate-build-r2/project/recipe-atlas/static | 5489 | 220659333 | 197 | 0 | 153 |
+| research-assets/workflow-v5/stages/yang-20261001/candidate-build-r2/project/recipe-atlas/data | 1770 | 61868990 | 69 | 0 | 32 |
+| research-assets/workflow-v5/stages/yang-20261001/candidate-build-r3/project/recipe-atlas/static | 5489 | 220659333 | 197 | 0 | 153 |
+| research-assets/workflow-v5/stages/yang-20261001/candidate-build-r3/project/recipe-atlas/data | 1770 | 61868990 | 69 | 0 | 32 |
+| research-assets/workflow-v5/stages/yang-20261001/candidate-build-r4/project/recipe-atlas/static | 5489 | 220659333 | 197 | 0 | 153 |
+| research-assets/workflow-v5/stages/yang-20261001/candidate-build-r4/project/recipe-atlas/data | 1770 | 61868990 | 69 | 0 | 32 |
+| research-assets/fasttrack-20261007/owner-resume2-20261008/five-native-promotion-actual-r4/dist | 17471 | 781202205 | 7631 | 0 | 0 |
+| research-assets/fasttrack-20261007/engineering-tests/candidate/project/recipe-atlas/static | 13854 | 573278009 | 33 | 0 | 0 |
+| research-assets/fasttrack-20261007/engineering-tests/candidate/project/recipe-atlas/data | 3180 | 188951355 | 6 | 0 | 0 |
+| research-assets/fasttrack-20261007/engineering-tests/candidate/project/recipe-atlas/dist | 17000 | 753732467 | 7604 | 0 | 0 |
+| research-assets/fasttrack-20261007/resume-20261008/accepted-three-one-build-r2/project/recipe-atlas/static | 13923 | 576805994 | 33 | 0 | 0 |
+| research-assets/fasttrack-20261007/resume-20261008/accepted-three-one-build-r2/project/recipe-atlas/data | 3183 | 189164220 | 6 | 0 | 0 |
+| research-assets/fasttrack-20261007/resume-20261008/accepted-three-one-build-r2/project/recipe-atlas/dist | 17074 | 760654960 | 7607 | 0 | 0 |
+
+The selected maps were conditional reconstruction evidence, not an assertion that every selected file existed. Missing, held and otherwise unremoved entries remain unremoved. The operator preserved directories, unknown/private/nonmatching leaves, excluded automatic-refusal scopes, original histories, and the canonical working checkouts. Removed logical bytes are journal sums, not a measurement of physical C: space reclaimed.
+
+CurrentPublic17 C: observations: before 141,843,668,992; after 148,660,391,936; wrapper fields {"C_free_bytes": 148653568000}. These are separate observations affected by other disk activity; their difference is not isolated cleanup gain.
+
+The original fourteen-role attempt remains the failed EXIT1 attempt with six visited roles and eight unvisited roles. Its raw status remains RUNNING without an invented finish. Its partial-six proof and the separately executed, genuinely closed remaining-eight proof remain distinct. They are not relabelled as a successful original fourteen-role attempt. Historical counts and caveats in the preceding report are unchanged.
+
+### Storage20 ordinary NTFS compression
+
+All 20 fixed metadata rows closed, representing 9,594,533,556 original logical bytes. Actual successful compressions: 20; row states: COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED=20. Verified successful-row API-reported storage-size reduction: 5,532,051,124. Raw preserved observed_allocated_bytes_saved field: 5,532,051,124; held rows receive no verified credit. The uncompressed-before API value is logical size and the after value is compressed storage size. This is not precise cluster-allocation savings or isolated physical free-space gain.
+
+| Closed metadata file | Original logical bytes | API-reported size before | API-reported size after | Verified successful API-size reduction | Actual result |
+|---|---:|---:|---:|---:|---|
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/gen125-public-output-match-proposal-20261013/root-actual-discovery-010-124-r1/eligible-file-metadata.jsonl | 1186744220 | 1186744220 | 519204864 | 667539356 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-discovery-current-public-r2/discovery-500-r2/matched-public-copy-files.jsonl | 871917741 | 871917741 | 443940864 | 427976877 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-discovery-current-public-r2/discovery-500-r2/eligible-file-metadata.jsonl | 450055761 | 450055761 | 166776832 | 283278929 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-discovery-current-public-r4-700/discovery-800-end-r4/matched-public-copy-files.jsonl | 626708895 | 626708895 | 311947264 | 314761631 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-discovery-current-public-r4-700/discovery-800-end-r4/eligible-file-metadata.jsonl | 290855569 | 290855569 | 95653888 | 195201681 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-discovery-current-public-r4-700/discovery-700-r4/matched-public-copy-files.jsonl | 463961034 | 463961034 | 231079936 | 232881098 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-discovery-current-public-r4-700/discovery-700-r4/eligible-file-metadata.jsonl | 217488055 | 217488055 | 72380416 | 145107639 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-pool-20261012/discovery-400-r1/matched-public-copy-files.jsonl | 836993695 | 836993695 | 412819456 | 424174239 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-pool-20261012/discovery-400-r1/eligible-file-metadata.jsonl | 379911142 | 379911142 | 128249856 | 251661286 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-pool-20261012/discovery-300-r1/matched-public-copy-files.jsonl | 631052913 | 631052913 | 313159680 | 317893233 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-pool-20261012/discovery-300-r1/eligible-file-metadata.jsonl | 312469989 | 312469989 | 105537536 | 206932453 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-pool-20261012/discovery-200-r1/matched-public-copy-files.jsonl | 530063835 | 530063835 | 261447680 | 268616155 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-pool-20261012/discovery-200-r1/eligible-file-metadata.jsonl | 247961464 | 247961464 | 81305600 | 166655864 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-pool-20261012/discovery-100-r1/eligible-file-metadata.jsonl | 457447140 | 457447140 | 150761472 | 306685668 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-pool-20261012/discovery-000-r1/eligible-file-metadata.jsonl | 581135160 | 581135160 | 202141696 | 378993464 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-pool-20261012/deletion-executor/root-execute-000-r4/events.jsonl | 429322379 | 429322379 | 160976896 | 268345483 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-pool-20261012/deletion-executor/root-execute-100-r4/events.jsonl | 364127356 | 364127356 | 136515584 | 227611772 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-pool-20261012/deletion-executor/root-new400-r6-0013-r1/events.jsonl | 295349897 | 295349897 | 110723072 | 184626825 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-pool-20261012/deletion-executor/root-execute-300-r4/events.jsonl | 230889945 | 230889945 | 86585344 | 144304601 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-pool-20261012/deletion-executor/root-execute-200-r6/events.jsonl | 190077366 | 190077366 | 71274496 | 118802870 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+
+This was ordinary in-place NTFS compact /C on fixed closed metadata files, not deletion, rewriting, relocation, /EXE, WOF or a reparse conversion. Each credited row has independently checked before/after path, content hash, file identity, logical size, timestamps and ancestry invariants. A held or failed row receives no verified storage-size-reduction credit. Original failure evidence remains failure evidence at the same path and with identical content. No paper PDF, source text, quoted pass/pair/training payload, model, private scientific audit, Source/Site record or figure-hosting setting was included.
+
+Storage20 C: observations: before 148,659,703,808; after 154,191,110,144. The preserved raw `allocated_bytes` fields are the return values of GetCompressedFileSizeW: for these initially uncompressed files, the before value is the logical file size; after compression, the API reports compressed storage size. Their difference is an API-reported storage-size reduction, not a precise count of freed NTFS allocation clusters. [Microsoft documents the API semantics](https://learn.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getcompressedfilesizew). C: free-space observations remain separate; no isolated physical free-space gain is inferred.
+
+### Capacity and publication boundary
+
+At this report write, actual C: free bytes were 153882480640. The Root-approved combined unfinished-write allowance was 19327352832 bytes, leaving 134555127808 bytes after that allowance, against the 107,374,182,400-byte reserve. No anticipated cleanup or compression gain was used to fund this write. This does not control unrelated applications' disk use.
+
+This single-file report append creates no paper, record, figure, publication or audit credit. It changes no Source/Site checkout, release rule, repository setting or figure hosting. Future website release counts remain contingent on their own normal deployment and anonymous verification.
