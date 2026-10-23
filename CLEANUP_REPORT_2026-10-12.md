@@ -2546,3 +2546,21 @@ Q24: 236,608 files / 16,926,010,932 logical bytes removed; 12 total held entries
 This Q24 payload closeout adds 236,608 actual removed files / 16,926,010,932 logical bytes. This bounded sum is not a lifetime total or physical free-space gain. Prior removals, absent files, deferred small files, unknown or protected leaves, failed or unvisited selections and directories receive no new removal credit. Held entries can include small or unknown leaves even when selected known maps are complete.
 
 Root observation at 2026-10-22T23:30:31.972320+00:00: C free 166,112,468,992 bytes. The fixed 100 GiB minimum is met at this point only. This nonisolated observation is not attributed physical reclaim or a sustained reserve guarantee. The separate historical 24 GiB planning allowance is an estimate, not a measured peak or hard bound. No Source/Site change or new paper publication credit.
+
+
+## Completed Q25 source-copy cleanup — 2026-10-23
+
+Root completed the three newly closed Source-copy maps after Source PR89 was ordinarily merged, every required local and GitHub check passed, and the normal site candidate was proven byte-identical to the actual browser-reviewed build. The temporary Root-owned preview was retired; the existing Qwen3-32B server was preserved.
+
+| Completed generated copy | Known files removed | Logical bytes removed |
+|---|---:|---:|
+| `p25r2/source-boundary` | 49,326 | 4,197,628,875 |
+| `c25r2/project/recipe-atlas/static` | 40,414 | 3,667,184,941 |
+| `c25r2/project/recipe-atlas/data` | 6,445 | 400,722,301 |
+| Total | 96,185 | 8,265,536,117 |
+
+The genuine cleanup process exited zero. Independent reconciliation matched every unique closed-journal path to its retained manifest and Git reconstruction map. No held or failed entries occurred in these three maps; directories and unknown entries were preserved. The completed eight-group history above remains separate and unchanged; together these disjoint known-leaf removals total 1,184,467 files and 152,659,941,888 logical bytes. Earlier technical failures and actual automatic-review refusals remain excluded and preserved.
+
+Observed C free bytes were 125,217,316,864 before and 133,719,519,232 after this cleanup. Physical free-space change is not claimed as an isolated cleanup gain. The fixed reserve remains 107,374,182,400 bytes (100 GiB), checked against an explicit positive combined unfinished peak before large MatterSyn writes; it does not reserve disk space or control other applications.
+
+Original papers, page text, quoted pass/pair/training data, private audits, credentials, the active model/CUDA server and canonical Source/Site checkouts were preserved. The active R25 release outputs and its evidence were retained. No other program was stopped, no canonical Git state was changed by the cleaner, and whole-parent deletion is not claimed. Per-file and native process evidence stays local.
