@@ -2917,3 +2917,22 @@ GetCompressedFileSizeW returns original logical size before ordinary compression
 Qualification retained full hashes, literal paths, file identities, single-link counts, logical size, creation/mtime and parent identities. Credited successful rows preserve these values; only the ordinary compressed attribute changes. The fixed cleanup dependency baseline remains Source4fc/Site74ec; concurrent Q29 Source925c is separate. All prior failure and held-state evidence stays on record.
 
 Root report-write capacity observation: actual free bytes 141659209728, complete unfinished allocation 26843545600, free minus unfinished allocation 114815664128, reserve107374182400. No anticipated compression gain funds this write or any release. This report carries zero paper/publication credit.
+
+### 2026-10-23 — completed Q29 Source-only RAW2 cleanup
+
+Independent closed-journal accounting verified 48,711 known public Source leaves / 4,308,178,075 logical bytes removed. Held entries: 0; errors: 0; unvisited roles: 0; selected unremoved leaves: 0. Whole attempt success: true. These are actual journal sums, not the planned cleanup ceiling.
+
+| Exact completed generated root | Removed files | Removed logical bytes | Holds | Errors |
+|---|---:|---:|---:|---:|
+| p29/source-boundary/recipe-atlas/static | 42071 | 3897893812 | 0 | 0 |
+| p29/source-boundary/recipe-atlas/data | 6640 | 410284263 | 0 | 0 |
+
+Operator C-free observations: 141,636,952,064 bytes before and 146,065,195,008 after. Separate wrapper observations: 141,637,439,488 before and 146,065,186,816 after. Both observation pairs remain recorded separately.
+
+Logical removed bytes and C-free observations measure different things. The free-space differences are non-isolated observations; they are not claimed as exact physical cleanup gains. All directories and original validation manifests, snapshots, logs and proofs remain. The c29 candidate, r29 release work, canonical checkouts, private paper/training inputs and the active model/server were outside this cleanup.
+
+The original metadata-authoring attempt remains recorded as EXIT1 (tool ce1dea): a local metadata variable collision occurred before any preflight, native/target operation or deletion. Its frozen spec and genuine all13 witness were preserved; the original author was not replayed. Actual RAW2 deletion later ended with externally observed EXIT0 (session 9685, tool 5b14ee); independent accounting retains both histories separately. Earlier failed cleanup and compression histories remain unchanged.
+
+This cleanup adds zero papers and makes no Q29 Site-publication claim. Source925c is ordinarily merged and retained; the independently verified Site context at cleanup remains Q28 Site74ec. The normal release workflow and every release check remain unchanged. Subsequent release/build work is reported only from its own actual results.
+
+At this report write, actual C-free bytes: 117563559936; Root-bound allowance for all unfinished writes: 8764900299; free minus that allowance: 108798659637. The fixed reserve is 107374182400 bytes. This allowance includes the report and actual unfinished website work; anticipated cleanup or compression gains are not funding.
