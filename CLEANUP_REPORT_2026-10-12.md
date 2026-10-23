@@ -2880,3 +2880,40 @@ Storage20 C: observations: before 148,659,703,808; after 154,191,110,144. The pr
 At this report write, actual C: free bytes were 153882480640. The Root-approved combined unfinished-write allowance was 19327352832 bytes, leaving 134555127808 bytes after that allowance, against the 107,374,182,400-byte reserve. No anticipated cleanup or compression gain was used to fund this write. This does not control unrelated applications' disk use.
 
 This single-file report append creates no paper, record, figure, publication or audit credit. It changes no Source/Site checkout, release rule, repository setting or figure hosting. Future website release counts remain contingent on their own normal deployment and anonymous verification.
+
+## Storage21 — closed metadata compression, 2026-10-23
+
+All20 fixed S21 metadata rows closed:2,946,515,544 original logical bytes. Actual successful compressions:20; actual row states:COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED=20. Verified successful-row API-reported storage-size reduction:1,825,231,448 bytes. Preserved raw observed_allocated_bytes_saved:1,825,231,448 bytes; held rows receive no verified credit.
+
+Ordinary NTFS compression only: no deletion, move, archive, content rewrite, model change, or Source/Site publication. Original completed and failed cleanup histories and the existing report prefix remain unchanged.
+
+| Closed metadata file | Original logical bytes | API size before | API size after | Verified successful API-size reduction | Actual state |
+|---|---:|---:|---:|---:|---|
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/research-source-copy-plan/matches-r1/eligible-file-metadata.jsonl | 787386570 | 787386570 | 281219072 | 506167498 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-discovery-current-public-r3-600/discovery-600-r3/matched-public-copy-files.jsonl | 394304043 | 394304043 | 197599232 | 196704811 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/discovery500-deletion-binding-inert-r1/root-execute-r1/events.jsonl | 284748662 | 284748662 | 106782720 | 177965942 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/b14-b15-disposition-inert-r1/actual-execute-r4/events.jsonl | 235167664 | 235167664 | 78946304 | 156221360 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/remaining-layout-discovery-current-public-r3-600/discovery-600-r3/eligible-file-metadata.jsonl | 192683740 | 192683740 | 66392064 | 126291676 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/discovery700-deletion-binding-inert-r1/root-execute-r1/events.jsonl | 166495906 | 166495906 | 62431232 | 104064674 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/discovery600-deletion-binding-inert-r1/root-execute-r1/events.jsonl | 140329216 | 140329216 | 52625408 | 87703808 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/discovery800-end-deletion-binding-inert-r1/root-execute-r1/events.jsonl | 126429878 | 126429878 | 39706624 | 86723254 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/live-batch-output-executor-inert-20261014-r1/Root-actual-output-r2/complete-preflight-nominations.jsonl | 95030140 | 95030140 | 37613568 | 57416572 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/gen125-public-output-match-proposal-20261013/root-actual-discovery-000-009-r1/eligible-file-metadata.jsonl | 78062989 | 78062989 | 34156544 | 43906445 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/live-batch-output-executor-inert-20261014-r1/Root-actual-output-r2/events.jsonl | 52083603 | 52083603 | 15507456 | 36576147 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/N43-preview-Root-bound-actual-20261018-r1/attempts/Root-once/root-1/leaf-proof.private.jsonl | 46859104 | 46859104 | 17575936 | 29283168 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/J44-site-stage-Root-K1bfd-CLEAN-BOUND-private-20261017-r1/attempts/Root-once/root-1/leaf-proof.private.jsonl | 44338142 | 44338142 | 16629760 | 27708382 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/I49-finalDIST-actual-J4d84-CLEAN-Root-bound-private-20261017-r1/attempts/Root-once/root-1/leaf-proof.private.jsonl | 43934230 | 43934230 | 16625664 | 27308566 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/I49-site-stage-actual-J4d84-CLEAN-Root-bound-private-20261017-r1/attempts/Root-once/root-1/leaf-proof.private.jsonl | 43824205 | 43824205 | 16437248 | 27386957 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/H35-finalDIST-I958-Site4ab-Root-bound-20261017-r1/attempts/Root-once/root-1/leaf-proof.private.jsonl | 43265976 | 43265976 | 16396288 | 26869688 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/H35-unattempted-site-stage-H76-Site4ab-BOUND-inert-20261017-r1/attempts/Root-once/root-1/leaf-proof.private.jsonl | 43201209 | 43201209 | 16203776 | 26997433 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/G68-two-DIST-clean-H76-Root-bound-20261017-r1/attempts/Root-once/root-1/leaf-proof.private.jsonl | 42793790 | 42793790 | 16199680 | 26594110 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/G68-two-DIST-clean-H76-Root-bound-20261017-r1/attempts/Root-once/root-2/leaf-proof.private.jsonl | 42793754 | 42793754 | 16191488 | 26602266 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+| research-assets/simple-website-20261010/engineering/storage-max-20261012/G68-site-stage-H6a206-Root-bound-20261017-r1/attempts/Root-once/root-1/leaf-proof.private.jsonl | 42782723 | 42782723 | 16044032 | 26738691 | COMPRESSED_CONTENT_AND_IDENTITY_PRESERVED |
+
+Actual C free before compression:139,856,896,000 bytes; after:141,681,999,872 bytes; non-isolated observed difference:1,825,103,872 bytes.
+
+GetCompressedFileSizeW returns original logical size before ordinary compression and API-reported compressed storage size afterwards. The reported size reduction is not a measurement of precisely freed NTFS clusters. C: free-space observations are separate and their difference is not isolated compression gain: Q29 validation and its complete build were concurrent.
+
+Qualification retained full hashes, literal paths, file identities, single-link counts, logical size, creation/mtime and parent identities. Credited successful rows preserve these values; only the ordinary compressed attribute changes. The fixed cleanup dependency baseline remains Source4fc/Site74ec; concurrent Q29 Source925c is separate. All prior failure and held-state evidence stays on record.
+
+Root report-write capacity observation: actual free bytes 141659209728, complete unfinished allocation 26843545600, free minus unfinished allocation 114815664128, reserve107374182400. No anticipated compression gain funds this write or any release. This report carries zero paper/publication credit.
