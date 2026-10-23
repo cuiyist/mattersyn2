@@ -2594,3 +2594,14 @@ The named prior eight groups plus Source3, Source4 and Site5 total **1,578,155 r
 The first Source4 report-save attempt failed at local credential retrieval before any GitHub request or transport marker; that zero-transport failure is retained. This ordinary report-only update preserves the complete earlier report prefix and changes one existing public file. No repository settings or force push is used.
 
 Papers, owner-created folders, page text, quoted pass/pair/training files, private audits, credentials, the active Qwen3-32B model/server/CUDA runtime and canonical Source/Site checkouts remain protected. No active external consumer/program hold was found within these nine bounded roles; no program was stopped. Source19 large-leaf cleanup remains a separate pre-execution engineering HOLD after peer review found a missing Site5-closure predicate; it has zero cleanup credit. Other prospective cleanup and paper pools have no removal or publication credit here.
+
+
+### Completed known-leaf Site duplicate cleanup (23 October 2026)
+
+Root observed cleanup session 96611 exit 0 (terminal witness 0f9496). Independent accounting reconciled all ten visited roles and seven closed removal journals: 15,100 mapped files / 5,353,476,578 logical bytes removed, with zero failures, directory removals, program stops, or Source/Site/Git mutations. This is a completed attempt with held subsets, not full removal of its archival selection.
+
+The 237,311 recorded holds comprise 222,375 unknown leaves preserved outside the selected maps and 14,936 known absent/not-traversed members with zero credit. Three entirely absent roles additionally account for 18,424 mapped members with zero credit; these are not extra raw hold entries. In total, 33,360 mapped members / 11,228,524,643 logical bytes were not removed. No current-presence or removal-eligibility claim is made for these members or the unknown leaves.
+
+C free was 149,658,910,720 bytes before and 153,494,294,528 bytes after the attempt. These separate observations are nonisolated and are not attributed physical reclaim. All directories, unknowns, original holds and refusal history remain preserved. The fixed 100 GiB floor plus each operation's positive peak-write budget still applies; a point observation cannot guarantee space against other applications. This report-only update grants no cleanup replay, paper, integration, or publication credit.
+
+Root current observation at 2026-10-23T06:15:27.888062+00:00: C free 154,718,965,760 bytes. The fixed 100 GiB floor is met at this point observation only; this is neither attributed physical reclaim nor a sustained reserve or operation-budget approval.
