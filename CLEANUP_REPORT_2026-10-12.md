@@ -2781,3 +2781,31 @@ Only exact known regular single-link, non-reparse leaves of at least 65,536 byte
 Choice: reclaim these completed Source copies before funding the full normal release, preserving the actual candidate for exact-byte browser binding. After closed cleanup, actual free 141,524,647,936 bytes funded the complete remaining conservative estimate of 32,701,842,730 bytes, leaving 108,822,805,206 against the fixed 107,374,182,400-byte reserve. That estimate includes 27,064,698,154 logical bytes of unfinished normal copies, observed 4,096-byte NTFS allocation units, allocation/MFT slack, Source/build growth, controls, Git, private pool outputs, temporary logs and contingency. It does not fund a new model batch and is neither a reservation nor a measured peak. Future large writes require a fresh actual-free/remaining-allocation check; planned cleanup gains are never deducted. The normal release dry run is in progress, with zero new publication credit until Pages and anonymous verification succeed.
 
 This ordinary single-file report update contains no source text, quotes or private proof payloads. The audited lane, Worker A/B and five older owner questions remain paused.
+
+### 2026-10-23: original Q28 partial failure preserved; separate remaining-eight cleanup closed
+
+The original fourteen-role cleanup did **not** complete successfully. Root observed session 69074 exit **1** (tool observation `26dc24`); its original raw result still says `RUNNING`, has no finish timestamp and contains six closed roles. Independent partial accounting records **33,646 known leaves / 12,050,211,609 logical bytes removed**, **118,801 held entries**, zero per-leaf deletion errors and eight unvisited roles. The process failed during an owned-process identity refresh; zero per-leaf errors do not mean process success. Whole-attempt success remains false. The original result, failed receipt and journals were preserved unchanged.
+
+Root subsequently qualified the exact eight unvisited, disjoint roles as a new attempt. Root observed that new session 79439 exit **0** (tool observation `6a25ca`); independent closed accounting confirms **44,768 known leaves / 16,432,178,540 logical bytes removed**, **176,788 held entries**, zero deletion errors and zero selected leaves remaining. Its raw result remains `ATTEMPT_FINISHED_WITH_HELD_SUBSETS`; whole-attempt success remains false because other entries were held. No original role, prior removal credit or old technical failure was replayed or relabelled.
+
+| Separate recorded attempt | Closed roles | Known leaves removed | Logical bytes removed | Held entries | Process exit | Whole-attempt success |
+|---|---:|---:|---:|---:|---:|---|
+| Original fourteen-role attempt, partial accounting only | 6; 8 unvisited | 33,646 | 12,050,211,609 | 118,801 | 1 | false |
+| Newly qualified remaining eight roles | 8 | 44,768 | 16,432,178,540 | 176,788 | 0 | false |
+
+Across these **two disjoint recorded attempts**, the logical sum is **78,414 known leaves / 28,482,390,149 logical bytes removed**. This arithmetic does not turn the original fourteen-role attempt into a successful completion and is not a physical-reclaim or cumulative 600 GB claim.
+
+Actual whole-drive C free observations remain separate:
+
+| Observation | Before, bytes | After, bytes | Separate wrapper observation, bytes |
+|---|---:|---:|---:|
+| Original partial attempt, independently preserved | 113,528,274,944 | 125,621,764,096 | 125,598,781,440 |
+| Separate remaining-eight attempt | 125,387,935,744 | 141,880,295,424 | 141,847,183,360 |
+
+At the execution of this report-only update, Root observed **143485222912** actual C free bytes. These point observations include unrelated disk activity; their differences are not isolated cleanup gain. Logical removed bytes are not allocated bytes. Other applications' disk use is not controlled.
+
+Q28 is already deployed and anonymously verified once: Site `74ec58ac82bbd23090beeae04a91ed8613d17994`, **22 new papers / 49 records / 121 captioned crops**. The verified public totals are **2,556 papers / 6,333 records / 4,212 recipe–structure pairs / 1,088 material families**. These are retained publication facts; this report update publishes no paper. The accepted B134 private pool remains **13 papers / 18 records / 62 crops pending**, with zero publication credit until its own normal deployment and anonymous checks succeed.
+
+At preparation of this checkpoint, the separate seventeen-root current-public-copy cleanup had been launched in session 18696 (`fa57e1`) and was still running; **no removal count or physical gain from it had been accepted**. Its eventual result must be accounted independently. The twenty-file cold-metadata NTFS compression packet remains a proposal only, with no compression or space gain credited here. Neither planned cleanup nor proposed compression funds a write. The fixed **107,374,182,400-byte reserve** and the current conservative **4,294,967,296-byte allowance for all unfinished concurrent writes** remain required; Root rechecks actual free space at execution and before later large writes.
+
+Choice: save this safe report-only GitHub checkpoint through the existing single-file compare-and-swap path while keeping canonical Source `4fc041c10b657714337ff135cc631082745b0751` and Site unchanged during the active cleanup. No source checkout mutation, release-gate change, paper text, raw quote, PDF/SI, model payload or private audit payload is part of this update. All directories, unknown/private/control/history leaves, original page text and quoted passes/pairs/training, credentials, canonical working checkouts and the active Qwen3-32B model/server/CUDA build remain protected. Original Source18/AF6 holds and failures remain unchanged. The audited lane, Worker A/B and the five older owner questions stay paused.
