@@ -2656,3 +2656,24 @@ The table uses paths relative to the MatterSyn workspace. Counts cover only exac
 | `research-assets/wr27-li-source/recipe-atlas/static` | 827 | 293,867,654 | 2 | 2,755 | 2,757 |
 | `research-assets/wr27-li-source/recipe-atlas/data` | 172 | 106,102,964 | 3 | 898 | 901 |
 | **Total: 38 roles** | **19,116** | **7,614,360,363** | **50** | **71,961** | **72,011** |
+
+### 2026-10-23: Q26 completed Source-input copies, closed accounting
+
+The Root cleanup process ended with exit 0 at 09:52 UTC. Independent closed-journal accounting reconciled **187,412 removed known leaves / 15,552,424,692 logical bytes** across eight visited roles. There were **2,728 held entries and zero failed deletions**. The original status remains `ATTEMPT_FINISHED_WITH_HELD_SUBSETS`; whole-parent deletion and complete eight-map removal are not claimed.
+
+| Completed generated copy | Removed files | Removed logical bytes | Held entries |
+|---|---:|---:|---:|
+| c26r2/project/recipe-atlas/static and data | 46,853 | 3,888,106,173 | 682 |
+| r26/candidate/project/recipe-atlas/static and data | 46,853 | 3,888,106,173 | 682 |
+| r26/final/project/recipe-atlas/static and data | 46,853 | 3,888,106,173 | 682 |
+| c26/project/recipe-atlas/static and data | 46,853 | 3,888,106,173 | 682 |
+
+Actual C free-space observations were **121,361,813,504 bytes before / 137,297,666,048 bytes after**. Both exceed the fixed 100 GiB floor (107,374,182,400 bytes). These are non-isolated physical observations, not an attributed physical-gain measurement; logical removed bytes are reported separately. Future large writes must still pass a fresh check with their positive combined unfinished peak allocation deducted. This cannot reserve disk space against unrelated applications.
+
+Only known, regular, single-link leaves matching both the retained Git reconstruction and the declared byte hashes were removed. Changed, unknown and protected leaves were held. No directory, user program, canonical Source/Site Git state, original paper, quoted training payload, credential, active Qwen3-32B model or CUDA runtime was deleted or stopped. Bounded native consumer checks found no selected-folder consumer; no global open-handle scan is claimed. The original failed Q26 validation and collector/import technical errors, all earlier refusal/hold histories and all cleanup controls/manifests remain preserved. The eight archival maps were a conditional ceiling of 187,436 leaves / 16,271,628,968 logical bytes, not removal credit.
+
+Q26 publication is separately verified once: **44 papers / 65 source_extracted records / 244 captioned crops**, giving observed live totals of **2,491 papers / 6,225 records / 4,104 recipe-structure pairs / 1,072 material families**. [Source PR90](https://github.com/cuiyist/mattersyn/pull/90) merged normally; [exact-head Pages run](https://github.com/cuiyist/mattersyn-site/actions/runs/39924209778) passed both jobs. The normal verification-only retry passed after the preserved first single-file HTTP/hash mismatch, with no repush or double credit. The built payload is 4,422,715,747 logical bytes; deployment succeeded, so no figure-hosting size-failure condition is asserted.
+
+Bounded saved-queue metadata captured at 08:57 UTC, with the earlier B131 product-scope refinements retained, contains **3,160 physical entries: 446 IN / 800 OUT / 1,914 uncertain**. Saved-read or positive-two-pass metadata accounts for 2,233 entries (387 IN); attempted-without-usable-read metadata accounts for 75 (30 IN); remaining/uncompleted entries account for 852 (29 IN). There are 3,134 distinct nonempty DOI labels and 26 unlabelled entries; certified unique-primary count remains unknown. These buckets do not establish readiness, eligibility, an audit result or queue exhaustion. B131 has a private ready pool of 20 papers / 26 records / 108 crops. B132's two limited rare reads proposed five whole-object deletions without additions or repairs; captions and pool closure are pending. These reads are not independent audits or S1 findings, and have no publication credit.
+
+Choice: qualify the next six completed public payload copies against genuine Q26 published tuples, prioritizing assets/data leaves at least 64 KiB while holding controls, smaller leaves and unknowns. This is preparation only; it has no deletion credit. Preserve the separate original historical reconstruction identities and all unchanged release checks. The audited lane, Worker A/B, five owner questions, historical findings and sampling denominators remain paused and unchanged. No continuous-work or achieved-rate claim is made.
