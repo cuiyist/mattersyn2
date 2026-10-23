@@ -2760,3 +2760,24 @@ C free bytes were **114,550,800,384 before** and **148,349,132,800 after** clean
 Q27 is verified live once: **43 papers / 59 records / 238 captioned crops**; public totals **2,534 papers / 6,284 records / 4,163 pairs / 1,079 families**. Source `75883dea1ef0e6a3eddc58ebe63046f3c2ed2626`, ordinary public merge `3c2c2c2a3ba42e18df80a2ea4a911b73dd0dccd9`, Site `6eac6b0b5f86dd63f932914f25a2dae0c05e1135` passed normal deployment, Pages and anonymous verification. Cleanup adds no paper credit.
 
 The separately accepted 15:11 UTC bounded queue has **3,172 physical entries: 458 IN / 800 OUT / 1,914 uncertain**. Saved-read/positive-pass metadata: **2,219** (373 IN); attempted without usable saved read: **75** (30 IN); remaining/uncompleted/prepared: **878** (55 IN). There are 26 unlabeled entries; confirmed unique-primary count stays unasserted. Exact SHA+DOI membership removed Q27's 43 once. B133's 29 saved reads and B134's 26 prepared/unread identities are distinct; this is neither exhaustion nor scientific approval. Five older owner questions and paused audited Worker A/B lanes stay unchanged.
+
+### 2026-10-23: four completed Q28 raw Source subsets, closed accounting
+
+Root observed the cleanup process exit 0 at 17:39:28 UTC, after its 17:39:12 UTC process receipt. Four independently reconciled closed journals confirm **22,454 known leaves / 7,942,166,974 logical bytes removed**. **74,604 other entries were held; zero deletion failures occurred.** Every selected large leaf was removed, but the original result remains `ATTEMPT_FINISHED_WITH_HELD_SUBSETS` and whole-attempt success is false. No folder-removal or cumulative 600 GB claim is made.
+
+| Completed generated root, relative to MatterSyn at execution | Files removed | Logical bytes removed | Held entries |
+|---|---:|---:|---:|
+| `p28/source-boundary/recipe-atlas/static` | 10883 | 3677190273 | 31025 |
+| `p28/source-boundary/recipe-atlas/data` | 344 | 293893214 | 6277 |
+| `c28/project/recipe-atlas/static` | 10883 | 3677190273 | 31025 |
+| `c28/project/recipe-atlas/data` | 344 | 293893214 | 6277 |
+
+Actual C free bytes were **133,561,253,888 before** and **141,539,811,328 after** the operation; the later wrapper observed 141,525,102,592. Report preparation observed **133083054080** bytes free. These are separate whole-drive physical observations; their change is not isolated cleanup gain, and logical removal is not physical reclaim. Other applications' allocations are not controlled.
+
+The four literal raw static/data subsets were already retained in public Source `4fc041c10b657714337ff135cc631082745b0751`, ordinarily merged by [PR92](https://github.com/cuiyist/mattersyn/pull/92) as `9823a2504a095a8c2a98e9f044b8f9d501bbe1be` after all three exact-head CI jobs succeeded. All 13 local checks, 50 actual browser routes, native phone captions/unit-cell review and retirement of Root's own preview completed before this cleanup. Cleanup qualifies completed raw copies only; it does not publish the pending 22 papers /49 records /121 captioned crops or replace any release gate.
+
+Only exact known regular single-link, non-reparse leaves of at least 65,536 bytes qualified, after retained Git-object, full SHA, same-handle identity, exclusive cleaner lease and fresh native folder-consumer checks. No selected folder had an active consumer. No other program was stopped. All directories, small/unknown/control/history leaves, the candidate dist and its manifests, canonical Source/Site checkouts, original PDFs, page text, quoted passes/pairs/training, credentials and the active Qwen3-32B model/server/CUDA build remain protected. Original Source18/AF6 failures and holds are unchanged and receive no duplicate removal credit.
+
+Choice: reclaim these completed Source copies before funding the full normal release, preserving the actual candidate for exact-byte browser binding. After closed cleanup, actual free 141,524,647,936 bytes funded the complete remaining conservative estimate of 32,701,842,730 bytes, leaving 108,822,805,206 against the fixed 107,374,182,400-byte reserve. That estimate includes 27,064,698,154 logical bytes of unfinished normal copies, observed 4,096-byte NTFS allocation units, allocation/MFT slack, Source/build growth, controls, Git, private pool outputs, temporary logs and contingency. It does not fund a new model batch and is neither a reservation nor a measured peak. Future large writes require a fresh actual-free/remaining-allocation check; planned cleanup gains are never deducted. The normal release dry run is in progress, with zero new publication credit until Pages and anonymous verification succeed.
+
+This ordinary single-file report update contains no source text, quotes or private proof payloads. The audited lane, Worker A/B and five older owner questions remain paused.
