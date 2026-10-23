@@ -2727,3 +2727,36 @@ The next in-scope local batch B133 has 29 verified original identities and offic
 Choice: retain the unqualified residual history and overlap the next local batch with fresh publication validation. The complete remaining allocation estimate is 46 GiB, comprising the standalone boundary, three Source/dist pairs, preview and stage, B133 outputs, Git, temporary files and contingency. It is a conservative estimate, not a measured peak or reservation. Root checks actual free space minus every unfinished allocation against 100 GiB before each large write, and subtracts only completed allocations. The separate audit/Worker A/B lanes and five older owner questions stay paused.
 
 Two local wrapper mistakes were preserved without bypassing a gate: the code-only binding wrapper expected an unchanged baseline control to change; the B133 preparation wrapper incorrectly required true caption-contract booleans to be null. Genuine normal results were checked and separate completion wrappers preserved the correct unchanged baseline and the four null runtime placeholders. Production checks, prompt, extraction rules and privacy limits were not weakened.
+
+### 2026-10-23: Q27 verified live; eighteen generated Source subsets closed
+
+Root observed cleanup 47862 exit 0 (`af9163`); the original finish was 15:17:16 UTC. Independent accounting of all 18 closed journals confirms **99,019 leaves / 33,663,193,698 logical bytes removed**, **368,763 held entries**, zero failures. **310 selected leaves / 1,116,279,900 logical bytes remain unremoved**. Raw status remains `ATTEMPT_FINISHED_WITH_HELD_SUBSETS`; whole-attempt success is false.
+
+| Generated role relative to MatterSyn | Removed files / logical bytes | Held entries | Selected unremoved |
+|---|---:|---:|---:|
+| `p27/source-boundary/recipe-atlas/static` | 10761 / 3608886629 | 30836 | 0 |
+| `p27/source-boundary/recipe-atlas/data` | 280 / 257269793 | 6291 | 0 |
+| `c27/project/recipe-atlas/static` | 10761 / 3608886629 | 30836 | 0 |
+| `c27/project/recipe-atlas/data` | 280 / 257269793 | 6291 | 0 |
+| `c27/project/recipe-atlas/dist/assets` | 10753 / 3605699789 | 26801 | 0 |
+| `c27/project/recipe-atlas/dist/data` | 218 / 34013813 | 17250 | 62 |
+| `r27/candidate/project/recipe-atlas/dist/assets` | 10753 / 3605699789 | 26801 | 0 |
+| `r27/final/project/recipe-atlas/dist/assets` | 10753 / 3605699789 | 26801 | 0 |
+| `r27/site-preview/assets` | 10753 / 3605699789 | 26801 | 0 |
+| `r27/candidate/project/recipe-atlas/static` | 10761 / 3608886629 | 30836 | 0 |
+| `r27/candidate/project/recipe-atlas/data` | 280 / 257269793 | 6291 | 0 |
+| `r27/final/project/recipe-atlas/static` | 10761 / 3608886629 | 30836 | 0 |
+| `r27/final/project/recipe-atlas/data` | 280 / 257269793 | 6291 | 0 |
+| `r27/candidate/project/recipe-atlas/dist/data` | 218 / 34013813 | 17250 | 62 |
+| `r27/final/project/recipe-atlas/dist/data` | 218 / 34013813 | 17250 | 62 |
+| `r27/site-preview/data` | 218 / 34013813 | 17250 | 62 |
+| `r27/site-stage/assets` | 10753 / 3605699789 | 26801 | 0 |
+| `r27/site-stage/data` | 218 / 34013813 | 17250 | 62 |
+
+The five generated-data roles each held 58 selected size mismatches and four absent/not-traversed leaves, with no removal credit. Unknown leaves and all directories remain. Exact Source-Git tuples, full content/hash identity, same-handle, single-link, no-reparse and fresh native-consumer guards were retained. No programs stopped or canonical Source/Site/Git changed. Original AF6 holds, failed-build/relocation history, refusals and protected PDFs/quotes/pass/pair/training/model data remain preserved.
+
+C free bytes were **114,550,800,384 before** and **148,349,132,800 after** cleanup. Report preparation separately observed **148171210752** bytes. These are nonisolated observations, not attributed physical reclaim. The fixed 107,374,182,400-byte floor plus a positive estimate for all unfinished concurrent writes applies before each large allocation; it cannot reserve space against other applications.
+
+Q27 is verified live once: **43 papers / 59 records / 238 captioned crops**; public totals **2,534 papers / 6,284 records / 4,163 pairs / 1,079 families**. Source `75883dea1ef0e6a3eddc58ebe63046f3c2ed2626`, ordinary public merge `3c2c2c2a3ba42e18df80a2ea4a911b73dd0dccd9`, Site `6eac6b0b5f86dd63f932914f25a2dae0c05e1135` passed normal deployment, Pages and anonymous verification. Cleanup adds no paper credit.
+
+The separately accepted 15:11 UTC bounded queue has **3,172 physical entries: 458 IN / 800 OUT / 1,914 uncertain**. Saved-read/positive-pass metadata: **2,219** (373 IN); attempted without usable saved read: **75** (30 IN); remaining/uncompleted/prepared: **878** (55 IN). There are 26 unlabeled entries; confirmed unique-primary count stays unasserted. Exact SHA+DOI membership removed Q27's 43 once. B133's 29 saved reads and B134's 26 prepared/unread identities are distinct; this is neither exhaustion nor scientific approval. Five older owner questions and paused audited Worker A/B lanes stay unchanged.
