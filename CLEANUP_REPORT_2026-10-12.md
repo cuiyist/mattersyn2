@@ -2700,3 +2700,30 @@ The next B132 private preparation applied the five already accepted whole-object
 The bounded queue ledger still records 3,160 entries: 446 IN / 800 OUT / 1,914 uncertain, including 387 read-IN and 29 remaining title-IN entries. All 29 remaining title-IN entries have unresolved saved identity holds and are not launch-ready; this is not an exhaustion claim. No held identity or automatic refusal has been cleared to make another batch. Q26's already verified 44 papers are counted once; this cleanup adds no papers.
 
 Choice: preserve smaller or insufficiently qualified residual copies and use the now adequate reserve for the accepted publication queue; deleting unqualified data to meet an aspirational size target is not authorized. Small script fix: a local caption launcher's incorrect substring test for quoted Windows arguments was replaced with exact `CommandLineToArgvW` comparison to the protected argv. Its pre-output failure is preserved, with no model, Source or Site effect; the normal pipeline tool and prompt were unchanged.
+
+### 2026-10-23: failed Q27 generated copies, six closed public-byte subsets
+
+Root observed the serial cleanup exit 0 at 12:18:07 UTC; the original process finished at 12:17:56 UTC. Independent accounting of the six closed journals and retained exact published maps confirms **32,429 leaves / 10,833,637,246 logical bytes removed**. **118,926 entries were held; zero failed.** Of the selected large leaves, **59 / 82,179,284 logical bytes remain unremoved**. The original status remains `ATTEMPT_FINISHED_WITH_HELD_SUBSETS`; neither complete folder removal nor whole-attempt success is claimed.
+
+| Completed generated root, relative to MatterSyn at execution | Files removed | Logical bytes removed | Held entries | Selected leaves unremoved |
+|---|---:|---:|---:|---:|
+| `p27/source-boundary/recipe-atlas/static` | 10555 | 3523474693 | 31042 | 0 |
+| `p27/source-boundary/recipe-atlas/data` | 277 | 116193097 | 6294 | 0 |
+| `c27/project/recipe-atlas/static` | 10555 | 3523474693 | 31042 | 0 |
+| `c27/project/recipe-atlas/data` | 277 | 116193097 | 6294 | 0 |
+| `c27/project/recipe-atlas/dist/assets` | 10547 | 3520287853 | 27007 | 0 |
+| `c27/project/recipe-atlas/dist/data` | 218 | 34013813 | 17247 | 59 |
+
+Actual C free bytes were **146,498,658,304 before** and **157,346,668,544 after** the operation. Report preparation observed **153229000704** free bytes. Logical bytes and these non-isolated physical observations are separate; this does not establish an attributed physical reclaim total or control other programs' allocations. No 600 GB claim is made. The standing reserve remains 107,374,182,400 bytes.
+
+Only exact AF public-Git-identical regular leaves of at least 65,536 bytes qualified, with immutable metadata, actual content SHA/Git identity, same-handle, single-link, no-reparse and fresh native consumer checks. Changed generated data, small leaves, code, controls, logs, manifests, unknown and protected files were held. No directories or other programs were deleted or stopped; canonical Source/Site/Git and the protected Qwen3-32B server were unchanged by cleanup. Original PDFs, page text, quoted pass/pair/training files, credentials and private audits stay local. This report uploads no source text, quotations or private proof files.
+
+After closure, Root preserved all residual failed validation contents by same-volume sibling renames `p27` to `p27failed9e4` and `c27` to `c27failed9e4`, after fresh no-reparse/native consumer checks. Original failure logs and manifests were verified byte-identical at their new paths. No remaining contents were deleted. Historical receipts retain their original execution paths, and a private relocation receipt links the paths.
+
+Q27 remains **unpublished: 43 papers / 59 records / 238 captioned crops, zero publication credit**. Its original complete build at Source `9e4eefd8127dcbae72334708aa607874ea4d579f` failed the strict direct-Ge vocabulary check. A source-supported compatibility fix at `75883dea1ef0e6a3eddc58ebe63046f3c2ed2626` adds the metathesis method and hyphen-aware nanocrystal tokens; 53 targeted regressions pass, and feedback against the failed candidate has zero quality errors. All scientific exclusions and release gates remain. Fresh complete normal checks at the fixed head are running; feedback is not a substitute for those checks, CI, browser review, deployment or anonymous verification.
+
+The next in-scope local batch B133 has 29 verified original identities and official citation sidecars. Its normal two-preflight launch completed with zero collisions and started controller 33028 on the unchanged local server 19184. Two successful extraction passes and the existing quote/number/agreement checks remain required. The uncertain Ge prospect was excluded. No B133 paper is integrated or published by this cleanup.
+
+Choice: retain the unqualified residual history and overlap the next local batch with fresh publication validation. The complete remaining allocation estimate is 46 GiB, comprising the standalone boundary, three Source/dist pairs, preview and stage, B133 outputs, Git, temporary files and contingency. It is a conservative estimate, not a measured peak or reservation. Root checks actual free space minus every unfinished allocation against 100 GiB before each large write, and subtracts only completed allocations. The separate audit/Worker A/B lanes and five older owner questions stay paused.
+
+Two local wrapper mistakes were preserved without bypassing a gate: the code-only binding wrapper expected an unchanged baseline control to change; the B133 preparation wrapper incorrectly required true caption-contract booleans to be null. Genuine normal results were checked and separate completion wrappers preserved the correct unchanged baseline and the four null runtime placeholders. Production checks, prompt, extraction rules and privacy limits were not weakened.
