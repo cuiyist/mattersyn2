@@ -3058,3 +3058,35 @@ Cleanup-time validation used Source 1e9cb1ffdb048d92654d6052ef65bd57b027d9b7 and
 Only these three independently verified cleanups contribute to this append. P116 and the proposed residual-small selection are excluded. This report grants zero publication credit, changes no Source/Site content or release check, and uploads no source PDFs, page text, quotes, private audits, pair/pass/training payloads or credentials. The active model/server and canonical Source/Site checkouts remain protected.
 
 At this report write, actual C-free bytes: 141068701696; Root-bound positive allowance for every unfinished bounded metadata/cleanup write: 4294967296; free minus that allowance: 136773734400. The fixed reserve is 107374182400 bytes. Full normal release dry remains parked under this report-only runtime. Anticipated cleanup gains do not fund any write; unrelated applications may change free space.
+
+### 2026-10-24 — P116 Source2 and R31 bounded recovery cleanup accounting
+
+Two original independent accountants reproduced 31,945 known generated leaves / 11,269,828,240 logical bytes removed across six closed roots. Held entries: 108,664; errors: 0; selected unremoved leaves: 0. Both original whole-attempt results remain false. These are actual closed-journal sums, not conditional cleanup ceilings. Cleanup totals: P116 Source2 8,811 files / 3,047,095,440 logical bytes, 32,750 holds, 0 errors; R31 recovery Source4 23,134 files / 8,222,732,800 logical bytes, 75,914 holds, 0 errors.
+
+| Cleanup / exact generated root | Removed files | Removed logical bytes | Holds | Errors |
+|---|---:|---:|---:|---:|
+| P116 Source2 / p116checks/source-boundary/recipe-atlas/static | 8479 | 2779475546 | 27155 | 0 |
+| P116 Source2 / p116checks/source-boundary/recipe-atlas/data | 332 | 267619894 | 5595 | 0 |
+| R31 recovery Source4 / r31/candidate/project/recipe-atlas/static | 11220 | 3813827040 | 31587 | 0 |
+| R31 recovery Source4 / r31/candidate/project/recipe-atlas/data | 347 | 297539360 | 6370 | 0 |
+| R31 recovery Source4 / r31/final/project/recipe-atlas/static | 11220 | 3813827040 | 31587 | 0 |
+| R31 recovery Source4 / r31/final/project/recipe-atlas/data | 347 | 297539360 | 6370 | 0 |
+
+| Cleanup | Actual C-free before (bytes) | Actual C-free after (bytes) | Whole attempt success |
+|---|---:|---:|---|
+| P116 Source2 | 138281353216 | 141334806528 | false |
+| R31 recovery Source4 | 105698058240 | 113951862784 | false |
+
+Removed logical bytes and actual C-free points are different measures. The observations are not isolated physical cleanup gains; they are not added together. Unknown or unselected leaves and directories remain, so each original whole-attempt result stays false. P116 reconstructs from retained historical Source 7c9075aa5a4cab7f6083b9ff3b90b9982902390f; R31 recovery reconstructs from retained Source 1e9cb1ffdb048d92654d6052ef65bd57b027d9b7. Cleanup-time validation used that latter Source and Site 2f53934f972bb5dff113cbf069870862954b2523; these are historical cleanup contexts, not a publication claim.
+
+P116: the original r1 remained metadata-only and unexecuted; an authentic imported-loop test exposed four inherited indices, corrected to exactly two in immutable r2. A future-time accounting submission (ffd9f5) was rejected before output with zero credit; accepted accounting used the genuine fresh clock. The old failed complete build and zero-deletion technical hold remain preserved.
+
+R31 recovery was limited to qualified known-leaf deletion under a fixed positive 64 MiB metadata/filesystem envelope while disk space was below the 100 GiB reserve. It did not authorize Source/Site/model/network publication writes or change normal release reserve/quality gates. All three failed read-only preflight attempts remain failed: 7cdcdf and traceback 2cc5f2 encountered the stale NULL ordinary-capacity slot; cbea03 encountered an incorrectly renamed historical schema. Separate immutable fixes preserved the actual historical ABI and all guards before Delete. After genuine 96355/44623d EXIT0, the first accountant failed on cached Windows DirEntry link counts and left only an empty output directory. Native and fresh-stat checks positively verified 59 ordinary, nonreparse, singlelink files; cached zero counts were an API omission. The immutable r4 used fresh os.stat while retaining strict link==1 checks, and wrote its genuine separate Root-once-r4 proof; no failure or output was relabelled. Recovery process output is the bounded combined tool observation, not isolated full native stdout; original RESULT and closed journals supply the counts.
+
+P116 Source2: Root externally observed EXIT0 in session 47970 (tool a2b724); this is an observation time, not a native exit timestamp. Original result status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS.
+
+R31 recovery Source4: Root externally observed EXIT0 in session 96355 (tool 44623d); this is an observation time, not a native exit timestamp. Original result status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS.
+
+Only these two newly accounted cleanups contribute here. The preceding three R22 Source4, Q31 Source4 and C22 Site2 counts remain in the preserved prefix and receive zero new credit. Future postpublication cleanup and the proposed small-file selection are excluded. This report grants zero publication credit, changes no release check, and uploads no source PDFs/text, quotes, private audits, pair/pass/training payloads or credentials. Canonical Source/Site, owner inputs and active model/server remain protected. Website publication status is tracked separately.
+
+At report write, actual C-free bytes: 113476870144; Root-bound positive allowance for ALL remaining normal-release and bounded report/metadata writes: 3758096384; free minus that allowance: 109718773760. The fixed reserve is 107374182400 bytes. Root must account for already allocated copies and every unfinished write, regardless of normal release stage. Anticipated cleanup gains never fund writes, and unrelated applications may change free space.
