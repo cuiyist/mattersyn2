@@ -3117,3 +3117,52 @@ Q31 was already verified live before this cleanup: 32 added papers, 41 added rec
 All earlier cleanup counts, original failures, technical holds and their corrections remain in the exact preserved report prefix and immutable accounting history. P116, the R31 raw Source recovery, the earlier Q31 raw Source copies and all other previous cleanups receive zero new removal credit here. Only the ten independently closed generated Site-copy roots above contribute. Canonical Source/Site checkouts, raw Source roots, controls/manifests/snapshots/history, owner inputs and the protected model/server remain outside this selection. No source PDFs, full text, quoted private payloads, pair/pass/training files or private audits are uploaded.
 
 At report write: actual C-free 134482997248 bytes; Root-bound positive allowance for every unfinished normal and bounded report/metadata write 2147483648 bytes; free minus allowance 132335513600 bytes. Required reserve: 107374182400 bytes. Anticipated cleanup gains do not fund writes; unrelated applications may change free space.
+
+### 2026-10-24 — Small9 closed-journal accounting and Source14 exclusion
+
+The unchanged Small9 independent verifier reproduced 366,800 newly removed known generated files / 3,172,329,671 logical bytes from 9 closed-accounted roles. Observed roles: 9; observed without a closed journal: 0; unvisited roles: 0. Holds: 112; errors: 0. Counts are closed-journal results, not planned ceilings.
+
+| Exact generated root | Accounting state | Removed files | Removed logical bytes | Holds | Errors |
+|---|---|---:|---:|---:|---:|
+| research-assets/simple-website-20261010/batch55/q-r2/local-build/project/recipe-atlas/dist | closed journal | 41271 | 356800612 | 3 | 0 |
+| research-assets/simple-website-20261010/batch55/r-r1/candidate/project/recipe-atlas/dist | closed journal | 41271 | 356800612 | 3 | 0 |
+| research-assets/simple-website-20261010/batch53/q-r2/local-build/project/recipe-atlas/dist | closed journal | 40810 | 352521809 | 3 | 0 |
+| research-assets/simple-website-20261010/batch56/q-K-r2/local-build/project/recipe-atlas/dist | closed journal | 41683 | 360906004 | 38 | 0 |
+| research-assets/simple-website-20261010/batch44/q-r3/local-build/project/recipe-atlas/dist | closed journal | 39060 | 337380835 | 48 | 0 |
+| research-assets/simple-website-20261010/batch60/q-L58-phone-r1/local-build/project/recipe-atlas/dist | closed journal | 42322 | 367226031 | 3 | 0 |
+| research-assets/simple-website-20261010/batch47/q-r3/local-build/project/recipe-atlas/dist | closed journal | 39835 | 343834308 | 8 | 0 |
+| research-assets/simple-website-20261010/batch51/r-r1/candidate/project/recipe-atlas/dist | closed journal | 40274 | 348429730 | 3 | 0 |
+| research-assets/simple-website-20261010/batch51/q-r1/local-build/project/recipe-atlas/dist | closed journal | 40274 | 348429730 | 3 | 0 |
+
+Actual C-free before: 134346940416 bytes; after: 137603633152 bytes. These point observations are not isolated physical cleanup gains. Removed logical bytes are a separate measure. Original whole-attempt success remains false; original result status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS. Unknown, protected, missing or changed leaves and directories remain. Selected unremoved files: 0; selected unremoved logical bytes: 0.
+
+Root externally observed EXIT0 in session 32459 (tool b90934); the observation time is not a native exit timestamp. Original RESULT, opening metadata and closed journals supply counts; no terminal, session, exit or finish time is inferred. Process-output evidence is the exact bounded tool observation; it is not claimed as full isolated native stdout.
+
+Automatic approval rejected the Source14 metadata-approval helper before CreateProcess. It never ran: no session or exit code exists for that rejected launch, and it produced no maps, native/Git calls or cleanup. The stated reason was that a finite six-index search did not prove complete per-target prior-history coverage and could manufacture no-history approvals. Under owner rule 4, the entire item and all fourteen static/data roots below are left out, with no retry, workaround or history repair. Original EXIT1/no-seal build histories and every earlier refusal remain unchanged.
+
+| Excluded Source14 root | Disposition |
+|---|---|
+| _tmp/cwc2/project/recipe-atlas/static | automatic-review refusal; zero cleanup credit |
+| _tmp/cwc2/project/recipe-atlas/data | automatic-review refusal; zero cleanup credit |
+| _tmp/bkf1/project/recipe-atlas/static | automatic-review refusal; zero cleanup credit |
+| _tmp/bkf1/project/recipe-atlas/data | automatic-review refusal; zero cleanup credit |
+| _tmp/ft9b5/project/recipe-atlas/static | automatic-review refusal; zero cleanup credit |
+| _tmp/ft9b5/project/recipe-atlas/data | automatic-review refusal; zero cleanup credit |
+| _tmp/ft9b4/project/recipe-atlas/static | automatic-review refusal; zero cleanup credit |
+| _tmp/ft9b4/project/recipe-atlas/data | automatic-review refusal; zero cleanup credit |
+| _tmp/ft9b6/project/recipe-atlas/static | automatic-review refusal; zero cleanup credit |
+| _tmp/ft9b6/project/recipe-atlas/data | automatic-review refusal; zero cleanup credit |
+| _tmp/fvc1/project/recipe-atlas/static | automatic-review refusal; zero cleanup credit |
+| _tmp/fvc1/project/recipe-atlas/data | automatic-review refusal; zero cleanup credit |
+| _tmp/ft9b7/project/recipe-atlas/static | automatic-review refusal; zero cleanup credit |
+| _tmp/ft9b7/project/recipe-atlas/data | automatic-review refusal; zero cleanup credit |
+
+Source14 contributes zero removed files, zero cleanup bytes and zero funding. Its 4,493,671,900 conditional logical bytes were metadata only, not reclaimed or budgeted. The unchanged 137 conservative protection/refusal scopes plus these 14 excluded roots give 151 effective exclusions; this does not relabel all original 137 scopes as automatic refusals.
+
+Choice: leave the entire Source14 item out because automatic review rejected its metadata-approval launch; continue only independently authorized disjoint work.
+
+Q31 publication was already reported: 32 papers, 41 records and 191 captioned crops; totals 2,622 papers, 6,426 records and 4,305 pairs. Source 1e9cb1ffdb048d92654d6052ef65bd57b027d9b7; Site d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0. This cleanup/report append adds zero papers, records, figures, pairs or publication credit. All earlier cleanup counts remain in the exact preserved prefix and receive zero new removal credit. Only newly closed Small9 journals supply the removal counts above; unvisited or observed-without-closed-journal roles receive zero credit. Prior removed members remain subtracted by the unchanged Small9 independent verifier.
+
+Canonical Source/Site, protected model/server, owner inputs, source PDFs/text, quoted pass/pair/training payloads, private audits, controls, receipts and failures remain outside this report-only operation. No paper or quoted payload is uploaded. Normal release, article, native and storage checks are unchanged.
+
+At report write: actual C-free 137600774144 bytes; Root-bound positive allowance for every unfinished normal and bounded report/metadata write 2147483648 bytes; free minus allowance 135453290496 bytes. Required reserve: 107374182400 bytes. Anticipated cleanup gains never fund writes; unrelated applications may change free space.
