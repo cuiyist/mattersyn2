@@ -3185,3 +3185,24 @@ Automatic approval review previously rejected the separate Source14 history-appr
 Choice: use ordinary content-preserving compression of closed metadata while preparing smaller proven cleanup scopes, because the full website build would breach the reserved-space budget. Only a positive 2 GiB complete unfinished metadata/compression allowance was funded; no anticipated deletion or compression gain funded a write. A normal Source release still needs at least its measured 40 GiB full-build allowance plus the separately estimated 13,703,892,312-byte preliminary allocation above the 100 GiB reserve. It remains unfunded; no release check is weakened and no new paper is counted by this storage operation.
 
 Q31 remains verified live once at Site d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0: 32 papers, 41 records and 191 captioned crops; overall 2,622 papers / 6,426 records / 4,305 recipe-structure pairs / 1,122 material families. No publication is replayed. The accepted bounded queue remains 3,178 physical entries: 459 IN / 802 OUT / 1,917 uncertain; these are not certified unique-primary totals or an exhaustion claim. The audited lane, Worker A/B and five older owner questions remain paused. The simple website job remains active subject to the unchanged scope, privacy, storage and release rules. No continuous-work, accuracy or throughput claim is made.
+
+## Group1 closed-journal cleanup accounting
+
+The unchanged Group1 independent accountant reproduced 148,923 newly removed known generated leaves / 1,215,039,251 logical bytes from 5 closed-accounted roles. Visited roles: 5; observed without a closed journal: 0; unvisited: 0. Holds: 43; errors: 0.
+
+| Exact generated root | Accounting state | Removed files | Removed logical bytes | Holds | Errors |
+|---|---|---:|---:|---:|---:|
+| research-assets/simple-website-20261010/batch30/q5/local-build/project/recipe-atlas/dist | closed journal | 33673 | 292077837 | 3 | 0 |
+| research-assets/simple-website-20261010/batch16/r/site-preview | closed journal | 29811 | 256962002 | 19 | 0 |
+| research-assets/simple-website-20261010/batch16/q-r2/local-build/project/recipe-atlas/dist | closed journal | 29811 | 256962002 | 7 | 0 |
+| research-assets/simple-website-20261010/batch16/r/site-stage | closed journal | 27814 | 204518705 | 7 | 0 |
+| research-assets/simple-website-20261010/batch16/r/final/project/recipe-atlas/dist | closed journal | 27814 | 204518705 | 7 | 0 |
+
+Actual C-free before: 137832779776 bytes; after: 139199516672 bytes. These point observations are not isolated physical cleanup gains. Original whole-attempt success remains false; original result status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS. Selected unremoved files: 0; selected unremoved logical bytes: 0.
+
+Root externally observed EXIT0 in session 30771 (tool 0bdbc1); its observation time is not a native exit timestamp. Counts come only from the original RESULT and independently matched closed journals. No terminal, completion or unvisited deletion is inferred.
+
+All earlier cleanup and ColdNext20 compression remain in the exact existing report prefix and receive zero new removal/compression credit. Source14 remains entirely excluded, with zero credit and no retry or workaround. The 151 conservative scopes are the old mixed 137 protections/refusals plus fourteen roots associated with one rejected launch, not 151 automatic rejections. Original Scope15 EXIT1/ownership hold remains unchanged.
+
+Q31 remains verified live once at Source 1e9cb1ffdb048d92654d6052ef65bd57b027d9b7 and Site d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0. This cleanup/report adds zero papers, records, figures, pairs or publication credit. Unknowns, directories, protected inputs, controls and every original failure remain. No source text, quotes or private payload is uploaded.
+Process-output evidence is a bounded exact tool observation, not claimed as full isolated native stdout.
