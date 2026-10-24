@@ -3206,3 +3206,26 @@ All earlier cleanup and ColdNext20 compression remain in the exact existing repo
 
 Q31 remains verified live once at Source 1e9cb1ffdb048d92654d6052ef65bd57b027d9b7 and Site d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0. This cleanup/report adds zero papers, records, figures, pairs or publication credit. Unknowns, directories, protected inputs, controls and every original failure remain. No source text, quotes or private payload is uploaded.
 Process-output evidence is a bounded exact tool observation, not claimed as full isolated native stdout.
+
+## Group2 closed-journal cleanup accounting
+
+The unchanged Group2 independent accountant reproduced 138,356 newly removed known generated leaves / 1,329,039,903 logical bytes from 7 closed-accounted roles. Visited roles: 7; observed without a closed journal: 0; unvisited: 0. Holds: 3,788; errors: 0.
+
+| Exact generated root | Accounting state | Removed files | Removed logical bytes | Holds | Errors |
+|---|---|---:|---:|---:|---:|
+| research-assets/simple-website-20261010/batch16/r/candidate/project/recipe-atlas/dist | closed journal | 27814 | 204518705 | 7 | 0 |
+| research-assets/simple-website-20261010/batch16/q-caption-fix/local-build/project/recipe-atlas/dist | closed journal | 14117 | 173789998 | 3 | 0 |
+| research-assets/simple-website-20261010/batch15/q-r2/local-build/project/recipe-atlas/dist | closed journal | 25806 | 182899784 | 3765 | 0 |
+| research-assets/simple-website-20261010/batch15/q-r3/local-build/project/recipe-atlas/dist | closed journal | 13966 | 172838519 | 3 | 0 |
+| research-assets/simple-website-20261010/batch14/q-r2/local-build/project/recipe-atlas/dist | closed journal | 29117 | 251906981 | 4 | 0 |
+| research-assets/simple-website-20261010/batch14/r/final/project/recipe-atlas/dist | closed journal | 13768 | 171542958 | 3 | 0 |
+| research-assets/simple-website-20261010/batch14/r/candidate/project/recipe-atlas/dist | closed journal | 13768 | 171542958 | 3 | 0 |
+
+Actual C-free before: 139172790272 bytes; after: 139085283328 bytes. These point observations are not isolated physical cleanup gains. Original whole-attempt success remains false; original result status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS. Selected unremoved files: 0; selected unremoved logical bytes: 0.
+
+Root externally observed EXIT0 in session 84810 (tool 8bd9e2); its observation time is not a native exit timestamp. Counts come only from the original RESULT and independently matched closed journals. No terminal, completion or unvisited deletion is inferred.
+
+All earlier cleanup and ColdNext20 compression remain in the exact existing report prefix and receive zero new removal/compression credit. Source14 remains entirely excluded, with zero credit and no retry or workaround. The 151 conservative scopes are the old mixed 137 protections/refusals plus fourteen roots associated with one rejected launch, not 151 automatic rejections. Original Scope15 EXIT1/ownership hold remains unchanged.
+
+Q31 remains verified live once at Source 1e9cb1ffdb048d92654d6052ef65bd57b027d9b7 and Site d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0. This cleanup/report adds zero papers, records, figures, pairs or publication credit. Unknowns, directories, protected inputs, controls and every original failure remain. No source text, quotes or private payload is uploaded.
+Process-output evidence is a bounded exact tool observation, not claimed as full isolated native stdout.
