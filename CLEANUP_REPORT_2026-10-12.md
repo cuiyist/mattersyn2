@@ -3255,3 +3255,23 @@ Source PR96 was ordinarily merged at 8dc77c5 after its normal local13, GUI and e
 The original complete 8 GiB positive-capacity guard was retained. A considered 2 GiB phase draft was cancelled and never used. The collector received only the missing Python-path binding correction; the accountant R2 counts every selected map including unvisited roles, sums holds/errors across all observed roles, and separates unclosed removal reports without credit. Existing code, failures and technical history remain preserved.
 
 All earlier cleanup and ColdNext20 compression remain in the exact report prefix and receive zero new credit here. Source14 remains entirely excluded, with zero cleanup credit and no retry or workaround. The 151 conservative scopes are the older mixed 137 protections/refusals plus fourteen roots associated with one rejected launch; this is not 151 separate automatic rejections. Unknowns, directories, protected source inputs, local quote-bearing files, controls and original failed/held statuses remain. No source text or private payload is uploaded.
+
+## Source2 failed-export temporary retirement: independently closed accounting
+
+The independent accountant reproduced 51,926 removed known temporary leaves / 4,269,564,482 logical bytes. Visited roles: 1; closed-accounted: 1; observed without closed journal: 0; unvisited: 0. Holds: 97; errors: 0.
+
+Only the public SourceT-matching intersection of ps2/source-boundary was selected. Changed or unpublished H2 tuples, unknowns, directories and all protected inputs/history were retained. These are newly created temporary copies: retiring them is not an equal net reduction claim for the older MatterSyn footprint. Unvisited or unclosed raw-reported removals receive zero credit.
+
+| Generated root | Accounting state | Removed files | Removed logical bytes | Holds | Errors |
+|---|---|---:|---:|---:|---:|
+| ps2/source-boundary | closed journal | 51926 | 4269564482 | 97 | 0 |
+
+Actual C-free before: 135917371392 bytes; after: 140301725696 bytes. These physical free-space point observations are separate from logical removed bytes and do not isolate cleanup gain from other activity. Original whole-attempt success: false; original result status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS. Selected unremoved: 0 files / 0 logical bytes. Unclosed raw-reported removals remain unverified: 0 files / 0 bytes; zero credit.
+
+Root externally observed cleanup session 3130 / tool 5bbbca / EXIT0. Its review timestamp is not a native exit timestamp. The process capture preserves only the exact final returned tool output; earlier yielded lines remain in original tool history. It is not claimed as full isolated native stdout.
+
+Source2 H2 ea70d604b693995496c01319156ca87e7ea733ec remains unpublished failed history. Its first twelve normal phases passed; the final complete-build quality gate failed two Ge checks. The four Lu Ge records remain held; the gate and scientific records were not repaired or weakened. The selected Song CsPbCl3 record remains pending publication through separate normal Source3 work. This cleanup/report creates no Source or Site publication credit.
+
+The frozen verified Q31 Site d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0 remains the publication context: 2,622 papers / 6,426 records / 4,305 pairs / 1,122 families. SourceT f6d3211ab30cccdca17b160338d378aac0025268 supplies reconstruction provenance only; there is no new Site deployment here.
+
+All prior cleanup/compression totals remain in the exact report prefix and receive zero new credit. The entire Source14 actually refused item remains excluded, with zero cleanup credit, no retry and no bypass. The older mixed 137 protections/refusals plus fourteen literal refused roots are not 151 separate rejections. Original failures, held statuses, source inputs, local quoted payloads, model/server/CUDA, controls, journals and evidence remain preserved. No paper text, quoted data or private audit payload is uploaded.
