@@ -3275,3 +3275,31 @@ Source2 H2 ea70d604b693995496c01319156ca87e7ea733ec remains unpublished failed h
 The frozen verified Q31 Site d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0 remains the publication context: 2,622 papers / 6,426 records / 4,305 pairs / 1,122 families. SourceT f6d3211ab30cccdca17b160338d378aac0025268 supplies reconstruction provenance only; there is no new Site deployment here.
 
 All prior cleanup/compression totals remain in the exact report prefix and receive zero new credit. The entire Source14 actually refused item remains excluded, with zero cleanup credit, no retry and no bypass. The older mixed 137 protections/refusals plus fourteen literal refused roots are not 151 separate rejections. Original failures, held statuses, source inputs, local quoted payloads, model/server/CUDA, controls, journals and evidence remain preserved. No paper text, quoted data or private audit payload is uploaded.
+
+## Source2 failed-CS2 seven-root retirement: independently closed accounting
+
+The independent accountant reproduced 98,675 removed known temporary leaves / 8,372,149,319 logical bytes. Visited: 7; closed-accounted: 7; observed without closed journal: 0; unvisited: 0. Holds: 7,444; errors: 0.
+
+Only seven exact copied Source/Site intersections from the failed cs2 candidate were selected. Five copied Source roots require original untransformed H2 snapshot tuples matching retained public SourceT; two copied dist roots require retained published SiteL tuples. Differing or unpublished Lu/Song bytes, unknowns, directories and all protected inputs/history remain. Retiring newly generated temporary copies is not an equal net reduction claim for the older MatterSyn footprint. No unvisited or unclosed raw-reported removal receives credit.
+
+| Generated root | Accounting state | Removed files | Removed logical bytes | Holds | Errors |
+|---|---|---:|---:|---:|---:|
+| cs2/project/recipe-atlas/static | closed journal | 42800 | 3994786895 | 33 | 0 |
+| cs2/project/recipe-atlas/data | closed journal | 6691 | 244218807 | 32 | 0 |
+| cs2/project/recipe-atlas/scripts | closed journal | 33 | 428797 | 2 | 0 |
+| cs2/project/recipe-atlas/templates | closed journal | 1 | 1006 | 0 | 0 |
+| cs2/project/recipe-atlas/tests | closed journal | 73 | 419539 | 2 | 0 |
+| cs2/project/recipe-atlas/dist/assets | closed journal | 38613 | 3980138893 | 30 | 0 |
+| cs2/project/recipe-atlas/dist/data | closed journal | 10464 | 152155382 | 7345 | 0 |
+
+Actual C-free before: 139757441024 bytes; after: 147829755904 bytes. Physical free-space observations are separate from logical removed bytes and do not isolate cleanup gain from other activity. Original whole-attempt success: false; original result status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS. Selected unremoved: 0 files / 0 logical bytes. Unclosed raw-reported removals remain unverified: 0 files / 0 bytes; zero credit.
+
+Root externally observed the new R2 cleanup in session 98993 / tool 875417 / EXIT0. Its observation timestamp is not a native exit timestamp. Only the explicitly qualified tool-returned observation is preserved; no full isolated native stdout is claimed.
+
+The original R1 attempt was a direct immediate EXIT1, tool748d7d, with no numeric session. Its unchanged context-output guard stopped before any role: removed0 files/0 bytes, directories removed0, programs stopped0. The old protected context and the full R1 family remain unchanged. R2 uses fresh output paths, qualification, preflight and native observations; no R1 removal credit or fabricated numeric session is used. The stale R1-sized operator pin in the unassigned accounting template is preserved as a technical defect; the actual accounting input must bind the complete R2 operator triple.
+
+Current Source3 H3 12b4e32563f1e803adf916de9b1ed9dbcbb8ee95 is local cleanup occupancy, not a Site publication claim. The frozen verified Q31 Site d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0 remains the publication context: 2,622 papers / 6,426 records / 4,305 pairs / 1,122 families. Public Source96 maintenance at 8dc77c5 is already in the prior report; SourceT reconstruction is f6d3211ab30cccdca17b160338d378aac0025268. This report creates no Source/Site publication, new papers/records/pairs/figures, or scientific audit credit.
+
+Source2 H2 ea70d604b693995496c01319156ca87e7ea733ec remains failed unpublished history: first twelve phases passed and final complete-build Ge checks failed. Lu4 remains held; the gate was not weakened and no source reread or scientific repair was performed.
+
+All prior cleanup/compression totals remain in the exact report prefix with zero new credit. The entire Source14 actually refused item and broader protected parents remain excluded, with no retry, bypass or cleanup credit. Original errors, holds, unknowns, partial/unvisited states, source inputs, local quoted payloads, protected Qwen32/server/CUDA, controls, journals and evidence are preserved. No paper text or private audit payload is uploaded.
