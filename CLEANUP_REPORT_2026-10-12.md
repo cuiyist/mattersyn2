@@ -3021,3 +3021,40 @@ Root externally observed cleanup EXIT0 (session 23637, tool 4a7262); that observ
 This cleanup adds zero publication credit and changes no normal release check. Earlier RAW2, RAW4, POSTPUB16 and all failed/partial histories remain separate in the preserved prefix. Root must freshly measure actual free space and budget every unfinished allocation before any further large write; proposed cleanup bytes are never funding.
 
 At this report write, actual C-free bytes: 146418262016; Root-bound allowance for all unfinished writes: 8589934592; free minus that allowance: 137828327424. The fixed reserve is 107374182400 bytes. Anticipated cleanup or compression gains are not funding.
+
+### 2026-10-24 — R22 Source4, Q31 Source4 and C22 Site2 closed cleanup accounting
+
+Three original independent accountants reproduced 52,981 known generated leaves / 18,787,844,742 logical bytes removed across ten closed roots. Held entries: 187,629; errors: 0; selected unremoved leaves: 0. All three original whole-attempt results remain false because held subsets remain. These are actual closed-journal sums, not planned cleanup ceilings.
+
+| Cleanup / exact generated root | Removed files | Removed logical bytes | Holds | Errors |
+|---|---:|---:|---:|---:|
+| R22 Source4 / r22/candidate/project/recipe-atlas/static | 9622 | 3195868931 | 29032 | 0 |
+| R22 Source4 / r22/candidate/project/recipe-atlas/data | 337 | 280132052 | 5929 | 0 |
+| R22 Source4 / r22/final/project/recipe-atlas/static | 9622 | 3195868931 | 29032 | 0 |
+| R22 Source4 / r22/final/project/recipe-atlas/data | 337 | 280132052 | 5929 | 0 |
+| Q31 Source4 / p31/source-boundary/recipe-atlas/static | 11220 | 3813827040 | 31587 | 0 |
+| Q31 Source4 / p31/source-boundary/recipe-atlas/data | 347 | 297539360 | 6370 | 0 |
+| Q31 Source4 / c31/project/recipe-atlas/static | 11220 | 3813827040 | 31587 | 0 |
+| Q31 Source4 / c31/project/recipe-atlas/data | 347 | 297539360 | 6370 | 0 |
+| C22 Site2 / c22/project/recipe-atlas/dist/assets | 9610 | 3191772302 | 25300 | 0 |
+| C22 Site2 / c22/project/recipe-atlas/dist/data | 319 | 421337674 | 16493 | 0 |
+
+| Cleanup | Actual C-free before (bytes) | Actual C-free after (bytes) | Whole attempt success |
+|---|---:|---:|---|
+| R22 Source4 | 119718019072 | 126469120000 | false |
+| Q31 Source4 | 126450429952 | 134694043648 | false |
+| C22 Site2 | 134674976768 | 138300649472 | false |
+
+Logical bytes and actual C-free observations are separate measures. The before/after free-space points are not isolated physical cleanup gains and are not added together. Unknown or unselected leaves and directories remain; each whole-attempt result stays false. Original results, closed journals, held-entry reasons, manifests, snapshots, validation and GUI evidence remain unchanged. Earlier R22 failed/partial history, the original Q31 RAW4 technical failure and its successful separate r2 attempt remain preserved; those earlier counts are not replayed.
+
+R22 Source4: original result status ATTEMPT_FINISHED_WITH_HELD_SUBSETS; Root observed EXIT0 in session 20640 (tool 9d4fc1). The observation time is not a native exit timestamp.
+
+Q31 Source4: original result status ATTEMPT_FINISHED_WITH_HELD_SUBSETS; Root observed EXIT0 in session 68346 (tool 67fa1d). The observation time is not a native exit timestamp.
+
+C22 Site2: original result status ATTEMPT_FINISHED_WITH_HELD_SUBSETS; Root observed EXIT0 in session 46468 (tool a5887a). The observation time is not a native exit timestamp.
+
+Cleanup-time validation used Source 1e9cb1ffdb048d92654d6052ef65bd57b027d9b7 and Site 2f53934f972bb5dff113cbf069870862954b2523. Historical R22 Source reconstruction used e6184de0cc6d7c1be21c6847ee27768ee7a8e8ac; C22 assets/data reconstruction used retained Site 826d7dc435a836c9b078bc7f6e0e8b9888efbc99. These contexts are distinct and imply no new website publication.
+
+Only these three independently verified cleanups contribute to this append. P116 and the proposed residual-small selection are excluded. This report grants zero publication credit, changes no Source/Site content or release check, and uploads no source PDFs, page text, quotes, private audits, pair/pass/training payloads or credentials. The active model/server and canonical Source/Site checkouts remain protected.
+
+At this report write, actual C-free bytes: 141068701696; Root-bound positive allowance for every unfinished bounded metadata/cleanup write: 4294967296; free minus that allowance: 136773734400. The fixed reserve is 107374182400 bytes. Full normal release dry remains parked under this report-only runtime. Anticipated cleanup gains do not fund any write; unrelated applications may change free space.
