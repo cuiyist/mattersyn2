@@ -3303,3 +3303,33 @@ Current Source3 H3 12b4e32563f1e803adf916de9b1ed9dbcbb8ee95 is local cleanup occ
 Source2 H2 ea70d604b693995496c01319156ca87e7ea733ec remains failed unpublished history: first twelve phases passed and final complete-build Ge checks failed. Lu4 remains held; the gate was not weakened and no source reread or scientific repair was performed.
 
 All prior cleanup/compression totals remain in the exact report prefix with zero new credit. The entire Source14 actually refused item and broader protected parents remain excluded, with no retry, bypass or cleanup credit. Original errors, holds, unknowns, partial/unvisited states, source inputs, local quoted payloads, protected Qwen32/server/CUDA, controls, journals and evidence are preserved. No paper text or private audit payload is uploaded.
+
+## Held-H3 seven-root preliminary-copy retirement: independently closed accounting
+
+The independent accountant reproduced 164,436 removed known temporary leaves / 12,867,676,059 logical bytes. Visited: 7; closed-accounted: 7; observed without closed journal: 0; unvisited: 0. Holds: 208; errors: 0.
+
+Selection covers only exact public intersections in seven H3 temporary roots: one Source export, five copied Source directories and one generated dist directory. Source leaves require untransformed H3 tuples equal to retained public SourceT; copied Source leaves also match the original H3 snapshot. Dist leaves must equal retained published SiteL. H3-only or differing bytes, unknowns, directories, controls/history and protected inputs remain. Retiring newly generated preliminary copies is not an equal net reduction claim for the historical MatterSyn footprint. Unvisited/unclosed raw-reported removals earn zero credit.
+
+| Generated root | Accounting state | Removed files | Removed logical bytes | Holds | Errors |
+|---|---|---:|---:|---:|---:|
+| ps3/source-boundary | closed journal | 51926 | 4269564482 | 76 | 0 |
+| cs3/project/recipe-atlas/static | closed journal | 42800 | 3994786895 | 16 | 0 |
+| cs3/project/recipe-atlas/data | closed journal | 6691 | 244218807 | 28 | 0 |
+| cs3/project/recipe-atlas/scripts | closed journal | 33 | 428797 | 2 | 0 |
+| cs3/project/recipe-atlas/templates | closed journal | 1 | 1006 | 0 | 0 |
+| cs3/project/recipe-atlas/tests | closed journal | 73 | 419539 | 2 | 0 |
+| cs3/project/recipe-atlas/dist | closed journal | 62912 | 4358256533 | 84 | 0 |
+
+Actual C-free before: 133016616960 bytes; after: 146243743744 bytes. These physical free-space points are distinct from logical removed bytes and do not isolate cleanup gain from concurrent activity. Original whole-attempt success: false; original result status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS. Selected unremoved: 0 files / 0 logical bytes. Unclosed raw-reported removals remain unverified: 0 files / 0 bytes; zero credit.
+
+Root externally observed this cleanup in session 38732 / tool 06ecd7 / EXIT0. Its observation timestamp is not a native exit timestamp. Only the qualified returned tool observation is preserved; full isolated native stdout is not claimed.
+
+The held producer H3 12b4e32563f1e803adf916de9b1ed9dbcbb8ee95 genuinely passed all thirteen normal local phases in session62491/toolc91827. Its actual desktop/phone visual review remained HOLD, not PASS: unsupported quadrilateral phase wording and unresolved CsPbCl3 unit-cell coordinates were recorded. No Source push or Site publication followed from that GUI receipt. The exact owned preview was retired with original PID, creation time, executable, argv, CWD and listener verified on the same open handle. No protected Qwen/server or other program was stopped.
+
+An exact-token phase-omission proposal does not infer a replacement or shape, supply coordinates, clear the GUI hold or authorize publication. The separate CsPbCl3 bulk-reference lead remains unregistered: its dataset license conflicts with an embedded upstream rights notice, and its selected CIF does not specify temperature. It is not verified reusable, computed/relaxed, or matched to the Song sample. No CsPbBr3 substitution or ideal coordinates are used.
+
+Cleanup occupancy was Source 12b4e32563f1e803adf916de9b1ed9dbcbb8ee95; reconstruction remains already-public SourceT f6d3211ab30cccdca17b160338d378aac0025268 and SiteL d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0. Source96 maintenance was already public and receives no new credit. Frozen verified Q31 remains the Site publication context: 2,622 papers / 6,426 records / 4,305 pairs / 1,122 families. This append publishes no papers, records, pairs, crops or source code and grants no scientific audit credit.
+
+The exact next-two saved-pair metadata diagnostic ee88bf returned no_usable_pairs for both papers: zero generated and zero eligible records, seven figures all present (4+3), no technical input holds and unchanged input-pair bindings. No new extraction, source reading, scientific audit or claim occurred. This does not establish current physical identity, Scope, caption completeness, admission, readiness or queue exhaustion.
+
+All prior cleanup/compression totals, failed-H2/held-Lu history and the R1 immediate NULL-session zero-context-guard attempt remain in the exact report prefix with zero new credit. The entire actual Source14 refused item and broader protected parents remain excluded; no retry, bypass or cleanup credit. Holds/errors/unknown/partial states, protected inputs, quoted payloads, audited training, model/CUDA, controls and journals remain local and unchanged. No paper text, PDF, source images or private audit payload is uploaded.
