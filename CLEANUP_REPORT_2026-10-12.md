@@ -2969,3 +2969,24 @@ The actual cleanup terminal was externally observed as EXIT0 (session 41116, too
 This cleanup adds zero publication credit and changes no normal release check. The previously reported Source-only RAW2 attempt and every earlier failure remain separate and unchanged in this report's preserved prefix.
 
 At this report write, actual C-free bytes: 152790036480; Root-bound allowance for all unfinished writes: 4294967296; free minus that allowance: 148495069184. The fixed reserve remains 107374182400 bytes. The allowance includes this report and actual unfinished website work; anticipated cleanup or compression gains are not funding.
+
+### 2026-10-24 — Q30 prepublication four-root cleanup accounting
+
+Independent four-role closed-journal accounting verified 22,808 known generated leaves / 8,060,771,470 logical bytes removed. Held entries: 75294; errors: 0; closed roles: 4/4; unvisited roles: 0. Selected unremoved leaves: 0 / 0 logical bytes. Whole attempt success: false. These are actual journal sums, never the conditional selected-map ceiling.
+
+| Exact generated root with closed accounting | Removed files | Removed logical bytes | Holds | Errors |
+|---|---:|---:|---:|---:|
+| p30/source-boundary/recipe-atlas/static | 11058 | 3734562729 | 31318 | 0 |
+| p30/source-boundary/recipe-atlas/data | 346 | 295823006 | 6329 | 0 |
+| c30/project/recipe-atlas/static | 11058 | 3734562729 | 31318 | 0 |
+| c30/project/recipe-atlas/data | 346 | 295823006 | 6329 | 0 |
+
+Operator C-free observations: 138,581,164,032 bytes before and 146,675,970,048 after. Actual report-write C-free is recorded separately below. No isolated physical-gain or inferred wrapper pair is claimed.
+
+Removed logical bytes and actual C-free observations measure different things. C-free changes are non-isolated point observations, not exact physical cleanup gains. Original histories, failed/partial attempts, manifests, snapshots, validation/GUI evidence, directories, unknown leaves and closed journals remain. Canonical Source/Site, papers, page text, quoted passes/pairs/training, credentials and the active model/server are outside this cleanup.
+
+Root externally observed cleanup EXIT0 (session 64080, tool 9acf67); that observation time is not a native exit timestamp. Original result status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS. Reconstruction uses retained Source 22783dbd925dbb6a2df97b6e6f9964fa76e97379; current Site context is 12b052f1ad730d13e518256dd22f8a188af7c62e. Holds, failures and original results remain unchanged in the independently reproduced proof.
+
+This cleanup adds zero publication credit and changes no normal release check. Earlier RAW2, POSTPUB16 and all failed/partial histories remain separate in the preserved prefix. The next full normal dry is not funded by proposed cleanup bytes; Root must freshly measure actual free space and budget every unfinished allocation.
+
+At this report write, actual C-free bytes: 146652172288; Root-bound allowance for all unfinished writes: 37580963840; free minus that allowance: 109071208448. The fixed reserve is 107374182400 bytes. Anticipated cleanup or compression gains are not funding.
