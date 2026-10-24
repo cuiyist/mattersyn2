@@ -2936,3 +2936,36 @@ The original metadata-authoring attempt remains recorded as EXIT1 (tool ce1dea):
 This cleanup adds zero papers and makes no Q29 Site-publication claim. Source925c is ordinarily merged and retained; the independently verified Site context at cleanup remains Q28 Site74ec. The normal release workflow and every release check remain unchanged. Subsequent release/build work is reported only from its own actual results.
 
 At this report write, actual C-free bytes: 117563559936; Root-bound allowance for all unfinished writes: 8764900299; free minus that allowance: 108798659637. The fixed reserve is 107374182400 bytes. This allowance includes the report and actual unfinished website work; anticipated cleanup or compression gains are not funding.
+
+### 2026-10-23 — Q29 postpublication sixteen-root cleanup accounting
+
+Independent closed-journal accounting verified 424,008 known public leaves / 35,210,450,550 logical bytes removed. Held entries: 10; errors: 0; visited roles: 16/16; closed-accounted roles: 16; unvisited roles: 0; unaccounted observed roles: 0. Selected unremoved leaves: 0 / 0 logical bytes. Whole attempt success: false. These are actual journal sums, never the conditional selected-map ceiling. Known-absent/not-traversed entries in closed roles: 0.
+
+| Exact generated root with closed accounting | Removed files | Removed logical bytes | Holds | Errors |
+|---|---:|---:|---:|---:|
+| c29/project/recipe-atlas/static | 42071 | 3897893812 | 0 | 0 |
+| c29/project/recipe-atlas/data | 6640 | 410284263 | 0 | 0 |
+| r29/candidate/project/recipe-atlas/static | 42071 | 3897893812 | 0 | 0 |
+| r29/candidate/project/recipe-atlas/data | 6640 | 410284263 | 0 | 0 |
+| r29/final/project/recipe-atlas/static | 42071 | 3897893812 | 0 | 0 |
+| r29/final/project/recipe-atlas/data | 6640 | 410284263 | 0 | 0 |
+| c29/project/recipe-atlas/dist/assets | 37961 | 3883417489 | 0 | 0 |
+| c29/project/recipe-atlas/dist/data | 17614 | 573765776 | 2 | 0 |
+| r29/candidate/project/recipe-atlas/dist/assets | 37961 | 3883417489 | 0 | 0 |
+| r29/candidate/project/recipe-atlas/dist/data | 17614 | 573765776 | 2 | 0 |
+| r29/final/project/recipe-atlas/dist/assets | 37961 | 3883417489 | 0 | 0 |
+| r29/final/project/recipe-atlas/dist/data | 17614 | 573765776 | 2 | 0 |
+| r29/site-preview/assets | 37961 | 3883417489 | 0 | 0 |
+| r29/site-preview/data | 17614 | 573765776 | 2 | 0 |
+| r29/site-stage/assets | 37961 | 3883417489 | 0 | 0 |
+| r29/site-stage/data | 17614 | 573765776 | 2 | 0 |
+
+Operator C-free observations: 117,265,588,224 bytes before and 152,791,863,296 after. Separate wrapper observations: 117,366,456,320 before and 152,791,842,816 after. Both pairs remain separate.
+
+Removed logical bytes and C-free observations measure different things. The free-space differences are non-isolated observations, not exact physical cleanup gains. All original attempt results, failed/partial histories, validation manifests, snapshots, journals, logs and proofs remain. Original directories and unknown or held leaves remain. Canonical Source/Site checkouts, private paper/training inputs and the active model/server are outside this cleanup.
+
+The actual cleanup terminal was externally observed as EXIT0 (session 41116, tool e5af91). Original result status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS. The cleanup was bound to retained Source 925c625efd705b9db54a4536737f757f1a38fac2 and verified Site 12b052f1ad730d13e518256dd22f8a188af7c62e. A failed or partial attempt, missing journals, selected-unremoved entries and original holds/errors remain visible in the independent proof; none is promoted to complete success.
+
+This cleanup adds zero publication credit and changes no normal release check. The previously reported Source-only RAW2 attempt and every earlier failure remain separate and unchanged in this report's preserved prefix.
+
+At this report write, actual C-free bytes: 152790036480; Root-bound allowance for all unfinished writes: 4294967296; free minus that allowance: 148495069184. The fixed reserve remains 107374182400 bytes. The allowance includes this report and actual unfinished website work; anticipated cleanup or compression gains are not funding.
