@@ -3229,3 +3229,29 @@ All earlier cleanup and ColdNext20 compression remain in the exact existing repo
 
 Q31 remains verified live once at Source 1e9cb1ffdb048d92654d6052ef65bd57b027d9b7 and Site d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0. This cleanup/report adds zero papers, records, figures, pairs or publication credit. Unknowns, directories, protected inputs, controls and every original failure remain. No source text, quotes or private payload is uploaded.
 Process-output evidence is a bounded exact tool observation, not claimed as full isolated native stdout.
+
+## Source-only maintenance temporary seven-root closed accounting
+
+The independent R2 accountant reproduced 164,471 newly removed known temporary leaves / 13,622,302,875 logical bytes from 7 closed-accounted roles. Visited: 7; observed without a closed journal: 0; unvisited: 0. Holds: 140; errors: 0.
+
+These are temporary copies created for this Source-only maintenance transaction. Retiring them is not a claim of an equal net reduction in the older MatterSyn folder footprint. No conditional, unvisited or unclosed reported removal receives cleanup or capacity credit.
+
+| Exact generated root | Accounting state | Removed files | Removed logical bytes | Holds | Errors |
+|---|---|---:|---:|---:|---:|
+| pms1/source-boundary | closed journal | 51939 | 4540622201 | 52 | 0 |
+| cms1/project/recipe-atlas/static | closed journal | 42802 | 4016105684 | 5 | 0 |
+| cms1/project/recipe-atlas/data | closed journal | 6694 | 389431754 | 23 | 0 |
+| cms1/project/recipe-atlas/scripts | closed journal | 33 | 428797 | 2 | 0 |
+| cms1/project/recipe-atlas/templates | closed journal | 1 | 1006 | 0 | 0 |
+| cms1/project/recipe-atlas/tests | closed journal | 73 | 419539 | 2 | 0 |
+| cms1/project/recipe-atlas/dist | closed journal | 62929 | 4675293894 | 56 | 0 |
+
+Actual C-free before: 137507561472 bytes; after: 151042609152 bytes. Logical removed bytes differ from physical free-space change; these observations do not isolate cleanup gain from other disk activity. Original whole-attempt success remains false; original result status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS. All-selected unremoved files: 0; logical bytes: 0. Unclosed raw-reported removals remain unverified with zero credit: 0 files / 0 logical bytes.
+
+Root externally observed EXIT0 in session 98477 (tool b992e3); its observation time is not a native exit timestamp. Process evidence is the exact returned tool output, not claimed as full isolated native stdout.
+
+Source PR96 was ordinarily merged at 8dc77c5 after its normal local13, GUI and exact-head CI checks; the five safe maintenance files were anonymously verified. Source checkout f6d3211ab30cccdca17b160338d378aac0025268 is retained; Site d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0 is unchanged. This maintenance, cleanup and report add zero new papers, records, figures, pairs, Site deployments or scientific publication credit.
+
+The original complete 8 GiB positive-capacity guard was retained. A considered 2 GiB phase draft was cancelled and never used. The collector received only the missing Python-path binding correction; the accountant R2 counts every selected map including unvisited roles, sums holds/errors across all observed roles, and separates unclosed removal reports without credit. Existing code, failures and technical history remain preserved.
+
+All earlier cleanup and ColdNext20 compression remain in the exact report prefix and receive zero new credit here. Source14 remains entirely excluded, with zero cleanup credit and no retry or workaround. The 151 conservative scopes are the older mixed 137 protections/refusals plus fourteen roots associated with one rejected launch; this is not 151 separate automatic rejections. Unknowns, directories, protected source inputs, local quote-bearing files, controls and original failed/held statuses remain. No source text or private payload is uploaded.
