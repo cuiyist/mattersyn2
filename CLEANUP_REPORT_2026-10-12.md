@@ -3090,3 +3090,30 @@ R31 recovery Source4: Root externally observed EXIT0 in session 96355 (tool 4462
 Only these two newly accounted cleanups contribute here. The preceding three R22 Source4, Q31 Source4 and C22 Site2 counts remain in the preserved prefix and receive zero new credit. Future postpublication cleanup and the proposed small-file selection are excluded. This report grants zero publication credit, changes no release check, and uploads no source PDFs/text, quotes, private audits, pair/pass/training payloads or credentials. Canonical Source/Site, owner inputs and active model/server remain protected. Website publication status is tracked separately.
 
 At report write, actual C-free bytes: 113476870144; Root-bound positive allowance for ALL remaining normal-release and bounded report/metadata writes: 3758096384; free minus that allowance: 109718773760. The fixed reserve is 107374182400 bytes. Root must account for already allocated copies and every unfinished write, regardless of normal release stage. Anticipated cleanup gains never fund writes, and unrelated applications may change free space.
+
+### 2026-10-24 — Q31 POSTPUB10 completed generated Site-copy cleanup
+
+The original independent accountant reproduced 57,650 known generated files / 21,249,518,605 logical bytes removed across ten closed roots; 224,455 held entries, 0 errors and 0 selected unremoved files. Counts come from the original closed journals, not planned ceilings.
+
+| Exact generated root | Removed files | Removed logical bytes | Holds | Errors |
+|---|---:|---:|---:|---:|
+| c31/project/recipe-atlas/dist/assets | 11208 | 3809730411 | 27414 | 0 |
+| c31/project/recipe-atlas/dist/data | 322 | 440173310 | 17477 | 0 |
+| r31/candidate/project/recipe-atlas/dist/assets | 11208 | 3809730411 | 27414 | 0 |
+| r31/candidate/project/recipe-atlas/dist/data | 322 | 440173310 | 17477 | 0 |
+| r31/final/project/recipe-atlas/dist/assets | 11208 | 3809730411 | 27414 | 0 |
+| r31/final/project/recipe-atlas/dist/data | 322 | 440173310 | 17477 | 0 |
+| r31/site-preview/assets | 11208 | 3809730411 | 27414 | 0 |
+| r31/site-preview/data | 322 | 440173310 | 17477 | 0 |
+| r31/site-stage/assets | 11208 | 3809730411 | 27414 | 0 |
+| r31/site-stage/data | 322 | 440173310 | 17477 | 0 |
+
+Actual C-free before: 113191768064 bytes; after: 134517751808 bytes. These point observations are not isolated physical cleanup gains. Removed logical bytes are a separate measure. Original whole-attempt success remains false; original result status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS. Unknown, protected, missing or changed leaves remain governed by the original held/error accounting; directories remain.
+
+Root externally observed EXIT0 in session 84454 (tool d3c89d); the observation time is not a native exit timestamp. Original RESULT and closed journals supply the counts.
+
+Q31 was already verified live before this cleanup: 32 added papers, 41 added records and 191 captioned crops; site totals 2,622 papers, 6,426 records and 4,305 pairs. Source: 1e9cb1ffdb048d92654d6052ef65bd57b027d9b7; Site: d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0. These established publication counts are stated once for context; this report append and cleanup confer zero new publication credit.
+
+All earlier cleanup counts, original failures, technical holds and their corrections remain in the exact preserved report prefix and immutable accounting history. P116, the R31 raw Source recovery, the earlier Q31 raw Source copies and all other previous cleanups receive zero new removal credit here. Only the ten independently closed generated Site-copy roots above contribute. Canonical Source/Site checkouts, raw Source roots, controls/manifests/snapshots/history, owner inputs and the protected model/server remain outside this selection. No source PDFs, full text, quoted private payloads, pair/pass/training files or private audits are uploaded.
+
+At report write: actual C-free 134482997248 bytes; Root-bound positive allowance for every unfinished normal and bounded report/metadata write 2147483648 bytes; free minus allowance 132335513600 bytes. Required reserve: 107374182400 bytes. Anticipated cleanup gains do not fund writes; unrelated applications may change free space.
