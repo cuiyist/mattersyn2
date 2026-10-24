@@ -2990,3 +2990,34 @@ Root externally observed cleanup EXIT0 (session 64080, tool 9acf67); that observ
 This cleanup adds zero publication credit and changes no normal release check. Earlier RAW2, POSTPUB16 and all failed/partial histories remain separate in the preserved prefix. The next full normal dry is not funded by proposed cleanup bytes; Root must freshly measure actual free space and budget every unfinished allocation.
 
 At this report write, actual C-free bytes: 146652172288; Root-bound allowance for all unfinished writes: 37580963840; free minus that allowance: 109071208448. The fixed reserve is 107374182400 bytes. Anticipated cleanup or compression gains are not funding.
+
+### 2026-10-24 — Q30 postpublication fourteen-root cleanup accounting
+
+Independent fourteen-role closed-journal accounting verified 79,643 known generated leaves / 28,901,515,540 logical bytes removed. Held entries: 298104; errors: 0; closed roles: 14/14; unvisited roles: 0. Selected unremoved leaves: 0 / 0 logical bytes. Whole attempt success: false. These are actual journal sums, never the conditional selected-map ceiling.
+
+| Exact generated root with closed accounting | Removed files | Removed logical bytes | Holds | Errors |
+|---|---:|---:|---:|---:|
+| c30/project/recipe-atlas/dist/assets | 11046 | 3730466100 | 27186 | 0 |
+| c30/project/recipe-atlas/dist/data | 321 | 437682714 | 17376 | 0 |
+| r30/candidate/project/recipe-atlas/static | 11058 | 3734562729 | 31318 | 0 |
+| r30/candidate/project/recipe-atlas/data | 346 | 295823006 | 6329 | 0 |
+| r30/final/project/recipe-atlas/static | 11058 | 3734562729 | 31318 | 0 |
+| r30/final/project/recipe-atlas/data | 346 | 295823006 | 6329 | 0 |
+| r30/candidate/project/recipe-atlas/dist/assets | 11046 | 3730466100 | 27186 | 0 |
+| r30/candidate/project/recipe-atlas/dist/data | 321 | 437682714 | 17376 | 0 |
+| r30/final/project/recipe-atlas/dist/assets | 11046 | 3730466100 | 27186 | 0 |
+| r30/final/project/recipe-atlas/dist/data | 321 | 437682714 | 17376 | 0 |
+| r30/site-preview/assets | 11046 | 3730466100 | 27186 | 0 |
+| r30/site-preview/data | 321 | 437682714 | 17376 | 0 |
+| r30/site-stage/assets | 11046 | 3730466100 | 27186 | 0 |
+| r30/site-stage/data | 321 | 437682714 | 17376 | 0 |
+
+Operator C-free observations: 117,462,282,240 bytes before and 146,465,759,232 after. Actual report-write C-free is recorded separately below. No isolated physical-gain or inferred wrapper pair is claimed. The preserved process-output file contains exactly the returned tool observation; completeness of native stdout is not asserted. Full original RESULT and closed journals supply the cleanup counts.
+
+Removed logical bytes and actual C-free observations measure different things. C-free changes are non-isolated point observations, not exact physical cleanup gains. Original histories, failed/partial attempts, manifests, snapshots, validation/GUI evidence, directories, unknown leaves and closed journals remain. Canonical Source/Site, papers, page text, quoted passes/pairs/training, credentials and the active model/server are outside this cleanup.
+
+Root externally observed cleanup EXIT0 (session 23637, tool 4a7262); that observation time is not a native exit timestamp. Original result status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS. Reconstruction uses retained Source 22783dbd925dbb6a2df97b6e6f9964fa76e97379; published Site context is 2f53934f972bb5dff113cbf069870862954b2523. Holds, failures and original results remain unchanged in the independently reproduced proof.
+
+This cleanup adds zero publication credit and changes no normal release check. Earlier RAW2, RAW4, POSTPUB16 and all failed/partial histories remain separate in the preserved prefix. Root must freshly measure actual free space and budget every unfinished allocation before any further large write; proposed cleanup bytes are never funding.
+
+At this report write, actual C-free bytes: 146418262016; Root-bound allowance for all unfinished writes: 8589934592; free minus that allowance: 137828327424. The fixed reserve is 107374182400 bytes. Anticipated cleanup or compression gains are not funding.
