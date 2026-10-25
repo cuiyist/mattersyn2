@@ -3626,3 +3626,15 @@ Logical removals and nonisolated free-space observations are separate; no isolat
 Original H4 Source: 2d3232a1a5c69d647869d949bfa2bde19bd27f5a; original Q30 Source: 22783dbd925dbb6a2df97b6e6f9964fa76e97379; originally published Q30 Site: 2f53934f972bb5dff113cbf069870862954b2523; retained scientific Source H5: 6b5dbc661dadaaf687278226140e5c0f929123fc; current public Source merge M6: 354fa29fc6fcd4e44a3e5e5ca1b4855c7f022c44; verified Site L: 0cedb7a8e9bb945d6522657c4e4d79695faf1acd. These are distinct contexts.
 
 Logical removals and nonisolated free-space observations are separate; no isolated physical savings or anticipated funding is inferred. Directories and every held/unknown leaf remain. Closed partial/failure counts and original whole status are retained. Both profiles select only strict0<size<65536 raw Source leaves. Every historical large-five, Q31, small-four, Q30, checkpoint-D and other earlier cleanup receives zero new credit. Source14 refused scopes remain excluded. No PDFs, private text/pass/pairs, training/audits, active models, canonical Source or Site were changed by this report. It adds no publication credit; the verified website remains at 2,623 papers, 6,428 records and 4,307 pairs.
+
+<!-- mattersyn-source6-completed-local-export-cleanup-20261025-r1 -->
+
+### Completed local Source6 export cleanup accounting
+
+- 51972 removed files / 4543800519 logical bytes; 1 closed role, 52 holds, 0 errors, 0 selected files remaining, 0 unvisited roles; whole-attempt success=false, actual tool exit=0.
+- Relative subset: `comp6/ps6d/source-boundary`.
+- Nonisolated C free-space points: 124340936704 -> 135894642688 bytes.
+
+This completed Source6 phase10 export was reconstructible from protected canonical Source and its retained local H6 Git commit 937d6ead071715c8b3f1e0725fb2738fbff433ac. The normal workflow had eleven successful phases and remained parked before its unfinished snapshot/build phases; no complete all13, GUI, remote H6 retention or new publication success is claimed. Retained scientific Source H5 6b5dbc661dadaaf687278226140e5c0f929123fc, existing public Source merge M6 354fa29fc6fcd4e44a3e5e5ca1b4855c7f022c44 and verified Site 0cedb7a8e9bb945d6522657c4e4d79695faf1acd remain distinct contexts.
+
+Logical removals and nonisolated free-space observations are separate; no isolated physical saving or anticipated funding is inferred. Directories, held/unknown leaves, normal reports/manifests and every failure/HOLD receipt remain. Original whole and partial/failure status is retained. Earlier H4/Q30/Source5 and every other cleanup receives zero new credit. Source14 refused whole scopes and parents remain excluded. No PDFs, private text/pass/pairs, training/audits, active models, canonical Source or Site were changed by this report. It adds no publication credit; the verified website remains at 2,623 papers, 6,428 records, 4,307 pairs and 1,122 families.
