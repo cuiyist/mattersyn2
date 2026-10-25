@@ -3333,3 +3333,55 @@ Cleanup occupancy was Source 12b4e32563f1e803adf916de9b1ed9dbcbb8ee95; reconstru
 The exact next-two saved-pair metadata diagnostic ee88bf returned no_usable_pairs for both papers: zero generated and zero eligible records, seven figures all present (4+3), no technical input holds and unchanged input-pair bindings. No new extraction, source reading, scientific audit or claim occurred. This does not establish current physical identity, Scope, caption completeness, admission, readiness or queue exhaustion.
 
 All prior cleanup/compression totals, failed-H2/held-Lu history and the R1 immediate NULL-session zero-context-guard attempt remain in the exact report prefix with zero new credit. The entire actual Source14 refused item and broader protected parents remain excluded; no retry, bypass or cleanup credit. Holds/errors/unknown/partial states, protected inputs, quoted payloads, audited training, model/CUDA, controls and journals remain local and unchanged. No paper text, PDF, source images or private audit payload is uploaded.
+
+## Old33 R2 generated-copy cleanup: independently closed accounting
+
+The independent accountant reproduced 607,909 removed known generated leaves / 5,206,789,650 logical bytes. Visited: 33; closed-accounted: 33; observed without closed journal: 0; unvisited: 0. Holds: 276; errors: 0.
+
+The fixed selection is 33 older generated public-Site copy roots, restricted to positive files smaller than 64KiB. Every selected tuple must match the original own-build/published-Site/current-metadata intersection and retained historical Site Git, with all prior closed-journal removals and refusals subtracted or held. This report does not authorize new targets or claim entire directories were removed. Unknown/private inputs, directories, manifests, logs, controls, training and every original failure remain.
+
+| Generated root | Accounting state | Removed files | Removed logical bytes | Holds | Errors |
+|---|---|---:|---:|---:|---:|
+| research-assets/simple-website-20261010/batch05/site-release/site-preview | closed journal | 25470 | 222948015 | 19 | 0 |
+| research-assets/simple-website-20261010/batch05/doccheck/local-build/project/recipe-atlas/dist | closed journal | 4424 | 7210742 | 3 | 0 |
+| research-assets/simple-website-20261010/batch05/site-release-r4/site-stage | closed journal | 4425 | 7211267 | 2 | 0 |
+| research-assets/simple-website-20261010/batch05/site-release-r4/final/project/recipe-atlas/dist | closed journal | 4425 | 7211267 | 2 | 0 |
+| research-assets/simple-website-20261010/batch05/site-release-r4/candidate/project/recipe-atlas/dist | closed journal | 4425 | 7211267 | 2 | 0 |
+| research-assets/simple-website-20261010/batch05/site-release/site-stage | closed journal | 4424 | 7210742 | 3 | 0 |
+| research-assets/simple-website-20261010/batch05/site-release/final/project/recipe-atlas/dist | closed journal | 4424 | 7210742 | 3 | 0 |
+| research-assets/simple-website-20261010/batch05/site-release/candidate/project/recipe-atlas/dist | closed journal | 4424 | 7210742 | 3 | 0 |
+| research-assets/simple-website-20261010/batch05/full-pre-push-r3/local-build/project/recipe-atlas/dist | closed journal | 4424 | 7210742 | 3 | 0 |
+| research-assets/simple-website-20261010/batch05/full-pre-push-r2/local-build/project/recipe-atlas/dist | closed journal | 4424 | 7210742 | 3 | 0 |
+| research-assets/simple-website-20261010/batch05/full-pre-push-r1/local-build/project/recipe-atlas/dist | closed journal | 4424 | 7210742 | 3 | 0 |
+| research-assets/simple-website-20261010/batch47/q-r4/local-build/project/recipe-atlas/dist | closed journal | 18767 | 205779794 | 3 | 0 |
+| research-assets/simple-website-20261010/batch35/r/site-preview | closed journal | 35423 | 306178723 | 59 | 0 |
+| research-assets/simple-website-20261010/batch68/r-O53-r2/site-stage | closed journal | 40155 | 255974506 | 3 | 0 |
+| research-assets/simple-website-20261010/batch68/r-O53-r2/final/project/recipe-atlas/dist | closed journal | 40155 | 255974506 | 3 | 0 |
+| research-assets/simple-website-20261010/batch68/r-O53-r2/candidate/project/recipe-atlas/dist | closed journal | 40155 | 255974506 | 3 | 0 |
+| research-assets/simple-website-20261010/batch68/q-O53-r3/local-build/project/recipe-atlas/dist | closed journal | 20814 | 218055027 | 3 | 0 |
+| research-assets/simple-website-20261010/batch40/r/site-preview | closed journal | 37686 | 326144575 | 15 | 0 |
+| research-assets/simple-website-20261010/batch40/r/final/project/recipe-atlas/dist | closed journal | 17810 | 199054431 | 3 | 0 |
+| research-assets/simple-website-20261010/batch40/q-r2/local-build/project/recipe-atlas/dist | closed journal | 17810 | 199054431 | 3 | 0 |
+| research-assets/simple-website-20261010/batch40/r/candidate/project/recipe-atlas/dist | closed journal | 17792 | 198735646 | 3 | 0 |
+| research-assets/simple-website-20261010/batch27/r/site-preview | closed journal | 33023 | 286179414 | 33 | 0 |
+| research-assets/simple-website-20261010/batch27/r/site-stage | closed journal | 30612 | 216088499 | 21 | 0 |
+| research-assets/simple-website-20261010/batch27/q-display-fix-r2/local-build/project/recipe-atlas/dist | closed journal | 15759 | 184086601 | 3 | 0 |
+| research-assets/simple-website-20261010/batch18/r/site-stage | closed journal | 11183 | 135928265 | 1 | 0 |
+| research-assets/simple-website-20261010/batch18/q/local-build/project/recipe-atlas/dist | closed journal | 14452 | 175941743 | 3 | 0 |
+| research-assets/simple-website-20261010/batch62/r-M50-r1/final/project/recipe-atlas/dist | closed journal | 20299 | 214955486 | 3 | 0 |
+| research-assets/simple-website-20261010/batch62/q-M50-r1/local-build/project/recipe-atlas/dist | closed journal | 20299 | 214955486 | 3 | 0 |
+| research-assets/simple-website-20261010/batch42/q-r2/local-build/project/recipe-atlas/dist | closed journal | 18074 | 201024893 | 3 | 0 |
+| research-assets/simple-website-20261010/batch20/q/local-build/project/recipe-atlas/dist | closed journal | 31085 | 267991765 | 53 | 0 |
+| research-assets/simple-website-20261010/batch20/q-label-fix-r2/local-build/project/recipe-atlas/dist | closed journal | 14786 | 178076430 | 3 | 0 |
+| research-assets/simple-website-20261010/batch20/r/candidate/project/recipe-atlas/dist | closed journal | 14786 | 178076430 | 3 | 0 |
+| research-assets/simple-website-20261010/batch09/q/local-build/project/recipe-atlas/dist | closed journal | 27271 | 237501483 | 3 | 0 |
+
+Actual C-free before: 135940923392 bytes; after: 140662390784 bytes. These are separate physical free-space observations and do not isolate cleanup gain from concurrent activity. Logical removed bytes are not an equal physical-reclaim claim. Original status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS; whole-attempt success: false. Selected unremoved: 0 files / 0 logical bytes. Every unvisited/unclosed member receives zero removal credit.
+
+Root genuinely observed session27021 / tool1a5682 / EXIT0. The observation time is not a native exit timestamp. The exact qualified returned tool capture is preserved, including its original truncation/token scope; full isolated native stdout is not claimed.
+
+R1 failed the unchanged 600-second fresh-native guard before any attempt/context or deletion. That technical failure was not an automatic-review refusal and remains preserved. R2 uses one persistent PowerShell host for cold Preflight, actual Native, a later exact-file Root approval barrier, then Delete. Only already validated tuple parsing is reused. Full closing-authority occurrences are restored on each phase frame and hashed again; no hash cache, deduplication, age waiver, weakened leaf guard or automatic approval is introduced. The earlier missing free_minus_peak_bytes capacity-input failure and its corrected input are retained; that input correction did not change the sealed operator/spec. None of these engineering fixes implies cleanup completion; only the closed proof above earns credit.
+
+Cleanup occupancy was Source12b4e32563f1e803adf916de9b1ed9dbcbb8ee95 and Sited2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0; reconstruction uses the distinct retained published historical Site commits bound per role. Source3 H3 remains a held local producer; this cleanup is not its publication. Frozen verified Q31 remains 2,622 papers  / 6,426 records  / 4,305 pairs  / 1,122 families. This append gives zero new paper, record, pair, crop, scientific-review or Source/Site code credit. Only the existing cleanup report is updated.
+
+The existing report prefix is preserved byte-for-byte. All prior cleanup/compression totals receive zero new credit. The entire actual Source14 refused item remains excluded: one rejected CreateProcess associated with 14 excluded roots, plus the preserved mixed 137 protection baseline; 151 scopes does not mean 151 separate automatic refusals. No retry, bypass, ancestor workaround or Source14 cleanup credit. Owner folders, original PDFs/page text, quoted passes/pairs/training, audited state, model/CUDA and all histories remain protected. No source text, PDF, images, quote-bearing payload or private audit is uploaded.
