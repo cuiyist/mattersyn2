@@ -3562,3 +3562,16 @@ Observed C: free-space points were 132,331,208,704 bytes before and 140,362,117,
 Canonical Source and Site, original PDFs, private text/pass/pairs, training/audits and active models were unchanged by this cleanup. Prior cleanup counts receive no new credit. The Source14 refused scopes remain excluded. This report adds no paper, record, crop or publication credit; the verified website remains at 2,623 papers, 6,428 records and 4,307 pairs.
 
 Choice: retired the largest completed candidate subsets with exact retained public matches, preserving all unknown content. Cleanup-helper fixes retained every full-byte and native guard: closed JSONL controls are verified as bytes, and the missing current-head runtime bindings were supplied before preflight; original failures remain recorded.
+
+<!-- mattersyn-q31-mid16-and-source5-small4-20261025-r1 -->
+
+### Closed Q31 midband and Source5 small-candidate cleanup accounting
+
+- Q31_mid16_ten: 30845 removed files / 1128627045 logical bytes; 10 closed roles, 193610 holds, 0 errors, 0 selected files remaining, 0 unvisited roles; whole-attempt success=false, actual tool exit=0.
+  Relative subsets: `c31/project/recipe-atlas/dist/assets`, `c31/project/recipe-atlas/dist/data`, `r31/candidate/project/recipe-atlas/dist/assets`, `r31/candidate/project/recipe-atlas/dist/data`, `r31/final/project/recipe-atlas/dist/assets`, `r31/final/project/recipe-atlas/dist/data`, `r31/site-preview/assets`, `r31/site-preview/data`, `r31/site-stage/assets`, `r31/site-stage/data`.
+  Nonisolated C: free-space points 140366057472 -> 141276057600 bytes.
+- Source5_candidate_small_four: 82864 removed files / 650272252 logical bytes; 4 closed roles, 86 holds, 0 errors, 0 selected files remaining, 0 unvisited roles; whole-attempt success=false, actual tool exit=0.
+  Relative subsets: `cs5r2/project/recipe-atlas/static`, `cs5r2/project/recipe-atlas/data`, `cs5r2/project/recipe-atlas/dist/assets`, `cs5r2/project/recipe-atlas/dist/data`.
+  Nonisolated C: free-space points 141215711232 -> 142062350336 bytes.
+
+Logical removals and nonisolated free-space observations are separate; no isolated physical savings or anticipated funding is inferred. Directories and every held/unknown leaf remain. Closed partial/failure counts and original whole status are retained. Prior cleanups receive zero new credit. Source14 refused scopes remain excluded. No PDFs, private text/pass/pairs, training/audits, active models, canonical Source or Site were changed by this report. It adds no publication credit; the verified website remains at 2,623 papers, 6,428 records and 4,307 pairs.
