@@ -3575,3 +3575,15 @@ Choice: retired the largest completed candidate subsets with exact retained publ
   Nonisolated C: free-space points 141215711232 -> 142062350336 bytes.
 
 Logical removals and nonisolated free-space observations are separate; no isolated physical savings or anticipated funding is inferred. Directories and every held/unknown leaf remain. Closed partial/failure counts and original whole status are retained. Prior cleanups receive zero new credit. Source14 refused scopes remain excluded. No PDFs, private text/pass/pairs, training/audits, active models, canonical Source or Site were changed by this report. It adds no publication credit; the verified website remains at 2,623 papers, 6,428 records and 4,307 pairs.
+
+<!-- mattersyn-checkpointD-source-small3-20261025-r1 -->
+
+### Closed checkpoint-D Source small-three cleanup accounting
+
+- checkpointD_Source_small_three: 78335 removed files / 663051155 logical bytes; 3 closed roles, 80 holds, 0 errors, 0 selected files remaining, 0 unvisited roles; whole-attempt success=false, actual tool exit=0.
+  Relative subsets: `p4m1/source-boundary`, `c4m1/project/recipe-atlas/static`, `c4m1/project/recipe-atlas/data`.
+  Nonisolated C: free-space points 142047830016 -> 142909812736 bytes.
+
+Reconstruction Source D: a5065a504f38ead684d854b93b1cd93c7747c3db; current Source H5: 6b5dbc661dadaaf687278226140e5c0f929123fc; current public Source merge M6: 354fa29fc6fcd4e44a3e5e5ca1b4855c7f022c44; verified Site L: 0cedb7a8e9bb945d6522657c4e4d79695faf1acd. These are distinct contexts.
+
+Logical removals and nonisolated free-space observations are separate; no isolated physical savings or anticipated funding is inferred. Directories and every held/unknown leaf remain. Closed partial/failure counts and original whole status are retained. The historical large-five, Q31 and Source5 small-four cleanups receive zero new credit. Source14 refused scopes remain excluded. No PDFs, private text/pass/pairs, training/audits, active models, canonical Source or Site were changed by this report. It adds no publication credit; the verified website remains at 2,623 papers, 6,428 records and 4,307 pairs.
