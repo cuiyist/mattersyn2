@@ -3409,3 +3409,16 @@ Before any preflight, Root preserved the original emitted spec/manifest and stre
 Cleanup occupancy was Source8dc77c5e5707c82580005da3f90b27a746176397 and Sited2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0; reconstruction uses distinct retained historical public Source commits. This append gives zero Source/Site or scientific publication credit. Frozen verified Q31 remains 2,622 papers / 6,426 records / 4,305 pairs / 1,122 families. No new paper, record, pair, crop, scientific-review, model or code credit is claimed.
 
 The existing report prefix remains byte-for-byte exact. All prior cleanup/compression totals receive zero new credit. The entire actual Source14 refused item and its broader parents stay excluded: the preserved mixed 137 protection baseline plus 14 refused literal roots does not mean 151 separate automatic refusals. No retry, bypass, ancestor workaround or Source14 cleanup credit. Owner folders, original PDFs/page text, quoted passes/pairs/training, audited state, active model/CUDA and all histories remain protected. No paper text, images, quote-bearing payload or private audit is uploaded.
+
+
+## Completed Source4 export cleanup — 2026-10-25
+
+After Source PR #97 passed all three exact-head CI jobs and ordinarily merged as 1f4cc5ff8481035170ecc04baf94054ca66541ab, Root retired only reconstructible regular leaves under `ps4r2/source-boundary`, backed by public Source 2d3232a1a5c69d647869d949bfa2bde19bd27f5a. The full candidate, logs, manifests, snapshot, all source and quoted training inputs, canonical checkouts and active Qwen server were preserved.
+
+Independent closed-journal accounting verified 51,959 files / 4,541,582,888 logical bytes removed; 52 unknown leaves retained; zero errors, unvisited roles or selected files left unremoved. Original status remains ATTEMPT_FINISHED_WITH_HELD_SUBSETS and whole_attempt_success=false. No directories or programs were removed/stopped. Fresh native evidence found no selected-folder consumer; protected Qwen PID 19184 was unchanged.
+
+Actual C free bytes were 149,152,116,736 before and 153,814,802,432 after. These concurrent observations do not isolate physical reclaim. The complete positive cleanup allocation was 8 GiB above the fixed 100 GiB reserve, with no anticipated gain used for funding. The separate unchanged full normal Site 40 GiB admission remains a fresh subsequent check.
+
+The first metadata qualification failed before output because a Python driver pin was supplied to a JSON-control slot. Its history remains preserved; the new input links a genuine JSON creation control containing the original driver and terminal evidence. No guard or release rule changed. All original failures, the whole refused Source14 item and 376 literal protections stay excluded.
+
+This cleanup and Source merge add zero website publication or scientific-audit credit. Site remains d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0: 2,622 papers / 6,426 records / 4,305 pairs.
