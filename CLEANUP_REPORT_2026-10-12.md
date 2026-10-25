@@ -3550,3 +3550,15 @@ Canonical Source/Site, PDFs, private paper text/pass/pairs, training/audit data 
 The separately closed four rs4 Site-assets subsets removed 13,728 known leaves in the 16–64 KiB band (587,366,488 logical bytes). All four roles closed with zero selected remainder, unvisited/unclosed roles or errors; 95,972 other held entries and all directories remain. Its nonisolated C: free-space points were 131,752,071,168 to 132,358,979,584 bytes. This is additional verified cleanup, separate from the Source5 export counts; neither attempt has whole-folder success.
 
 Source contribution PR #99 passed all three exact-head CI jobs and merged ordinarily; its safe Source progress files were anonymously verified. This is not a website deployment. Full normal Site publication remains parked until its unchanged 40 GiB additional-write budget fits above the 100 GiB reserve. Original generated-copy controls and all protected inputs remain local.
+
+<!-- mattersyn-source5-candidate-retirement-20261025-r1 -->
+
+### Completed Source5 candidate subset cleanup
+
+Independent closed-journal accounting verified 23,059 removed files totaling 8,000,068,598 logical bytes across four completed subsets: `cs5r2/project/recipe-atlas/static`, `cs5r2/project/recipe-atlas/data`, `cs5r2/project/recipe-atlas/dist/assets`, and `cs5r2/project/recipe-atlas/dist/data`. All four roles closed; no selected remainder, unvisited role or error was recorded. The 82,950 protected or unknown holds and all directories remain; whole-attempt success is false.
+
+Observed C: free-space points were 132,331,208,704 bytes before and 140,362,117,120 bytes after. These nonisolated observations are separate from logical removed bytes; no isolated physical savings or future funding is inferred.
+
+Canonical Source and Site, original PDFs, private text/pass/pairs, training/audits and active models were unchanged by this cleanup. Prior cleanup counts receive no new credit. The Source14 refused scopes remain excluded. This report adds no paper, record, crop or publication credit; the verified website remains at 2,623 papers, 6,428 records and 4,307 pairs.
+
+Choice: retired the largest completed candidate subsets with exact retained public matches, preserving all unknown content. Cleanup-helper fixes retained every full-byte and native guard: closed JSONL controls are verified as bytes, and the missing current-head runtime bindings were supplied before preflight; original failures remain recorded.
