@@ -3457,3 +3457,31 @@ Only exact >=64KiB known public tuples were eligible. Preliminary dist copies us
 The prior Source4 export cleanup (51,959 files / 4,541,582,888 logical bytes) was already reported in the preserved prefix and is not counted again in these POSTPUB14 totals. Earlier technical failures, schema/case fixes and the truthful known-owned-producer preflight history remain preserved; Scoped native consumer checks were accepted only after the subsequent native collector and Root review; no system-wide open-handle clearance is claimed.
 
 The entire Source14 automatically refused item remains excluded: one original launch rejection, 14 associated Source scopes plus their protected parents, with zero cleanup credit and no retry/override. No repository settings, Pages settings, Source/Site data, model server or source-paper payloads were changed by this report append.
+
+<!-- MatterSyn-Source4-checkpoint-five-a5065a50-closed-accounting -->
+
+## Source-only checkpoint: five generated-copy scopes
+
+The Source-only checkpoint `a5065a504f38ead684d854b93b1cd93c7747c3db` was ordinarily merged as `4a470f10a143fe766e5dc0a397e48184458cdbaa` after exact-head normal CI run 40182047559 and five anonymous safe-document checks. Site `0cedb7a8e9bb945d6522657c4e4d79695faf1acd` remains unchanged. This report adds zero papers, scientific records, source uploads or Site publication credit.
+
+Genuine cleanup terminal: session 72957, tool d06d4f, exit code 0, observed 2026-10-25T10:34:59.687064+00:00. Original result status `ATTEMPT_FINISHED_WITH_HELD_SUBSETS`; whole-attempt success `false`.
+
+Independent closed journals verify 34,655 removed files / 12,510,162,387 logical bytes. Holds: 123,340; errors: 0. Roles visited/closed/unvisited: 5/5/0. Observed unresolved roles: 0. Selected but not credited removed: 0 files / 0 logical bytes.
+
+Unclosed raw reported removals remain unverified, with zero credit: 0 files / 0 logical bytes. Partial, held and unvisited states remain preserved.
+
+Actual C free bytes before/after: 124,719,632,384 -> 137,302,056,960. These are nonisolated observations. Logical removed bytes are separate from physical free-space change; no isolated physical gain is claimed.
+
+| Generated scope (relative to MatterSyn) | Closed-journal files / logical bytes | Holds / errors | Observed state |
+| --- | ---: | ---: | --- |
+| `p4m1/source-boundary` | 11,588 / 4,197,761,509 | 40,423 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `c4m1/project/recipe-atlas/static` | 11,223 / 3,814,442,572 | 31,601 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `c4m1/project/recipe-atlas/data` | 329 / 272,769,243 | 6,391 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `c4m1/project/recipe-atlas/dist/assets` | 11,211 / 3,810,345,943 | 27,426 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `c4m1/project/recipe-atlas/dist/data` | 304 / 414,843,120 | 17,499 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+
+Only exact >=64KiB known leaves were eligible. Source export/copy tuples required original-equals-projected public Source D provenance; copied Source also required the exact snapshot. Candidate dist required exact path/size/full-SHA agreement with already-published Site0ced. Differing, small, unknown, private and control files remain held; directories and canonical checkouts remain.
+
+Scoped native consumer checks were accepted only after Preflight and Root review; no system-wide open-handle clearance is claimed. Retained Git/full SHA/framed blob identity, same-handle FileID, singlelink/noReparse, the exclusive lease, fresh per-role context and closing guards remained required.
+
+These copies were generated for this checkpoint validation. Earlier cleanup counts remain in the preserved prefix and are not credited again. The entire Source14 actually refused item and all protected parents remain excluded with zero credit; its original rejection and every technical history stay preserved. PDFs, page text, quoted passes/pairs/training, owner folders, model/server/CUDA, the paused audit lane and five older owner questions remain unchanged.
