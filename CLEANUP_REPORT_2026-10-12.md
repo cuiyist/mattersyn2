@@ -3485,3 +3485,54 @@ Only exact >=64KiB known leaves were eligible. Source export/copy tuples require
 Scoped native consumer checks were accepted only after Preflight and Root review; no system-wide open-handle clearance is claimed. Retained Git/full SHA/framed blob identity, same-handle FileID, singlelink/noReparse, the exclusive lease, fresh per-role context and closing guards remained required.
 
 These copies were generated for this checkpoint validation. Earlier cleanup counts remain in the preserved prefix and are not credited again. The entire Source14 actually refused item and all protected parents remain excluded with zero credit; its original rejection and every technical history stay preserved. PDFs, page text, quoted passes/pairs/training, owner folders, model/server/CUDA, the paused audit lane and five older owner questions remain unchanged.
+
+<!-- MatterSyn-c780-four-knownleaf-closed-accounting-20261025 -->
+
+## 2026-10-25: four c780 generated subroots, closed accounting
+
+Root completed one bounded cleanup of exact known public-Git leaves in
+`c780/project/recipe-atlas/static`, `data`, `dist/assets` and `dist/data`.
+The four closed journals independently account for **17,051 files / 5,727,815,788
+logical bytes removed**. No selected files remain; there are no unvisited or
+unclosed roles and no deletion failures. The **71,365 held entries remain held**;
+the original status is `ATTEMPT_FINISHED_WITH_HELD_SUBSETS`, not whole-folder success.
+
+| Scope | Files removed | Logical bytes removed |
+|---|---:|---:|
+| Original public Source static | 8,239 | 2,695,674,864 |
+| Original public Source data | 313 | 243,295,892 |
+| Published Site assets | 8,225 | 2,671,263,069 |
+| Published Site data | 274 | 117,581,963 |
+
+Actual available C bytes at the attempt's observations were **137,017,839,616
+before** and **142,765,109,248 after**. These are nonisolated physical observations;
+they are separate from logical-byte accounting and include other disk activity.
+Fresh report-preparation observation: **142,754,684,928 bytes available**.
+
+The original c780 candidate remains UNAPPROVED, with its missing snapshot and
+historical creator/terminal gaps preserved. This cleanup qualified only matching
+regular public-Git leaves, with full content hashes, framed Git object identity,
+single-link/no-reparse and live consumer checks. It does not certify the old
+candidate, delete an entire folder, or claim a global open-handle/history clearance.
+All unknown, private, different, protected and smaller unmatched leaves remain.
+Actual Source14 automatic-refusal scopes and their parents remain excluded.
+
+The protected Qwen3-32B server was not stopped, restarted or modified. No papers,
+page text, quoted passes/pairs, training files or owner folders were deleted or
+uploaded. There was no source reading, model request or scientific publication.
+The verified site remains at 2,623 papers / 6,428 records / 4,307 pairs; the accepted
+Kalita publication and earlier cleanup amounts are not counted again here.
+
+The 100-GiB reserve is satisfied at these observations. The next complete normal
+release's existing 40-GiB additional-allocation profile remains unadmitted until
+fresh actual capacity supports it. Small-file metadata estimates are conditional,
+not reclamation or funding; Q29 already-retired files are excluded. The audit lane,
+Worker A/B queue and five older owner questions remain paused. No quality gate,
+allowlist, record, repository setting or publication rule changed.
+
+Choice: retain unknown history and qualify only exact reconstructible public
+leaves, because whole-folder removal would erase unqualified material.
+
+Independent proof SHA256: `09fc05137816bad333560f5d90643159034c8d4ea5285e9f59988d839c90ff40`.
+Actual cleanup terminal: session 21028, chunk 68ad94, exit 0; independent accounting
+chunk 71213d, exit 0. Source/Site mutations and additional published papers: zero.
