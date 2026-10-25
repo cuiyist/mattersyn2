@@ -3536,3 +3536,17 @@ leaves, because whole-folder removal would erase unqualified material.
 Independent proof SHA256: `09fc05137816bad333560f5d90643159034c8d4ea5285e9f59988d839c90ff40`.
 Actual cleanup terminal: session 21028, chunk 68ad94, exit 0; independent accounting
 chunk 71213d, exit 0. Source/Site mutations and additional published papers: zero.
+
+<!-- mattersyn-source5-export-retirement-20261025-r1 -->
+
+### Completed Source5 preliminary export cleanup
+
+The closed cleanup removed 51,972 independently accounted known public leaves (4,543,788,415 logical bytes) from `ps5r2/source-boundary`. One role closed; no unvisited or unclosed role, selected remainder or error was reported. The 52 protected/unknown holds and every directory remain. Whole-attempt success stays false.
+
+Observed C: free-space points were 127,101,550,592 bytes before and 131,765,936,128 bytes after. These are nonisolated observations, separate from logical removed bytes; no attribution of their difference or anticipated cleanup funding is claimed.
+
+Canonical Source/Site, PDFs, private paper text/pass/pairs, training/audit data and active model/runtime were unchanged. This section adds no credit for prior cleanups and no paper/record/crop publication credit. Source14 refused scopes stay excluded. The website remains at the previously verified Site baseline: 2,623 papers, 6,428 records and 4,307 pairs.
+
+The separately closed four rs4 Site-assets subsets removed 13,728 known leaves in the 16–64 KiB band (587,366,488 logical bytes). All four roles closed with zero selected remainder, unvisited/unclosed roles or errors; 95,972 other held entries and all directories remain. Its nonisolated C: free-space points were 131,752,071,168 to 132,358,979,584 bytes. This is additional verified cleanup, separate from the Source5 export counts; neither attempt has whole-folder success.
+
+Source contribution PR #99 passed all three exact-head CI jobs and merged ordinarily; its safe Source progress files were anonymously verified. This is not a website deployment. Full normal Site publication remains parked until its unchanged 40 GiB additional-write budget fits above the 100 GiB reserve. Original generated-copy controls and all protected inputs remain local.
