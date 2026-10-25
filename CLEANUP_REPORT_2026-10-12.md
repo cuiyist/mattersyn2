@@ -3422,3 +3422,38 @@ Actual C free bytes were 149,152,116,736 before and 153,814,802,432 after. These
 The first metadata qualification failed before output because a Python driver pin was supplied to a JSON-control slot. Its history remains preserved; the new input links a genuine JSON creation control containing the original driver and terminal evidence. No guard or release rule changed. All original failures, the whole refused Source14 item and 376 literal protections stay excluded.
 
 This cleanup and Source merge add zero website publication or scientific-audit credit. Site remains d2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0: 2,622 papers / 6,426 records / 4,305 pairs.
+
+<!-- MatterSyn-Source4-POSTPUB14-closed-accounting-20261025 -->
+
+## Source4 POSTPUB14: observed generated-copy cleanup
+
+Source4 Site `0cedb7a8e9bb945d6522657c4e4d79695faf1acd` was already independently accepted: 1 paper, 2 records and 5 captioned crops; totals 2,623 papers / 6,428 records / 4,307 pairs / 1,122 material families. This cleanup report adds zero papers, scientific reviews or source-file uploads.
+
+The genuine cleanup process ended with exit code 0; session 98272, final tool 635cf2, observed 2026-10-25T09:04:50.043315+00:00. Independent accounting retains original status `ATTEMPT_FINISHED_WITH_HELD_SUBSETS` and whole-attempt success `false`.
+
+Closed journals verify 80,812 removed files and 29,477,968,062 logical bytes. Retained entries: 300,476; errors: 0. Roles visited/closed/unvisited: 14/14/0. Observed roles without complete verified journals: 0. Selected but not credited removed: 0 files / 0 logical bytes. Unvisited or unresolved roles earn no removal credit.
+
+Actual C free bytes before/after the operation: 121,090,670,592 -> 150,675,902,464. This is a nonisolated observation, not a measured physical gain attributable only to cleanup. Logical removed bytes and actual physical free space are separate measurements.
+
+| Generated scope (relative to MatterSyn) | Closed-journal files / logical bytes | Holds / errors | Observed state |
+| --- | ---: | ---: | --- |
+| `cs4r2/project/recipe-atlas/dist/assets` | 11,212 / 3,810,464,565 | 27,425 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `cs4r2/project/recipe-atlas/dist/data` | 322 / 440,266,273 | 17,481 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `rs4/candidate/project/recipe-atlas/static` | 11,224 / 3,814,561,194 | 31,600 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `rs4/candidate/project/recipe-atlas/data` | 347 / 297,595,742 | 6,373 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `rs4/final/project/recipe-atlas/static` | 11,224 / 3,814,561,194 | 31,600 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `rs4/final/project/recipe-atlas/data` | 347 / 297,595,742 | 6,373 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `rs4/candidate/project/recipe-atlas/dist/assets` | 11,212 / 3,810,464,565 | 27,425 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `rs4/candidate/project/recipe-atlas/dist/data` | 322 / 440,266,273 | 17,481 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `rs4/final/project/recipe-atlas/dist/assets` | 11,212 / 3,810,464,565 | 27,425 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `rs4/final/project/recipe-atlas/dist/data` | 322 / 440,266,273 | 17,481 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `rs4/site-preview/assets` | 11,212 / 3,810,464,565 | 27,425 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `rs4/site-preview/data` | 322 / 440,266,273 | 17,481 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `rs4/site-stage/assets` | 11,212 / 3,810,464,565 | 27,425 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+| `rs4/site-stage/data` | 322 / 440,266,273 | 17,481 / 0 | KNOWN_REGULAR_LEAVES_REMOVED_DIRS_UNKNOWNS_HELD |
+
+Only exact >=64KiB known public tuples were eligible. Preliminary dist copies used exact preliminary/normal path-size-SHA intersections; Source copies used original-equals-projected Source/snapshot tuples. Retained public Source/Site Git, same-handle identity/full SHA/framed Git hash, reparse/singlelink checks, fresh native consumers, the exclusive lease and closing checks remained required. Directories, controls, logs, unknowns, small/private/quoted inputs and canonical checkouts remain protected. Raw hold/error details stay local.
+
+The prior Source4 export cleanup (51,959 files / 4,541,582,888 logical bytes) was already reported in the preserved prefix and is not counted again in these POSTPUB14 totals. Earlier technical failures, schema/case fixes and the truthful known-owned-producer preflight history remain preserved; Scoped native consumer checks were accepted only after the subsequent native collector and Root review; no system-wide open-handle clearance is claimed.
+
+The entire Source14 automatically refused item remains excluded: one original launch rejection, 14 associated Source scopes plus their protected parents, with zero cleanup credit and no retry/override. No repository settings, Pages settings, Source/Site data, model server or source-paper payloads were changed by this report append.
