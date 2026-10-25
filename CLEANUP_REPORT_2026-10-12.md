@@ -3599,3 +3599,15 @@ Logical removals and nonisolated free-space observations are separate; no isolat
 Original Q30 Source: 22783dbd925dbb6a2df97b6e6f9964fa76e97379; originally published Q30 Site: 2f53934f972bb5dff113cbf069870862954b2523; current Source H5: 6b5dbc661dadaaf687278226140e5c0f929123fc; current public Source merge M6: 354fa29fc6fcd4e44a3e5e5ca1b4855c7f022c44; verified Site L: 0cedb7a8e9bb945d6522657c4e4d79695faf1acd. These are distinct contexts.
 
 Logical removals and nonisolated free-space observations are separate; no isolated physical savings or anticipated funding is inferred. Directories and every held/unknown leaf remain. Closed partial/failure counts and original whole status are retained. The historical Q30 large-fourteen, checkpoint-D small-three and all other earlier cleanups receive zero new credit. Source14 refused scopes remain excluded. No PDFs, private text/pass/pairs, training/audits, active models, canonical Source or Site were changed by this report. It adds no publication credit; the verified website remains at 2,623 papers, 6,428 records and 4,307 pairs.
+
+<!-- mattersyn-q30-low16-eight-20261025-r1 -->
+
+### Closed Q30 Site positive-below16KiB eight-role cleanup accounting
+
+- q30_low16_eight: 153692 removed files / 417757140 logical bytes; 8 closed roles, 48 holds, 0 errors, 0 selected files remaining, 0 unvisited roles; whole-attempt success=false, actual tool exit=0.
+  Relative subsets: `r30/candidate/project/recipe-atlas/dist/assets`, `r30/candidate/project/recipe-atlas/dist/data`, `r30/final/project/recipe-atlas/dist/assets`, `r30/final/project/recipe-atlas/dist/data`, `r30/site-preview/assets`, `r30/site-preview/data`, `r30/site-stage/assets`, `r30/site-stage/data`.
+  Nonisolated C: free-space points 134672314368 -> 135260753920 bytes.
+
+Original Q30 Source: 22783dbd925dbb6a2df97b6e6f9964fa76e97379; originally published Q30 Site: 2f53934f972bb5dff113cbf069870862954b2523; retained scientific Source H5: 6b5dbc661dadaaf687278226140e5c0f929123fc; current public Source merge M6: 354fa29fc6fcd4e44a3e5e5ca1b4855c7f022c44; verified Site L: 0cedb7a8e9bb945d6522657c4e4d79695faf1acd. These are distinct contexts.
+
+Logical removals and nonisolated free-space observations are separate; no isolated physical savings or anticipated funding is inferred. Directories and every held/unknown leaf remain. Closed partial/failure counts and original whole status are retained. The historical Q30 large-fourteen, Q30 MID8, checkpoint-D small-three and all other earlier cleanups receive zero new credit. Source14 refused scopes remain excluded. No PDFs, private text/pass/pairs, training/audits, active models, canonical Source or Site were changed by this report. It adds no publication credit; the verified website remains at 2,623 papers, 6,428 records and 4,307 pairs.
