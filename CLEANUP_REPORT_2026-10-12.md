@@ -3385,3 +3385,27 @@ R1 failed the unchanged 600-second fresh-native guard before any attempt/context
 Cleanup occupancy was Source12b4e32563f1e803adf916de9b1ed9dbcbb8ee95 and Sited2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0; reconstruction uses the distinct retained published historical Site commits bound per role. Source3 H3 remains a held local producer; this cleanup is not its publication. Frozen verified Q31 remains 2,622 papers  / 6,426 records  / 4,305 pairs  / 1,122 families. This append gives zero new paper, record, pair, crop, scientific-review or Source/Site code credit. Only the existing cleanup report is updated.
 
 The existing report prefix is preserved byte-for-byte. All prior cleanup/compression totals receive zero new credit. The entire actual Source14 refused item remains excluded: one rejected CreateProcess associated with 14 excluded roots, plus the preserved mixed 137 protection baseline; 151 scopes does not mean 151 separate automatic refusals. No retry, bypass, ancestor workaround or Source14 cleanup credit. Owner folders, original PDFs/page text, quoted passes/pairs/training, audited state, model/CUDA and all histories remain protected. No source text, PDF, images, quote-bearing payload or private audit is uploaded.
+
+## Next5 strict-small generated-copy cleanup: independently closed accounting
+
+The independent accountant reproduced 135,337 removed known generated leaves / 1,169,595,464 logical bytes. All 5 visited roles have closed journals; unvisited: 0. Holds: 663; errors: 0.
+
+The fixed selection is five older public Source-export copy roots, restricted to 0 < file size < 64KiB, with a maximum 135,337 files / 1,169,595,464 logical bytes. Original archived/current-metadata/full-tuple and retained historical Source Git proofs remain required. Every cited earlier removed journal member is subtracted; previously accounted cleanup receives zero new credit. Unknown/private files, directories, manifests, logs, controls, training and original failures remain protected. No entire-folder removal is claimed.
+
+| Generated root | Removed files | Removed logical bytes | Holds/remaining accounting |
+|---|---:|---:|---|
+| research-assets/simple-website-20261010/particles01-r3/q-Q14-r2/source-boundary | 34401 | 304482204 | known held 0; unknown holds 321; errors 0; selected unremoved 0 |
+| research-assets/simple-website-20261010/batch36/q3/source-boundary | 28108 | 242981776 | known held 0; unknown holds 96; errors 0; selected unremoved 0 |
+| research-assets/simple-website-20261010/batch23/q/source-boundary | 24887 | 212918134 | known held 0; unknown holds 82; errors 0; selected unremoved 0 |
+| research-assets/simple-website-20261010/batch22/q/source-boundary | 24671 | 210886492 | known held 0; unknown holds 82; errors 0; selected unremoved 0 |
+| research-assets/simple-website-20261010/batch16/q/source-boundary | 23270 | 198326858 | known held 0; unknown holds 82; errors 0; selected unremoved 0 |
+
+Actual C-free before: 138941165568 bytes; after: 139982671872 bytes. These are separate nonisolated physical free-space observations, not a measured isolated cleanup gain. Logical removed bytes are not an equal physical-reclaim claim. Original status: ATTEMPT_FINISHED_WITH_HELD_SUBSETS; whole-attempt success: false. Selected unremoved: 0 files / 0 logical bytes. Holds, errors and whole=false are preserved exactly.
+
+Root genuinely observed session95060 / tool899e13 / EXIT0. The observation time is not represented as a native exit timestamp. The exact qualified returned tool capture is retained with its token/truncation scope; full isolated native stdout is not claimed.
+
+Before any preflight, Root preserved the original emitted spec/manifest and strengthened exclusions only: 265 original exclusions plus 88 inherited literal exclusions and seven whole Source14 parents, for 360. Roles, selected maps, code and all other spec fields stayed exact. This amendment provides no deletion authority by itself. Historical R19/Next5 holds, technical failures, qualification-only observations and original removed journals remain separate and unchanged.
+
+Cleanup occupancy was Source8dc77c5e5707c82580005da3f90b27a746176397 and Sited2224e51c65a7fd161f4ca558cb3d9e4a4dd5eb0; reconstruction uses distinct retained historical public Source commits. This append gives zero Source/Site or scientific publication credit. Frozen verified Q31 remains 2,622 papers / 6,426 records / 4,305 pairs / 1,122 families. No new paper, record, pair, crop, scientific-review, model or code credit is claimed.
+
+The existing report prefix remains byte-for-byte exact. All prior cleanup/compression totals receive zero new credit. The entire actual Source14 refused item and its broader parents stay excluded: the preserved mixed 137 protection baseline plus 14 refused literal roots does not mean 151 separate automatic refusals. No retry, bypass, ancestor workaround or Source14 cleanup credit. Owner folders, original PDFs/page text, quoted passes/pairs/training, audited state, active model/CUDA and all histories remain protected. No paper text, images, quote-bearing payload or private audit is uploaded.
