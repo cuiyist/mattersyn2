@@ -3611,3 +3611,18 @@ Logical removals and nonisolated free-space observations are separate; no isolat
 Original Q30 Source: 22783dbd925dbb6a2df97b6e6f9964fa76e97379; originally published Q30 Site: 2f53934f972bb5dff113cbf069870862954b2523; retained scientific Source H5: 6b5dbc661dadaaf687278226140e5c0f929123fc; current public Source merge M6: 354fa29fc6fcd4e44a3e5e5ca1b4855c7f022c44; verified Site L: 0cedb7a8e9bb945d6522657c4e4d79695faf1acd. These are distinct contexts.
 
 Logical removals and nonisolated free-space observations are separate; no isolated physical savings or anticipated funding is inferred. Directories and every held/unknown leaf remain. Closed partial/failure counts and original whole status are retained. The historical Q30 large-fourteen, Q30 MID8, checkpoint-D small-three and all other earlier cleanups receive zero new credit. Source14 refused scopes remain excluded. No PDFs, private text/pass/pairs, training/audits, active models, canonical Source or Site were changed by this report. It adds no publication credit; the verified website remains at 2,623 papers, 6,428 records and 4,307 pairs.
+
+<!-- mattersyn-raw-source-small-four-h4-q30-20261025-r1 -->
+
+### Closed H4 and Q30 raw Source positive-below64KiB four-role cleanup accounting
+
+- rawH4_Source_small_four: 75928 removed files / 638441276 logical bytes; 4 closed roles, 18 holds, 0 errors, 0 selected files remaining, 0 unvisited roles; whole-attempt success=false, actual tool exit=0.
+  Relative subsets: `rs4/candidate/project/recipe-atlas/static`, `rs4/candidate/project/recipe-atlas/data`, `rs4/final/project/recipe-atlas/static`, `rs4/final/project/recipe-atlas/data`.
+  Nonisolated C: free-space points 135218823168 -> 136050798592 bytes.
+- rawQ30_Source_small_four: 75276 removed files / 633430016 logical bytes; 4 closed roles, 18 holds, 0 errors, 0 selected files remaining, 0 unvisited roles; whole-attempt success=false, actual tool exit=0.
+  Relative subsets: `r30/candidate/project/recipe-atlas/static`, `r30/candidate/project/recipe-atlas/data`, `r30/final/project/recipe-atlas/static`, `r30/final/project/recipe-atlas/data`.
+  Nonisolated C: free-space points 136007847936 -> 136608661504 bytes.
+
+Original H4 Source: 2d3232a1a5c69d647869d949bfa2bde19bd27f5a; original Q30 Source: 22783dbd925dbb6a2df97b6e6f9964fa76e97379; originally published Q30 Site: 2f53934f972bb5dff113cbf069870862954b2523; retained scientific Source H5: 6b5dbc661dadaaf687278226140e5c0f929123fc; current public Source merge M6: 354fa29fc6fcd4e44a3e5e5ca1b4855c7f022c44; verified Site L: 0cedb7a8e9bb945d6522657c4e4d79695faf1acd. These are distinct contexts.
+
+Logical removals and nonisolated free-space observations are separate; no isolated physical savings or anticipated funding is inferred. Directories and every held/unknown leaf remain. Closed partial/failure counts and original whole status are retained. Both profiles select only strict0<size<65536 raw Source leaves. Every historical large-five, Q31, small-four, Q30, checkpoint-D and other earlier cleanup receives zero new credit. Source14 refused scopes remain excluded. No PDFs, private text/pass/pairs, training/audits, active models, canonical Source or Site were changed by this report. It adds no publication credit; the verified website remains at 2,623 papers, 6,428 records and 4,307 pairs.
