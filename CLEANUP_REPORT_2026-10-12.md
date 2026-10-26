@@ -3757,3 +3757,15 @@ Report-only aggregation changes no Source/Site/scientific status and grants no p
 Counts come from the four actual closed role results and independent member-journal replay after genuine normal Source8 Live. Logical bytes and physical free-space observations are separate; no isolated physical gain or prospective capacity funding is claimed.
 
 Whole-folder success=false; no filesystem-absence or protected-data claim. Earlier cleanup, failed attempts, held items and all original evidence remain unchanged and receive zero new credit. This report-only append stops no program and changes no Source/Site or scientific publication status.
+
+<!-- mattersyn-fresh-current-crop101-closed-20261026-r1 -->
+
+### Closed deployed-image crop-copy attempt
+
+The fresh attempt closed 101 batch figure-copy scopes. Independent same-handle disposition-journal and returned-identity replay verifies 11278 file dispositions / 3027156383 logical bytes. Selected copies without verified removal credit: 0; mapped copies without credit: 0; holds 8020, errors 0, ambiguous dispositions without credit 0, unvisited 0, unclosed 0.
+
+Actual C-free observations: 140326055936 -> 143224541184 bytes. These nonisolated physical points are separate from logical byte credit; no isolated physical gain or prospective capacity funding is claimed.
+
+The earlier guarded attempt ended with external exit -1, no final RESULT and zero verified removal credit; its incomplete capture, unknown closure and all original history remain preserved. It receives zero new credit. Historical image observations supply no removal credit.
+
+Whole-folder success=false; no filesystem-absence assertion. Unpublished, protected, unknown and refused material remains outside this report’s removal credit. Protected model identity was verified at closing; this report stops no program, hosts no figures, changes no queue or paper data, and gives no new Source/Site publication credit.
