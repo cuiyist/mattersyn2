@@ -3697,3 +3697,22 @@ Actual C-free observations: 133982466048 -> 136079282176 bytes (nonisolated). Un
 The original ledger-format failure (747161) and ancestor closing hold (23f6bb) remain preserved. The unchanged R2 predicate passed retry e8a069; no weaker predicate was used. Counts derive from this closed journal only; comp7 and earlier cleanups receive no new credit. Source14/refusals, unknowns and all outside controls remain protected. Scoped native checks make no system-wide client/CWD/JobIO clearance claim.
 
 No Source/Site/scientific publication credit or prospective physical-gain funding. Source7 normal dry release remains separate; later GUI/push/Pages/anonymous gates are required.
+
+<!-- mattersyn-huang-four-dist-closed-20261026-r1 -->
+
+### Four completed Huang build copies retired
+
+Closed-journal replay: 252044 known member dispositions / 18738138416 logical bytes. All four roles closed; held/error, unvisited and unknown/unclosed: 0.
+
+- rs7Huang/candidate/project/recipe-atlas/dist: 63011 files / 4684534604 logical bytes; actual C-free 143293538304 -> 148075364352 bytes.
+- rs7Huang/final/project/recipe-atlas/dist: 63011 files / 4684534604 logical bytes; actual C-free 148074676224 -> 152861089792 bytes.
+- rs7Huang/site-preview: 63011 files / 4684534604 logical bytes; actual C-free 152859983872 -> 157648240640 bytes.
+- rs7Huang/site-stage: 63011 files / 4684534604 logical bytes; actual C-free 157648756736 -> 162434007040 bytes.
+
+Actual C-free after independent replay: 162433343488 bytes. Physical observations are nonisolated and are not treated as logical removal totals or prospective cleanup funding.
+
+Original Git/manifest SHA, same-handle file identity, single-link, native consumer, protected-model and fixed100GiB-reserve checks passed. Cross-role native file identities are unique. Whole-folder success=false; no filesystem-absence assertion. The worktree scaffolds, unknown/private controls, papers, training text/passes/pairs, active Qwen3-32B model/CUDA server and canonical Source/Site remain preserved. No program was stopped and no Source/Site file was changed by this cleanup.
+
+Unexecuted observerR1 budget-type and wrapperR1 same-buffer issues were fixed in separately retainedR2 code before their actual operations. The first metadata-accounting attempt correctly rejected an empty stderr log with its positive-only reader; replay used the unchanged reviewed zero-byte-capable checker for child logs only. Original failures/history remain preserved. Source14 automatic refusals and all1237 ledger exclusions remain excluded; no refusal was retried or bypassed.
+
+Only these four scopes receive new cleanup credit here. Prior comp7/six-scope entries remain unchanged. Huang was already verified live at Site ac17f6bb764b26dde7357c8a8685afcbca162d2b; this report-only update publishes no paper and has no Source/Site release credit.
