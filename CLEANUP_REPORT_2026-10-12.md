@@ -3744,3 +3744,16 @@ Only exact retained public M8 regular-Git tuples with original Source/snapshot m
 This adds credit only for the fifth literal scope. The earlier four raw groups and every older cleanup receive zero new credit. Original failed attempts and held history remain unchanged. Disposal stopped no program; scoped native checks make no system-wide open-handle clearance claim.
 
 Report-only aggregation changes no Source/Site/scientific status and grants no prospective capacity funding. Any remaining Source or later Site budget needs its own genuine Root admission and the owner100GiB reserve.
+
+<!-- mattersyn-source8-four-dist-closed-20261026-r1 -->
+
+### Four closed Source8 generated Site-copy scopes
+
+- `rs8Particles/candidate/project/recipe-atlas/dist`: 63046 independently journal-replayed file dispositions / 4686169333 logical bytes; metadata holds 8, attempted held/error 0, unknown/unclosed 0, unvisited 0. Nonisolated C-free observations 121276686336 -> 126057852928 bytes.
+- `rs8Particles/final/project/recipe-atlas/dist`: 63046 independently journal-replayed file dispositions / 4686169333 logical bytes; metadata holds 8, attempted held/error 0, unknown/unclosed 0, unvisited 0. Nonisolated C-free observations 126057644032 -> 130845990912 bytes.
+- `rs8Particles/site-preview`: 63046 independently journal-replayed file dispositions / 4686169333 logical bytes; metadata holds 8, attempted held/error 0, unknown/unclosed 0, unvisited 0. Nonisolated C-free observations 130845212672 -> 135645855744 bytes.
+- `rs8Particles/site-stage`: 63046 independently journal-replayed file dispositions / 4686169333 logical bytes; metadata holds 8, attempted held/error 0, unknown/unclosed 0, unvisited 0. Nonisolated C-free observations 135645032448 -> 140436824064 bytes.
+
+Counts come from the four actual closed role results and independent member-journal replay after genuine normal Source8 Live. Logical bytes and physical free-space observations are separate; no isolated physical gain or prospective capacity funding is claimed.
+
+Whole-folder success=false; no filesystem-absence or protected-data claim. Earlier cleanup, failed attempts, held items and all original evidence remain unchanged and receive zero new credit. This report-only append stops no program and changes no Source/Site or scientific publication status.
