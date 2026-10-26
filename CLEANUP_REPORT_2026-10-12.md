@@ -3769,3 +3769,14 @@ Actual C-free observations: 140326055936 -> 143224541184 bytes. These nonisolate
 The earlier guarded attempt ended with external exit -1, no final RESULT and zero verified removal credit; its incomplete capture, unknown closure and all original history remain preserved. It receives zero new credit. Historical image observations supply no removal credit.
 
 Whole-folder success=false; no filesystem-absence assertion. Unpublished, protected, unknown and refused material remains outside this report’s removal credit. Protected model identity was verified at closing; this report stops no program, hosts no figures, changes no queue or paper data, and gives no new Source/Site publication credit.
+
+<!-- mattersyn-source9-two-source-copies-closed-20261026-r1 -->
+
+### Two closed Source9 generated source-copy scopes
+
+- `ps9d/source-boundary`: 51982 independently journal-replayed file dispositions / 4555154956 logical bytes; attempted held/error 0, unknown/unclosed 0, unvisited 0; metadata omissions 230 retained. Source-relative exported leaves only.
+- `cs9d/project/recipe-atlas`: 49844 independently journal-replayed file dispositions / 4434659621 logical bytes; attempted held/error 0, unknown/unclosed 0, unvisited 0; metadata omissions 2368 retained. Only scripts/templates/data/static/tests; dist and scaffold remain outside this scope.
+
+Total: 101826 verified file dispositions / 8989814577 logical bytes. Actual C-free points across the nonisolated interval: 133031387136 -> 142169051136 bytes. The physical observations are separate from logical byte accounting; no isolated physical gain or prospective funding is claimed.
+
+Only original-equals-projected Source manifest tuples matching the exact snapshot and regular retained public H9 Git identity were selected; unchanged same-handle SHA/framed-Git checks and closed-journal replay bind the dispositions. Whole-folder success=false; no filesystem-absence claim. Working checkouts, models, paper originals, raw training data, dist trees, logs, controls and original evidence remain preserved. Earlier attempts and every prior cleanup receive zero new credit. Source PR103 merged; this report-only entry gives no Site publication or scientific credit and stops no program.
