@@ -3716,3 +3716,18 @@ Original Git/manifest SHA, same-handle file identity, single-link, native consum
 Unexecuted observerR1 budget-type and wrapperR1 same-buffer issues were fixed in separately retainedR2 code before their actual operations. The first metadata-accounting attempt correctly rejected an empty stderr log with its positive-only reader; replay used the unchanged reviewed zero-byte-capable checker for child logs only. Original failures/history remain preserved. Source14 automatic refusals and all1237 ledger exclusions remain excluded; no refusal was retried or bypassed.
 
 Only these four scopes receive new cleanup credit here. Prior comp7/six-scope entries remain unchanged. Huang was already verified live at Site ac17f6bb764b26dde7357c8a8685afcbca162d2b; this report-only update publishes no paper and has no Source/Site release credit.
+
+<!-- mattersyn-source8-old-failed-raw-four-groups-20261026-r1 -->
+
+### Four closed Source8 generated raw-copy groups
+
+- oldraw5: 49655 independently journal-replayed file dispositions / 4245615651 logical bytes; metadata holds 42, read/identity holds 0, attempted held/error 0. Nonisolated C-free points 133422592000 -> 137735118848 bytes. Scope: `cs8d/project/recipe-atlas/scripts`, `cs8d/project/recipe-atlas/templates`, `cs8d/project/recipe-atlas/data`, `cs8d/project/recipe-atlas/static`, `cs8d/project/recipe-atlas/tests`.
+- oldexport: 51929 independently journal-replayed file dispositions / 4274496975 logical bytes; metadata holds 126, read/identity holds 0, attempted held/error 0. Nonisolated C-free points 137734250496 -> 142077722624 bytes. Scope: `ps8d/source-boundary`.
+- failedraw5: 49655 independently journal-replayed file dispositions / 4245615651 logical bytes; metadata holds 42, read/identity holds 0, attempted held/error 0. Nonisolated C-free points 142025535488 -> 146337714176 bytes. Scope: `cs8c/project/recipe-atlas/scripts`, `cs8c/project/recipe-atlas/templates`, `cs8c/project/recipe-atlas/data`, `cs8c/project/recipe-atlas/static`, `cs8c/project/recipe-atlas/tests`.
+- failedexport: 51929 independently journal-replayed file dispositions / 4274496975 logical bytes; metadata holds 126, read/identity holds 0, attempted held/error 0. Nonisolated C-free points 146335100928 -> 150702391296 bytes. Scope: `ps8c/source-boundary`.
+
+Only regular retained public M8 Git tuples matching original raw Source/snapshot metadata and fresh same-handle SHA/framed Git identity qualified. New/changed/unproven leaves, both candidate dist trees, logs, manifests, controls, failure artifacts and unknowns remain held. Whole-folder success=false; no filesystem-absence claim or isolated physical saving is inferred.
+
+The original ungrouped read-only qualification serialization abort remains preserved; grouping retained the48MiB map cap and unchanged native member guards. The failed H8c attempt remains a failed13-check build (first12 passed; final Reader step failed), not an approved candidate. Original history, all Source14 refusals and exclusions remain protected. Every prior cleanup gets zero new credit.
+
+These report-only counts grant no Source/Site/scientific publication credit or prospective funding. Scoped native checks make no system-wide open-handle clearance claim.
