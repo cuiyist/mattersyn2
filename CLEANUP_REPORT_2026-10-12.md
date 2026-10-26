@@ -3668,3 +3668,15 @@ Root parked its own failed cleanup child after observed strict protected-server 
 Complete native stdout was not retained. The distinct abort metadata review reports only saved evidence and the genuine signed external terminal; it is not a positive independent removal-accounting result or complete closing proof. Scoped native consumer checks do not claim system-wide open-handle clearance. All Source14 refused scopes and parents, unknown/unpublished images, figure metadata and protected history remain excluded. No prospective gain, isolated physical saving or newly funded build is inferred. Every earlier cleanup receives zero new credit.
 
 No Source/Site publication or paper/science admission is credited. Live remains at Site 0cedb7a8e9bb945d6522657c4e4d79695faf1acd with 2,623 papers, 6,428 records and 4,307 pairs. Site40GiB remains parked; the owner100GiB reserve remains in force. Queue snapshot: physical3,178 (IN459); read2,253 (IN402), attempted75 (IN30), unread850 (IN27). B141 completed two passes with zero pair files and no payload/publication admission.
+
+<!-- mattersyn-comp7-fresh-groups-20261026-r1 -->
+
+### Fresh completed Source7 generated-copy retirement
+
+- g0: 49660 independently replayed member dispositions / 4412236851 logical bytes; metadata holds 8, held/error members 0; nonisolated C-free points 120491728896 -> 124979675136 bytes.
+- g1: 49660 independently replayed member dispositions / 4412236851 logical bytes; metadata holds 8, held/error members 0; nonisolated C-free points 124977987584 -> 129476395008 bytes.
+- g2: 63011 independently replayed member dispositions / 4684534604 logical bytes; metadata holds 8, held/error members 0; nonisolated C-free points 129476259840 -> 133994590208 bytes.
+
+Groups: exported raw, candidate raw and dist. Unknown/private leaves, controls and Source14 scopes stay protected. Whole-folder success=false; physical points are nonisolated. No future gains/publication credit. Protected-model closing guards passed; disposal stopped no program.
+
+R2 read-only qualification workers were retired for quadratic handling; their failures stay preserved without credit. R3 cached the same protection predicate. Counts derive only from closed journals and genuine terminals; earlier cleanups get no new credit.
