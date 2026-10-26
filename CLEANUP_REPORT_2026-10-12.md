@@ -3731,3 +3731,16 @@ Only regular retained public M8 Git tuples matching original raw Source/snapshot
 The original ungrouped read-only qualification serialization abort remains preserved; grouping retained the48MiB map cap and unchanged native member guards. The failed H8c attempt remains a failed13-check build (first12 passed; final Reader step failed), not an approved candidate. Original history, all Source14 refusals and exclusions remain protected. Every prior cleanup gets zero new credit.
 
 These report-only counts grant no Source/Site/scientific publication credit or prospective funding. Scoped native checks make no system-wide open-handle clearance claim.
+
+<!-- mattersyn-source8-fifth-freshstatic-closed-20261026-r1 -->
+
+### Fifth closed generated raw-static scope
+
+- `cs8e/project/recipe-atlas/static`: 42830 independently journal-replayed file dispositions / 3997814075 logical bytes; metadata holds 29, identity holds 0, attempted held/error 0.
+- Actual C-free observations: 136353230848 -> 140410097664 bytes (nonisolated; no isolated physical gain is claimed).
+
+Only exact retained public M8 regular-Git tuples with original Source/snapshot membership and same-handle full SHA/framed Git identity were selected. Whole-folder success=false; no filesystem-absence claim. Protected inputs, logs, candidate dist, manifests, controls, unknowns and all Source14 refusals remain preserved.
+
+This adds credit only for the fifth literal scope. The earlier four raw groups and every older cleanup receive zero new credit. Original failed attempts and held history remain unchanged. Disposal stopped no program; scoped native checks make no system-wide open-handle clearance claim.
+
+Report-only aggregation changes no Source/Site/scientific status and grants no prospective capacity funding. Any remaining Source or later Site budget needs its own genuine Root admission and the owner100GiB reserve.
