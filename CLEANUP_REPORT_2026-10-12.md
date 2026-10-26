@@ -3680,3 +3680,20 @@ No Source/Site publication or paper/science admission is credited. Live remains 
 Groups: exported raw, candidate raw and dist. Unknown/private leaves, controls and Source14 scopes stay protected. Whole-folder success=false; physical points are nonisolated. No future gains/publication credit. Protected-model closing guards passed; disposal stopped no program.
 
 R2 read-only qualification workers were retired for quadratic handling; their failures stay preserved without credit. R3 cached the same protection predicate. Counts derive only from closed journals and genuine terminals; earlier cleanups get no new credit.
+
+<!-- mattersyn-generated-six-closed-20261026-r1 -->
+
+### Six closed generated-copy scopes
+
+- batch62/q-M52-r2/source-boundary: 10944 journal-replayed member dispositions / 449080859 logical bytes; held/error 0.
+- batch14/q-r2/source-boundary: 7577 journal-replayed member dispositions / 353906910 logical bytes; held/error 0.
+- batch40/r/final/project: 7556 journal-replayed member dispositions / 327604896 logical bytes; held/error 0.
+- batch40/r/candidate/project: 5065 journal-replayed member dispositions / 316005401 logical bytes; held/error 0.
+- batch38/q-r3/local-build/project: 4979 journal-replayed member dispositions / 311962699 logical bytes; held/error 0.
+- batch34/q/local-build/project: 4775 journal-replayed member dispositions / 302771096 logical bytes; held/error 0.
+
+Actual C-free observations: 133982466048 -> 136079282176 bytes (nonisolated). Unvisited 0; unknown/unclosed 0. Whole-folder success=false; no filesystem-absence assertion.
+
+The original ledger-format failure (747161) and ancestor closing hold (23f6bb) remain preserved. The unchanged R2 predicate passed retry e8a069; no weaker predicate was used. Counts derive from this closed journal only; comp7 and earlier cleanups receive no new credit. Source14/refusals, unknowns and all outside controls remain protected. Scoped native checks make no system-wide client/CWD/JobIO clearance claim.
+
+No Source/Site/scientific publication credit or prospective physical-gain funding. Source7 normal dry release remains separate; later GUI/push/Pages/anonymous gates are required.
