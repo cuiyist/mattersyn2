@@ -3780,3 +3780,16 @@ Whole-folder success=false; no filesystem-absence assertion. Unpublished, protec
 Total: 101826 verified file dispositions / 8989814577 logical bytes. Actual C-free points across the nonisolated interval: 133031387136 -> 142169051136 bytes. The physical observations are separate from logical byte accounting; no isolated physical gain or prospective funding is claimed.
 
 Only original-equals-projected Source manifest tuples matching the exact snapshot and regular retained public H9 Git identity were selected; unchanged same-handle SHA/framed-Git checks and closed-journal replay bind the dispositions. Whole-folder success=false; no filesystem-absence claim. Working checkouts, models, paper originals, raw training data, dist trees, logs, controls and original evidence remain preserved. Earlier attempts and every prior cleanup receive zero new credit. Source PR103 merged; this report-only entry gives no Site publication or scientific credit and stops no program.
+
+<!-- mattersyn-source9-four-dist-closed-20261026-r1 -->
+
+### Four closed Source9 generated Site-copy scopes
+
+- `rs9Particles/candidate/project/recipe-atlas/dist`: 63220 independently journal-replayed file dispositions / 4707537535 logical bytes; metadata holds 8, attempted held/error 0, unknown/unclosed 0, unvisited 0. Nonisolated C-free observations 121966469120 -> 126770393088 bytes.
+- `rs9Particles/final/project/recipe-atlas/dist`: 63220 independently journal-replayed file dispositions / 4707537535 logical bytes; metadata holds 8, attempted held/error 0, unknown/unclosed 0, unvisited 0. Nonisolated C-free observations 126769446912 -> 131578929152 bytes.
+- `rs9Particles/site-preview`: 63220 independently journal-replayed file dispositions / 4707537535 logical bytes; metadata holds 8, attempted held/error 0, unknown/unclosed 0, unvisited 0. Nonisolated C-free observations 131577716736 -> 136390639616 bytes.
+- `rs9Particles/site-stage`: 63220 independently journal-replayed file dispositions / 4707537535 logical bytes; metadata holds 8, attempted held/error 0, unknown/unclosed 0, unvisited 0. Nonisolated C-free observations 136383258624 -> 141197373440 bytes.
+
+Counts come from the four actual closed role results and independent member-journal replay after genuine normal Source9 Live. Logical bytes and physical free-space observations are separate; no isolated physical gain or prospective capacity funding is claimed.
+
+Whole-folder success=false; no filesystem-absence or protected-data claim. Earlier cleanup, failed attempts, held items and all original evidence remain unchanged and receive zero new credit. This report-only append stops no program and changes no Source/Site or scientific publication status.
