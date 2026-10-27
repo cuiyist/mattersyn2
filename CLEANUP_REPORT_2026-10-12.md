@@ -3901,3 +3901,15 @@ All selected outcomes closed with zero held/error, unknown or unvisited outcomes
 Observed C: free was **138,864,132,096 bytes before** and **143,678,562,304 bytes after**. These separate observations are not an isolated physical-reclamation measurement.
 
 The previously reported eleven scopes remain counted once at 621,984 files / 48,596,463,014 logical bytes. Adding only this preview scope yields **twelve scopes once: 685,229 files / 53,306,815,136 logical bytes**. All prior histories and Source14 refusals remain preserved. This cleanup adds no scientific, training or Source/Site publication credit.
+
+<!-- mattersyn-source11-ge-stage-copy-20261027-root-r1 -->
+
+Completed Ge stage-copy cleanup, 2026-10-27
+
+Removed 63,245 known, reconstructible files from rs10GeOnly/site-stage: 4,710,352,122 logical bytes. Root deletion exited successfully; independent closed-journal replay found zero errors, unknown outcomes or unvisited files. Three nonpositive and five protected metadata entries remain; scaffolding and history remain. No whole-folder absence is claimed and no program was stopped.
+
+Actual C free bytes before and after this operation: 131,522,236,416 and 136,340,979,712. These are observed points, not an isolated physical gain. Across thirteen distinct completed scopes, counted once: 748,474 files / 58,017,167,258 logical bytes. Earlier held and refused items remain excluded.
+
+Website: the verified live Ge contribution is one paper, four records and six captioned figures (site b907996d618536b3da4c605748aa7527c6cf3e2a). Current totals are 2,638 papers, 6,455 records and 4,334 recipe-structure pairs. The next selected batch is twelve papers, fourteen records and sixty-nine figures; it is not published. Its three deletion-only corrections are applied and two automatically refused papers remain excluded. Ninety-eight relevant code tests passed.
+
+Large imports and builds are parked pending complete peak-allocation funding above the owner's 100 GiB reserve. No source text or quoted payloads are in this report. A read-only process observation found Windows SearchIndexer PID 16408 with 116,867,162,112 private bytes and the C pagefile allocated 129,616 MiB; this is not proof of isolated disk causation. The system program and protected Qwen server were left running. This report-only upload has a separate 64 MiB write allowance plus 1 GiB other unfinished metadata allowance; it launches no large write.
