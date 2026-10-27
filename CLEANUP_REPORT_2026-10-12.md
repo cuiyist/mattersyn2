@@ -3851,3 +3851,21 @@ Together with the preceding four scopes, this series verified330300files/2590201
 Latest C free observed: 152,369,917,952 bytes. Observations include unrelated activity; logical bytes and physical free space are separate. No programs were stopped, and no protected paper/text/pass/pair/training/model/runtime/credential/working-checkout data was removed. Source14 automatic refusals stay excluded. A bounded unused-model inventory found no newly proven candidate; the historical4B removal remains old credit, and unlocated9B/27B models earn no new credit.
 
 This is a safe report-only update. The Ge release is still pending; no paper, review or accuracy credit is added.
+
+<!-- mattersyn-source10-ge-completed-two-raw-copies-20261027-root-r1 -->
+
+### Completed Ge-check source-copy subsets (2026-10-27 UTC)
+
+Independent closed-journal replay verified two new completed-copy scopes:
+
+| Scope (relative to B) | Verified files | Logical bytes | Held/error | Unknown/unclosed | Unvisited |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| ps10r3/source-boundary | 52,112 | 4,296,108,475 | 0 | 0 | 0 |
+| cs10r3/project/recipe-atlas/{scripts,templates,data,static,tests} | 49,837 | 4,267,280,047 | 0 | 0 | 0 |
+| New two scopes only | 101,949 | 8,563,388,522 | 0 | 0 | 0 |
+
+Both child returns were 0, both global closing checks passed, and each selected leaf had one durable intent and outcome. Selection covered known reconstructible leaves matching retained public M10; new or changed Ge-only leaves remained outside this cleanup credit. Journals, results and supporting control records remain retained.
+
+The earlier six scopes remain historical: 330,300 verified files / 25,902,018,126 logical bytes, with 42 held/error outcomes retained. Across all eight scopes, the once-only total is 432,249 verified files / 34,465,406,648 logical bytes, 42 held/error outcomes, zero unknown/unclosed and zero unvisited. Selected paths and credited native file identities are unique across all eight scopes. Historical six-scope credit is not added again by this appendix, and all prior technical failures and holds remain recorded.
+
+Observed C: free-space points were 137,739,001,856 -> 142,111,690,752 bytes for the export scope and 142,079,193,088 -> 146,415,325,184 bytes for the raw-copy scope. These observations are not isolated physical savings, and logical bytes are not asserted as physical disk gain. No whole-folder or filesystem-absence claim is made. This accounting adds no Source/Site publication, audit, calibration, accuracy or training credit.
