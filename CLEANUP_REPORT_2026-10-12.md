@@ -3869,3 +3869,23 @@ Both child returns were 0, both global closing checks passed, and each selected 
 The earlier six scopes remain historical: 330,300 verified files / 25,902,018,126 logical bytes, with 42 held/error outcomes retained. Across all eight scopes, the once-only total is 432,249 verified files / 34,465,406,648 logical bytes, 42 held/error outcomes, zero unknown/unclosed and zero unvisited. Selected paths and credited native file identities are unique across all eight scopes. Historical six-scope credit is not added again by this appendix, and all prior technical failures and holds remain recorded.
 
 Observed C: free-space points were 137,739,001,856 -> 142,111,690,752 bytes for the export scope and 142,079,193,088 -> 146,415,325,184 bytes for the raw-copy scope. These observations are not isolated physical savings, and logical bytes are not asserted as physical disk gain. No whole-folder or filesystem-absence claim is made. This accounting adds no Source/Site publication, audit, calibration, accuracy or training credit.
+
+<!-- mattersyn-source10-ge-three-dist-copies-20261027-root-r1 -->
+
+### Three completed Ge release dist copies
+
+Three disjoint generated copies were retired only for known file members matching the verified public Site's regular Git blobs, byte counts and full hashes. Independent replay of all three closed same-handle journals verified the following new removals:
+
+| Generated copy (relative path) | Verified files | Logical bytes | Observed C: free before (bytes) | Observed C: free after (bytes) |
+| --- | ---: | ---: | ---: | ---: |
+| `cs10r3/project/recipe-atlas/dist` | 63,245 | 4,710,352,122 | 124,726,558,720 | 129,518,678,016 |
+| `rs10GeOnly/candidate/project/recipe-atlas/dist` | 63,245 | 4,710,352,122 | 129,515,925,504 | 134,086,967,296 |
+| `rs10GeOnly/final/project/recipe-atlas/dist` | 63,245 | 4,710,352,122 | 134,083,293,184 | 138,895,392,768 |
+
+These three scopes add **189,735 files / 14,131,056,366 logical bytes**. The previously reported eight scopes remain counted once at 432,249 files / 34,465,406,648 logical bytes. The eleven disjoint scopes therefore total **621,984 files / 48,596,463,014 logical bytes**; individual replay receipts are not additional removal events.
+
+All selected outcomes closed with zero held/error, unknown or unvisited outcomes. Each scope retained three nonpositive-size metadata entries and five protected metadata entries. Cross-role file paths and native identities were unique. Unlisted presence was not censused; this is not a whole-folder or filesystem-absence claim.
+
+The C: values above are separate observations affected by other activity, not isolated physical-reclamation measurements. Private inputs, models, controls, manifests, logs and failure history were preserved. No program was stopped, and cleanup wrote neither canonical Source nor Site. All prior technical-failure history and Source14 refusals remain preserved.
+
+The separate preview proposal is excluded and has zero credit here. This report records generated-copy cleanup only; it adds no scientific, training or Source/Site publication credit.
