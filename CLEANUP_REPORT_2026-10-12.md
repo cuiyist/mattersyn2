@@ -3821,3 +3821,18 @@ Latest observed C free: 140,640,141,312 bytes. The physical free-space points in
 These were exact generated leaves reconstructible from retained/published Git and verified hashes. Original failure logs, controls and holds remain: raw metadata holds 85 and 5; dist holds 48 (3 nonpositive, 3 protected/private, 42 different published tuples). No whole-folder absence or whole-folder success is asserted. No program was stopped; no active consumer prevented these qualified leaves. Source PDFs, page text, quoted pass/pair/training files, owner folders, credentials, working checkouts and the active Qwen3-32B model/server were preserved. Source14 refusals remain excluded.
 
 This is an append to the already approved existing public cleanup report only. No Source/Site release, scientific audit or publication credit. The website job continues under its normal checks.
+
+<!-- mattersyn-source10-four-closed-public-subset-copies-20261027-root-r1 -->
+
+### Source10 public generated-copy cleanup — 2026-10-27T05:07:30.179645+00:00
+
+- cs10d/project/recipe-atlas/scripts, cs10d/project/recipe-atlas/templates, cs10d/project/recipe-atlas/data, cs10d/project/recipe-atlas/static, cs10d/project/recipe-atlas/tests: 49,839 verified files; 4,267,344,014 logical bytes; 0 held. Actual C-free points 126,069,841,920 -> 130,397,425,664 bytes.
+- ps10d/source-boundary: 52,114 verified files; 4,296,172,442 logical bytes; 0 held. Actual C-free points 130,403,545,088 -> 134,758,211,584 bytes.
+- cs10d/project/recipe-atlas/dist: 63,199 verified files; 4,387,556,574 logical bytes; 21 held. Actual C-free points 134,757,052,416 -> 139,258,019,840 bytes.
+- cs10r2/project/recipe-atlas/dist: 63,199 verified files; 4,387,556,574 logical bytes; 21 held. Actual C-free points 139,259,936,768 -> 143,724,630,016 bytes.
+
+New closed dispositions: **228,351 files / 17,338,629,604 logical bytes**. An independent read-only replay of the unchanged original journal-accounting engine verified every credited outcome and unique cross-scope native identity. All four closing checks passed; 42 held outcomes remain, zero unknown or unvisited. No earlier cleanup is counted again.
+
+Latest observed C free: 143,702,810,624 bytes. Physical observations include other activity and are not isolated cleanup gains. Only exact generated leaves already reconstructible from the retained public Source9 tree or verified published assets were eligible. Changed, private, unknown and protected leaves remain. Original build failures and the later known page-display issue remain on record; no whole-folder success or absence is asserted.
+
+No program was stopped. Papers, owner folders, page text, quoted pass/pair/training files, private audits, credentials, canonical checkouts and the active Qwen3-32B model/CUDA server were preserved. Source14 automatic refusals remain excluded. This report-only append adds no papers or scientific-audit credit. The Ge-only release is pending normal checks and publication.
