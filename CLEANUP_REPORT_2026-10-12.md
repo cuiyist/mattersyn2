@@ -3913,3 +3913,17 @@ Actual C free bytes before and after this operation: 131,522,236,416 and 136,340
 Website: the verified live Ge contribution is one paper, four records and six captioned figures (site b907996d618536b3da4c605748aa7527c6cf3e2a). Current totals are 2,638 papers, 6,455 records and 4,334 recipe-structure pairs. The next selected batch is twelve papers, fourteen records and sixty-nine figures; it is not published. Its three deletion-only corrections are applied and two automatically refused papers remain excluded. Ninety-eight relevant code tests passed.
 
 Large imports and builds are parked pending complete peak-allocation funding above the owner's 100 GiB reserve. No source text or quoted payloads are in this report. A read-only process observation found Windows SearchIndexer PID 16408 with 116,867,162,112 private bytes and the C pagefile allocated 129,616 MiB; this is not proof of isolated disk causation. The system program and protected Qwen server were left running. This report-only upload has a separate 64 MiB write allowance plus 1 GiB other unfinished metadata allowance; it launches no large write.
+
+<!-- mattersyn-source11-local-integration-20261027-root-r1 -->
+
+Source11 local integration milestone, 2026-10-27
+
+The unchanged normal import completed: twelve selected papers, fourteen source_extracted records and sixty-nine figure crops. All six children succeeded, including the quote-free original-ordinal selection. All 6,455 earlier records and the six audited exports remain unchanged. The local canonical count is 6,469; published records remain 6,455. The website still has 2,638 papers and 4,334 recipe-structure pairs.
+
+Normal rights registration checked 137 assets and added 125 factual entries, with permission status unverified. The ordinary exact file-list preparer reports commit_ready=true, published=false. Local commit bd6e6ebd77d698e20ec908b1fbb5a86954cb4b7b has tree 71d1c6f96372e253e644be612a2b8c1b0073a51c. It has not been pushed or merged; the full thirteen local phases, GUI, exact Source CI, normal Site release and anonymous deployment verification are still required. No publication or audit credit is added.
+
+The ordinary whitespace check caught mixed newlines in added script lines and one blank metadata line. They were corrected with identical Python AST, identical JSON values and the five pending owner questions byte-preserved. The check stayed enabled. The earlier 98 test results remain; all mandatory full checks are pending.
+
+Large build funding remains short: actual C free at this checkpoint is 135,996,248,064 bytes. The existing full thirteen-phase initial profile requires 139,586,437,120 free bytes (30 GiB allocation plus the owner's 100 GiB reserve), a shortfall of 3,590,189,056 bytes. No heavy build is launched on projected savings. Bounded metadata work continues. The active Qwen server remains running and the audit lane remains paused.
+
+No new cleanup occurred in this appendix. Thirteen prior completed scopes remain counted once at 748,474 files / 58,017,167,258 logical bytes; no isolated physical gain is asserted. The two source-reading refusals, earlier cleanup refusal, unresolved caption and historical failures remain retained. No paper PDFs, full text, quotes or private model payloads are uploaded.
