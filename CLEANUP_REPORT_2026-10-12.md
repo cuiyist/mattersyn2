@@ -3805,3 +3805,19 @@ This new exact-leaf scope followed genuine normal Source9 publication. Every sel
 
 The operation closed successfully with its consumed journal independently replayed. Whole-folder success and filesystem-absence claims remain false; scaffolding, controls, protected inputs and historical evidence remain. No program was stopped and no Source/Site data or publication credit changed.
 
+
+<!-- mattersyn-source8-three-closed-copies-20261027-root-r1 -->
+
+### Completed Source8 generated copies — 2026-10-27T03:03:28.244963+00:00
+
+- ps8e/source-boundary exported raw leaves: 51,970 verified files; 4,535,602,538 logical bytes. Actual C-free points 131,229,523,968 -> 135,844,667,392 bytes.
+- cs8e/project/recipe-atlas public raw leaves: 6,833 verified files; 393,216,058 logical bytes. Actual C-free points 135,844,589,568 -> 136,247,422,976 bytes.
+- cs8e/project/recipe-atlas/dist known published leaves: 63,006 verified files; 4,365,111,247 logical bytes. Actual C-free points 136,186,814,464 -> 140,644,118,528 bytes.
+
+Total newly closed dispositions: **121,809 files / 9,293,929,843 logical bytes**. Original journal accounting was independently replayed; paths and native file identities do not overlap each other or the eight previously credited journals. No previous cleanup is counted again.
+
+Latest observed C free: 140,640,141,312 bytes. The physical free-space points include other activity and are not an isolated measure of this cleanup.
+
+These were exact generated leaves reconstructible from retained/published Git and verified hashes. Original failure logs, controls and holds remain: raw metadata holds 85 and 5; dist holds 48 (3 nonpositive, 3 protected/private, 42 different published tuples). No whole-folder absence or whole-folder success is asserted. No program was stopped; no active consumer prevented these qualified leaves. Source PDFs, page text, quoted pass/pair/training files, owner folders, credentials, working checkouts and the active Qwen3-32B model/server were preserved. Source14 refusals remain excluded.
+
+This is an append to the already approved existing public cleanup report only. No Source/Site release, scientific audit or publication credit. The website job continues under its normal checks.
