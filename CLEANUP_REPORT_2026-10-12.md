@@ -3946,3 +3946,18 @@ The second local metadata scope pass completed on 50 disjoint saved metadata ent
 
 Bounded engineering corrections: exact UTC native-creation type parsing repaired a technical collector failure while preserving its original logs; the five-file collector runtime supplies the required exact-five decision while retaining the sealed template's legacy exact-54 field. Actual freshness, native consumer, byte/identity, no-refusal-override and reserve checks remain enabled. The paused audit lane and its owner questions are unchanged. No paper text, quotations, raw model payloads or private audit contents are included in this report.
 
+
+<!-- mattersyn-source11-full13-gui-pr105-20261027-root-r1 -->
+
+### 2026-10-27: all thirteen Source checks and visual review passed
+
+Queue remains 3,163 physical entries, including 444 in scope: 2,250 read/unpublished (399 in scope), 75 attempted (30 in scope), and 838 unread (15 in scope). Metadata-only scope proposals do not change admissions or publication counts.
+
+Source11 at bd6e6ebd77d698e20ec908b1fbb5a86954cb4b7b completed all thirteen unchanged normal local checks, including the complete candidate build. A genuine browser review passed at desktop 1280 by 720 and phone 390 by 844: captioned figures loaded, the figure enlargement and source locator were visible, supported component reference cells rendered with explicit bulk/reference scope, and the phone layout had no horizontal overflow. The owned temporary preview was closed. The earlier ten-check passed=false result remains recorded.
+
+Source PR105 is pushed, open and attached: https://github.com/cuiyist/mattersyn/pull/105. In exact-head run40511649765, Ubuntu validation passed; Windows completed its public-source-projection check and was building the complete candidate at the latest observation. The comparison job and ordinary merge still await the complete successful run. There is no Source11 Site deployment or new Live credit. The already-verified Live Site remains b907996d618536b3da4c605748aa7527c6cf3e2a: 2,638 papers / 6,455 records / 4,334 pairs. This prospective batch contains 12 papers, 14 records and 69 captioned crops.
+
+Storage: actual C free at the current provenance check was 121,509,683,200 bytes. No new deletion credit is added. The two redundant CUDA ZIP backups remain parked after two technical guard failures: a collector treated one pinned code reference as JSON; its narrow decoding fix was independently reviewed and a fresh native observation passed. The unchanged qualification operator then rejected the server's working-directory expectation before it created its target-phase output or read or deleted either ZIP. The server's actual working directory is the MatterSyn root and its executable is the retained CUDA runtime. Original logs and all protection entries remain intact; no other program was stopped. A bounded code-only correction is parked.
+
+Choice: continue the exact-head Source CI while separately preparing known-leaf retirement of the completed public build copies. Keep every release gate and the 100 GiB reserve; the existing Site dry-run budget of 30,601,641,984 bytes remains unfunded at this observation. Prospective cleanup provides no funding. Safe reports are saved to GitHub; PDFs, page text, quoted passes/pairs/training files, active Qwen/CUDA runtime and canonical working checkouts stay protected locally. The audited lane, Worker A/B and waiting owner questions remain paused.
+
