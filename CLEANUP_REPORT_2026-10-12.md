@@ -3927,3 +3927,22 @@ The ordinary whitespace check caught mixed newlines in added script lines and on
 Large build funding remains short: actual C free at this checkpoint is 135,996,248,064 bytes. The existing full thirteen-phase initial profile requires 139,586,437,120 free bytes (30 GiB allocation plus the owner's 100 GiB reserve), a shortfall of 3,590,189,056 bytes. No heavy build is launched on projected savings. Bounded metadata work continues. The active Qwen server remains running and the audit lane remains paused.
 
 No new cleanup occurred in this appendix. Thirteen prior completed scopes remain counted once at 748,474 files / 58,017,167,258 logical bytes; no isolated physical gain is asserted. The two source-reading refusals, earlier cleanup refusal, unresolved caption and historical failures remain retained. No paper PDFs, full text, quotes or private model payloads are uploaded.
+
+<!-- mattersyn-source11-compression59-and-prefix10-20261027-root-r1 -->
+
+### 2026-10-27: actual validation and storage continuation
+
+Queue census remains 3,163 physical entries: 444 in scope, 802 outside scope and 1,917 uncertain. Read/unpublished: 2,250 entries (399 in scope); attempted: 75 (30 in scope); unread: 838 (15 in scope). These are physical entries, not unique primary papers or release-ready papers.
+
+Source11 is genuinely imported, registered, normally prepared and committed locally at bd6e6ebd77d698e20ec908b1fbb5a86954cb4b7b: 12 papers, 14 original-ordinal records and 69 captioned crops. An actual ten-check prefix completed successfully; its result remains passed=false, 10/13. Source boundary export, complete candidate build, GUI, exact-head CI, merge, Site deployment and anonymous verification have not completed for Source11. No new Live paper credit is claimed. The already-live site remains b907996d618536b3da4c605748aa7527c6cf3e2a: 2,638 papers / 6,455 records / 4,334 pairs.
+
+Storage: 54 closed historical administrative BEFORE images and five closed historical source allowlists were compressed in place using ordinary NTFS compression. All 59 retain identical logical bytes, full hashes, file identities, creation/modification times and parent identities. No files were deleted, moved or rewritten; no programs were stopped. The prior 60 compressed files are disjoint: 119 distinct compressed files in these groups. Historical deletion credit remains 748,474 known files / 58,017,167,258 logical bytes across 13 scopes, counted once.
+
+For the 54-file group, unchanged logical size is 1,701,249,010 bytes; the storage-size API reduction is 899,874,802 bytes. Actual C free was 135,672,098,816 before and 136,336,642,048 after. For the five-file group, unchanged logical size is 188,475,306 bytes; API reduction is 118,876,074 bytes. Actual C free was 136,322,682,880 before and 136,441,536,512 after. These are separate non-isolated free-space observations, not exact freed-cluster attribution. Protected source inputs, page text, quoted passes/pairs/training files, credentials, canonical checkouts and the active Qwen/CUDA runtime remain intact.
+
+Choice: adopt the supported three-copy Source estimate (27 GiB initial / 22 GiB after successful boundary export, including the unchanged 12 GiB other-work allowance) and preserve the 100 GiB reserve. Its launch threshold is 136,365,211,648 actual free bytes; fresh checks still govern launch and every stage. The Site path retains four public copies and keeps its existing 30,601,641,984-byte dry-run budget; the smaller Source estimate does not authorize Site work. The old prefix and larger estimates remain recorded.
+
+The second local metadata scope pass completed on 50 disjoint saved metadata entries: 10 in scope, 35 outside scope, five insufficient metadata; ten local requests, no technical errors. With the earlier validated 50-entry pass, the proposal totals are 27 in / 64 out / nine uncertain across 100 metadata entries. This is not full-paper extraction, fresh source identity verification, queue admission or publication.
+
+Bounded engineering corrections: exact UTC native-creation type parsing repaired a technical collector failure while preserving its original logs; the five-file collector runtime supplies the required exact-five decision while retaining the sealed template's legacy exact-54 field. Actual freshness, native consumer, byte/identity, no-refusal-override and reserve checks remain enabled. The paused audit lane and its owner questions are unchanged. No paper text, quotations, raw model payloads or private audit contents are included in this report.
+
