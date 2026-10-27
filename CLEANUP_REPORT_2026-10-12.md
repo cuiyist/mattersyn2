@@ -3836,3 +3836,18 @@ New closed dispositions: **228,351 files / 17,338,629,604 logical bytes**. An in
 Latest observed C free: 143,702,810,624 bytes. Physical observations include other activity and are not isolated cleanup gains. Only exact generated leaves already reconstructible from the retained public Source9 tree or verified published assets were eligible. Changed, private, unknown and protected leaves remain. Original build failures and the later known page-display issue remain on record; no whole-folder success or absence is asserted.
 
 No program was stopped. Papers, owner folders, page text, quoted pass/pair/training files, private audits, credentials, canonical checkouts and the active Qwen3-32B model/CUDA server were preserved. Source14 automatic refusals remain excluded. This report-only append adds no papers or scientific-audit credit. The Ge-only release is pending normal checks and publication.
+
+<!-- mattersyn-source10-completed-two-raw-copies-20261027-root-r1 -->
+
+### Completed Source10 raw-copy cleanup — 2026-10-27T05:28:58.735513+00:00
+
+- cs10r2/project/recipe-atlas public raw inputs: 49,837 verified files; 4,267,280,047 logical bytes. Actual C-free points 143,701,286,912 -> 148,035,665,920 bytes.
+- ps10r2/source-boundary public raw inputs: 52,112 verified files; 4,296,108,475 logical bytes. Actual C-free points 148,005,810,176 -> 152,361,037,824 bytes.
+
+Newly closed: **101,949 files / 8,563,388,522 logical bytes**. Independent replay used the unchanged journal-accounting engine and original qualified maps; both groups are disjoint from each other and all four immediately preceding scopes by path and native identity. All selected members have closed verified outcomes; zero held/error/unknown/unvisited. Earlier cleanup credit is not added again.
+
+Together with the preceding four scopes, this series verified330300files/25902018126logicalbytes. Its original failed build, later known page-display issue, changed/private leaves, protected holds and all historical evidence remain. No whole-folder success or absence is claimed. These were exact generated leaves matching the retained public Source9 tree, with original native identity/hash/single-link/reparse/consumer/protection checks.
+
+Latest C free observed: 152,369,917,952 bytes. Observations include unrelated activity; logical bytes and physical free space are separate. No programs were stopped, and no protected paper/text/pass/pair/training/model/runtime/credential/working-checkout data was removed. Source14 automatic refusals stay excluded. A bounded unused-model inventory found no newly proven candidate; the historical4B removal remains old credit, and unlocated9B/27B models earn no new credit.
+
+This is a safe report-only update. The Ge release is still pending; no paper, review or accuracy credit is added.
