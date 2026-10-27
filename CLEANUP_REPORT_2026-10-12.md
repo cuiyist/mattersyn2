@@ -3793,3 +3793,15 @@ Only original-equals-projected Source manifest tuples matching the exact snapsho
 Counts come from the four actual closed role results and independent member-journal replay after genuine normal Source9 Live. Logical bytes and physical free-space observations are separate; no isolated physical gain or prospective capacity funding is claimed.
 
 Whole-folder success=false; no filesystem-absence or protected-data claim. Earlier cleanup, failed attempts, held items and all original evidence remain unchanged and receive zero new credit. This report-only append stops no program and changes no Source/Site or scientific publication status.
+
+<!-- mattersyn-source9-candidate-dist-closed-20261027-r1 -->
+
+### Completed Source9 local build copy
+
+- `cs9d/project/recipe-atlas/dist`: 63,220 independently journal-replayed file dispositions / 4,707,537,535 logical bytes. Five protected controls and three nonpositive files remain; attempted held/error, unknown/unclosed and unvisited counts are zero.
+- Nonisolated C-free observations: 141,131,608,064 before and 145,937,395,712 after, in bytes. These observations are separate from logical bytes and do not measure an isolated physical gain.
+
+This new exact-leaf scope followed genuine normal Source9 publication. Every selected file matched the published Site manifest and regular Git object; native file identities were distinct from the four earlier copy scopes. The earlier raw-copy operation selected zero files in this directory, and its original exclusions and history remain unchanged. All current inherited protection and actual refusal exclusions remain in force.
+
+The operation closed successfully with its consumed journal independently replayed. Whole-folder success and filesystem-absence claims remain false; scaffolding, controls, protected inputs and historical evidence remain. No program was stopped and no Source/Site data or publication credit changed.
+
