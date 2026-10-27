@@ -3889,3 +3889,15 @@ All selected outcomes closed with zero held/error, unknown or unvisited outcomes
 The C: values above are separate observations affected by other activity, not isolated physical-reclamation measurements. Private inputs, models, controls, manifests, logs and failure history were preserved. No program was stopped, and cleanup wrote neither canonical Source nor Site. All prior technical-failure history and Source14 refusals remain preserved.
 
 The separate preview proposal is excluded and has zero credit here. This report records generated-copy cleanup only; it adds no scientific, training or Source/Site publication credit.
+
+<!-- mattersyn-source10-ge-preview-copy-20261027-root-r1 -->
+
+### Completed Ge preview public-file copy
+
+Independent replay of the closed same-handle journal verified **63,245 files / 4,710,352,122 logical bytes** retired from `rs10GeOnly/site-preview`. Only known members matching the verified public Site's regular Git blobs, byte counts and full hashes were eligible. The preview scope is disjoint from the three previously reported dist scopes; those earlier removals are not credited again.
+
+All selected outcomes closed with zero held/error, unknown or unvisited outcomes. Three nonpositive-size metadata entries and five protected metadata entries remained held. Unlisted presence was not censused, and neither whole-folder removal nor filesystem absence is asserted. Worktree controls, private inputs, manifests, logs, failure history and canonical Source/Site were preserved; no program was stopped and no model was changed.
+
+Observed C: free was **138,864,132,096 bytes before** and **143,678,562,304 bytes after**. These separate observations are not an isolated physical-reclamation measurement.
+
+The previously reported eleven scopes remain counted once at 621,984 files / 48,596,463,014 logical bytes. Adding only this preview scope yields **twelve scopes once: 685,229 files / 53,306,815,136 logical bytes**. All prior histories and Source14 refusals remain preserved. This cleanup adds no scientific, training or Source/Site publication credit.
