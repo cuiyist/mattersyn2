@@ -3978,3 +3978,16 @@ The computer restart interrupted the local Qwen process. At 06:18:25 UTC, GPU fr
 
 Choice: retain the existing local model and partial results, complete the accepted cleanup/report work, and leave unrelated GPU work untouched. This is the single Chicago October28 cleanup-report update; no separate anonymous verification step was run for this report-only update. No paper text, quotes or model payloads are included.
 
+
+<!-- mattersyn-cleanup-20261029-post-source18-root-r1 -->
+
+### 2026-10-29: twelve papers verified live; two completed public copies retired
+
+The normal twelve-paper release was anonymously verified at 2026-10-29 05:28:13 UTC, Site c163c589be272876c591943a65d56854ed5ae1e3: 2,736 papers / 6,594 records / 4,473 combined pairs / 1,171 material families. It added seventeen source_extracted records and 57 captioned crops. The normal publisher, exact-head Pages and anonymous 241-file / 12-paper / 16-material checks passed. This report-only append adds no publication, scientific-audit or training credit.
+
+Storage (particles12 postpublication): C free 142966185984 -> 152837484544 actual bytes; 129,602 verified reconstructible leaves / 9,659,190,882 logical bytes (9.659190882 GB) removed from rs18Particles12/candidate/project/recipe-atlas/dist and rs18Particles12/final/project/recipe-atlas/dist, each 64801 leaves /4829595441logical bytes; selected held/error/unvisited 0. Physical free-space movement is not attributed as isolated cleanup gain.
+
+Every selected leaf passed retained-Git/hash, identity, reparse, single-link, native-consumer, exclusive-lease and closing guards. Unknown/unlisted leaves and folders remain; whole-folder absence is not claimed. The cs18Particles12 public-dist attempt remains held with zero visited/deleted after its original precise-runtime-identity error; its failure evidence and consumed role are preserved. The corrected native creation-time binding was used only for the two untouched roles. Protected programs include the unchanged Qwen CUDA server 4424 and runtime; no program was stopped for disk cleanup. Papers, page text, quoted passes/pairs/training, owner folders, credentials and canonical Source/Site checkouts are preserved.
+
+The 400 GB cleanup trigger is not a gate. Every large operation must leave 40,000,000,000 actual bytes after its complete estimated allocation. Cleanup does not claim control of other applications. All older report bytes, failures, actual refusals and once-counted cleanup history remain intact. This is the single Chicago October29 cleanup-report append, with no separate anonymous verification step and no paper text, source quotations, model payloads or private audits included.
+
