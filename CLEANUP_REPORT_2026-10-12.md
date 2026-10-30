@@ -3991,3 +3991,13 @@ Every selected leaf passed retained-Git/hash, identity, reparse, single-link, na
 
 The 400 GB cleanup trigger is not a gate. Every large operation must leave 40,000,000,000 actual bytes after its complete estimated allocation. Cleanup does not claim control of other applications. All older report bytes, failures, actual refusals and once-counted cleanup history remain intact. This is the single Chicago October29 cleanup-report append, with no separate anonymous verification step and no paper text, source quotations, model payloads or private audits included.
 
+
+<!-- mattersyn-cleanup-20261030-post-source20-root-r1 -->
+
+### 2026-10-30: verified Source20 publication and completed-copy cleanup
+
+The normal forty-paper batch (40 primary papers / 63 source_extracted records / 215 captioned crops) is recorded only after genuine original publisher0, exact-head Pages success and anonymous route verification. Live at that verified snapshot: 2819 papers / 6726 records / 4605 combined pairs / 1194 material families, Site `0d014c019d16687d67dbfc89ce60343d5e613820`, verified 2026-10-30T06:06:47+00:00. Records remain source_extracted/unreviewed; no expert-audit or audited-training credit.
+
+Actual closed logical removal carried once into this report: 62.728136111 decimal GB (62,728,136,111 actual closed logical bytes). This comprises 57,756,104,088 already closed carried bytes plus the final 4,972,032,023-byte closed Source dist result. It includes no future four-copy retirement, anticipated gain or whole-folder-success claim. All prior raw report bytes and failure/held/unknown histories remain preserved.
+
+Actual C-free observations: 81643671552 -> 62112149504 bytes, nonisolated and separate from logical removal; no causal attribution is made. This is the one Chicago October30 report-only append. No separate CI/anonymous verification, host setting change, figure hosting or repository creation is requested.
