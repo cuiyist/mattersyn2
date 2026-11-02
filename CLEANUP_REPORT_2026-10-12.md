@@ -4021,3 +4021,13 @@ Storage (M2 update since the October31 report): 45.187870852 decimal GB removed 
 Actual nonisolated C-free observations for this entry: 81894551552 -> 81894551552 bytes, kept separate from logical removal without causal attribution. Two held 99682-byte raw-copy leaves, the unqualified failed dist and all protected, unproved or unknown leaves remain retained without retry or credit. Automatic raw-retirement counts remain unknown and excluded; no whole-folder-success or anticipated-removal claim is made.
 
 All prior report lines, failures, refusals, holds and denominators remain preserved. This is the single Chicago November1 report-only append. Reporting adds no cleanup, Live, expert-audit or training credit; no separate CI/anonymous verification, settings change, figure hosting or repository creation is requested.
+
+<!-- mattersyn-cleanup-20261102-closed-carry-root-r1 -->
+
+### 2026-11-02: completed generated-copy cleanup carry
+
+Storage (M2 update since the November1 report): 30.518600747 decimal GB removed (30518600747 verified closed logical bytes). This consumes only the retained unreported M2 copy-cleanup carry; the November1 reported 45187870852-byte window is not counted again. The tracked October31-plus-November1 subtotal 195653115689 bytes plus this addition is 226171716436 logical bytes (226.171716436 decimal GB), not an all-history sum. Main-report carry remains a separate, unconsumed bookkeeping axis.
+
+Actual nonisolated C-free observations retained before this report-only append: 52490735616 -> 52233805824 bytes, separate from logical removal without causal attribution. Allocated-space compression savings, future cleanup and unknown automatic raw-retirement counts are excluded. All held, protected, refused, unproved and unknown leaves remain outside any new removal claim; no whole-folder-success claim is made.
+
+All previous report bytes, dated denominators, failures, refusals and holds remain preserved. This is the single Chicago November2 report-only append. Reporting creates no cleanup, Live, expert-audit or training credit. No separate CI/anonymous verification, settings change, figure hosting or repository creation is requested.
