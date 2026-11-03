@@ -4031,3 +4031,14 @@ Storage (M2 update since the November1 report): 30.518600747 decimal GB removed 
 Actual nonisolated C-free observations retained before this report-only append: 52490735616 -> 52233805824 bytes, separate from logical removal without causal attribution. Allocated-space compression savings, future cleanup and unknown automatic raw-retirement counts are excluded. All held, protected, refused, unproved and unknown leaves remain outside any new removal claim; no whole-folder-success claim is made.
 
 All previous report bytes, dated denominators, failures, refusals and holds remain preserved. This is the single Chicago November2 report-only append. Reporting creates no cleanup, Live, expert-audit or training credit. No separate CI/anonymous verification, settings change, figure hosting or repository creation is requested.
+
+<!-- mattersyn-cleanup-20261103-closed-four-copies-root-r1 -->
+### 2026-11-03: completed generated-copy cleanup
+
+This daily entry records 270,288 previously closed known-file removals from four generated public-site copies after the verified 22-paper release: **20.525198716 GB (20,525,198,716 logical bytes)**. The original Source, Site, retained evidence and training data remain protected. Unknown or unlisted files are outside these counts; no whole-folder removal is claimed.
+
+The tracked October 31–November 2 subtotal was 226,171,716,436 logical bytes. Adding this distinct increment gives **246,696,915,152 logical bytes** for those tracked daily windows through November 3; this is not an all-history sum. The 30,518,600,747 bytes reported on November 2 are preserved without being added again.
+
+The normal automatic raw-copy retirement has no measured logical-byte total and is excluded. Compression savings and physical free-space changes are separate from logical removals. Current C: observations for this report are 58733453312 → 58489200640 bytes; their difference is not attributed to this cleanup.
+
+This report update adds no deletion, read, publication or training credit. Existing report history, failures, refusals and held items remain preserved. No separate anonymous verification is run for this report-only update.
