@@ -4042,3 +4042,54 @@ The tracked October 31–November 2 subtotal was 226,171,716,436 logical bytes. 
 The normal automatic raw-copy retirement has no measured logical-byte total and is excluded. Compression savings and physical free-space changes are separate from logical removals. Current C: observations for this report are 58733453312 → 58489200640 bytes; their difference is not attributed to this cleanup.
 
 This report update adds no deletion, read, publication or training credit. Existing report history, failures, refusals and held items remain preserved. No separate anonymous verification is run for this report-only update.
+
+<!-- mattersyn-cleanup-20261104-current-cleanup-root-r1 -->
+
+### 2026-11-04: completed cleanup
+
+- Completed batches: 41; removed copies: 3,374,891 files / 146,164,753,074 logical bytes.
+- Cleanup 1: C free 243.444 -> 249.632 GB; removed 7.759 GB (7,759,492,894 logical bytes, 53 files).
+- Cleanup 2: C free 250.994 -> 259.394 GB; removed 4.732 GB (4,731,787,326 logical bytes, 19,369 files).
+- Cleanup 3: C free 259.912 -> 268.003 GB; removed 4.103 GB (4,103,123,965 logical bytes, 38,093 files).
+- Cleanup 4: C free 250.817 -> 282.578 GB; removed 1.995 GB (1,995,325,241 logical bytes, 23,603 files).
+- Cleanup 5: C free 269.243 -> 297.685 GB; removed 1.139 GB (1,139,399,749 logical bytes, 151,602 files).
+- Cleanup 6: C free 269.319 -> 273.241 GB; removed 0.580 GB (580,025,866 logical bytes, 49,929 files).
+- Cleanup 7: C free 278.697 -> 287.378 GB; removed 1.867 GB (1,866,601,153 logical bytes, 28,779 files).
+- Cleanup 8: C free 279.356 -> 300.488 GB; removed 8.428 GB (8,428,302,000 logical bytes, 99,536 files).
+- Cleanup 9: C free 249.630 -> 310.183 GB; removed 26.975 GB (26,975,040,899 logical bytes, 508,683 files).
+- Cleanup 10: C free 249.911 -> 308.704 GB; removed 7.418 GB (7,417,738,433 logical bytes, 300,555 files).
+- Cleanup 11: C free 305.800 -> 306.698 GB; removed 0.894 GB (893,614,459 logical bytes, 8 files).
+- Cleanup 12: C free 318.737 -> 331.220 GB; removed 4.674 GB (4,673,724,577 logical bytes, 42,251 files).
+- Cleanup 13: C free 311.238 -> 322.730 GB; removed 4.344 GB (4,344,241,295 logical bytes, 39,512 files).
+- Cleanup 14: C free 307.852 -> 322.397 GB; removed 0.000 GB (0 logical bytes, 0 files).
+- Cleanup 15: C free 326.905 -> 332.882 GB; removed 1.912 GB (1,912,376,676 logical bytes, 20,983 files).
+- Cleanup 16: C free 275.207 -> 275.895 GB; removed 0.654 GB (654,393,109 logical bytes, 10 files).
+- Cleanup 17: C free 288.716 -> 289.324 GB; removed 0.518 GB (518,490,529 logical bytes, 15 files).
+- Cleanup 18: C free 303.350 -> 304.867 GB; removed 0.331 GB (330,630,311 logical bytes, 417 files).
+- Cleanup 19: C free 333.126 -> 334.378 GB; removed 0.881 GB (881,177,499 logical bytes, 1,665 files).
+- Cleanup 20: C free 339.627 -> 341.641 GB; removed 2.009 GB (2,009,416,406 logical bytes, 6 files).
+- Cleanup 21: C free 310.460 -> 351.034 GB; removed 7.484 GB (7,484,319,540 logical bytes, 191,618 files).
+- Cleanup 22: C free 313.060 -> 351.355 GB; removed 14.715 GB (14,715,498,637 logical bytes, 149,513 files).
+- Cleanup 23: C free 351.820 -> 351.858 GB; removed 0.019 GB (18,785,686 logical bytes, 12 files).
+- Cleanup 24: C free 352.171 -> 352.218 GB; removed 0.012 GB (11,958,181 logical bytes, 1,622 files).
+- Cleanup 25: C free 352.037 -> 352.449 GB; removed 0.081 GB (80,699,086 logical bytes, 17,276 files).
+- Cleanup 26: C free 351.673 -> 356.897 GB; removed 1.892 GB (1,892,182,164 logical bytes, 17,523 files).
+- Cleanup 27: C free 354.573 -> 355.944 GB; removed 1.162 GB (1,162,123,180 logical bytes, 7 files).
+- Cleanup 28: C free 295.380 -> 362.424 GB; removed 7.004 GB (7,003,674,629 logical bytes, 728,823 files).
+- Cleanup 29: C free 364.736 -> 366.790 GB; removed 2.053 GB (2,053,297,445 logical bytes, 6 files).
+- Cleanup 30: C free 313.740 -> 371.398 GB; removed 12.006 GB (12,005,507,545 logical bytes, 557,583 files).
+- Cleanup 31: C free 372.702 -> 373.647 GB; removed 0.935 GB (934,607,020 logical bytes, 49 files).
+- Cleanup 32: C free 360.857 -> 374.160 GB; removed 6.273 GB (6,273,444,131 logical bytes, 229,032 files).
+- Cleanup 33: C free 373.780 -> 375.693 GB; removed 1.874 GB (1,874,185,936 logical bytes, 23,360 files).
+- Cleanup 34: C free 375.579 -> 377.284 GB; removed 1.706 GB (1,705,681,679 logical bytes, 4 files).
+- Cleanup 35: C free 377.285 -> 377.305 GB; removed 0.020 GB (19,662,562 logical bytes, 2 files).
+- Cleanup 36: C free 376.775 -> 382.309 GB; removed 5.355 GB (5,354,972,989 logical bytes, 120,756 files).
+- Cleanup 37: C free 381.985 -> 383.766 GB; removed 1.739 GB (1,739,180,309 logical bytes, 11,466 files).
+- Cleanup 38: C free 383.746 -> 383.897 GB; removed 0.151 GB (151,380,625 logical bytes, 2 files).
+- Cleanup 39: C free 383.892 -> 383.921 GB; removed 0.025 GB (25,165,848 logical bytes, 1,166 files).
+- Cleanup 40: C free 383.918 -> 385.650 GB; removed 0.000 GB (0 logical bytes, 0 files).
+- Cleanup 41: C free 385.631 -> 386.074 GB; removed 0.444 GB (443,523,495 logical bytes, 2 files).
+
+C-free points are concurrent observations; they do not measure isolated physical savings. Logical removed bytes are separate from archive sizes and filesystem free-space changes.
+The previously reported November 3 total of 20,525,198,716 bytes receives no new credit. All earlier failures, refusals, audit questions and denominators remain in the unchanged report history.
+This report adds no cleanup credit by publication, no Source/Site publication credit and no increase in Live papers. Private archives and provenance remain local.
