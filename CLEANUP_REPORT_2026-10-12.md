@@ -4093,3 +4093,18 @@ This report update adds no deletion, read, publication or training credit. Exist
 C-free points are concurrent observations; they do not measure isolated physical savings. Logical removed bytes are separate from archive sizes and filesystem free-space changes.
 The previously reported November 3 total of 20,525,198,716 bytes receives no new credit. All earlier failures, refusals, audit questions and denominators remain in the unchanged report history.
 This report adds no cleanup credit by publication, no Source/Site publication credit and no increase in Live papers. Private archives and provenance remain local.
+
+<!-- mattersyn-cleanup-20261105-current-cleanup-root-r1 -->
+
+### 2026-11-05: completed cleanup
+
+- Completed batches: 5; removed copies: 134,749 files / 6,162,847,440 logical bytes.
+- Cleanup 1: C free 395.190 -> 397.915 GB; removed 3.444 GB (3,444,042,957 logical bytes, 134,416 files).
+- Cleanup 2: C free 397.912 -> 398.650 GB; removed 0.796 GB (795,532,237 logical bytes, 1 files).
+- Cleanup 3: C free 398.645 -> 399.794 GB; removed 1.443 GB (1,443,338,715 logical bytes, 192 files).
+- Cleanup 4: C free 399.794 -> 399.912 GB; removed 0.118 GB (118,003,067 logical bytes, 1 files).
+- Cleanup 5: C free 399.912 -> 400.273 GB; removed 0.362 GB (361,930,464 logical bytes, 139 files).
+
+C-free points are concurrent observations; they do not measure isolated physical savings. Logical removed bytes are separate from archive sizes and filesystem free-space changes.
+The previously reported November 4 total of 146,164,753,074 bytes and November 3 total of 20,525,198,716 bytes receive no new credit. All earlier failures, refusals, audit questions and denominators remain in the unchanged report history.
+This report adds no cleanup credit by publication, no Source/Site publication credit and no increase in Live papers. Private archives and provenance remain local.
